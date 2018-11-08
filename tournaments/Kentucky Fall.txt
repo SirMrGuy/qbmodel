@@ -1,0 +1,582 @@
+Round 1
+
+Adair County 320, Paul G. Blazer C 135
+Paul G. Blazer C: Melanie Grimm 0 0 0 0, Chrissie Brown 0 1 0 10, Ethan Goodrich 0 2 0 20, Eli Campbell 1 2 0 35
+Adair County: Trevor Smith (12) 3 5 0 95, Maddie Harmon (11) 0 4 0 40, Chris Stuchell (12) 0 1 1 5, Samuel Willis (12) 0 0 2 -10
+Bonuses: Paul G. Blazer C 6 70 11.67, Adair County 13 190 14.62
+
+Pulaski County 235, Charleston Catholic B 155
+Pulaski County: Matthew Pike 0 3 0 30, Sam Smith 1 4 1 50, JD Stockham 0 3 0 30, Laila Cook 0 0 1 -5
+Charleston Catholic B: Carter Kiss 0 1 0 10, Ricky Lian 0 3 0 30, Irene Jonathan 0 0 0 0, Sam King 0 0 0 0, Ashton Rutherford 1 1 0 25
+Bonuses: Pulaski County 11 130 11.82, Charleston Catholic B 6 90 15.00
+
+duPont Manual B 320, Danville 205
+Danville: Eli Gooch 1 1 3 10, Ben Link 1 3 0 45, Emma Webb 0 1 0 10, Sofie Farmer 1 0 0 15
+duPont Manual B: Jack Boylen 1 2 0 35, Shyam Ravishankar 1 4 0 55, Shawn Liu 0 2 0 20, Shubh Gupta 0 1 0 10
+Bonuses: Danville 8 125 15.62, duPont Manual B 11 200 18.18
+
+Charleston Catholic A 260, Paul G. Blazer B 140
+Paul G. Blazer B: Courtney Lewis 0 2 0 20, Mackenzie Clere 1 1 0 25, Jackson Sparks 0 0 0 0, Aiden Burton 1 1 0 25
+Charleston Catholic A: Jack Acord 0 0 0 0, Josh Kardos 0 3 1 25, Ryan Atassi 0 1 0 10, Mike Fox 2 5 1 75
+Bonuses: Paul G. Blazer B 6 70 11.67, Charleston Catholic A 11 150 13.64
+
+Dunbar B 305, Fleming County A 95
+Fleming County A: Gavin Wallace 0 3 0 30, Katrina Holbrook 0 1 0 10, Austin Mason 0 0 0 0, Logan Smalley 1 0 0 15
+Dunbar B: David Vulakh 5 2 1 90, Noah Katz 0 3 1 25, Ayush Tibrewal 0 2 0 20, Joanna Cholewo 0 1 0 10
+Bonuses: Fleming County A 5 40 8.00, Dunbar B 13 160 12.31
+
+Pikeville 205, Glasgow B 185
+Glasgow B: Stratton Kiser 1 2 0 35, Tabby Cline 0 4 0 40, Cade Bishop 0 1 0 10, Emily Carroll 0 0 0 0
+Pikeville: Lindsey Lockhart 0 0 0 0, Jared Green 3 4 2 75, Sarah Belcher 0 0 0 0, Felicity Tan 0 1 0 10, Noah Thacker 0 0 0 0, Andrew Sandfer 0 1 0 10
+Bonuses: Glasgow B 8 100 12.50, Pikeville 9 110 12.22
+
+Raceland Worthington 405, Dunbar C 25
+Raceland Worthington: Hunter West 1 11 0 125, Brady Justice 0 3 0 30, Lauren Gearheart 0 0 0 0, Libby Roy 0 0 0 0, Katelynn Fyffe 0 0 0 0
+Dunbar C: Finley VanHook 0 1 1 5, Teerth Patel 0 1 2 0, Tharanie Subramanium 0 1 2 0
+Bonuses: Raceland Worthington 15 250 16.67, Dunbar C 3 20 6.67
+
+Paul G. Blazer A 495, Fleming County B 10
+Fleming County B: Andrew Johnson 0 1 0 10, Owen Manning 0 0 0 0, Logan Thompson 0 0 0 0, Hayden Logan 0 0 0 0, Ashley Miller 0 0 0 0
+Paul G. Blazer A: John Thomas 2 9 1 115, Logan Coovert 5 3 0 105, Shalayna Rice 0 0 0 0, Julie Clere 0 0 1 -5
+Bonuses: Fleming County B 1 0 0.00, Paul G. Blazer A 19 280 14.74
+
+Middlesboro A 285, duPont Manual C 210
+duPont Manual C: Satchel Walton 0 2 1 15, Ben Mowery 0 4 4 20, Sam Powers 1 1 0 25
+Middlesboro A: Andrew Kelley 2 3 2 50, Robby Griffey 0 4 0 40, Timothy Perkins 0 1 1 5, Bishakha Kumari 0 1 0 10
+Bonuses: duPont Manual C 8 150 18.75, Middlesboro A 11 180 16.36
+
+duPont Manual A 400, Middlesboro B 90
+duPont Manual A: Jake Powell 2 4 2 60, Aditya Mehta 1 2 0 35, Murari Srinivasen 2 2 1 45, Justin Xu 0 2 0 20
+Middlesboro B: Makayla Hensley 0 2 0 20, Nate Muncy 0 2 0 20, Gerard Nagel 0 0 0 0, Danny Lin 0 0 0 0
+Bonuses: duPont Manual A 15 240 16.00, Middlesboro B 4 50 12.50
+
+Round 2
+duPont Manual B 275, Paul G. Blazer A 260
+duPont Manual B: Jack Boylen 1 0 1 10, Shyam Ravishankar 3 3 2 65, Shawn Liu 0 2 0 20, Shubh Gupta 0 1 0 10
+Paul G. Blazer A: John Thomas 0 1 1 5, Logan Coovert 0 5 1 45, Shalayna Rice 0 3 0 30, Julie Clere 0 0 0 0
+Bonuses: duPont Manual B 10 170 17.00, Paul G. Blazer A 9 180 20.00
+
+Middlesboro A 390, Pikeville 220
+Pikeville: Lindsey Lockhart 1 1 0 25, Jared Green 1 3 2 35, Sarah Belcher 0 0 0 0, Felicity Tan 0 0 0 0, Noah Thacker 0 1 0 10, Andrew Sandfer 0 0 0 0
+Middlesboro A: Andrew Kelley 2 4 0 70, Robby Griffey 0 5 0 50, Timothy Perkins 0 2 0 20, Bishakha Kumari 0 0 0 0
+Bonuses: Pikeville 7 150 21.43, Middlesboro A 13 250 19.23
+
+Daviess County 515, Fleming County B 30
+Fleming County B: Andrew Johnson 0 0 0 0, Owen Manning 0 1 0 10, Logan Thompson 0 0 0 0, Hayden Logan 0 0 0 0
+Daviess County: Alec Phelps 1 4 0 55, Noah Owen 0 0 0 0, Andrew Ellis 0 4 3 25, Christian Vincent 1 6 0 75, Frederik Mendoza Ulken 0 0 0 0
+Bonuses: Fleming County B 1 20 20.00, Daviess County 16 360 22.50
+
+Dunbar B 360, Charleston Catholic A 170
+Charleston Catholic A: Jack Acord 1 0 0 15, Seth Uy 0 1 0 10, Josh Kardos 0 0 0 0, Ryan Atassi 0 1 1 5, Mike Fox 2 1 0 40
+Dunbar B: David Vulakh 0 5 2 40, Noah Katz 1 1 0 25, Ayush Tibrewal 1 0 0 15, Joanna Cholewo 0 4 0 40
+Bonuses: Charleston Catholic A 6 100 16.67, Dunbar B 12 240 20.00
+
+Simon Kenton 555, Fleming County A 30
+Fleming County A: Gavin Wallace 0 2 0 20, Katrina Holbrook 0 0 0 0, Logan Smalley 0 0 0 0, Brandi Lewis 0 0 0 0
+Simon Kenton: Emily Girard 3 10 1 140, Brittany Ashley 0 4 1 35
+Bonuses: Fleming County A 2 10 5.00, Simon Kenton 17 380 22.35
+
+Adair County 320, Raceland Worthington 275
+Adair County: Trevor Smith (12) 3 3 2 65, Maddie Harmon (11) 0 4 1 35, Chris Stuchell (12) 0 0 0 0, Samuel Willis (12) 0 0 0 0
+Raceland Worthington: Hunter West 0 6 0 60, Brady Justice 1 2 0 35, Lauren Gearheart 0 0 0 0, Katelynn Fyffe 0 0 0 0
+Bonuses: Adair County 10 220 22.00, Raceland Worthington 9 180 20.00
+
+Dunbar A 605, Middlesboro B 50
+Dunbar A: Max Bograd 4 6 0 120, Henry Blyth 2 2 0 50, Grace Goff 1 1 1 20, Aneesh Kadambi 1 0 0 15
+Middlesboro B: Makayla Hensley 0 0 0 0, Nate Muncy 0 2 1 15, Gerard Nagel 0 0 0 0, Danny Lin 0 1 1 5
+Bonuses: Dunbar A 17 400 23.53, Middlesboro B 3 30 10.00
+
+Henderson County 460, duPont Manual C 175
+duPont Manual C: Satchel Walton 0 1 1 5, Ben Mowery 0 2 2 10, Sam Powers 0 3 0 30
+Henderson County: DJ Banks 5 5 1 120, Harrison Jenkins 2 1 1 35, Alex Chandler 0 0 1 -5, Wil Kyle 0 0 0 0
+Bonuses: duPont Manual C 6 130 21.67, Henderson County 13 310 23.85
+
+duPont Manual A 435, Pulaski County 125
+Pulaski County: Matthew Pike 0 1 0 10, Sam Smith 1 2 0 35, JD Stockham 0 0 0 0, Laila Cook 0 1 0 10, Emma Stevens 0 0 0 0, Catherine Cook 0 0 0 0
+duPont Manual A: Jake Powell 2 2 1 45, Aditya Mehta 0 2 2 10, Murari Srinivasen 0 5 0 50, Justin Xu 0 3 0 30
+Bonuses: Pulaski County 5 70 14.00, duPont Manual A 14 300 21.43
+
+Glasgow A 495, Paul G. Blazer C 80
+Paul G. Blazer C: Noah Carey 0 0 0 0, Melanie Grimm 0 4 0 40, Chrissie Brown 0 0 0 0, Eli Campbell 0 0 0 0
+Glasgow A: Mason Reid 2 7 4 80, Daniel Dill 1 3 0 45, Parker Bannister 1 1 1 20
+Bonuses: Paul G. Blazer C 4 40 10.00, Glasgow A 15 350 23.33
+
+Round 3
+duPont Manual C 335, Pikeville 75
+Pikeville: Lindsey Lockhart 0 0 0 0, Jared Green 1 4 6 25, Sarah Belcher 0 0 0 0, Felicity Tan 0 0 0 0, Noah Thacker 0 0 0 0, Andrew Sandfer 0 0 0 0
+duPont Manual C: Satchel Walton 1 5 2 55, Ben Mowery 0 6 2 50, Sam Powers 0 0 0 0
+Bonuses: Pikeville 5 50 10.00, duPont Manual C 12 230 19.17
+
+Simon Kenton 450, Paul G. Blazer B 90
+Paul G. Blazer B: Courtney Lewis 1 1 2 15, Mackenzie Clere 0 1 0 10, Jackson Sparks 0 1 0 10, Aiden Burton 0 2 1 15
+Simon Kenton: Emily Girard 3 10 2 135, Brittany Ashley 1 1 0 25
+Bonuses: Paul G. Blazer B 6 40 6.67, Simon Kenton 15 290 19.33
+
+duPont Manual B 340, Fleming County B 45
+duPont Manual B: Jack Boylen 0 2 1 15, Shyam Ravishankar 1 5 2 55, Shawn Liu 0 1 0 10, Shubh Gupta 1 2 1 30
+Fleming County B: Andrew Johnson 0 0 0 0, Owen Manning 0 3 1 25, Logan Thompson 0 0 0 0, Hayden Logan 0 0 0 0, Ashley Miller 0 0 0 0
+Bonuses: duPont Manual B 12 230 19.17, Fleming County B 3 20 6.67
+
+Danville 360, Daviess County 275
+Daviess County: Alec Phelps 1 2 2 25, Noah Owen 1 0 0 15, Andrew Ellis 0 1 1 5, Christian Vincent 1 2 1 30
+Danville: Eli Gooch 2 1 0 40, Ben Link 4 3 0 90, Emma Webb 0 1 1 5, Sofie Farmer 0 0 1 -5
+Bonuses: Daviess County 8 200 25.00, Danville 11 230 20.91
+
+Raceland Worthington 215, Paul G. Blazer C 150
+Paul G. Blazer C: Noah Carey 0 0 0 0, Melanie Grimm 1 3 1 40, Chrissie Brown 1 2 0 35, Ethan Goodrich 0 1 1 5, Eli Campbell 0 1 0 10
+Raceland Worthington: Hunter West 1 5 1 60, Brady Justice 0 1 1 5, Lauren Gearheart 0 0 0 0, Libby Roy 0 0 0 0, Katelynn Fyffe 0 1 0 10
+Bonuses: Paul G. Blazer C 9 60 6.67, Raceland Worthington 8 140 17.50
+
+Dunbar A 505, Charleston Catholic B 85
+Dunbar A: Max Bograd 3 1 1 50, Henry Blyth 0 4 1 35, Grace Goff 3 2 0 65, Aneesh Kadambi 0 2 1 15
+Charleston Catholic B: Carter Kiss 0 2 0 20, Ricky Lian 1 0 1 10, Irene Jonathan 0 0 0 0, Sam King 0 1 1 5, Ashton Rutherford 0 0 0 0
+Bonuses: Dunbar A 15 340 22.67, Charleston Catholic B 4 50 12.50
+
+Henderson County 625, Glasgow B 65
+Glasgow B: Stratton Kiser 0 1 1 5, Tabby Cline 1 1 1 20, Cade Bishop 0 0 0 0, Elizabeth 0 0 0 0
+Henderson County: DJ Banks 7 4 0 145, Harrison Jenkins 3 1 0 55, Alex Chandler 1 1 0 25, Wil Kyle 0 0 0 0
+Bonuses: Glasgow B 3 40 13.33, Henderson County 17 400 23.53
+
+Charleston Catholic A 225, Fleming County A 65
+Fleming County A: Gavin Wallace 0 2 0 20, Katrina Holbrook 0 0 0 0, Austin Mason 0 1 0 10, Logan Smalley 0 0 1 -5, Brandi Lewis 0 0 0 0
+Charleston Catholic A: Jack Acord 0 1 0 10, Seth Uy 0 0 0 0, Josh Kardos 1 2 0 35, Ryan Atassi 0 1 0 10, Mike Fox 1 4 3 40
+Bonuses: Fleming County A 3 40 13.33, Charleston Catholic A 10 130 13.00
+
+Pulaski County 200, Middlesboro B 180
+Pulaski County: Matthew Pike 0 1 0 10, Sam Smith 0 3 0 30, JD Stockham 1 2 0 35, Laila Cook 0 2 1 15
+Middlesboro B: Makayla Hensley 1 1 0 25, Nate Muncy 2 0 1 25, Gerard Nagel 0 1 0 10, Danny Lin 0 2 2 10
+Bonuses: Pulaski County 9 110 12.22, Middlesboro B 7 110 15.71
+
+Glasgow A 540, Dunbar C 40
+Dunbar C: Finley VanHook 0 0 0 0, Teerth Patel 0 1 0 10, Tharanie Subramanium 0 1 0 10, Sanaa Kahloon 0 1 0 10
+Glasgow A: Mason Reid 5 5 3 110, Daniel Dill 3 1 0 55, Parker Bannister 0 2 0 20
+Bonuses: Dunbar C 3 10 3.33, Glasgow A 16 355 22.19
+
+Round 4
+Dunbar B 260, Paul G. Blazer B 165
+Paul G. Blazer B: Courtney Lewis 0 4 0 40, Mackenzie Clere 0 0 4 -20, Jackson Sparks 0 1 0 10, Aiden Burton 0 3 1 25
+Dunbar B: David Vulakh 0 3 2 20, Noah Katz 2 4 0 70, Ayush Tibrewal 0 1 0 10, Joanna Cholewo 0 0 0 0
+Bonuses: Paul G. Blazer B 8 110 13.75, Dunbar B 10 160 16.00
+
+Simon Kenton 405, Charleston Catholic A 105
+Charleston Catholic A: Jack Acord 0 0 2 -10, Seth Uy 1 0 0 15, Josh Kardos 0 1 0 10, Ryan Atassi 0 0 1 -5, Mike Fox 2 0 1 25
+Simon Kenton: Emily Girard 4 11 1 165, Brittany Ashley 0 0 0 0
+Bonuses: Charleston Catholic A 4 70 17.50, Simon Kenton 15 240 16.00
+
+duPont Manual B 275, Daviess County 260
+Daviess County: Alec Phelps 0 4 5 15, Noah Owen 0 0 0 0, Andrew Ellis 0 2 0 20, Christian Vincent 1 3 1 40, Frederik Mendoza Ulken 0 0 0 0
+duPont Manual B: Jack Boylen 0 0 0 0, Shyam Ravishankar 1 6 0 75, Shawn Liu 0 1 0 10, Shubh Gupta 0 1 0 10
+Bonuses: Daviess County 10 185 18.50, duPont Manual B 9 180 20.00
+
+Middlesboro A 320, Glasgow B 120
+Glasgow B: Stratton Kiser 0 4 0 40, Tabby Cline 0 1 0 10, Cade Bishop 0 0 0 0, Emily Carroll 0 0 0 0
+Middlesboro A: Andrew Kelley 2 6 2 80, Robby Griffey 0 4 0 40, Timothy Perkins 0 1 0 10, Bishakha Kumari 0 0 0 0
+Bonuses: Glasgow B 5 70 14.00, Middlesboro A 13 190 14.62
+
+Henderson County 540, Pikeville 25
+Pikeville: Lindsey Lockhart 0 0 0 0, Jared Green 0 2 3 5, Sarah Belcher 0 0 0 0, Felicity Tan 0 0 0 0, Noah Thacker 0 0 0 0, Andrew Sandfer 0 0 0 0
+Henderson County: DJ Banks 4 6 2 110, Harrison Jenkins 3 2 1 60, Alex Chandler 0 1 0 10, Wil Kyle 0 0 0 0
+Bonuses: Pikeville 2 20 10.00, Henderson County 16 360 22.50
+
+Paul G. Blazer A 270, Danville 220
+Paul G. Blazer A: John Thomas 0 4 0 40, Logan Coovert 1 2 3 20, Shalayna Rice 0 3 0 30, Julie Clere 0 0 0 0
+Danville: Eli Gooch 1 1 3 10, Ben Link 2 2 0 50, Emma Webb 0 1 0 10, Sofie Farmer 0 1 0 10
+Bonuses: Paul G. Blazer A 10 180 18.00, Danville 8 140 17.50
+
+Adair County 310, Dunbar C 115
+Dunbar C: Finley VanHook 0 1 1 5, Teerth Patel 1 0 2 5, Tharanie Subramanium 0 1 0 10, Sanaa Kahloon 0 3 1 25
+Adair County: Trevor Smith (12) 1 7 1 80, Maddie Harmon (11) 1 1 0 25, Chris Stuchell (12) 1 2 0 35, Samuel Willis (12) 0 0 0 0
+Bonuses: Dunbar C 6 70 11.67, Adair County 13 170 13.08
+
+Dunbar A 420, Pulaski County 65
+Dunbar A: Max Bograd 4 5 1 105, Henry Blyth 0 0 1 -5, Grace Goff 0 4 1 35, Aneesh Kadambi 0 1 1 5
+Pulaski County: Matthew Pike 0 0 0 0, Sam Smith 1 0 0 15, JD Stockham 0 1 0 10, Laila Cook 0 1 0 10, Emma Stevens 0 0 0 0, Catherine Cook 0 0 0 0
+Bonuses: Dunbar A 14 280 20.00, Pulaski County 3 30 10.00
+
+duPont Manual A 430, Charleston Catholic B 90
+duPont Manual A: Jake Powell 3 2 2 55, Aditya Mehta 0 2 0 20, Murari Srinivasen 1 3 0 45, Justin Xu 1 3 1 40
+Charleston Catholic B: Carter Kiss 0 1 1 5, Ricky Lian 0 0 0 0, Irene Jonathan 0 0 0 0, Sam King 0 0 0 0, Ashton Rutherford 1 2 0 35
+Bonuses: duPont Manual A 15 270 18.00, Charleston Catholic B 4 50 12.50
+
+Glasgow A 425, Raceland Worthington 95
+Raceland Worthington: Hunter West 0 2 0 20, Brady Justice 0 1 1 5, Lauren Gearheart 0 1 0 10, Libby Roy 0 0 0 0, Katelynn Fyffe 0 0 0 0
+Glasgow A: Mason Reid 5 4 3 100, Daniel Dill 0 0 0 0, Parker Bannister 0 2 1 15
+Bonuses: Raceland Worthington 4 60 15.00, Glasgow A 11 310 28.18
+
+Round 5
+Fleming County A 240, Paul G. Blazer B 100
+Paul G. Blazer B: Courtney Lewis 1 3 1 40, Mackenzie Clere 0 1 0 10, Jackson Sparks 0 0 0 0, Aiden Burton 0 0 2 -10
+Fleming County A: Gavin Wallace 0 4 0 40, Katrina Holbrook 0 1 1 5, Austin Mason 0 4 1 35, Logan Smalley 0 3 0 30
+Bonuses: Paul G. Blazer B 5 60 12.00, Fleming County A 12 130 10.83
+
+Middlesboro B 170, Charleston Catholic B 165
+Middlesboro B: Makayla Hensley 0 3 0 30, Nate Muncy 0 3 2 20, Gerard Nagel 0 1 0 10, Danny Lin 0 2 0 20
+Charleston Catholic B: Carter Kiss 0 1 1 5, Ricky Lian 0 1 0 10, Sam King 0 3 1 25, Ashton Rutherford 1 3 0 45
+Bonuses: Middlesboro B 9 90 10.00, Charleston Catholic B 9 80 8.89
+
+Simon Kenton 410, Dunbar B 80
+Dunbar B: David Vulakh 0 1 2 0, Noah Katz 0 2 1 15, Ayush Tibrewal 0 1 1 5, Joanna Cholewo 0 0 0 0
+Simon Kenton: Emily Girard 2 10 2 120, Brittany Ashley 2 1 0 40, Elizabeth Hinsdale 0 0 0 0
+Bonuses: Dunbar B 4 60 15.00, Simon Kenton 15 250 16.67
+
+Paul G. Blazer C 210, Dunbar C 135
+Dunbar C: Finley VanHook 0 1 2 0, Teerth Patel 0 2 1 15, Tharanie Subramanium 1 0 0 15, Sanaa Kahloon 0 2 1 15
+Paul G. Blazer C: Noah Carey 0 1 0 10, Melanie Grimm 1 3 0 45, Chrissie Brown 0 5 1 45, Ethan Goodrich 0 1 0 10, Eli Campbell 0 0 0 0
+Bonuses: Dunbar C 6 90 15.00, Paul G. Blazer C 11 100 9.09
+
+Danville 425, Fleming County B 50
+Fleming County B: Andrew Johnson 0 1 0 10, Owen Manning 0 1 0 10, Logan Thompson 0 1 0 10, Hayden Logan 0 0 0 0
+Danville: Eli Gooch 3 9 2 125, Ben Link 1 2 1 30, Emma Webb 0 0 0 0, Sofie Farmer 0 1 0 10
+Bonuses: Fleming County B 3 20 6.67, Danville 16 260 16.25
+
+duPont Manual C 440, Glasgow B 30
+Glasgow B: Stratton Kiser 0 2 0 20, Tabby Cline 0 0 2 -10, Cade Bishop 0 0 0 0, Elizabeth 0 0 0 0
+duPont Manual C: Satchel Walton 1 4 0 55, Ben Mowery 2 10 1 125, Sam Powers 0 1 0 10
+Bonuses: Glasgow B 2 20 10.00, duPont Manual C 18 250 13.89
+
+Paul G. Blazer A 385, Daviess County 235
+Daviess County: Alec Phelps 0 2 3 5, Noah Owen 0 1 1 5, Andrew Ellis 1 2 1 30, Christian Vincent 1 2 0 35
+Paul G. Blazer A: John Thomas 0 2 0 20, Logan Coovert 0 3 0 30, Shalayna Rice 1 2 0 35, Julie Clere 0 3 0 30
+Bonuses: Daviess County 9 160 17.78, Paul G. Blazer A 11 270 24.55
+
+Adair County 320, Glasgow A 250
+Adair County: Trevor Smith (12) 0 9 1 85, Maddie Harmon (11) 1 1 0 25, Chris Stuchell (12) 0 0 0 0, Samuel Willis (12) 0 0 0 0
+Glasgow A: Mason Reid 2 3 7 25, Daniel Dill 2 0 2 20, Parker Bannister 1 1 0 25
+Bonuses: Adair County 11 210 19.09, Glasgow A 9 180 20.00
+
+Henderson County 495, Middlesboro A 220
+Middlesboro A: Andrew Kelley 4 1 4 50, Robby Griffey 0 1 1 5, Timothy Perkins 1 0 0 15, Bishakha Kumari 0 0 0 0
+Henderson County: DJ Banks 1 6 1 70, Harrison Jenkins 3 0 0 45, Alex Chandler 2 0 0 30, Wil Kyle 0 1 0 10
+Bonuses: Middlesboro A 7 150 21.43, Henderson County 13 340 26.15
+
+Dunbar A 390, duPont Manual A 270
+Dunbar A: Max Bograd 4 2 0 80, Henry Blyth 0 2 0 20, Grace Goff 2 2 1 45, Aneesh Kadambi 0 0 1 -5
+duPont Manual A: Jake Powell 1 0 0 15, Aditya Mehta 1 1 0 25, Murari Srinivasen 4 0 0 60, Justin Xu 1 0 1 10
+Bonuses: Dunbar A 12 250 20.83, duPont Manual A 8 160 20.00
+
+Round 6
+Simon Kenton 385, Charleston Catholic A 40
+Simon Kenton: Emily Girard 1 7 1 80, Brittany Ashley 0 2 0 20, Elizabeth Hinsdale 1 1 0 25
+Charleston Catholic A: Jack Acord 0 0 2 -10, Seth Uy 0 2 0 20, Josh Kardos 0 2 0 20, Ryan Atassi 0 0 0 0, Mike Fox 0 1 2 0
+Bonuses: Simon Kenton 12 260 21.67, Charleston Catholic A 5 10 2.00
+
+Middlesboro B 220, Fleming County A 100
+Middlesboro B: Makayla Hensley 0 2 0 20, Nate Muncy 0 4 1 35, Gerard Nagel 0 0 0 0, Danny Lin 0 4 1 35
+Fleming County A: Gavin Wallace 0 0 2 -10, Katrina Holbrook 0 1 1 5, Austin Mason 0 3 0 30, Logan Smalley 1 0 0 15
+Bonuses: Middlesboro B 10 130 13.00, Fleming County A 5 60 12.00
+
+Charleston Catholic B 170, Fleming County B 45
+Charleston Catholic B: Carter Kiss 0 1 1 5, Ricky Lian 0 5 0 50, Irene Jonathan 1 1 0 25, Sam King 0 1 0 10, Ashton Rutherford 0 0 0 0
+Fleming County B: Andrew Johnson 0 2 0 20, Owen Manning 0 0 1 -5, Logan Thompson 0 1 0 10, Hayden Logan 0 0 0 0, Ashley Miller 0 0 0 0
+Bonuses: Charleston Catholic B 9 80 8.89, Fleming County B 3 20 6.67
+
+Middlesboro A 325, Paul G. Blazer A 240
+Paul G. Blazer A: John Thomas 0 2 0 20, Logan Coovert 1 4 0 55, Shalayna Rice 0 2 0 20, Julie Clere 1 0 0 15
+Middlesboro A: Andrew Kelley 3 3 1 70, Robby Griffey 0 3 0 30, Timothy Perkins 0 1 1 5, Bishakha Kumari 0 0 0 0
+Bonuses: Paul G. Blazer A 10 130 13.00, Middlesboro A 10 220 22.00
+
+Dunbar C 180, Paul G. Blazer B 155
+Paul G. Blazer B: Courtney Lewis 1 1 0 25, Mackenzie Clere 0 0 2 -10, Jackson Sparks 0 0 0 0, Aiden Burton 0 3 1 25
+Dunbar C: Finley VanHook 0 1 0 10, Teerth Patel 1 1 0 25, Tharanie Subramanium 0 0 1 -5, Sanaa Kahloon 0 4 2 30
+Bonuses: Paul G. Blazer B 5 115 23.00, Dunbar C 7 120 17.14
+
+Dunbar A 510, Pulaski County 50
+Dunbar A: Max Bograd 4 6 0 120, Henry Blyth 0 0 0 0, Grace Goff 0 2 1 15, Aneesh Kadambi 2 1 1 35
+Pulaski County: Matthew Pike 0 0 0 0, Sam Smith 0 3 0 30, JD Stockham 0 0 0 0, Laila Cook 0 0 0 0, Emma Stevens 0 0 0 0
+Bonuses: Dunbar A 15 340 22.67, Pulaski County 3 20 6.67
+
+Pikeville 200, Paul G. Blazer C 180
+Paul G. Blazer C: Melanie Grimm 0 2 0 20, Chrissie Brown 1 1 1 20, Ethan Goodrich 0 2 0 20, Eli Campbell 0 1 0 10
+Pikeville: Lindsey Lockhart 0 1 0 10, Jared Green 3 4 5 60, Sarah Belcher 0 1 0 10, Noah Thacker 0 0 0 0
+Bonuses: Paul G. Blazer C 7 110 15.71, Pikeville 9 120 13.33
+
+Henderson County 525, Daviess County 80
+Henderson County: DJ Banks 6 4 2 120, Harrison Jenkins 1 4 0 55, Alex Chandler 0 0 0 0, Wil Kyle 0 0 0 0
+Daviess County: Alec Phelps 0 1 3 -5, Noah Owen 0 0 0 0, Andrew Ellis 0 1 1 5, Christian Vincent 0 2 0 20, Frederik Mendoza Ulken 0 0 0 0
+Bonuses: Henderson County 15 350 23.33, Daviess County 4 60 15.00
+
+Glasgow A 465, Danville 165
+Glasgow A: Mason Reid 5 2 1 90, Daniel Dill 0 1 0 10, Parker Bannister 2 4 1 65
+Danville: Eli Gooch 2 2 0 50, Ben Link 0 1 1 5, Emma Webb 0 0 0 0, Sofie Farmer 0 0 0 0
+Bonuses: Glasgow A 14 300 21.43, Danville 5 110 22.00
+
+duPont Manual B 260, duPont Manual C 210
+duPont Manual B: Jack Boylen 0 1 0 10, Shyam Ravishankar 2 5 0 80, Shawn Liu 1 1 0 25, Shubh Gupta 0 0 1 -5
+duPont Manual C: Satchel Walton 0 0 2 -10, Ben Mowery 2 5 1 75, Sam Powers 0 1 1 5
+Bonuses: duPont Manual B 10 150 15.00, duPont Manual C 8 140 17.50
+
+Adair County 380, Raceland Worthington 60
+Raceland Worthington: Hunter West 0 2 0 20, Brady Justice 0 0 0 0, Lauren Gearheart 0 0 0 0, Libby Roy 0 0 0 0, Katelynn Fyffe 0 0 0 0
+Adair County: Trevor Smith (12) 2 6 1 85, Maddie Harmon (11) 0 5 0 50, Chris Stuchell (12) 0 0 0 0, Samuel Willis (12) 1 0 2 5, Hayden Hancock (10) 0 0 0 0
+Bonuses: Raceland Worthington 2 40 20.00, Adair County 14 240 17.14
+
+duPont Manual A 515, Dunbar B 90
+duPont Manual A: Jake Powell 4 1 0 70, Aditya Mehta 1 3 0 45, Murari Srinivasen 1 4 1 50, Justin Xu 0 2 0 20
+Dunbar B: David Vulakh 1 3 0 45, Noah Katz 0 0 1 -5, Ayush Tibrewal 0 0 0 0, Joanna Cholewo 0 0 0 0
+Bonuses: duPont Manual A 16 330 20.62, Dunbar B 4 50 12.50
+
+Round 7
+Glasgow A 345, Simon Kenton 240
+Simon Kenton: Emily Girard 3 4 0 85, Brittany Ashley 1 1 0 25, Elizabeth Hinsdale 0 1 0 10
+Glasgow A: Mason Reid 3 3 3 60, Daniel Dill 1 1 0 25, Parker Bannister 2 0 0 30
+Bonuses: Simon Kenton 10 120 12.00, Glasgow A 10 230 23.00
+
+Paul G. Blazer C 235, Fleming County A 195
+Paul G. Blazer C: Noah Carey 0 0 0 0, Melanie Grimm 0 5 1 45, Chrissie Brown 0 1 0 10, Ethan Goodrich 0 2 1 15, Eli Campbell 1 1 0 25
+Fleming County A: Gavin Wallace 0 0 0 0, Katrina Holbrook 0 2 0 20, Austin Mason 0 3 1 25, Logan Smalley 0 3 0 30, Brandi Lewis 0 0 0 0
+Bonuses: Paul G. Blazer C 10 140 14.00, Fleming County A 8 120 15.00
+
+Danville 380, Charleston Catholic A 110
+Charleston Catholic A: Jack Acord 0 0 0 0, Seth Uy 0 0 0 0, Josh Kardos 0 0 1 -5, Ryan Atassi 1 1 0 25, Mike Fox 0 2 0 20
+Danville: Eli Gooch 2 6 0 90, Ben Link 1 2 1 30, Emma Webb 0 1 0 10, Sofie Farmer 0 1 2 0
+Bonuses: Charleston Catholic A 4 70 17.50, Danville 13 250 19.23
+
+Dunbar A 400, duPont Manual A 240
+Dunbar A: Max Bograd 1 4 0 55, Henry Blyth 2 3 0 60, Grace Goff 0 1 1 5, Aneesh Kadambi 1 0 1 10
+duPont Manual A: Jake Powell 1 2 2 25, Aditya Mehta 0 1 0 10, Murari Srinivasen 0 1 0 10, Justin Xu 1 2 0 35
+Bonuses: Dunbar A 12 270 22.50, duPont Manual A 8 160 20.00
+
+Henderson County 360, Paul G. Blazer A 175
+Henderson County: DJ Banks 3 2 3 50, Harrison Jenkins 3 4 0 85, Alex Chandler 0 0 1 -5, Wil Kyle 0 1 0 10
+Paul G. Blazer A: John Thomas 0 1 1 5, Logan Coovert 0 2 0 20, Shalayna Rice 1 0 0 15, Julie Clere 1 1 0 25
+Bonuses: Henderson County 13 220 16.92, Paul G. Blazer A 6 110 18.33
+
+Paul G. Blazer B 205, Charleston Catholic B 150
+Paul G. Blazer B: Courtney Lewis 1 3 0 45, Mackenzie Clere 0 4 1 35, Jackson Sparks 0 1 0 10, Aiden Burton 0 1 0 10
+Charleston Catholic B: Carter Kiss 0 5 0 50, Ricky Lian 0 1 0 10, Irene Jonathan 0 0 0 0, Sam King 0 0 1 -5, Ashton Rutherford 1 0 0 15
+Bonuses: Paul G. Blazer B 10 105 10.50, Charleston Catholic B 7 80 11.43
+
+Middlesboro A 375, Daviess County 225
+Daviess County: Alec Phelps 2 3 1 55, Noah Owen 1 1 0 25, Andrew Ellis 0 1 1 5, Christian Vincent 0 0 0 0
+Middlesboro A: Andrew Kelley 4 4 1 95, Robby Griffey 0 2 0 20, Timothy Perkins 0 1 0 10, Bishakha Kumari 0 1 0 10
+Bonuses: Daviess County 8 140 17.50, Middlesboro A 12 240 20.00
+
+Pikeville 325, Middlesboro B 95
+Middlesboro B: Makayla Hensley 0 4 0 40, Nate Muncy 0 1 1 5, Gerard Nagel 0 0 0 0, Danny Lin 0 0 0 0
+Pikeville: Lindsey Lockhart 0 2 0 20, Jared Green 1 8 0 95, Felicity Tan 0 0 0 0, Andrew Sandfer 0 2 0 20
+Bonuses: Middlesboro B 5 50 10.00, Pikeville 13 190 14.62
+
+Glasgow B 420, Fleming County B 20
+Glasgow B: Stratton Kiser 0 7 0 70, Tabby Cline 0 7 0 70, Cade Bishop 0 2 0 20, Emily Carroll 0 0 0 0
+Fleming County B: Andrew Johnson 0 1 0 10, Owen Manning 0 0 0 0, Logan Thompson 0 0 0 0, Hayden Logan 0 0 0 0, Ashley Miller 0 0 0 0
+Bonuses: Glasgow B 16 260 16.25, Fleming County B 1 10 10.00
+
+duPont Manual C 345, Raceland Worthington 190
+Raceland Worthington: Hunter West 1 5 0 65, Brady Justice 1 0 0 15, Lauren Gearheart 0 0 0 0, Libby Roy 0 1 0 10, Katelynn Fyffe 0 0 0 0
+duPont Manual C: Satchel Walton 0 5 0 50, Ben Mowery 3 3 0 75, Sam Powers 0 1 0 10
+Bonuses: Raceland Worthington 8 100 12.50, duPont Manual C 12 210 17.50
+
+Dunbar B 305, Pulaski County 250
+Pulaski County: Matthew Pike 0 1 0 10, Sam Smith 2 3 0 60, JD Stockham 1 1 1 20, Laila Cook 0 1 0 10
+Dunbar B: David Vulakh 1 5 1 60, Noah Katz 1 2 0 35, Ayush Tibrewal 0 0 1 -5, Joanna Cholewo 1 1 0 25
+Bonuses: Pulaski County 9 150 16.67, Dunbar B 11 190 17.27
+
+duPont Manual B 340, Adair County 185
+duPont Manual B: Jack Boylen 0 2 0 20, Shyam Ravishankar 4 4 2 90, Shawn Liu 0 0 0 0, Shubh Gupta 0 2 0 20
+Adair County: Trevor Smith (12) 0 3 2 20, Maddie Harmon (11) 1 3 1 40, Chris Stuchell (12) 0 0 0 0, Samuel Willis (12) 0 0 0 0
+Bonuses: duPont Manual B 12 210 17.50, Adair County 7 125 17.86
+
+Round 8
+Glasgow A 480, Charleston Catholic A 45
+Charleston Catholic A: Jack Acord 0 0 0 0, Seth Uy 0 0 1 -5, Josh Kardos 0 0 0 0, Ryan Atassi 0 1 0 10, Mike Fox 0 2 0 20
+Glasgow A: Mason Reid 4 3 3 75, Daniel Dill 3 0 1 40, Parker Bannister 2 3 1 55
+Bonuses: Charleston Catholic A 3 20 6.67, Glasgow A 15 310 20.67
+
+Danville 280, Simon Kenton 270
+Simon Kenton: Emily Girard 3 5 1 90, Brittany Ashley 0 2 0 20, Elizabeth Hinsdale 0 1 0 10
+Danville: Eli Gooch 2 3 2 50, Ben Link 0 2 1 15, Emma Webb 0 0 0 0, Sofie Farmer 1 1 0 25
+Bonuses: Simon Kenton 11 150 13.64, Danville 9 190 21.11
+
+Daviess County 295, Paul G. Blazer A 265
+Paul G. Blazer A: John Thomas 0 3 0 30, Logan Coovert 1 2 1 30, Shalayna Rice 0 5 0 50, Julie Clere 0 0 0 0
+Daviess County: Alec Phelps 1 4 3 40, Noah Owen 0 0 0 0, Andrew Ellis 0 0 0 0, Christian Vincent 0 3 0 30, Frederik Mendoza Ulken 1 0 0 15
+Bonuses: Paul G. Blazer A 11 155 14.09, Daviess County 9 210 23.33
+
+Pikeville 290, Fleming County A 90
+Pikeville: Lindsey Lockhart 0 1 0 10, Jared Green 3 3 3 60, Sarah Belcher 0 2 0 20, Noah Thacker 0 2 0 20
+Fleming County A: Katrina Holbrook 0 2 0 20, Austin Mason 0 0 0 0, Logan Smalley 0 0 0 0, Brandi Lewis 0 2 0 20
+Bonuses: Pikeville 11 180 16.36, Fleming County A 4 50 12.50
+
+duPont Manual A 425, Pulaski County 105
+Pulaski County: Matthew Pike 0 0 0 0, Sam Smith 1 3 0 45, JD Stockham 0 0 0 0, Laila Cook 0 0 0 0
+duPont Manual A: Jake Powell 3 2 0 65, Aditya Mehta 0 4 0 40, Murari Srinivasen 0 4 0 40, Justin Xu 0 1 2 0
+Bonuses: Pulaski County 4 60 15.00, duPont Manual A 14 280 20.00
+
+Paul G. Blazer B 235, Fleming County B 30
+Paul G. Blazer B: Courtney Lewis 0 7 1 65, Mackenzie Clere 1 1 1 20, Jackson Sparks 0 1 0 10, Aiden Burton 0 0 0 0
+Fleming County B: Andrew Johnson 0 0 0 0, Owen Manning 0 1 0 10, Logan Thompson 0 1 0 10, Hayden Logan 0 0 0 0, Ashley Miller 0 0 0 0
+Bonuses: Paul G. Blazer B 10 140 14.00, Fleming County B 2 10 5.00
+
+Middlesboro B 190, Paul G. Blazer C 175
+Middlesboro B: Makayla Hensley 0 1 0 10, Nate Muncy 0 5 0 50, Gerard Nagel 0 1 0 10, Danny Lin 0 2 0 20
+Paul G. Blazer C: Melanie Grimm 0 2 0 20, Chrissie Brown 0 1 0 10, Ethan Goodrich 0 2 2 10, Eli Campbell 0 3 1 25
+Bonuses: Middlesboro B 9 100 11.11, Paul G. Blazer C 8 110 13.75
+
+Glasgow B 360, Dunbar C 65
+Glasgow B: Stratton Kiser 2 6 0 90, Tabby Cline 1 3 1 40, Cade Bishop 0 0 0 0, Elizabeth 0 1 0 10
+Dunbar C: Finley VanHook 0 0 0 0, Teerth Patel 0 2 1 15, Tharanie Subramanium 0 2 0 20, Sanaa Kahloon 0 0 0 0
+Bonuses: Glasgow B 13 220 16.92, Dunbar C 4 30 7.50
+
+duPont Manual C 280, Adair County 225
+duPont Manual C: Satchel Walton 3 2 1 60, Ben Mowery 2 3 0 60, Sam Powers 0 1 2 0
+Adair County: Trevor Smith (12) 0 5 0 50, Maddie Harmon (11) 2 0 0 30, Chris Stuchell (12) 1 1 0 25, Samuel Willis (12) 0 1 0 10
+Bonuses: duPont Manual C 11 160 14.55, Adair County 10 110 11.00
+
+Henderson County 470, Middlesboro A 185
+Henderson County: DJ Banks 4 5 1 105, Harrison Jenkins 5 0 0 75, Alex Chandler 0 0 0 0, Wil Kyle 0 0 0 0
+Middlesboro A: Andrew Kelley 2 4 1 65, Robby Griffey 0 0 0 0, Timothy Perkins 0 0 0 0, Bishakha Kumari 0 0 0 0
+Bonuses: Henderson County 14 290 20.71, Middlesboro A 6 120 20.00
+
+Raceland Worthington 260, duPont Manual B 255
+Raceland Worthington: Hunter West 1 6 0 75, Brady Justice 0 0 0 0, Lauren Gearheart 1 1 0 25, Libby Roy 0 0 0 0, Katelynn Fyffe 0 0 0 0
+duPont Manual B: Jack Boylen 0 2 0 20, Shyam Ravishankar 1 6 1 70, Shawn Liu 0 0 1 -5, Shubh Gupta 0 0 0 0
+Bonuses: Raceland Worthington 9 160 17.78, duPont Manual B 9 170 18.89
+
+Dunbar A 535, Dunbar B 75
+Dunbar A: Max Bograd 4 6 1 115, Henry Blyth 1 0 1 10, Grace Goff 2 0 0 30, Aneesh Kadambi 2 1 0 40
+Dunbar B: David Vulakh 0 1 1 5, Noah Katz 1 1 0 25, Ayush Tibrewal 0 0 0 0, Joanna Cholewo 0 0 1 -5
+Bonuses: Dunbar A 16 340 21.25, Dunbar B 3 50 16.67
+
+Round 9
+Simon Kenton 490, Dunbar B 125
+Simon Kenton: Emily Girard 4 9 0 150, Brittany Ashley 0 1 0 10, Elizabeth Hinsdale 0 1 0 10
+Dunbar B: David Vulakh 1 1 0 25, Noah Katz 0 1 5 -15, Ayush Tibrewal 0 0 0 0, Joanna Cholewo 0 1 0 10
+Bonuses: Simon Kenton 15 320 21.33, Dunbar B 4 105 26.25
+
+Raceland Worthington defeats Paul G. Blazer A by forfeit
+
+Henderson County 540, duPont Manual B 75
+Henderson County: DJ Banks 2 6 2 80, Harrison Jenkins 4 1 0 70, Alex Chandler 0 1 0 10, Wil Kyle 0 1 0 10
+duPont Manual B: Jack Boylen 0 0 0 0, Shyam Ravishankar 1 3 4 25, Shawn Liu 0 0 0 0, Shubh Gupta 0 0 0 0
+Bonuses: Henderson County 15 370 24.67, duPont Manual B 4 50 12.50
+
+Pulaski County 195, Charleston Catholic A 190
+Charleston Catholic A: Jack Acord 1 0 1 10, Seth Uy 0 1 0 10, Josh Kardos 1 2 0 35, Ryan Atassi 0 0 0 0, Mike Fox 0 2 1 15
+Pulaski County: Matthew Pike 0 1 0 10, Sam Smith 2 3 2 50, JD Stockham 1 3 0 45, Laila Cook 0 0 0 0
+Bonuses: Charleston Catholic A 7 120 17.14, Pulaski County 10 90 9.00
+
+Glasgow A 345, Dunbar A 275
+Dunbar A: Max Bograd 0 0 0 0, Henry Blyth 1 4 1 50, Grace Goff 0 1 0 10, Aneesh Kadambi 2 1 1 35
+Glasgow A: Mason Reid 4 3 2 80, Daniel Dill 0 1 0 10, Parker Bannister 1 2 0 35
+Bonuses: Dunbar A 9 180 20.00, Glasgow A 11 220 20.00
+
+Middlesboro A 365, duPont Manual C 160
+duPont Manual C: Satchel Walton 0 0 0 0, Ben Mowery 1 4 0 55, Sam Powers 0 1 1 5
+Middlesboro A: Andrew Kelley 1 4 1 50, Robby Griffey 1 3 1 40, Timothy Perkins 1 3 0 45, Bishakha Kumari 0 0 0 0
+Bonuses: duPont Manual C 6 100 16.67, Middlesboro A 13 230 17.69
+
+duPont Manual A 315, Danville 305
+duPont Manual A: Jake Powell 1 4 1 50, Aditya Mehta 0 1 2 0, Murari Srinivasen 1 2 1 30, Justin Xu 1 0 0 15
+Danville: Eli Gooch 2 4 0 70, Ben Link 1 4 0 55, Emma Webb 0 0 0 0, Sofie Farmer 0 0 0 0
+Bonuses: duPont Manual A 10 220 22.00, Danville 11 180 16.36
+
+Glasgow B 195, Paul G. Blazer B 135
+Glasgow B: Stratton Kiser 1 3 0 45, Tabby Cline 0 4 1 35, Cade Bishop 1 0 0 15, Emily Carroll 0 0 0 0
+Paul G. Blazer B: Courtney Lewis 0 3 0 30, Mackenzie Clere 0 2 0 20, Jackson Sparks 0 0 0 0, Aiden Burton 0 1 1 5
+Bonuses: Glasgow B 9 100 11.11, Paul G. Blazer B 6 80 13.33
+
+Paul G. Blazer C 185, Pikeville 175
+Paul G. Blazer C: Noah Carey 0 2 1 15, Melanie Grimm 0 2 0 20, Chrissie Brown 0 3 0 30, Eli Campbell 0 1 0 10
+Pikeville: Lindsey Lockhart 0 0 0 0, Jared Green 3 4 4 65, Sarah Belcher 0 1 0 10, Noah Thacker 0 1 0 10
+Bonuses: Paul G. Blazer C 8 110 13.75, Pikeville 9 90 10.00
+
+Dunbar C 275, Charleston Catholic B 110
+Charleston Catholic B: Carter Kiss 0 2 1 15, Ricky Lian 0 0 0 0, Irene Jonathan 0 0 0 0, Sam King 1 2 0 35, Ashton Rutherford 0 0 0 0
+Dunbar C: Finley VanHook 0 1 0 10, Teerth Patel 0 4 1 35, Tharanie Subramanium 0 0 0 0, Sanaa Kahloon 2 4 0 70
+Bonuses: Charleston Catholic B 5 60 12.00, Dunbar C 11 160 14.55
+
+Adair County defeats Daviess County by forfeit
+
+Middlesboro B 145, Fleming County A 120
+Middlesboro B: Makayla Hensley 0 3 1 25, Nate Muncy 0 2 0 20, Gerard Nagel 0 0 0 0, Danny Lin 0 3 0 30
+Fleming County A: Gavin Wallace 0 1 1 5, Katrina Holbrook 0 0 0 0, Logan Smalley 0 6 1 55, Brandi Lewis 0 0 0 0, Krista Lamb 0 0 0 0
+Bonuses: Middlesboro B 8 70 8.75, Fleming County A 7 60 8.57
+
+Round 10
+Simon Kenton 390, Adair County 175
+Simon Kenton: Emily Girard 3 9 0 135, Brittany Ashley 0 0 0 0, Elizabeth Hinsdale 1 0 0 15
+Adair County: Trevor Smith (12) 1 2 1 30, Maddie Harmon (11) 0 1 0 10, Chris Stuchell (12) 2 0 0 30, Samuel Willis (12) 0 0 1 -5
+Bonuses: Simon Kenton 13 240 18.46, Adair County 6 110 18.33
+
+Raceland Worthington 265, Pulaski County 150
+Raceland Worthington: Hunter West 1 8 3 80, Brady Justice 0 2 0 20, Lauren Gearheart 0 1 1 5, Libby Roy 0 0 0 0, Katelynn Fyffe 0 0 0 0
+Pulaski County: Matthew Pike 0 2 1 15, Sam Smith 0 4 0 40, JD Stockham 1 0 0 15, Laila Cook 0 0 0 0
+Bonuses: Raceland Worthington 12 160 13.33, Pulaski County 7 80 11.43
+
+Glasgow B 260, Charleston Catholic B 205
+Glasgow B: Stratton Kiser 1 3 0 45, Tabby Cline 0 5 1 45, Cade Bishop 0 1 0 10, Elizabeth 0 0 0 0
+Charleston Catholic B: Carter Kiss 1 4 0 55, Ricky Lian 0 1 0 10, Irene Jonathan 0 1 0 10, Sam King 0 0 0 0, Ashton Rutherford 0 1 0 10
+Bonuses: Glasgow B 10 160 16.00, Charleston Catholic B 8 120 15.00
+
+Henderson County 345, Dunbar A 335
+Henderson County: DJ Banks 1 3 2 35, Harrison Jenkins 2 2 0 50, Alex Chandler 0 2 0 20, Wil Kyle 0 0 0 0
+Dunbar A: Max Bograd 1 4 0 55, Henry Blyth 1 1 0 25, Grace Goff 1 0 0 15, Aneesh Kadambi 1 1 1 20
+Bonuses: Henderson County 10 240 24.00, Dunbar A 10 220 22.00
+
+Pikeville 245, Middlesboro B 150
+Middlesboro B: Makayla Hensley 0 3 0 30, Nate Muncy 0 3 0 30, Gerard Nagel 0 1 0 10, Danny Lin 0 1 2 0
+Pikeville: Lindsey Lockhart 1 1 0 25, Jared Green 1 1 2 15, Sarah Belcher 0 0 1 -5, Felicity Tan 0 1 0 10, Noah Thacker 0 1 0 10, Andrew Sandfer 0 4 2 30
+Bonuses: Middlesboro B 8 80 10.00, Pikeville 10 160 16.00
+
+Dunbar C 250, Fleming County B 80
+Fleming County B: Andrew Johnson 0 1 1 5, Owen Manning 0 2 0 20, Logan Thompson 0 0 0 0, Hayden Logan 0 2 0 20
+Dunbar C: Finley VanHook 0 1 0 10, Teerth Patel 0 1 1 5, Tharanie Subramanium 0 4 1 35, Sanaa Kahloon 0 5 3 35
+Bonuses: Fleming County B 5 35 7.00, Dunbar C 11 165 15.00
+
+Middlesboro A 330, duPont Manual A 290
+duPont Manual A: Jake Powell 0 1 1 5, Aditya Mehta 0 1 1 5, Murari Srinivasen 2 1 0 40, Justin Xu 0 3 0 30
+Middlesboro A: Andrew Kelley 2 1 1 35, Robby Griffey 0 4 1 35, Timothy Perkins 0 3 0 30, Bishakha Kumari 0 0 0 0
+Bonuses: duPont Manual A 8 210 26.25, Middlesboro A 10 230 23.00
+
+Danville 380, duPont Manual C 175
+duPont Manual C: Satchel Walton 0 2 1 15, Ben Mowery 1 3 2 35, Sam Powers 0 0 1 -5
+Danville: Eli Gooch 2 6 0 90, Ben Link 0 2 1 15, Emma Webb 0 0 0 0, Sofie Farmer 2 1 1 35
+Bonuses: duPont Manual C 6 130 21.67, Danville 13 240 18.46
+
+Glasgow A 490, duPont Manual B 90
+duPont Manual B: Jack Boylen 2 1 1 35, Shyam Ravishankar 0 0 0 0, Shawn Liu 0 0 0 0, Shubh Gupta 0 0 0 0
+Glasgow A: Mason Reid 5 2 3 80, Daniel Dill 1 3 0 45, Parker Bannister 2 2 1 45
+Bonuses: duPont Manual B 3 55 18.33, Glasgow A 15 320 21.33
+
+Raceland Worthington defeats Charleston Catholic A by forfeit
+
+Pulaski County defeats Paul G. Blazer A by forfeit
+
+Dunbar B defeats Daviess County by forfeit
+
+Fleming County A defeats Paul G. Blazer C by forfeit
+
+Round 11
+Simon Kenton defeats Daviess County by forfeit
+
+Middlesboro B defeats Paul G. Blazer C by forfeit
+
+duPont Manual A 320, duPont Manual C 235
+duPont Manual A: Jake Powell 0 5 0 50, Aditya Mehta 1 3 0 45, Murari Srinivasen 0 0 0 0, Justin Xu 0 1 0 10
+duPont Manual C: Satchel Walton 2 2 0 50, Ben Mowery 1 3 5 20, Sam Powers 0 0 0 0
+Bonuses: duPont Manual A 10 215 21.50, duPont Manual C 8 165 20.62
+
+Dunbar A 445, duPont Manual B 185
+duPont Manual B: Jack Boylen 0 2 0 20, Shyam Ravishankar 1 2 0 35, Shawn Liu 0 0 0 0, Shubh Gupta 0 2 0 20
+Dunbar A: Max Bograd 0 6 2 50, Henry Blyth 2 0 0 30, Grace Goff 0 2 0 20, Aneesh Kadambi 0 3 3 15
+Bonuses: duPont Manual B 7 110 15.71, Dunbar A 13 330 25.38
+
+Henderson County 335, Glasgow A 330
+Henderson County: DJ Banks 2 4 2 60, Harrison Jenkins 3 0 0 45, Alex Chandler 0 0 0 0, Wil Kyle 0 0 1 -5
+Glasgow A: Mason Reid 4 3 3 75, Daniel Dill 1 0 0 15, Parker Bannister 2 0 0 30
+Bonuses: Henderson County 9 235 26.11, Glasgow A 10 210 21.00
+
+Pikeville 265, Fleming County A 165
+Pikeville: Lindsey Lockhart 0 1 0 10, Jared Green 2 3 4 40, Sarah Belcher 0 1 0 10, Felicity Tan 0 0 1 -5, Noah Thacker 0 2 0 20, Andrew Sandfer 0 1 0 10
+Fleming County A: Gavin Wallace 0 4 0 40, Katrina Holbrook 0 1 0 10, Austin Mason 0 1 0 10, Logan Smalley 1 0 0 15
+Bonuses: Pikeville 10 180 18.00, Fleming County A 7 90 12.86
+
+Middlesboro A 300, Danville 255
+Middlesboro A: Andrew Kelley 1 6 2 65, Robby Griffey 1 2 0 35, Timothy Perkins 0 1 0 10, Bishakha Kumari 0 0 0 0
+Danville: Eli Gooch 1 3 1 40, Ben Link 1 2 0 35, Emma Webb 0 1 0 10, Sofie Farmer 0 1 0 10
+Bonuses: Middlesboro A 11 190 17.27, Danville 9 160 17.78
+
+Dunbar B 295, Adair County 225
+Adair County: Trevor Smith (12) 0 4 2 30, Maddie Harmon (11) 1 2 0 35, Chris Stuchell (12) 0 0 0 0, Samuel Willis (12) 0 1 0 10
+Dunbar B: David Vulakh 0 4 1 35, Noah Katz 0 4 0 40, Ayush Tibrewal 0 1 0 10, Joanna Cholewo 2 1 0 40
+Bonuses: Adair County 8 150 18.75, Dunbar B 12 170 14.17

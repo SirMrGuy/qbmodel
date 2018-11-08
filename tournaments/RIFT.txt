@@ -1,0 +1,239 @@
+Taylor 445, Carnegie 325
+Taylor: Emma Hopkins 0 0 0 0, Kate Hopkins 0 0 0 0, William Golden 7 1 1 110, Mitchell Schadden 1 3 0 45
+Carnegie: Manith Luthrie 4 0 1 55, Arnav Burudgunte 1 1 0 25, Andy Zhu 0 1 0 10, Daniel Lee 1 0 2 5
+Bonuses: Taylor 12 290 24.17, Carnegie 8 230 28.75
+
+Carnegie 400, Green Knights 340
+Carnegie: Manith Luthrie 2 1 0 40, Arnav Burudgunte 0 1 0 10, Andy Zhu 3 1 0 55, Daniel Lee 3 0 0 45
+Green Knights: John Luke Broussard 2 0 1 25, Sean Doyle 3 0 0 45, William Dondlinger 0 0 0 0, Pablo Lloyd 2 2 0 50
+Bonuses: Carnegie 11 250 22.73, Green Knights 9 220 24.44
+
+Taylor 600, Village School 145
+Taylor: Emma Hopkins 0 0 0 0, Kate Hopkins 0 1 0 10, William Golden 11 2 0 185, Mitchell Schadden 0 1 1 5
+Village School: Sourav Banerjee 0 4 0 40, Calvin Kirkpatrick 0 0 0 0, Evan Bhimputra 0 1 1 5
+Bonuses: Taylor 15 400 26.67, Village School 5 100 20.00
+
+C.E. Byrd 325, St. John's Red 140
+C.E. Byrd: Dylan Tynes 1 4 2 45, Tyler Spivey 2 3 0 60, Von Klotzbach 1 0 0 15, Cade Crandall 0 1 1 5
+St. John's Red: Kris Agarwal 0 2 1 15, Jackson Harvey 0 2 0 20, Sambhu Balakrishnan 2 0 1 25, Elijah Dahunsi 0 0 0 0
+Bonuses: C.E. Byrd 12 200 16.67, St. John's Red 6 80 13.33
+
+St. Thomas A 385, St. Thomas B 145
+St. Thomas A: Tyler McStravick 3 7 2 105, John Cordes 0 0 0 0, Nicholas Kurzy 0 2 0 20
+St. Thomas B: Travis Cummins 1 3 0 45, Matthew Lim 0 0 0 0, Creighton Ward 2 2 2 40
+Bonuses: St. Thomas A 12 260 21.67, St. Thomas B 8 60 7.50
+
+C.E. Byrd 325, Green Knights 270
+C.E. Byrd: Dylan Tynes 5 3 1 100, Tyler Spivey 0 1 0 10, Von Klotzbach 0 0 0 0, Cade Crandall 1 1 0 25
+Green Knights: Sean Doyle 1 2 1 30, Pablo Lloyd 2 1 2 30, Shawn Varkey 0 2 0 20, Kile Stenoien 0 1 0 10
+Bonuses: C.E. Byrd 11 190 17.27, Green Knights 9 180 20.00
+
+Taylor 645, Village School 145
+Taylor: Emma Hopkins 0 0 0 0, Kate Hopkins 0 0 0 0, William Golden 10 4 0 190, Mitchell Schadden 1 1 0 25
+Village School: Sourav Banerjee 2 1 0 40, Calvin Kirkpatrick 0 1 0 10, Evan Bhimputra 0 0 1 -5
+Bonuses: Taylor 16 430 26.88, Village School 4 100 25.00
+
+Carnegie 470, St. John's Red 135
+Carnegie: Manith Luthrie 3 3 2 65, Arnav Burudgunte 0 1 0 10, Andy Zhu 1 3 1 40, Daniel Lee 3 0 0 45
+St. John's Red: Kris Agarwal 0 0 0 0, Jackson Harvey 0 3 0 30, Sambhu Balakrishnan 1 1 0 25, Elijah Dahunsi 0 1 0 10
+Bonuses: Carnegie 14 310 22.14, St. John's Red 6 70 11.67
+
+St. John's Black 200, St. Thomas C 115
+St. Thomas C: Henry Brown 0 1 0 10, Bishop Yokubaitis 1 3 0 45, Chris Tan 0 1 0 10
+St. John's Black: Lily Schueppert 0 2 1 15, Kushal Kandel 0 1 0 10, Duncan McClaren 1 2 1 30, Anshul Nayak 0 4 1 35
+Bonuses: St. Thomas C 6 50 8.33, St. John's Black 10 110 11.00
+
+Taylor 440, Carnegie 350
+Taylor: Emma Hopkins 0 0 0 0, Kate Hopkins 0 0 0 0, William Golden 7 2 0 125, Mitchell Schadden 1 1 0 25
+Carnegie: Manith Luthrie 3 1 1 50, Arnav Burudgunte 2 0 0 30, Andy Zhu 1 0 0 15, Daniel Lee 2 0 1 25
+Bonuses: Taylor 11 290 26.36, Carnegie 9 230 25.56
+
+C.E. Byrd 595, St. Thomas C 25
+C.E. Byrd: Dylan Tynes 2 5 0 80, Tyler Spivey 2 5 0 80, Von Klotzbach 0 0 0 0, Cade Crandall 0 3 1 25
+St. Thomas C: Henry Brown 0 0 0 0, Bishop Yokubaitis 0 0 0 0, Chris Tan 1 0 0 15
+Bonuses: C.E. Byrd 17 410 24.12, St. Thomas C 1 10 10.00
+
+St. Thomas A 520, St. John's Black 55
+St. Thomas A: Tyler McStravick 7 7 1 170, John Cordes 0 1 0 10, Nicholas Kurzy 0 1 0 10
+St. John's Black: Lily Schueppert 0 0 1 -5, Kushal Kandel 0 0 0 0, Duncan McClaren 0 1 1 5, Anshul Nayak 1 1 0 25
+Bonuses: St. Thomas A 16 330 20.62, St. John's Black 3 30 10.00
+
+Green Knights 525, Village School 140
+Green Knights: Sean Doyle 2 6 1 85, Pablo Lloyd 3 3 0 75, William Dondlinger 0 0 0 0, Shawn Varkey 1 0 0 15
+Village School: Sourav Banerjee 1 1 0 25, Calvin Kirkpatrick 0 0 0 0, Evan Bhimputra 1 1 0 25
+Bonuses: Green Knights 15 350 23.33, Village School 4 90 22.50
+
+St. John's Red 315, St. Thomas B 120
+St. Thomas B: Travis Cummins 1 2 0 35, Matthew Lim 0 0 0 0, Creighton Ward 2 0 1 25
+St. John's Red: Kris Agarwal 1 3 2 35, Jackson Harvey 0 1 4 -10, Sambhu Balakrishnan 2 3 0 60, Elijah Dahunsi 0 1 0 10
+Bonuses: St. Thomas B 5 60 12.00, St. John's Red 11 220 20.00
+
+Green Knights 695, St. Thomas C 10
+St. Thomas C: Henry Brown 0 1 0 10, Bishop Yokubaitis 0 0 0 0, Chris Tan 0 0 0 0
+Green Knights: Sean Doyle 7 4 1 140, Pablo Lloyd 2 2 0 50, William Dondlinger 1 0 0 15, Kile Stenoien 0 3 0 30
+Bonuses: St. Thomas C 1 0 0.00, Green Knights 19 460 24.21
+
+Taylor 730, St. Thomas B 45
+Taylor: Emma Hopkins 0 1 0 10, Kate Hopkins 0 0 0 0, William Golden 9 3 0 165, Mitchell Schadden 1 4 0 55
+St. Thomas B: Travis Cummins 0 1 1 5, Matthew Lim 0 0 0 0, Creighton Ward 0 1 2 0
+Bonuses: Taylor 18 500 27.78, St. Thomas B 2 40 20.00
+
+St. John's Red 300, St. John's Black 170
+St. John's Red: Kris Agarwal 1 2 0 35, Jackson Harvey 0 3 2 20, Sambhu Balakrishnan 1 4 0 55, Elijah Dahunsi 0 0 0 0
+St. John's Black: Lily Schueppert 0 2 0 20, Kushal Kandel 0 0 0 0, Duncan McClaren 0 2 1 15, Anshul Nayak 1 2 0 35
+Bonuses: St. John's Red 11 190 17.27, St. John's Black 7 100 14.29
+
+Carnegie 510, Village School 195
+Village School: Sourav Banerjee 0 0 0 0, Calvin Kirkpatrick 1 1 0 25, Evan Bhimputra 2 2 0 50
+Carnegie: Manith Luthrie 3 0 0 45, Arnav Burudgunte 2 0 1 25, Andy Zhu 4 2 0 80, Daniel Lee 3 0 1 40
+Bonuses: Village School 6 120 20.00, Carnegie 14 320 22.86
+
+St. Thomas A 375, C.E. Byrd 250
+C.E. Byrd: Dylan Tynes 1 2 1 30, Tyler Spivey 1 2 1 30, Von Klotzbach 0 1 0 10, Cade Crandall 0 1 2 0
+St. Thomas A: Tyler McStravick 5 5 3 110, John Cordes 0 0 1 -5, Nicholas Kurzy 0 2 0 20
+Bonuses: C.E. Byrd 8 180 22.50, St. Thomas A 12 250 20.83
+
+Taylor 570, St. John's Black 50
+Taylor: Emma Hopkins 0 0 0 0, Kate Hopkins 0 0 0 0, William Golden 7 4 2 135, Mitchell Schadden 1 4 0 55
+St. John's Black: Lily Schueppert 0 0 0 0, Kushal Kandel 0 1 0 10, Duncan McClaren 0 1 1 5, Anshul Nayak 1 0 0 15
+Bonuses: Taylor 16 380 23.75, St. John's Black 3 20 6.67
+
+Carnegie 620, St. Thomas B 20
+St. Thomas B: Travis Cummins 0 0 1 -5, Matthew Lim 0 0 0 0, Creighton Ward 1 0 2 5
+Carnegie: Manith Luthrie 3 7 0 115, Arnav Burudgunte 1 1 0 25, Andy Zhu 1 3 1 40, Daniel Lee 2 0 0 30
+Bonuses: St. Thomas B 1 20 20.00, Carnegie 18 410 22.78
+
+Village School 410, St. Thomas C 60
+Village School: Sourav Banerjee 1 1 2 15, Calvin Kirkpatrick 1 2 0 35, Evan Bhimputra 2 9 0 120
+St. Thomas C: Henry Brown 0 1 1 5, Bishop Yokubaitis 0 1 1 5, Chris Tan 0 1 0 10
+Bonuses: Village School 16 240 15.00, St. Thomas C 3 40 13.33
+
+Green Knights 355, St. Thomas A 205
+St. Thomas A: Tyler McStravick 5 2 1 90, John Cordes 0 0 1 -5, Nicholas Kurzy 0 0 0 0
+Green Knights: Sean Doyle 6 4 2 120, Shawn Varkey 0 0 0 0, Pablo Lloyd 0 1 1 5, Kile Stenoien 0 0 0 0
+Bonuses: St. Thomas A 7 120 17.14, Green Knights 11 230 20.91
+
+Taylor 550, C.E. Byrd 190
+C.E. Byrd: Dylan Tynes 1 3 0 45, Tyler Spivey 1 0 1 10, Von Klotzbach 0 0 0 0, Cade Crandall 1 0 0 15
+Taylor: Emma Hopkins 0 0 0 0, Kate Hopkins 1 0 0 15, William Golden 9 1 1 140, Mitchell Schadden 1 2 0 35
+Bonuses: C.E. Byrd 6 120 20.00, Taylor 14 360 25.71
+
+Village School 430, St. Thomas B 95
+Village School: Sourav Banerjee 0 3 1 25, Calvin Kirkpatrick 2 1 0 40, Evan Bhimputra 5 3 0 105
+St. Thomas B: Travis Cummins 0 5 0 50, Matthew Lim 0 0 0 0, Creighton Ward 0 0 1 -5
+Bonuses: Village School 14 260 18.57, St. Thomas B 5 50 10.00
+
+Carnegie 535, St. John's Black 95
+St. John's Black: Lily Schueppert 0 0 0 0, Kushal Kandel 0 1 0 10, Duncan McClaren 0 2 1 15, Anshul Nayak 0 2 0 20
+Carnegie: Manith Luthrie 4 1 2 60, Arnav Burudgunte 0 4 0 40, Andy Zhu 4 0 1 55, Daniel Lee 2 0 2 20
+Bonuses: St. John's Black 5 50 10.00, Carnegie 15 360 24.00
+
+St. Thomas A 450, St. Thomas C 90
+St. Thomas A: Tyler McStravick 5 6 0 135, John Cordes 0 2 1 15, Nicholas Kurzy 0 2 0 20
+St. Thomas C: Henry Brown 0 1 0 10, Bishop Yokubaitis 0 1 0 10, Chris Tan 0 2 0 20
+Bonuses: St. Thomas A 15 280 18.67, St. Thomas C 4 50 12.50
+
+Green Knights 450, St. John's Red 165
+St. John's Red: Kris Agarwal 2 1 0 40, Jackson Harvey 0 1 0 10, Sambhu Balakrishnan 0 3 0 30, Elijah Dahunsi 0 0 1 -5
+Green Knights: Sean Doyle 4 1 3 55, Shawn Varkey 1 0 0 15, William Dondlinger 0 1 0 10, Pablo Lloyd 4 2 0 80
+Bonuses: St. John's Red 7 90 12.86, Green Knights 13 290 22.31
+
+St. Thomas A 325, Village School 265
+Village School: Sourav Banerjee 1 0 0 15, Calvin Kirkpatrick 0 1 0 10, Evan Bhimputra 3 3 1 70
+St. Thomas A: Tyler McStravick 5 3 1 100, John Cordes 0 0 1 -5, Nicholas Kurzy 1 1 1 20
+Bonuses: Village School 8 170 21.25, St. Thomas A 10 210 21.00
+
+Taylor 590, Green Knights 115
+Green Knights: Sean Doyle 1 0 2 5, Pablo Lloyd 1 0 1 10, John Luke Broussard 1 1 3 10, Kile Stenoien 0 0 0 0
+Taylor: Emma Hopkins 0 0 0 0, Kate Hopkins 0 1 0 10, William Golden 6 5 0 140, Mitchell Schadden 0 4 0 40
+Bonuses: Green Knights 4 90 22.50, Taylor 16 400 25.00
+
+St. John's Black 165, St. Thomas B 130
+St. Thomas B: Travis Cummins 0 3 1 25, Matthew Lim 0 0 0 0, Creighton Ward 1 2 2 25
+St. John's Black: Lily Schueppert 0 1 0 10, Kushal Kandel 0 0 0 0, Duncan McClaren 2 4 3 55, Anshul Nayak 0 1 0 10
+Bonuses: St. Thomas B 6 80 13.33, St. John's Black 8 90 11.25
+
+St. John's Red 415, St. Thomas C 40
+St. Thomas C: Henry Brown 0 0 0 0, Bishop Yokubaitis 0 2 0 20, Chris Tan 0 0 0 0
+St. John's Red: Kris Agarwal 1 4 0 55, Jackson Harvey 0 3 0 30, Sambhu Balakrishnan 1 4 0 55, Elijah Dahunsi 1 1 0 25
+Bonuses: St. Thomas C 2 20 10.00, St. John's Red 15 250 16.67
+
+Carnegie 425, C.E. Byrd 190
+C.E. Byrd: Dylan Tynes 2 0 0 30, Tyler Spivey 1 2 0 35, Von Klotzbach 0 0 0 0, Cade Crandall 1 0 0 15
+Carnegie: Manith Luthrie 3 0 0 45, Arnav Burudgunte 2 0 2 20, Andy Zhu 2 2 0 50, Daniel Lee 2 2 0 50
+Bonuses: C.E. Byrd 6 110 18.33, Carnegie 13 260 20.00
+
+C.E. Byrd 450, St. Thomas B 90
+C.E. Byrd: Dylan Tynes 2 4 1 65, Tyler Spivey 2 2 0 50, Von Klotzbach 0 0 0 0, Cade Crandall 1 4 0 55
+St. Thomas B: Travis Cummins 0 0 1 -5, Matthew Lim 0 1 0 10, Creighton Ward 1 3 0 45
+Bonuses: C.E. Byrd 15 280 18.67, St. Thomas B 5 40 8.00
+
+Taylor 590, St. Thomas C 95
+Taylor: Emma Hopkins 0 1 0 10, Kate Hopkins 0 0 0 0, William Golden 7 4 0 145, Mitchell Schadden 2 2 1 45
+St. Thomas C: Henry Brown 1 1 0 25, Bishop Yokubaitis 1 0 1 10, Chris Tan 0 1 0 10
+Bonuses: Taylor 16 390 24.38, St. Thomas C 4 50 12.50
+
+Carnegie 405, Green Knights 285
+Green Knights: Sean Doyle 1 2 2 25, Pablo Lloyd 0 1 0 10, Shawn Varkey 0 1 0 10, John Luke Broussard 1 3 1 40
+Carnegie: Manith Luthrie 0 1 0 10, Arnav Burudgunte 2 1 1 35, Andy Zhu 2 2 2 40, Daniel Lee 2 1 0 40
+Bonuses: Green Knights 9 200 22.22, Carnegie 11 280 25.45
+
+Village School 370, St. John's Black 160
+Village School: Sourav Banerjee 0 3 1 25, Calvin Kirkpatrick 2 0 1 25, Evan Bhimputra 2 5 0 80
+St. John's Black: Lily Schueppert 1 2 0 35, Kushal Kandel 0 0 0 0, Duncan McClaren 1 2 0 35, Anshul Nayak 0 0 0 0
+Bonuses: Village School 12 240 20.00, St. John's Black 6 90 15.00
+
+St. Thomas A 305, St. John's Red 205
+St. Thomas A: Tyler McStravick 3 5 1 90, John Cordes 0 1 1 5, Nicholas Kurzy 0 3 0 30
+St. John's Red: Kris Agarwal 0 2 0 20, Jackson Harvey 0 2 1 15, Sambhu Balakrishnan 0 2 0 20, Elijah Dahunsi 0 1 0 10
+Bonuses: St. Thomas A 12 180 15.00, St. John's Red 7 140 20.00
+
+Taylor 730, St. Thomas A 25
+St. Thomas A: Tyler McStravick 2 0 2 20, John Cordes 0 0 1 -5, Nicholas Kurzy 0 0 0 0
+Taylor: Emma Hopkins 0 1 0 10, Kate Hopkins 0 1 0 10, William Golden 14 1 0 220, Mitchell Schadden 0 1 0 10
+Bonuses: St. Thomas A 2 10 5.00, Taylor 18 480 26.67
+
+Green Knights 515, St. Thomas B 15
+Green Knights: John Luke Broussard 4 1 1 65, Sean Doyle 3 1 1 50, William Dondlinger 0 1 0 10, Pablo Lloyd 2 3 0 60
+St. Thomas B: Travis Cummins 0 0 1 -5, Matthew Lim 0 0 0 0, Creighton Ward 0 2 2 10
+Bonuses: Green Knights 15 330 22.00, St. Thomas B 2 10 5.00
+
+Village School 265, St. John's Red 235
+Village School: Sourav Banerjee 0 1 1 5, Calvin Kirkpatrick 1 0 1 10, Evan Bhimputra 2 4 0 70
+St. John's Red: Kris Agarwal 0 0 0 0, Jackson Harvey 1 2 1 30, Sambhu Balakrishnan 1 5 2 55, Elijah Dahunsi 0 1 0 10
+Bonuses: Village School 8 180 22.50, St. John's Red 10 140 14.00
+
+Carnegie 685, St. Thomas C 15
+Carnegie: Manith Luthrie 5 0 1 70, Arnav Burudgunte 1 1 1 20, Andy Zhu 2 4 0 70, Daniel Lee 5 0 0 75
+St. Thomas C: Henry Brown 0 0 0 0, Bishop Yokubaitis 0 0 0 0, Chris Tan 1 0 0 15
+Bonuses: Carnegie 18 450 25.00, St. Thomas C 1 0 0.00
+
+C.E. Byrd 525, St. John's Black 45
+C.E. Byrd: Dylan Tynes 1 7 0 85, Tyler Spivey 3 3 1 70, Von Klotzbach 0 2 0 20, Cade Crandall 0 1 2 0
+St. John's Black: Kushal Kandel 0 0 1 -5, Duncan McClaren 0 1 0 10, Anshul Nayak 0 1 0 10
+Bonuses: C.E. Byrd 17 350 20.59, St. John's Black 2 30 15.00
+
+Taylor 380, St. John's Red 220
+Taylor: Emma Hopkins 0 0 0 0, Kate Hopkins 0 0 0 0, William Golden 5 4 2 105, Mitchell Schadden 0 1 1 5
+St. John's Red: Kris Agarwal 0 2 0 20, Jackson Harvey 0 1 0 10, Sambhu Balakrishnan 2 1 0 40, Elijah Dahunsi 1 1 1 20
+Bonuses: Taylor 10 270 27.00, St. John's Red 8 130 16.25
+
+St. Thomas B 210, St. Thomas C 60
+St. Thomas C: Henry Brown 0 2 0 20, Bishop Yokubaitis 0 0 2 -10, Chris Tan 1 0 1 10
+St. Thomas B: Travis Cummins 0 3 0 30, Matthew Lim 0 0 0 0, Creighton Ward 2 5 0 80
+Bonuses: St. Thomas C 3 40 13.33, St. Thomas B 10 100 10.00
+
+Green Knights 610, St. John's Black 15
+Green Knights: Sean Doyle 4 2 0 80, Pablo Lloyd 1 4 0 55, Kile Stenoien 1 4 1 50, John Luke Broussard 1 0 0 15
+St. John's Black: Kushal Kandel 0 0 0 0, Duncan McClaren 0 1 1 5, Anshul Nayak 0 1 2 0
+Bonuses: Green Knights 17 410 24.12, St. John's Black 2 10 5.00
+
+Carnegie 465, St. Thomas A 200
+Carnegie: Manith Luthrie 1 1 1 20, Arnav Burudgunte 1 3 0 45, Andy Zhu 3 1 1 50, Daniel Lee 2 1 0 40
+St. Thomas A: Tyler McStravick 5 1 0 85, John Cordes 0 0 1 -5, Nicholas Kurzy 0 1 0 10
+Bonuses: Carnegie 13 310 23.85, St. Thomas A 7 110 15.71
+
+C.E. Byrd 355, Village School 250
+C.E. Byrd: Dylan Tynes 0 5 0 50, Tyler Spivey 2 3 1 55, Von Klotzbach 0 0 0 0, Cade Crandall 0 2 0 20
+Village School: Sourav Banerjee 1 1 0 25, Calvin Kirkpatrick 0 0 0 0, Evan Bhimputra 1 5 2 55
+Bonuses: C.E. Byrd 12 230 19.17, Village School 8 170 21.25

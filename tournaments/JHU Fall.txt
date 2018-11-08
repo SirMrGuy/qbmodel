@@ -1,0 +1,394 @@
+Richard Montgomery B 290, Winston Churchill 285
+Winston Churchill: Manu Sundaresan 4 1 3 55, Michael Kalin 1 0 0 15, Adlee Heshmat 1 0 1 10, Stevie Miller 1 1 0 25
+Richard Montgomery B: Justin Posner 3 3 0 75, Corinne Foley 0 2 0 20, Jerry Shen 1 1 0 25
+Bonuses: Winston Churchill 9 180 20.00, Richard Montgomery B 10 170 17.00
+
+Montgomery Blair C 355, BASIS McLean B 130
+Montgomery Blair C: Haydn Gwyn 6 3 2 110, Clarence Lam 0 0 0 0, Alexander Constantino 1 2 2 25
+BASIS McLean B: Kiren James 0 0 0 0, Charles Tai 0 5 2 40, Andy Zhang 0 1 0 10
+Bonuses: Montgomery Blair C 12 220 18.33, BASIS McLean B 6 80 13.33
+
+Montgomery Blair A 430, Langley B 220
+Langley B: Joseph Dooley 0 2 0 20, Daniel Mousavi 1 3 1 40, Victoria Li 0 0 0 0, William Orr 2 0 0 30
+Montgomery Blair A: Anson Berns 4 1 2 60, Ian Rackow 2 1 1 35, Katherine Lei 0 1 0 10, Matthew Shu 2 1 1 35
+Bonuses: Langley B 8 130 16.25, Montgomery Blair A 12 290 24.17
+
+McLean 480, Catonsville 115
+McLean: Justin Young 5 7 1 140, Tiara Allard 1 0 0 15, Nischal Dinesh 1 0 0 15
+Catonsville: Adam Fu 1 0 0 15, David Dzingeleski 1 1 0 25, Mathias Abebe 0 0 0 0, Trinity Antoszewski 1 0 0 15
+Bonuses: McLean 14 310 22.14, Catonsville 4 60 15.00
+
+BASIS McLean A 345, Penn Manor 260
+Penn Manor: Connor Mayers 3 6 3 90
+BASIS McLean A: Justin Ward 3 3 0 75, Anna Yang 2 1 0 40, Sam Kaufman 1 1 1 20, Jiaming Zhang 0 0 0 0
+Bonuses: Penn Manor 9 170 18.89, BASIS McLean A 11 210 19.09
+
+Montgomery Blair B 415, Richard Montgomery A 285
+Richard Montgomery A: Abhinav Karthikeyan 4 2 1 75, Michael Xie 2 0 0 30, Aries Wang 0 0 0 0
+Montgomery Blair B: Sophia Weng 5 2 0 95, Shawn Zhao 1 1 1 20, Lee Lemar 1 1 0 25, Albert Ho 1 0 0 15
+Bonuses: Richard Montgomery A 8 180 22.50, Montgomery Blair B 12 260 21.67
+
+Langley C 315, Langley A 240
+Langley C: Aditya Khera 1 2 0 35, Ari Tretiak 2 1 1 35, Isabella Huang 0 1 0 10, Nima Razavi 1 1 0 25
+Langley A: Dan Ni 4 3 3 75, Selena Bao 1 1 2 15, Shahan Salam 0 1 0 10
+Bonuses: Langley C 9 210 23.33, Langley A 10 140 14.00
+
+BASIS McLean A 325, Langley A 270
+Langley A: Dan Ni 5 3 1 100, Selena Bao 1 0 0 15, Shahan Salam 1 0 0 15
+BASIS McLean A: Justin Ward 4 2 0 80, Anna Yang 0 0 0 0, Sam Kaufman 2 0 0 30, Jiaming Zhang 1 0 0 15
+Bonuses: Langley A 10 140 14.00, BASIS McLean A 9 200 22.22
+
+Montgomery Blair B 515, Penn Manor 150
+Penn Manor: Connor Mayers 2 4 0 70
+Montgomery Blair B: Sophia Weng 5 0 3 60, Shawn Zhao 5 0 0 75, Lee Lemar 1 0 0 15, Albert Ho 2 1 1 35
+Bonuses: Penn Manor 6 80 13.33, Montgomery Blair B 14 330 23.57
+
+Richard Montgomery A 285, Thomas S. Wootton 225
+Thomas S. Wootton: Arnav Patra 2 2 2 40, Surya Perla 0 2 1 15, Mollika Singh 1 0 0 15, Bojun Li 1 0 0 15
+Richard Montgomery A: Abhinav Karthikeyan 2 4 0 70, Michael Xie 2 1 1 35, Aries Wang 1 0 1 10
+Bonuses: Thomas S. Wootton 8 140 17.50, Richard Montgomery A 10 170 17.00
+
+Langley B 280, Winston Churchill 245
+Winston Churchill: Manu Sundaresan 3 2 1 60, Michael Kalin 0 0 0 0, Adlee Heshmat 0 1 0 10, Stevie Miller 1 2 0 35
+Langley B: Joseph Dooley 1 2 0 35, Daniel Mousavi 3 1 1 50, Victoria Li 0 0 1 -5, William Orr 2 1 0 40
+Bonuses: Winston Churchill 9 140 15.56, Langley B 10 160 16.00
+
+Montgomery Blair C 375, Richard Montgomery B 220
+Montgomery Blair C: Haydn Gwyn 1 5 1 60, Clarence Lam 1 0 0 15, Alexander Constantino 4 1 0 70
+Richard Montgomery B: Justin Posner 3 3 1 70, Corinne Foley 0 1 0 10, Jerry Shen 0 1 0 10
+Bonuses: Montgomery Blair C 12 230 19.17, Richard Montgomery B 8 130 16.25
+
+Montgomery Blair A 440, McLean 200
+McLean: Justin Young 4 2 0 80, Tiara Allard 1 0 0 15, Nischal Dinesh 0 0 1 -5
+Montgomery Blair A: Anson Berns 5 2 1 90, Ian Rackow 0 1 1 5, Katherine Lei 3 0 0 45, Matthew Shu 1 0 1 10
+Bonuses: McLean 7 110 15.71, Montgomery Blair A 12 290 24.17
+
+Catonsville 230, BASIS McLean B 215
+BASIS McLean B: Kiren James 0 3 0 30, Charles Tai 3 3 1 70, Andy Zhang 0 1 1 5
+Catonsville: Adam Fu 4 2 0 80, David Dzingeleski 0 2 0 20, Mathias Abebe 0 0 0 0, Trinity Antoszewski 0 0 0 0
+Bonuses: BASIS McLean B 10 110 11.00, Catonsville 8 130 16.25
+
+Langley C 315, Richard Montgomery A 270
+Richard Montgomery A: Abhinav Karthikeyan 3 2 2 55, Michael Xie 1 1 0 25, Aries Wang 0 1 0 10
+Langley C: Aditya Khera 1 1 0 25, Ari Tretiak 1 4 2 45, Isabella Huang 1 1 0 25, Nima Razavi 2 0 0 30
+Bonuses: Richard Montgomery A 8 180 22.50, Langley C 11 190 17.27
+
+Montgomery Blair B 475, Thomas S. Wootton 210
+Thomas S. Wootton: Arnav Patra 2 1 1 35, Surya Perla 0 0 0 0, Mollika Singh 3 1 0 55, Bojun Li 0 0 0 0
+Montgomery Blair B: Sophia Weng 4 2 1 75, Shawn Zhao 4 1 1 65, Lee Lemar 1 0 0 15, Albert Ho 0 0 2 -10
+Bonuses: Thomas S. Wootton 7 120 17.14, Montgomery Blair B 12 330 27.50
+
+Langley A 295, Penn Manor 285
+Penn Manor: Connor Mayers 4 6 1 115
+Langley A: Dan Ni 4 3 3 75, Selena Bao 2 2 0 50, Shahan Salam 0 0 0 0
+Bonuses: Penn Manor 10 170 17.00, Langley A 11 170 15.45
+
+McLean 485, Winston Churchill 185
+Winston Churchill: Manu Sundaresan 1 3 3 30, Michael Kalin 0 0 0 0, Adlee Heshmat 0 0 0 0, Stevie Miller 1 1 0 25
+McLean: Justin Young 6 4 0 130, Tiara Allard 2 0 0 30, Nischal Dinesh 1 1 0 25
+Bonuses: Winston Churchill 6 130 21.67, McLean 14 300 21.43
+
+Richard Montgomery B 380, Langley B 220
+Langley B: Joseph Dooley 1 1 2 15, Daniel Mousavi 1 1 1 20, Victoria Li 0 0 0 0, William Orr 1 2 2 25
+Richard Montgomery B: Justin Posner 6 6 1 145, Corinne Foley 0 0 0 0, Jerry Shen 0 1 1 5
+Bonuses: Langley B 7 160 22.86, Richard Montgomery B 13 230 17.69
+
+Montgomery Blair A 680, BASIS McLean B 60
+Montgomery Blair A: Anson Berns 5 2 2 85, Ian Rackow 3 4 0 85, Katherine Lei 1 0 0 15, Matthew Shu 2 0 1 25
+BASIS McLean B: Kiren James 0 0 0 0, Charles Tai 0 1 0 10, Andy Zhang 0 2 0 20
+Bonuses: Montgomery Blair A 17 470 27.65, BASIS McLean B 3 30 10.00
+
+Montgomery Blair C 440, Catonsville 110
+Montgomery Blair C: Haydn Gwyn 2 6 1 85, Clarence Lam 0 0 0 0, Alexander Constantino 1 5 0 65
+Catonsville: Adam Fu 1 3 3 30, David Dzingeleski 1 1 1 20, Mathias Abebe 0 0 0 0, Trinity Antoszewski 0 0 0 0
+Bonuses: Montgomery Blair C 14 290 20.71, Catonsville 6 60 10.00
+
+BASIS McLean A 440, Richard Montgomery A 150
+Richard Montgomery A: Abhinav Karthikeyan 2 3 2 50, Michael Xie 0 1 0 10, Aries Wang 0 0 0 0
+BASIS McLean A: Justin Ward 5 1 0 85, Anna Yang 0 4 0 40, Sam Kaufman 0 1 1 5, Jiaming Zhang 0 2 0 20
+Bonuses: Richard Montgomery A 6 90 15.00, BASIS McLean A 13 290 22.31
+
+Montgomery Blair B 425, Langley C 155
+Langley C: Aditya Khera 1 2 1 30, Ari Tretiak 0 4 3 25, Isabella Huang 0 0 0 0, Nima Razavi 0 0 0 0
+Montgomery Blair B: Sophia Weng 3 3 2 65, Shawn Zhao 2 4 2 60, Lee Lemar 0 0 0 0, Albert Ho 1 0 1 10
+Bonuses: Langley C 7 100 14.29, Montgomery Blair B 13 290 22.31
+
+Thomas S. Wootton 240, Penn Manor 220
+Thomas S. Wootton: Arnav Patra 4 2 2 70, Surya Perla 0 2 2 10, Mollika Singh 0 1 0 10, Bojun Li 0 0 0 0
+Penn Manor: Connor Mayers 3 6 5 80
+Bonuses: Thomas S. Wootton 9 150 16.67, Penn Manor 9 140 15.56
+
+Richard Montgomery B 395, Catonsville 135
+Richard Montgomery B: Justin Posner 7 4 0 145, Corinne Foley 0 2 1 15, Jerry Shen 0 1 1 5
+Catonsville: Adam Fu 1 2 1 30, David Dzingeleski 1 1 0 25, Mathias Abebe 0 0 0 0, Trinity Antoszewski 0 0 0 0
+Bonuses: Richard Montgomery B 14 230 16.43, Catonsville 5 80 16.00
+
+Montgomery Blair A 430, Montgomery Blair C 190
+Montgomery Blair C: Haydn Gwyn 0 3 0 30, Clarence Lam 0 1 0 10, Alexander Constantino 0 3 2 20
+Montgomery Blair A: Anson Berns 1 3 2 35, Ian Rackow 2 1 1 35, Katherine Lei 3 0 1 40, Matthew Shu 2 0 0 30
+Bonuses: Montgomery Blair C 7 130 18.57, Montgomery Blair A 12 290 24.17
+
+Winston Churchill 420, BASIS McLean B 115
+Winston Churchill: Manu Sundaresan 2 7 0 100, Michael Kalin 0 1 0 10, Adlee Heshmat 0 0 0 0, Stevie Miller 0 4 0 40
+BASIS McLean B: Kiren James 0 0 0 0, Charles Tai 0 5 1 45, Andy Zhang 0 1 0 10
+Bonuses: Winston Churchill 14 270 19.29, BASIS McLean B 6 60 10.00
+
+McLean 320, Langley B 260
+McLean: Justin Young 3 4 1 80, Tiara Allard 1 0 0 15, Nischal Dinesh 1 0 2 5
+Langley B: Joseph Dooley 0 1 1 5, Daniel Mousavi 2 2 2 40, Victoria Li 0 0 0 0, William Orr 3 2 0 65
+Bonuses: McLean 9 220 24.44, Langley B 10 150 15.00
+
+Thomas S. Wootton 330, Langley C 240
+Thomas S. Wootton: Arnav Patra 4 1 2 60, Surya Perla 0 2 0 20, Mollika Singh 1 2 1 30, Bojun Li 0 0 0 0
+Langley C: Aditya Khera 1 2 0 35, Ari Tretiak 1 2 1 30, Isabella Huang 0 0 1 -5, Nima Razavi 2 1 0 40
+Bonuses: Thomas S. Wootton 10 220 22.00, Langley C 9 140 15.56
+
+Richard Montgomery A 370, Langley A 145
+Richard Montgomery A: Abhinav Karthikeyan 3 5 0 95, Michael Xie 0 1 0 10, Aries Wang 1 2 0 35
+Langley A: Dan Ni 3 1 4 35, Selena Bao 1 1 2 15, Shahan Salam 0 0 1 -5
+Bonuses: Richard Montgomery A 12 230 19.17, Langley A 6 100 16.67
+
+Montgomery Blair B 575, BASIS McLean A 125
+Montgomery Blair B: Sophia Weng 3 3 1 70, Shawn Zhao 4 4 0 100, Lee Lemar 1 0 1 10, Albert Ho 0 1 1 5
+BASIS McLean A: Justin Ward 0 1 0 10, Anna Yang 0 0 0 0, Sam Kaufman 1 1 1 20, Jiaming Zhang 1 0 0 15
+Bonuses: Montgomery Blair B 16 390 24.38, BASIS McLean A 4 80 20.00
+
+Montgomery Blair C 320, Winston Churchill 260
+Winston Churchill: Manu Sundaresan 3 2 2 55, Michael Kalin 0 0 0 0, Adlee Heshmat 0 2 1 15, Stevie Miller 0 2 2 10
+Montgomery Blair C: Haydn Gwyn 1 6 2 65, Clarence Lam 0 0 0 0, Alexander Constantino 2 1 1 35
+Bonuses: Winston Churchill 9 180 20.00, Montgomery Blair C 10 220 22.00
+
+Langley B 240, BASIS McLean B 150
+BASIS McLean B: Kiren James 0 0 0 0, Charles Tai 1 4 1 50, Andy Zhang 0 0 0 0
+Langley B: Joseph Dooley 0 1 5 -15, Daniel Mousavi 2 3 1 55, Victoria Li 0 0 0 0, William Orr 1 3 1 40
+Bonuses: BASIS McLean B 5 100 20.00, Langley B 10 160 16.00
+
+Montgomery Blair A 605, Catonsville 95
+Catonsville: Adam Fu 0 3 1 25, David Dzingeleski 0 0 0 0, Mathias Abebe 0 0 0 0, Trinity Antoszewski 0 0 0 0
+Montgomery Blair A: Anson Berns 4 2 2 70, Ian Rackow 2 0 1 25, Katherine Lei 2 1 0 40, Matthew Shu 4 1 0 70
+Bonuses: Catonsville 3 70 23.33, Montgomery Blair A 16 400 25.00
+
+McLean 325, Richard Montgomery B 260
+McLean: Justin Young 3 5 0 95, Tiara Allard 0 1 0 10, Nischal Dinesh 1 0 1 10
+Richard Montgomery B: Justin Posner 3 5 1 90, Corinne Foley 0 0 0 0, Jerry Shen 2 0 0 30
+Bonuses: McLean 10 210 21.00, Richard Montgomery B 10 140 14.00
+
+Langley B 325, Montgomery Blair C 255
+Langley B: Joseph Dooley 1 1 0 25, Daniel Mousavi 3 0 0 45, Victoria Li 0 0 0 0, William Orr 2 3 1 55
+Montgomery Blair C: Haydn Gwyn 0 2 0 20, Clarence Lam 0 0 0 0, Alexander Constantino 5 2 2 85
+Bonuses: Langley B 10 200 20.00, Montgomery Blair C 9 150 16.67
+
+Montgomery Blair A 380, Richard Montgomery B 350
+Richard Montgomery B: Justin Posner 6 3 0 120, Corinne Foley 0 0 0 0, Jerry Shen 0 1 0 10
+Montgomery Blair A: Anson Berns 3 1 1 50, Ian Rackow 2 0 0 30, Katherine Lei 3 0 0 45, Matthew Shu 1 0 0 15
+Bonuses: Richard Montgomery B 10 220 22.00, Montgomery Blair A 10 240 24.00
+
+McLean 540, BASIS McLean B 100
+McLean: Justin Young 10 1 0 160, Tiara Allard 0 3 0 30, Nischal Dinesh 0 1 0 10
+BASIS McLean B: Kiren James 0 1 1 5, Charles Tai 0 2 1 15, Andy Zhang 0 1 0 10
+Bonuses: McLean 15 340 22.67, BASIS McLean B 4 70 17.50
+
+Winston Churchill 355, Catonsville 170
+Catonsville: Adam Fu 1 2 0 35, David Dzingeleski 1 3 0 45, Mathias Abebe 0 0 0 0, Trinity Antoszewski 0 0 0 0
+Winston Churchill: Manu Sundaresan 4 4 3 85, Michael Kalin 0 0 0 0, Adlee Heshmat 0 2 1 15, Stevie Miller 0 2 1 15
+Bonuses: Catonsville 7 90 12.86, Winston Churchill 12 240 20.00
+
+Montgomery Blair B 475, Langley A 155
+Montgomery Blair B: Sophia Weng 2 3 2 50, Shawn Zhao 3 0 2 35, Lee Lemar 1 0 0 15, Albert Ho 3 0 0 45
+Langley A: Dan Ni 1 3 1 40, Selena Bao 1 1 0 25, Shahan Salam 1 0 1 10
+Bonuses: Montgomery Blair B 12 330 27.50, Langley A 7 80 11.43
+
+Penn Manor 370, Langley C 175
+Penn Manor: Connor Mayers 8 6 4 160
+Langley C: Aditya Khera 1 0 0 15, Ari Tretiak 0 3 0 30, Isabella Huang 0 1 0 10, Nima Razavi 0 1 0 10
+Bonuses: Penn Manor 14 210 15.00, Langley C 6 110 18.33
+
+BASIS McLean A 615, Thomas S. Wootton 110
+Thomas S. Wootton: Arnav Patra 1 1 0 25, Surya Perla 0 0 0 0, Mollika Singh 0 0 0 0, Bojun Li 1 0 0 15
+BASIS McLean A: Justin Ward 6 4 0 130, Anna Yang 1 1 0 25, Sam Kaufman 3 0 0 45, Jiaming Zhang 1 1 0 25
+Bonuses: Thomas S. Wootton 3 70 23.33, BASIS McLean A 17 390 22.94
+
+Winston Churchill 300, Montgomery Blair A 265
+Winston Churchill: Manu Sundaresan 1 6 3 60, Michael Kalin 0 0 0 0, Adlee Heshmat 1 0 0 15, Stevie Miller 2 1 1 35
+Montgomery Blair A: Anson Berns 2 2 5 25, Ian Rackow 0 1 1 5, Katherine Lei 2 1 0 40, Matthew Shu 0 0 1 -5
+Bonuses: Winston Churchill 11 190 17.27, Montgomery Blair A 8 200 25.00
+
+Langley B 270, Catonsville 170
+Langley B: Joseph Dooley 2 2 2 40, Daniel Mousavi 2 2 1 45, Victoria Li 0 1 0 10, William Orr 1 1 2 15
+Catonsville: Adam Fu 2 1 0 40, David Dzingeleski 1 2 1 30, Mathias Abebe 0 0 0 0, Trinity Antoszewski 0 1 0 10
+Bonuses: Langley B 11 160 14.55, Catonsville 7 90 12.86
+
+Richard Montgomery B 255, BASIS McLean B 155
+BASIS McLean B: Kiren James 0 0 0 0, Charles Tai 0 5 0 50, Andy Zhang 0 4 1 35
+Richard Montgomery B: Justin Posner 4 4 3 85, Corinne Foley 0 0 0 0, Jerry Shen 1 1 1 20
+Bonuses: BASIS McLean B 9 70 7.78, Richard Montgomery B 10 150 15.00
+
+McLean 310, Montgomery Blair C 250
+McLean: Justin Young 5 1 2 75, Tiara Allard 1 1 1 20, Nischal Dinesh 1 0 0 15
+Montgomery Blair C: Haydn Gwyn 1 6 2 65, Clarence Lam 0 0 0 0, Alexander Constantino 1 2 0 35
+Bonuses: McLean 9 200 22.22, Montgomery Blair C 10 150 15.00
+
+BASIS McLean A 365, Langley C 170
+BASIS McLean A: Justin Ward 1 5 1 60, Anna Yang 1 2 1 30, Sam Kaufman 0 2 1 15, Jiaming Zhang 2 0 0 30
+Langley C: Aditya Khera 1 2 1 30, Ari Tretiak 1 1 1 20, Isabella Huang 0 1 0 10, Nima Razavi 0 1 0 10
+Bonuses: BASIS McLean A 13 230 17.69, Langley C 7 100 14.29
+
+Langley A 295, Thomas S. Wootton 240
+Thomas S. Wootton: Arnav Patra 3 4 2 75, Surya Perla 0 0 0 0, Mollika Singh 0 1 1 5, Bojun Li 0 0 0 0
+Langley A: Dan Ni 3 3 1 70, Selena Bao 1 3 2 35, Shahan Salam 0 1 0 10
+Bonuses: Thomas S. Wootton 8 160 20.00, Langley A 11 180 16.36
+
+Penn Manor 295, Richard Montgomery A 250
+Richard Montgomery A: Abhinav Karthikeyan 3 3 1 70, Michael Xie 0 3 0 30, Aries Wang 0 1 0 10
+Penn Manor: Connor Mayers 4 6 3 105
+Bonuses: Richard Montgomery A 10 140 14.00, Penn Manor 10 190 19.00
+
+Montgomery Blair A 505, Penn Manor 150
+Penn Manor: Connor Mayers 3 2 1 60
+Montgomery Blair A: Anson Berns 1 1 3 10, Ian Rackow 1 2 0 35, Katherine Lei 4 0 0 60, Matthew Shu 4 0 0 60
+Bonuses: Penn Manor 5 90 18.00, Montgomery Blair A 13 340 26.15
+
+McLean 265, Richard Montgomery A 255
+McLean: Justin Young 3 4 3 70, Tiara Allard 1 0 0 15, Nischal Dinesh 0 2 0 20
+Richard Montgomery A: Abhinav Karthikeyan 4 3 2 80, Michael Xie 0 1 0 10, Aries Wang 0 1 1 5
+Bonuses: McLean 10 160 16.00, Richard Montgomery A 9 160 17.78
+
+BASIS McLean A 475, Montgomery Blair C 155
+Montgomery Blair C: Haydn Gwyn 2 3 1 55, Clarence Lam 0 0 0 0, Alexander Constantino 0 0 2 -10
+BASIS McLean A: Justin Ward 3 5 0 95, Anna Yang 2 2 0 50, Sam Kaufman 0 1 0 10, Jiaming Zhang 0 1 0 10
+Bonuses: Montgomery Blair C 5 110 22.00, BASIS McLean A 14 310 22.14
+
+Montgomery Blair B 505, Richard Montgomery B 130
+Richard Montgomery B: Justin Posner 2 2 2 40, Jerry Shen 0 0 0 0, Jaewoo Chung 0 1 0 10
+Montgomery Blair B: Sophia Weng 3 2 0 65, Shawn Zhao 6 1 2 90, Lee Lemar 0 1 0 10, Albert Ho 1 0 1 10
+Bonuses: Richard Montgomery B 5 80 16.00, Montgomery Blair B 14 330 23.57
+
+Winston Churchill 335, Langley C 110
+Winston Churchill: Manu Sundaresan 1 7 2 75, Michael Kalin 0 0 0 0, Adlee Heshmat 0 1 0 10, Stevie Miller 2 1 0 40
+Langley C: Aditya Khera 1 0 1 10, Isabella Huang 1 0 0 15, Nima Razavi 0 1 0 10, Ari Tretiak 1 1 0 25
+Bonuses: Winston Churchill 12 210 17.50, Langley C 5 50 10.00
+
+Thomas S. Wootton 325, Catonsville 165
+Catonsville: Adam Fu 1 3 0 45, David Dzingeleski 0 0 0 0, Mathias Abebe 0 0 0 0, Trinity Antoszewski 0 1 0 10
+Thomas S. Wootton: Arnav Patra 3 5 1 90, Surya Perla 0 1 0 10, Mollika Singh 0 1 0 10, Bojun Li 0 1 1 5
+Bonuses: Catonsville 5 110 22.00, Thomas S. Wootton 11 210 19.09
+
+Langley A 280, BASIS McLean B 115
+Langley A: Dan Ni 6 2 2 100, Selena Bao 2 1 1 35, Shahan Salam 0 1 1 5
+BASIS McLean B: Kiren James 0 1 0 10, Charles Tai 1 2 0 35, Andy Zhang 0 1 0 10
+Bonuses: Langley A 12 140 11.67, BASIS McLean B 5 60 12.00
+
+Winston Churchill 350, Thomas S. Wootton 255
+Thomas S. Wootton: Arnav Patra 4 2 0 80, Surya Perla 0 0 0 0, Mollika Singh 0 1 1 5, Bojun Li 1 0 1 10
+Winston Churchill: Manu Sundaresan 1 5 2 55, Michael Kalin 0 0 0 0, Adlee Heshmat 1 2 0 35, Stevie Miller 2 0 0 30
+Bonuses: Thomas S. Wootton 8 160 20.00, Winston Churchill 11 230 20.91
+
+Langley B 285, Langley A 180
+Langley B: Daniel Mousavi 4 0 3 45, Victoria Li 0 0 0 0, William Orr 1 1 1 20, Joseph Dooley 0 4 0 40
+Langley A: Selena Bao 3 2 1 60, Shahan Salam 0 2 0 20
+Bonuses: Langley B 10 180 18.00, Langley A 7 100 14.29
+
+Langley C 465, Catonsville 75
+Catonsville: Adam Fu 0 1 1 5, David Dzingeleski 0 2 0 20, Mathias Abebe 0 0 0 0, Trinity Antoszewski 0 0 0 0
+Langley C: Aditya Khera 2 2 0 50, Isabella Huang 1 3 0 45, Nima Razavi 0 2 1 15, Ari Tretiak 0 5 1 45
+Bonuses: Catonsville 3 50 16.67, Langley C 15 310 20.67
+
+BASIS McLean A 405, McLean 290
+McLean: Justin Young 2 4 0 70, Tiara Allard 1 0 0 15, Nischal Dinesh 1 0 0 15
+BASIS McLean A: Justin Ward 4 3 1 85, Anna Yang 0 0 1 -5, Sam Kaufman 2 1 1 35, Jiaming Zhang 0 1 0 10
+Bonuses: McLean 8 190 23.75, BASIS McLean A 11 280 25.45
+
+Richard Montgomery B 335, Penn Manor 230
+Richard Montgomery B: Justin Posner 5 0 1 70, Jerry Shen 1 2 0 35, Jaewoo Chung 0 3 0 30
+Penn Manor: Connor Mayers 4 3 4 70
+Bonuses: Richard Montgomery B 11 200 18.18, Penn Manor 7 160 22.86
+
+Montgomery Blair B 405, Montgomery Blair A 320
+Montgomery Blair B: Sophia Weng 3 5 0 95, Shawn Zhao 2 1 0 40, Lee Lemar 0 0 1 -5, Albert Ho 0 0 1 -5
+Montgomery Blair A: Anson Berns 3 0 2 35, Ian Rackow 2 1 2 30, Katherine Lei 1 0 1 10, Matthew Shu 1 1 0 25
+Bonuses: Montgomery Blair B 11 280 25.45, Montgomery Blair A 9 220 24.44
+
+Montgomery Blair C 365, Richard Montgomery A 300
+Richard Montgomery A: Abhinav Karthikeyan 3 3 0 75, Michael Xie 1 2 0 35, Aries Wang 0 0 0 0
+Montgomery Blair C: Haydn Gwyn 3 1 1 50, Clarence Lam 1 0 0 15, Alexander Constantino 2 4 0 70
+Bonuses: Richard Montgomery A 9 190 21.11, Montgomery Blair C 11 230 20.91
+
+Langley B 300, Langley C 240
+Langley C: Aditya Khera 0 2 0 20, Isabella Huang 0 1 0 10, Nima Razavi 0 3 0 30, Ari Tretiak 1 1 1 20
+Langley B: Daniel Mousavi 2 1 1 35, Victoria Li 0 0 0 0, William Orr 1 3 1 40, Joseph Dooley 1 3 2 35
+Bonuses: Langley C 8 160 20.00, Langley B 11 190 17.27
+
+Thomas S. Wootton 380, BASIS McLean B 100
+BASIS McLean B: Kiren James 0 0 0 0, Charles Tai 0 4 0 40, Andy Zhang 0 0 0 0
+Thomas S. Wootton: Arnav Patra 4 2 2 70, Surya Perla 1 2 1 30, Mollika Singh 2 2 0 50, Bojun Li 0 0 0 0
+Bonuses: BASIS McLean B 4 60 15.00, Thomas S. Wootton 13 230 17.69
+
+Catonsville 245, Langley A 170
+Langley A: Selena Bao 3 3 1 70, Shahan Salam 0 2 2 10
+Catonsville: Adam Fu 1 4 0 55, David Dzingeleski 1 2 2 25, Mathias Abebe 0 1 0 10, Trinity Antoszewski 0 0 0 0
+Bonuses: Langley A 8 90 11.25, Catonsville 9 155 17.22
+
+Montgomery Blair A 435, Richard Montgomery A 175
+Richard Montgomery A: Abhinav Karthikeyan 3 1 0 55, Michael Xie 0 1 0 10, Aries Wang 0 1 0 10
+Montgomery Blair A: Anson Berns 2 3 3 45, Ian Rackow 1 1 1 20, Katherine Lei 2 0 0 30, Matthew Shu 2 2 0 50
+Bonuses: Richard Montgomery A 6 100 16.67, Montgomery Blair A 13 290 22.31
+
+BASIS McLean A 340, Richard Montgomery B 120
+Richard Montgomery B: Justin Posner 2 2 1 45, Jerry Shen 0 0 1 -5, Jaewoo Chung 0 1 0 10
+BASIS McLean A: Justin Ward 4 4 1 95, Anna Yang 0 1 1 5, Sam Kaufman 0 1 1 5, Jiaming Zhang 1 0 0 15
+Bonuses: Richard Montgomery B 5 70 14.00, BASIS McLean A 11 220 20.00
+
+McLean 205, Penn Manor 180
+McLean: Justin Young 3 3 0 75, Tiara Allard 0 0 0 0, Nischal Dinesh 0 1 0 10
+Penn Manor: Connor Mayers 4 4 6 70
+Bonuses: McLean 7 120 17.14, Penn Manor 8 110 13.75
+
+Montgomery Blair B 430, Montgomery Blair C 200
+Montgomery Blair B: Sophia Weng 3 4 1 80, Shawn Zhao 1 1 1 20, Lee Lemar 1 0 0 15, Albert Ho 2 0 1 25
+Montgomery Blair C: Haydn Gwyn 2 3 0 60, Clarence Lam 0 0 0 0, Alexander Constantino 2 1 0 40
+Bonuses: Montgomery Blair B 12 290 24.17, Montgomery Blair C 8 100 12.50
+
+Montgomery Blair A 590, BASIS McLean A 95
+BASIS McLean A: Justin Ward 2 0 1 25, Anna Yang 0 0 0 0, Sam Kaufman 0 0 1 -5, Jiaming Zhang 0 1 1 5
+Montgomery Blair A: Anson Berns 4 4 1 95, Ian Rackow 2 1 1 35, Katherine Lei 3 1 0 55, Matthew Shu 1 0 0 15
+Bonuses: BASIS McLean A 3 70 23.33, Montgomery Blair A 16 390 24.38
+
+Richard Montgomery A 315, Richard Montgomery B 200
+Richard Montgomery B: Justin Posner 4 2 3 65, Jerry Shen 0 1 0 10, Jaewoo Chung 0 0 1 -5
+Richard Montgomery A: Abhinav Karthikeyan 1 6 3 60, Michael Xie 3 1 0 55, Aries Wang 0 0 0 0
+Bonuses: Richard Montgomery B 7 130 18.57, Richard Montgomery A 11 200 18.18
+
+Montgomery Blair B 405, McLean 230
+McLean: Justin Young 3 2 0 65, Tiara Allard 0 0 0 0, Nischal Dinesh 1 1 0 25
+Montgomery Blair B: Sophia Weng 7 2 0 125, Shawn Zhao 1 1 2 15, Lee Lemar 0 0 1 -5, Albert Ho 1 0 1 10
+Bonuses: McLean 7 140 20.00, Montgomery Blair B 12 260 21.67
+
+Montgomery Blair C 335, Penn Manor 210
+Penn Manor: Connor Mayers 4 5 2 100
+Montgomery Blair C: Haydn Gwyn 3 2 2 55, Clarence Lam 0 0 0 0, Alexander Constantino 3 3 1 70
+Bonuses: Penn Manor 9 110 12.22, Montgomery Blair C 11 210 19.09
+
+Langley B 355, Thomas S. Wootton 155
+Langley B: Daniel Mousavi 2 4 0 70, Victoria Li 0 0 0 0, William Orr 1 4 0 55, Joseph Dooley 0 3 0 30
+Thomas S. Wootton: Arnav Patra 3 3 2 65, Surya Perla 0 0 0 0, Mollika Singh 0 0 0 0, Bojun Li 0 0 0 0
+Bonuses: Langley B 14 200 14.29, Thomas S. Wootton 6 90 15.00
+
+Langley C 345, BASIS McLean B 105
+Langley C: Aditya Khera 2 3 1 55, Isabella Huang 0 1 1 5, Nima Razavi 1 1 0 25, Ari Tretiak 1 3 1 40
+BASIS McLean B: Kiren James 0 0 0 0, Charles Tai 1 6 0 75, Andy Zhang 0 0 0 0
+Bonuses: Langley C 12 220 18.33, BASIS McLean B 7 30 4.29
+
+Winston Churchill 315, Langley A 160
+Langley A: Selena Bao 3 3 2 65, Shahan Salam 1 1 0 25
+Winston Churchill: Manu Sundaresan 1 0 1 10, Michael Kalin 0 1 1 5, Adlee Heshmat 1 3 0 45, Stevie Miller 1 4 0 55
+Bonuses: Langley A 8 70 8.75, Winston Churchill 11 200 18.18
+
+Montgomery Blair A 405, Montgomery Blair B 310
+Montgomery Blair B: Shawn Zhao 1 0 1 10, Sophia Weng 2 3 2 50, Lee Lemar 1 1 0 25, Albert Ho 1 0 0 15
+Montgomery Blair A: Katherine Lei 2 1 1 35, Anson Berns 2 2 1 45, Matthew Shu 1 1 1 20, Ian Rackow 2 0 1 25
+Bonuses: Montgomery Blair B 9 210 23.33, Montgomery Blair A 11 280 25.45
+
+Montgomery Blair A 475, Montgomery Blair B 285
+Montgomery Blair B: Shawn Zhao 3 0 2 35, Sophia Weng 2 1 1 35, Lee Lemar 1 0 0 15, Albert Ho 1 0 1 10
+Montgomery Blair A: Katherine Lei 1 0 1 10, Anson Berns 5 2 2 85, Matthew Shu 1 1 0 25, Ian Rackow 1 1 0 25
+Bonuses: Montgomery Blair B 8 190 23.75, Montgomery Blair A 12 330 27.50

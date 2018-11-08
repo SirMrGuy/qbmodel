@@ -1,0 +1,1165 @@
+Round 1
+
+Blacksburg A 390, Jefferson Forest B 45
+Blacksburg A: Cedric C 0 1 0 10, Vish S 2 5 0 80, Robert L 0 2 0 20, Firas D 1 5 1 60
+Jefferson Forest B: Luke Moon 0 0 1 -5, Michael Kricheldorf 0 0 0 0, Andrew Chang 0 2 0 20, Madison Martin 0 0 0 0
+Bonuses: Blacksburg A 16 220 13.75, Jefferson Forest B 2 30 15.00
+
+Jamestown 375, Langley B 265
+Langley B: Shahan Salam 0 0 0 0, Selena Bao 1 1 0 25, Matt Rubin 1 4 0 55, Daniel Mousavi 1 0 0 15
+Jamestown: Kieran Barre 0 1 0 10, David Bass 3 1 1 50, Isaac Criddle 2 1 0 40, Sam Kiser 1 3 0 45
+Bonuses: Langley B 8 170 21.25, Jamestown 12 230 19.17
+
+Maggie Walker C 200, Mountain Vista A 195
+Mountain Vista A: Joseph Sabol 1 3 2 35, Derek Sprincis 0 4 0 40, Niklas Blood 0 0 0 0, Annalee Wisecarver 0 1 0 10
+Maggie Walker C: Ajay Srinivasan 0 2 1 15, Nicholas Favale 1 1 0 25, Amanda Perez 1 1 0 25, Quinn Kast 1 1 0 25
+Bonuses: Mountain Vista A 9 110 12.22, Maggie Walker C 8 110 13.75
+
+Langley A 270, Kettle Run A 210
+Kettle Run A: Joshua Wine 0 5 0 50, Miles Housley 0 2 0 20, Nick McCloskey 0 1 0 10, Joseph Rowell 0 1 0 10
+Langley A: William Orr 0 4 2 30, Dan Ni 2 2 1 45, Aidan 0 2 1 15, Justin Chen 0 0 0 0
+Bonuses: Kettle Run A 9 120 13.33, Langley A 10 180 18.00
+
+Fort Defiance B 135, Jefferson Forest C 90
+Fort Defiance B: Gabriela 0 0 0 0, Emily 0 0 0 0, Jonas 0 1 0 10, Roth 0 3 1 25, Grace 0 2 0 20, Noah 0 1 0 10
+Jefferson Forest C: Will Duis 0 2 0 20, William Jeon 0 3 0 30, Emiko Ebreneyin 0 0 0 0, Jing Lei Wales 0 0 0 0
+Bonuses: Fort Defiance B 7 70 10.00, Jefferson Forest C 5 40 8.00
+
+McLean B 220, VES A 190
+VES A: Nate Baugher 0 1 0 10, Bruno Paso 0 2 1 15, Wilson Smith 0 5 1 45, Sebastian Knebel 0 0 0 0
+McLean B: Nischal Dinesh 3 3 1 70, Grace Chung 0 3 0 30, Nathan McCarley 0 0 0 0
+Bonuses: VES A 8 120 15.00, McLean B 9 120 13.33
+
+Maggie Walker B 400, Blacksburg C 105
+Maggie Walker B: Perisa Ashar 0 0 0 0, Siddharth Venigalla 1 3 2 35, Jack Honig 4 3 0 90, Jackson Lamb 1 1 0 25
+Blacksburg C: Alex R 0 1 0 10, Vansh P 0 3 0 30, Dasol L 0 0 0 0, Kevin Z 0 0 1 -5
+Bonuses: Maggie Walker B 13 250 19.23, Blacksburg C 4 70 17.50
+
+Fort Defiance A 355, Eastern Montgomery A 150
+Fort Defiance A: Alex 0 4 0 40, Max 1 1 0 25, Julian 1 4 0 55, Andrew 1 0 0 15
+Eastern Montgomery A: Laney Edwards 0 1 0 10, Gabe Bolding 0 5 0 50, Brett Smith 0 0 0 0, Skylar Jones 0 0 0 0
+Bonuses: Fort Defiance A 12 220 18.33, Eastern Montgomery A 6 90 15.00
+
+TC Williams 295, Cave Spring C 130
+Cave Spring C: Charles Collier 1 2 0 35, James Snyder 0 1 0 10, Andela Acic 0 0 0 0, Weston Colip 1 1 0 25
+TC Williams: Kelly Jones 0 0 1 -5, Mark Bailey 3 7 3 100
+Bonuses: Cave Spring C 6 60 10.00, TC Williams 10 200 20.00
+
+Blacksburg B 245, Rappahannock A 175
+Rappahannock A: Daniel Dalle Luca 0 0 0 0, Lauren Petty 0 2 1 15, Alec Petty 1 2 0 35, Bryce Jones 0 3 1 25
+Blacksburg B: Cooper R 0 0 0 0, Bryan K 1 4 2 45, Christian S 1 3 1 40, Cato Z 1 0 1 10
+Bonuses: Rappahannock A 8 100 12.50, Blacksburg B 10 150 15.00
+
+Cave Spring B 395, Kettle Run D 20
+Kettle Run D: Zach Williams 0 0 1 -5, Kenzie McEwen 0 0 0 0, Thomas Harlow 0 0 0 0, Alex P 1 0 0 15
+Cave Spring B: Scott Rose 0 2 0 20, Miles Vance 2 10 1 125, Elliott Kroll 0 2 0 20, Travis Schuck 0 0 0 0
+Bonuses: Kettle Run D 1 10 10.00, Cave Spring B 16 230 14.38
+
+Robinson A 515, Loudoun County B 10
+Loudoun County B: Nathan Smith 0 1 0 10, Caroline Curtin 0 0 0 0, Shrish Balaji 0 0 0 0, Brighton Lieu 0 0 0 0
+Robinson A: Joshua Link 1 5 0 65, Megan Sullivan 1 5 1 60, James Orefice 2 1 0 40, Bridget Sheridan 0 0 0 0
+Bonuses: Loudoun County B 1 0 0.00, Robinson A 15 350 23.33
+
+Western Albemarle A 430, Rappahannock B 0
+Rappahannock B: Cassia Gainer 0 0 0 0, Itsail 0 0 0 0, Heather Smith 0 0 0 0, John McKelvey 0 0 0 0
+Western Albemarle A: Harry Cowen 1 3 0 45, Jack Emery 0 3 1 25, Karen Raphael 1 6 1 70, Mackenzie Whitley 0 1 0 10
+Bonuses: Rappahannock B 0 0 0.00, Western Albemarle A 15 280 18.67
+
+Mountain Vista B 235, Kettle Run C 85
+Kettle Run C: Liam Heppard 0 2 0 20, Sadie Jarrell 1 0 0 15, Griffin Barbeau 0 1 0 10, Marley Rowell 0 0 0 0
+Mountain Vista B: Nick Goudeau 1 9 0 105, Gabriel Smith 0 0 0 0, Caroline Sosnoski 0 0 0 0, Caroline Haddock 0 1 0 10, Adriana Sauntry 0 0 0 0
+Bonuses: Kettle Run C 4 40 10.00, Mountain Vista B 11 120 10.91
+
+Fort Defiance C 130, Jefferson Forest A 125
+Jefferson Forest A: Daniel Moon 0 2 0 20, Catherine Guo 0 1 0 10, Ashley Chang 0 3 1 25, Clare Cocker 0 0 0 0
+Fort Defiance C: Sabrina 0 0 0 0, Elizabeth 0 2 0 20, Katie 0 1 0 10, Isabel 0 4 0 40
+Bonuses: Jefferson Forest A 6 70 11.67, Fort Defiance C 7 60 8.57
+
+Loudoun County A 305, Christiansburg A 135
+Loudoun County A: Tom Anders 1 2 1 30, Connor Moon 0 3 0 30, Kishan Balaji 0 1 2 0, Grace Curtin 0 1 0 10, Devin Mash 0 3 1 25
+Christiansburg A: Coby Lovelace 0 1 0 10, Melanie Fleischer 0 0 0 0, Camden Brewer 0 0 0 0, Jason Kuhn 0 4 1 35, Angelo 0 1 0 10
+Bonuses: Loudoun County A 11 210 19.09, Christiansburg A 6 80 13.33
+
+Freeman A 230, Western Albermarle B 190
+Freeman A: Josh DuPuis 0 0 0 0, Will Chambers 0 1 0 10, Walker Barkstrom 0 8 2 70, Addison Goraflo 0 0 0 0
+Western Albermarle B: Sydney Dell 0 0 0 0, Ben Lennox 0 1 2 0, Charlie Sewell 2 3 2 50, Ben Christopher 1 1 0 25
+Bonuses: Freeman A 9 150 16.67, Western Albermarle B 8 115 14.38
+
+Round 2
+Blacksburg A 310, Mountain Vista A 115
+Blacksburg A: Firas D 0 0 0 0, Robert L 0 2 0 20, Vish S 2 4 0 70, Cedric C 0 4 0 40
+Mountain Vista A: Annalee Wisecarver 0 2 0 20, Joseph Sabol 0 1 1 5, Derek Sprincis 1 2 1 30, Niklas Blood 0 0 0 0
+Bonuses: Blacksburg A 12 180 15.00, Mountain Vista A 6 60 10.00
+
+Robert Bork A 665, Jefferson Forest B -5
+Jefferson Forest B: Andrew Chang 0 0 0 0, Luke Moon 0 0 0 0, Michael Kricheldorf 0 0 1 -5, Madison Martin 0 0 0 0
+Robert Bork A: James Kuang 3 2 0 65, Kevin Wang 3 7 1 110, Julia Zhou 2 2 0 50
+Bonuses: Jefferson Forest B 0 0 0.00, Robert Bork A 19 440 23.16
+
+Jamestown 255, Maggie Walker C 170
+Jamestown: Sam Kiser 2 1 1 35, Isaac Criddle 0 2 0 20, David Bass 2 2 0 50, Kieran Barre 0 1 0 10
+Maggie Walker C: Ajay Srinivasan 1 2 0 35, Nicholas Favale 0 0 0 0, Amanda Perez 2 1 0 40, Quinn Kast 0 2 1 15
+Bonuses: Jamestown 10 140 14.00, Maggie Walker C 8 80 10.00
+
+Langley A 425, McLean B 85
+McLean B: Grace Chung 0 1 0 10, Nathan McCarley 0 2 0 20, Nischal Dinesh 1 0 2 5
+Langley A: William Orr 2 3 0 60, Dan Ni 4 3 1 85, Aidan 0 2 2 10, Justin Chen 0 0 0 0
+Bonuses: McLean B 4 50 12.50, Langley A 14 270 19.29
+
+Cave Spring A 475, Kettle Run A 150
+Cave Spring A: Bennett Snyder 1 1 0 25, Maya Sawh 0 0 0 0, Billy Luqiu 5 3 1 100, Lexie Agee 1 3 1 40
+Kettle Run A: Joshua Wine 0 3 0 30, Miles Housley 0 0 0 0, Joseph Rowell 0 3 0 30, Nick McCloskey 0 0 0 0
+Bonuses: Cave Spring A 14 310 22.14, Kettle Run A 6 90 15.00
+
+VES A 175, Jefferson Forest C 90
+VES A: Nate Baugher 0 0 0 0, Bruno Paso 1 4 1 50, Wilson Smith 0 1 0 10, Sebastian Knebel 1 2 0 35
+Jefferson Forest C: Will Duis 0 2 0 20, William Jeon 1 1 1 20, Emiko Ebreneyin 0 1 0 10, Jing Lei Wales 0 0 0 0
+Bonuses: VES A 9 80 8.89, Jefferson Forest C 5 40 8.00
+
+Maggie Walker B 300, Cave Spring C -5
+Maggie Walker B: Perisa Ashar 0 0 0 0, Siddharth Venigalla 1 4 0 55, Jack Honig 1 5 1 60, Jackson Lamb 1 2 2 25
+Cave Spring C: Weston Colip 0 0 1 -5, Rachel Baffoe-Bonnie 0 0 0 0, James Snyder 0 0 0 0, Charles Collier 0 0 0 0
+Bonuses: Maggie Walker B 14 160 11.43, Cave Spring C 0 0 0.00
+
+Robert Bork B 345, Blacksburg C 105
+Blacksburg C: Alex R 0 0 0 0, Vansh P 1 3 2 35, Dasol L 0 0 0 0, Kevin Z 0 1 0 10
+Robert Bork B: Siddharth Krishnakumar 0 2 0 20, Vishal Kanigcherla 1 5 1 60, Elliot Lee 1 4 0 55
+Bonuses: Blacksburg C 5 60 12.00, Robert Bork B 13 210 16.15
+
+TC Williams 455, Eastern Montgomery A 100
+Eastern Montgomery A: Faith Tes 0 0 0 0, Brett Smith 0 0 0 0, Gabe Bolding 1 3 0 45, Laney Edwards 0 1 1 5
+TC Williams: Kelly Jones 3 0 0 45, Mark Bailey 3 9 1 130
+Bonuses: Eastern Montgomery A 5 50 10.00, TC Williams 15 280 18.67
+
+BASIS McLean 555, Kettle Run D 50
+Kettle Run D: Zach Williams 0 2 0 20, Thomas Harlow 0 0 0 0, Kenzie McEwen 0 0 0 0, Alex P 0 0 0 0
+BASIS McLean: Jiaming Zhang 0 0 1 -5, Anna Yang 0 3 0 30, Justin Ward 3 9 1 130, Sam Kaufman 0 2 0 20
+Bonuses: Kettle Run D 2 30 15.00, BASIS McLean 17 380 22.35
+
+Robinson A 440, Cave Spring B 95
+Robinson A: Bridget Sheridan 0 1 0 10, James Orefice 0 1 0 10, Megan Sullivan 1 2 0 35, Joshua Link 3 7 0 115
+Cave Spring B: Scott Rose 0 0 0 0, Miles Vance 0 3 0 30, Elliott Kroll 0 1 1 5, Travis Schuck 0 0 0 0
+Bonuses: Robinson A 15 270 18.00, Cave Spring B 4 60 15.00
+
+Rappahannock A 315, Loudoun County B 25
+Loudoun County B: Nathan Smith 0 0 2 -10, Caroline Curtin 0 1 1 5, Shrish Balaji 0 1 0 10, Brighton Lieu 0 0 0 0
+Rappahannock A: Serenity Cortez 0 0 0 0, Alec Petty 0 5 0 50, Lauren Petty 1 6 0 75, Bryce Jones 0 2 0 20, Daniel Dalle Luca 0 1 0 10
+Bonuses: Loudoun County B 2 20 10.00, Rappahannock A 15 160 10.67
+
+Western Albemarle A 370, Fort Defiance C 35
+Fort Defiance C: Katie 0 1 1 5, Sabrina 0 1 0 10, Elizabeth 0 0 0 0, Isabel 0 0 0 0
+Western Albemarle A: Harry Cowen 1 3 1 40, Jack Emery 0 2 0 20, Karen Raphael 0 8 0 80, Gauri Prakash 0 2 0 20
+Bonuses: Fort Defiance C 2 20 10.00, Western Albemarle A 16 210 13.12
+
+Maggie Walker A 355, Rappahannock B 90
+Maggie Walker A: Daniel Xue 1 4 0 55, Sonya Stacia 1 4 3 40, Alex Dietrich 0 2 0 20, Dennis Plotnikov 0 2 0 20
+Rappahannock B: Quinn Sanborn 0 0 0 0, Itsail 0 1 0 10, Heather Smith 0 3 0 30, John McKelvey 0 2 0 20
+Bonuses: Maggie Walker A 14 220 15.71, Rappahannock B 6 30 5.00
+
+Mountain Vista B 170, Jefferson Forest A 140
+Jefferson Forest A: Daniel Moon 0 2 0 20, Catherine Guo 0 2 0 20, Ashley Chang 0 1 0 10, Clare Cocker 0 2 0 20
+Mountain Vista B: Adriana Sauntry 0 0 0 0, Caroline Sosnoski 0 3 0 30, Gabriel Smith 0 0 0 0, Nick Goudeau 0 5 0 50, Caroline Haddock 0 2 0 20
+Bonuses: Jefferson Forest A 7 70 10.00, Mountain Vista B 10 70 7.00
+
+Kettle Run B 220, Christiansburg A 200
+Kettle Run B: Nick Faggiano 0 0 0 0, Declan Boyle 1 2 0 35, Catherine Henkel 0 0 0 0, Ethan Jakum 3 3 0 75
+Christiansburg A: Coby Lovelace 1 0 0 15, Melanie Fleischer 0 0 0 0, Camden Brewer 0 0 0 0, Jason Kuhn 1 7 0 85
+Bonuses: Kettle Run B 9 110 12.22, Christiansburg A 9 100 11.11
+
+Kettle Run B 330, Eastern Montgomery B -5
+Kettle Run B: Catherine Henkel 1 0 0 15, Ethan Jakum 2 5 0 80, Declan Boyle 0 3 0 30, Nick Faggiano 0 2 0 20
+Eastern Montgomery B: Jack Graves 0 0 0 0, Ashley Basham 0 0 0 0, Kolten Leyer 0 0 0 0, Kellen Walthall 0 0 1 -5
+Bonuses: Kettle Run B 13 185 14.23, Eastern Montgomery B 0 0 0.00
+
+McLean A 385, Freeman A 170
+McLean A: Eunkyoon Lee 0 0 0 0, Justin Young 6 2 0 110, Janna Serrao 2 1 1 35
+Freeman A: Alex K. 0 0 0 0, Walker Barkstrom 1 2 0 35, Will Chambers 2 1 1 35, Josh DuPuis 0 1 0 10
+Bonuses: McLean A 11 240 21.82, Freeman A 7 90 12.86
+
+Loudoun County A 230, Western Albermarle B 110
+Loudoun County A: Tom Anders 3 3 2 65, Grace Curtin 0 0 0 0, Kishan Balaji 2 2 1 45, Devin Mash 0 0 0 0, Connor Moon 0 1 0 10
+Western Albermarle B: Sydney Dell 0 0 0 0, Ben Lennox 0 1 2 0, Charlie Sewell 0 3 0 30, Ben Christopher 0 2 0 20
+Bonuses: Loudoun County A 11 110 10.00, Western Albermarle B 6 60 10.00
+
+Round 3
+Robert Bork A 345, Langley B 310
+Langley B: Shahan Salam 0 1 1 5, Selena Bao 2 1 0 40, Matt Rubin 3 0 2 35, Daniel Mousavi 3 0 1 40
+Robert Bork A: James Kuang 1 2 1 30, Kevin Wang 3 3 0 75, Julia Zhou 0 1 0 10
+Bonuses: Langley B 10 190 19.00, Robert Bork A 10 230 23.00
+
+Mountain Vista A 205, Jefferson Forest B 135
+Jefferson Forest B: Andrew Chang 0 4 0 40, Luke Moon 0 0 0 0, Michael Kricheldorf 0 3 1 25, Madison Martin 0 1 0 10
+Mountain Vista A: Annalee Wisecarver 2 1 0 40, Derek Sprincis 1 4 1 50, Joseph Sabol 0 1 1 5, Niklas Blood 0 0 0 0
+Bonuses: Jefferson Forest B 8 60 7.50, Mountain Vista A 9 110 12.22
+
+Blacksburg A 325, Jamestown 180
+Jamestown: Sam Kiser 0 1 1 5, Isaac Criddle 0 1 2 0, David Bass 1 4 0 55, Kieran Barre 0 0 0 0
+Blacksburg A: Cedric C 0 2 0 20, Vish S 3 4 0 85, Robert L 0 3 0 30, Firas D 0 0 0 0
+Bonuses: Jamestown 7 120 17.14, Blacksburg A 12 190 15.83
+
+Cave Spring A 480, Fort Defiance B 75
+Cave Spring A: Bennett Snyder 0 1 2 0, Maya Sawh 0 1 0 10, Billy Luqiu 6 4 1 125, Lexie Agee 0 3 1 25
+Fort Defiance B: Roth 1 2 2 25, Grace 0 0 0 0, Jonas 0 0 0 0, Gabriela 0 1 0 10
+Bonuses: Cave Spring A 15 320 21.33, Fort Defiance B 4 40 10.00
+
+Kettle Run A 330, McLean B 140
+McLean B: Nischal Dinesh 3 1 0 55, Grace Chung 0 0 2 -10, Nathan McCarley 1 1 0 25
+Kettle Run A: Joshua Wine 1 3 0 45, Miles Housley 0 4 1 35, Nick McCloskey 0 2 0 20, Joseph Rowell 0 2 0 20
+Bonuses: McLean B 6 70 11.67, Kettle Run A 12 210 17.50
+
+Langley A 395, Jefferson Forest C 50
+Jefferson Forest C: Will Duis 0 1 0 10, William Jeon 0 2 1 15, Emiko Ebreneyin 0 1 1 5, Jing Lei Wales 0 0 0 0
+Langley A: William Orr 1 2 2 25, Dan Ni 2 3 3 45, Aidan 3 2 0 65, Justin Chen 0 0 0 0
+Bonuses: Jefferson Forest C 4 20 5.00, Langley A 13 260 20.00
+
+Fort Defiance A 255, Robert Bork B 235
+Robert Bork B: Elliot Lee 0 2 0 20, Vishal Kanigcherla 0 1 2 0, Siddharth Krishnakumar 1 5 0 65
+Fort Defiance A: Julian 0 5 0 50, Max 0 5 1 45, Hamie 0 0 0 0, Alex 0 0 0 0
+Bonuses: Robert Bork B 9 150 16.67, Fort Defiance A 10 160 16.00
+
+Blacksburg C 310, Cave Spring C 70
+Cave Spring C: Andela Acic 0 0 0 0, Rachel Baffoe-Bonnie 0 2 0 20, James Snyder 0 0 0 0, Charles Collier 0 2 0 20
+Blacksburg C: Alex R 0 3 0 30, Vansh P 0 9 1 85, Dasol L 0 0 0 0, Kevin Z 1 2 0 35
+Bonuses: Cave Spring C 4 30 7.50, Blacksburg C 15 160 10.67
+
+Eastern Montgomery A 215, Maggie Walker B 195
+Maggie Walker B: Perisa Ashar 0 0 0 0, Siddharth Venigalla 0 3 2 20, Jack Honig 1 1 2 15, Jackson Lamb 2 1 0 40
+Eastern Montgomery A: Laney Edwards 0 1 1 5, Brett Smith 1 0 1 10, Gabe Bolding 0 7 0 70, Skylar Jones 0 0 0 0
+Bonuses: Maggie Walker B 8 120 15.00, Eastern Montgomery A 9 130 14.44
+
+Robinson A 440, Kettle Run D 90
+Kettle Run D: Zach Williams 0 3 0 30, Thomas Harlow 0 0 0 0, Kenzie McEwen 0 0 0 0, Alex P 0 1 0 10
+Robinson A: Joshua Link 1 4 1 50, Megan Sullivan 1 2 1 30, James Orefice 1 5 1 60, Bridget Sheridan 0 1 0 10
+Bonuses: Kettle Run D 4 50 12.50, Robinson A 15 290 19.33
+
+BASIS McLean 400, Blacksburg B 220
+BASIS McLean: Sam Kaufman 1 1 0 25, Justin Ward 2 5 0 80, Anna Yang 0 1 0 10, Jiaming Zhang 2 0 0 30
+Blacksburg B: Cato Z 0 4 1 35, Christian S 2 1 0 40, Bryan K 0 0 0 0, Cooper R 0 0 1 -5
+Bonuses: BASIS McLean 12 255 21.25, Blacksburg B 7 150 21.43
+
+Cave Spring B 315, Rappahannock A 145
+Cave Spring B: Scott Rose 0 0 0 0, Miles Vance 2 7 1 95, Travis Schuck 0 3 0 30, Elliott Kesler 0 0 0 0
+Rappahannock A: Daniel Dalle Luca 0 0 0 0, Alec Petty 0 1 1 5, Lauren Petty 0 3 0 30, Bryce Jones 0 1 0 10, Serenity Cortez 0 1 0 10
+Bonuses: Cave Spring B 12 190 15.83, Rappahannock A 6 90 15.00
+
+Maggie Walker A 530, Kettle Run C 0
+Kettle Run C: Griffin Barbeau 0 0 0 0, Marley Rowell 0 0 0 0, Liam Heppard 0 0 0 0, Sadie Jarrell 0 0 0 0
+Maggie Walker A: Sonya Stacia 1 2 1 30, Dennis Plotnikov 0 3 0 30, Alex Dietrich 1 4 0 55, Daniel Xue 1 6 0 75
+Bonuses: Kettle Run C 0 0 0.00, Maggie Walker A 18 340 18.89
+
+Fort Defiance C 115, Rappahannock B 50
+Fort Defiance C: Katie 0 3 0 30, Sabrina 0 2 1 15, Amanda 0 0 0 0, Isabel 0 2 0 20
+Rappahannock B: Cassia Gainer 0 1 0 10, Itsail 0 1 0 10, Heather Smith 0 2 0 20, John McKelvey 0 0 0 0
+Bonuses: Fort Defiance C 7 50 7.14, Rappahannock B 4 10 2.50
+
+Western Albemarle A 460, Mountain Vista B 55
+Western Albemarle A: Mackenzie Whitley 0 0 0 0, Karen Raphael 3 9 0 135, Jack Emery 1 1 0 25, Harry Cowen 0 1 0 10, Gauri Prakash 0 1 0 10
+Mountain Vista B: Adriana Sauntry 0 0 0 0, Caroline Sosnoski 1 1 0 25, Gabriel Smith 0 0 0 0, Nick Goudeau 0 0 0 0, Caroline Haddock 0 1 0 10
+Bonuses: Western Albemarle A 16 280 17.50, Mountain Vista B 3 20 6.67
+
+Kettle Run B 380, Western Albermarle B 120
+Kettle Run B: Nick Faggiano 1 1 0 25, Declan Boyle 2 1 0 40, Catherine Henkel 1 0 0 15, Ethan Jakum 2 7 0 100
+Western Albermarle B: Ben Christopher 1 1 0 25, Ben Lennox 0 0 1 -5, Charlie Sewell 1 1 1 20, Sydney Dell 0 0 0 0
+Bonuses: Kettle Run B 15 200 13.33, Western Albermarle B 4 80 20.00
+
+Freeman A 365, Loudoun County A 155
+Loudoun County A: Tom Anders 0 1 2 0, Kishan Balaji 2 1 0 40, Connor Moon 0 1 0 10, Devin Mash 0 1 1 5
+Freeman A: Alex K. 0 0 0 0, Walker Barkstrom 0 6 2 50, Will Chambers 1 5 0 65, Josh DuPuis 0 1 0 10
+Bonuses: Loudoun County A 6 100 16.67, Freeman A 13 240 18.46
+
+McLean A 600, Eastern Montgomery B 10
+Eastern Montgomery B: Jack Graves 0 0 0 0, Kolten Leyer 0 0 0 0, Kellen Walthall 0 1 0 10
+McLean A: Janna Serrao 1 0 0 15, Justin Young 9 7 1 200, Eunkyoon Lee 0 1 1 5
+Bonuses: Eastern Montgomery B 1 0 0.00, McLean A 18 380 21.11
+
+Round 4
+Langley B 370, Maggie Walker C 100
+Langley B: Shahan Salam 0 0 0 0, Selena Bao 2 2 1 45, Matt Rubin 2 4 0 70, Daniel Mousavi 0 1 1 5
+Maggie Walker C: Ajay Srinivasan 0 0 0 0, Nicholas Favale 1 3 1 40, Amanda Perez 0 0 0 0, Quinn Kast 0 1 0 10
+Bonuses: Langley B 11 250 22.73, Maggie Walker C 5 50 10.00
+
+Jamestown 315, Jefferson Forest B 40
+Jefferson Forest B: Andrew Chang 0 0 0 0, Luke Moon 0 0 0 0, Michael Kricheldorf 0 2 0 20, Madison Martin 0 2 0 20
+Jamestown: Kieran Barre 0 0 0 0, David Bass 2 5 1 75, Isaac Criddle 0 2 2 10, Sam Kiser 0 3 2 20
+Bonuses: Jefferson Forest B 4 0 0.00, Jamestown 12 210 17.50
+
+Robert Bork A 525, Mountain Vista A 45
+Mountain Vista A: Joseph Sabol 0 1 1 5, Derek Sprincis 0 1 2 0, Niklas Blood 0 0 0 0, Annalee Wisecarver 0 0 0 0
+Robert Bork A: James Kuang 3 2 0 65, Kevin Wang 3 6 0 105, Julia Zhou 0 2 1 15
+Bonuses: Mountain Vista A 2 40 20.00, Robert Bork A 16 340 21.25
+
+VES A 255, Fort Defiance B 60
+VES A: Nate Baugher 0 2 0 20, Bruno Paso 0 5 1 45, Wilson Smith 0 5 0 50, Sebastian Knebel 0 0 0 0
+Fort Defiance B: Noah 0 0 0 0, Roth 0 2 2 10, Jonas 0 0 0 0, Emily 0 1 0 10
+Bonuses: VES A 12 140 11.67, Fort Defiance B 3 40 13.33
+
+Kettle Run A 295, Jefferson Forest C 35
+Jefferson Forest C: William Jeon 0 0 0 0, Jing Lei Wales 0 0 0 0, Emiko Ebreneyin 0 0 1 -5, Will Duis 0 2 0 20
+Kettle Run A: Joshua Wine 0 5 0 50, Miles Housley 0 3 0 30, Nick McCloskey 0 1 1 5, Joseph Rowell 0 4 0 40
+Bonuses: Jefferson Forest C 2 20 10.00, Kettle Run A 13 170 13.08
+
+Cave Spring A 515, McLean B 125
+Cave Spring A: Bennett Snyder 0 3 0 30, Maya Sawh 0 0 1 -5, Billy Luqiu 4 5 1 105, Lexie Agee 1 2 0 35
+McLean B: Nischal Dinesh 0 2 0 20, Nathan McCarley 0 0 0 0, Grace Chung 0 3 1 25
+Bonuses: Cave Spring A 15 350 23.33, McLean B 5 80 16.00
+
+TC Williams 335, Fort Defiance A 170
+TC Williams: Mark Bailey 1 11 2 115, Kelly Jones 0 1 0 10
+Fort Defiance A: Andrew 0 0 1 -5, Max 1 1 0 25, Julian 0 3 0 30, Alex 0 0 0 0
+Bonuses: TC Williams 13 210 16.15, Fort Defiance A 5 120 24.00
+
+Blacksburg C 165, Eastern Montgomery A 140
+Blacksburg C: Kevin Z 0 1 1 5, Vansh P 0 4 0 40, Dasol L 0 1 0 10, Alex R 0 2 0 20
+Eastern Montgomery A: Laney Edwards 0 0 0 0, Gabe Bolding 0 7 0 70, Brett Smith 0 0 0 0, Faith Tes 0 0 0 0
+Bonuses: Blacksburg C 8 90 11.25, Eastern Montgomery A 7 70 10.00
+
+Robert Bork B 305, Cave Spring C 70
+Robert Bork B: Elliot Lee 0 2 0 20, Vishal Kanigcherla 3 3 2 65, Siddharth Krishnakumar 0 4 0 40
+Cave Spring C: Rachel Baffoe-Bonnie 0 1 0 10, Weston Colip 0 1 0 10, James Snyder 0 2 0 20, Charles Collier 0 0 0 0
+Bonuses: Robert Bork B 12 180 15.00, Cave Spring C 4 30 7.50
+
+Rappahannock A 165, Kettle Run D 40
+Kettle Run D: Zach Williams 0 3 0 30, Thomas Harlow 0 0 0 0, Kenzie McEwen 0 0 0 0, Alex P 0 0 0 0
+Rappahannock A: Serenity Cortez 0 1 0 10, Alec Petty 0 3 0 30, Lauren Petty 0 4 0 40, Bryce Jones 0 2 1 15, Daniel Dalle Luca 0 0 0 0
+Bonuses: Kettle Run D 3 10 3.33, Rappahannock A 10 70 7.00
+
+Blacksburg B 260, Loudoun County B 20
+Loudoun County B: Nathan Smith 0 1 0 10, Caroline Curtin 0 1 0 10, Shrish Balaji 0 0 0 0, Brighton Lieu 0 0 0 0
+Blacksburg B: Cato Z 0 3 0 30, Christian S 0 3 0 30, Bryan K 0 4 1 35, Cooper R 1 1 0 25
+Bonuses: Loudoun County B 2 0 0.00, Blacksburg B 12 140 11.67
+
+Robinson A 300, BASIS McLean 205
+BASIS McLean: Jiaming Zhang 0 0 0 0, Sam Kaufman 1 0 2 5, Justin Ward 2 3 3 45, Anna Yang 1 0 0 15
+Robinson A: Joshua Link 1 5 0 65, Megan Sullivan 1 3 0 45, James Orefice 0 0 0 0, Bridget Sheridan 0 0 0 0
+Bonuses: BASIS McLean 7 140 20.00, Robinson A 10 190 19.00
+
+Kettle Run C 100, Jefferson Forest A 85
+Kettle Run C: Sadie Jarrell 0 1 0 10, Marley Rowell 0 1 0 10, Liam Heppard 0 1 0 10, Griffin Barbeau 0 2 0 20
+Jefferson Forest A: Clare Cocker 0 0 0 0, Ashley Chang 0 6 1 55, Catherine Guo 0 0 0 0, Daniel Moon 0 0 0 0
+Bonuses: Kettle Run C 5 50 10.00, Jefferson Forest A 6 30 5.00
+
+Mountain Vista B 130, Rappahannock B 10
+Mountain Vista B: Caroline Haddock 0 0 1 -5, Adriana Sauntry 0 0 0 0, Gabriel Smith 0 0 0 0, Nick Goudeau 0 7 1 65, Caroline Sosnoski 0 0 0 0
+Rappahannock B: Cassia Gainer 0 0 0 0, Itsail 0 0 0 0, Heather Smith 0 0 0 0, John McKelvey 0 1 0 10
+Bonuses: Mountain Vista B 7 70 10.00, Rappahannock B 1 0 0.00
+
+Maggie Walker A 330, Fort Defiance C 50
+Maggie Walker A: Alex Dietrich 1 2 1 30, Sonya Stacia 0 4 1 35, Daniel Xue 0 5 0 50, Dennis Plotnikov 0 1 1 5
+Fort Defiance C: Isabel 0 1 0 10, Elizabeth 0 2 0 20, Sabrina 0 0 0 0, Katie 0 0 0 0
+Bonuses: Maggie Walker A 13 210 16.15, Fort Defiance C 3 20 6.67
+
+McLean A 535, Loudoun County A 75
+McLean A: Janna Serrao 0 0 0 0, Justin Young 6 8 0 170, Eunkyoon Lee 1 0 0 15
+Loudoun County A: Grace Curtin 0 1 0 10, Connor Moon 0 0 1 -5, Tom Anders 0 1 1 5, Kishan Balaji 1 0 0 15
+Bonuses: McLean A 15 350 23.33, Loudoun County A 3 50 16.67
+
+Freeman A 245, Kettle Run B 215
+Kettle Run B: Catherine Henkel 0 1 0 10, Ethan Jakum 0 4 2 30, Declan Boyle 0 3 1 25, Nick Faggiano 0 2 0 20
+Freeman A: Addison Goraflo 0 1 0 10, Walker Barkstrom 1 3 3 30, Will Chambers 0 3 0 30, Jacob B. 1 0 0 15
+Bonuses: Kettle Run B 10 130 13.00, Freeman A 9 160 17.78
+
+Christiansburg A 210, Eastern Montgomery B 30
+Christiansburg A: Camden Brewer 0 4 0 40, Melanie Fleischer 0 0 0 0, Jason Kuhn 0 6 0 60
+Eastern Montgomery B: Kellen Walthall 0 0 0 0, Kolten Leyer 0 0 0 0, Ashley Basham 0 0 0 0, Jack Graves 0 2 0 20
+Bonuses: Christiansburg A 10 110 11.00, Eastern Montgomery B 2 10 5.00
+
+Round 5
+Robert Bork A 565, Maggie Walker C 70
+Maggie Walker C: Quinn Kast 0 1 0 10, Amanda Perez 0 2 0 20, Nicholas Favale 0 1 2 0, Ajay Srinivasan 0 0 0 0
+Robert Bork A: James Kuang 2 2 0 50, Kevin Wang 2 6 0 90, Julia Zhou 2 2 1 45
+Bonuses: Maggie Walker C 4 40 10.00, Robert Bork A 16 380 23.75
+
+Langley B 370, Blacksburg A 160
+Langley B: Shahan Salam 1 1 0 25, Selena Bao 1 1 0 25, Matt Rubin 1 2 1 30, Daniel Mousavi 1 3 1 40
+Blacksburg A: Cedric C 0 2 1 15, Vish S 1 2 0 35, Robert L 0 1 0 10, Firas D 0 1 0 10
+Bonuses: Langley B 11 250 22.73, Blacksburg A 7 90 12.86
+
+McLean B 135, Jefferson Forest C 70
+McLean B: Nischal Dinesh 0 3 2 20, Grace Chung 1 3 0 45, Nathan McCarley 0 1 0 10
+Jefferson Forest C: Emiko Ebreneyin 0 1 0 10, Jing Lei Wales 0 0 0 0, William Jeon 0 0 0 0, Will Duis 0 4 0 40
+Bonuses: McLean B 8 60 7.50, Jefferson Forest C 5 20 4.00
+
+Cave Spring A 340, VES A 175
+VES A: Nate Baugher 0 1 0 10, Bruno Paso 1 2 0 35, Wilson Smith 0 2 0 20, Sebastian Knebel 0 1 0 10
+Cave Spring A: Lexie Agee 1 1 1 20, Billy Luqiu 5 1 2 75, Maya Sawh 0 0 0 0, Bennett Snyder 0 2 1 15
+Bonuses: VES A 7 100 14.29, Cave Spring A 10 230 23.00
+
+Langley A 360, Fort Defiance B 50
+Fort Defiance B: Jonas 0 2 0 20, Grace 0 0 0 0, Gabriela 0 0 0 0, Emily 0 1 0 10
+Langley A: William Orr 0 3 0 30, Dan Ni 5 4 0 115, Aidan 0 1 2 0, Justin Chen 1 0 0 15
+Bonuses: Fort Defiance B 3 20 6.67, Langley A 14 200 14.29
+
+Jamestown 440, Mountain Vista A 65
+Mountain Vista A: Joseph Sabol 0 1 0 10, Niklas Blood 0 0 0 0, Derek Sprincis 1 1 2 15, Annalee Wisecarver 0 1 0 10
+Jamestown: Kieran Barre 0 1 0 10, David Bass 2 4 1 65, Isaac Criddle 2 2 1 45, Sam Kiser 0 3 0 30
+Bonuses: Mountain Vista A 4 30 7.50, Jamestown 14 290 20.71
+
+Eastern Montgomery A 245, Cave Spring C 135
+Eastern Montgomery A: Skylar Jones 0 0 0 0, Brett Smith 0 4 1 35, Gabe Bolding 2 5 0 80, Laney Edwards 0 0 0 0
+Cave Spring C: Andela Acic 0 0 0 0, Rachel Baffoe-Bonnie 0 3 0 30, Weston Colip 1 1 0 25, Charles Collier 0 2 0 20
+Bonuses: Eastern Montgomery A 11 130 11.82, Cave Spring C 7 60 8.57
+
+TC Williams 420, Robert Bork B 185
+Robert Bork B: Elliot Lee 0 2 1 15, Vishal Kanigcherla 1 2 1 30, Siddharth Krishnakumar 0 1 0 10
+TC Williams: Mark Bailey 6 7 2 150, Kelly Jones 0 1 0 10
+Bonuses: Robert Bork B 6 130 21.67, TC Williams 14 260 18.57
+
+Fort Defiance A 235, Maggie Walker B 210
+Maggie Walker B: Perisa Ashar 0 0 1 -5, Siddharth Venigalla 1 4 1 50, Jack Honig 1 1 1 20, Jackson Lamb 1 0 2 5
+Fort Defiance A: Julian 0 6 0 60, Max 0 2 0 20, Hamie 1 1 0 25, Alex 0 0 0 0
+Bonuses: Maggie Walker B 8 140 17.50, Fort Defiance A 10 130 13.00
+
+BASIS McLean 550, Loudoun County B 0
+Loudoun County B: Nathan Smith 0 0 0 0, Caroline Curtin 0 0 0 0, Shrish Balaji 0 0 0 0, Brighton Lieu 0 0 0 0
+BASIS McLean: Jiaming Zhang 2 1 0 40, Anna Yang 0 0 0 0, Justin Ward 5 5 1 120, Sam Kaufman 2 1 0 40
+Bonuses: Loudoun County B 0 0 0.00, BASIS McLean 16 350 21.88
+
+Robinson A 495, Rappahannock A 30
+Robinson A: Mason Cook 4 3 0 90, James Orefice 0 0 0 0, Megan Sullivan 1 3 0 45, Joshua Link 3 1 1 50
+Rappahannock A: Bryce Jones 0 1 2 0, Daniel Dalle Luca 0 0 0 0, Lauren Petty 0 1 0 10, Alec Petty 0 0 0 0, Serenity Cortez 0 2 0 20
+Bonuses: Robinson A 15 310 20.67, Rappahannock A 4 0 0.00
+
+Cave Spring B 235, Blacksburg B 220
+Cave Spring B: Scott Rose 0 1 1 5, Miles Vance 2 2 0 50, Elliott Kroll 0 1 0 10, Elliott Kesler 0 0 0 0, Travis Schuck 1 1 1 20
+Blacksburg B: Cooper R 0 0 0 0, Bryan K 0 1 1 5, Christian S 0 1 0 10, Cato Z 1 7 0 85
+Bonuses: Cave Spring B 8 150 18.75, Blacksburg B 10 120 12.00
+
+Mountain Vista B 130, Fort Defiance C 70
+Mountain Vista B: Gabriel Smith 0 0 0 0, Caroline Haddock 2 1 0 40, Caroline Sosnoski 0 2 1 15, Nick Goudeau 0 3 1 25
+Fort Defiance C: Isabel 0 3 0 30, Elizabeth 0 1 0 10, Amanda 0 1 0 10, Sabrina 0 0 0 0
+Bonuses: Mountain Vista B 8 50 6.25, Fort Defiance C 5 20 4.00
+
+Maggie Walker A 435, Jefferson Forest A 25
+Maggie Walker A: Alex Dietrich 1 1 0 25, Sonya Stacia 1 4 1 50, Daniel Xue 0 3 1 25, Dennis Plotnikov 1 4 0 55
+Jefferson Forest A: Clare Cocker 0 0 0 0, Ashley Chang 0 0 0 0, Catherine Guo 0 1 1 5, Daniel Moon 0 0 0 0
+Bonuses: Maggie Walker A 15 280 18.67, Jefferson Forest A 1 20 20.00
+
+Western Albemarle A 430, Kettle Run C 70
+Western Albemarle A: Mackenzie Whitley 0 1 0 10, Karen Raphael 2 2 0 50, Jack Emery 1 4 0 55, Harry Cowen 1 3 0 45, Gauri Prakash 0 1 0 10
+Kettle Run C: Sadie Jarrell 0 1 0 10, Griffin Barbeau 0 0 0 0, Liam Heppard 0 2 0 20, Marley Rowell 0 0 0 0
+Bonuses: Western Albemarle A 15 260 17.33, Kettle Run C 3 40 13.33
+
+Western Albermarle B 110, Eastern Montgomery B 65
+Western Albermarle B: Ben Christopher 0 1 2 0, Ben Lennox 0 4 0 40, Charlie Sewell 1 1 0 25, Sydney Dell 0 0 1 -5
+Eastern Montgomery B: Kellen Walthall 0 2 1 15, Kolten Leyer 0 0 0 0, Ashley Basham 0 0 0 0, Jack Graves 0 3 0 30
+Bonuses: Western Albermarle B 7 50 7.14, Eastern Montgomery B 5 20 4.00
+
+McLean A 440, Christiansburg A 90
+McLean A: Eunkyoon Lee 0 0 0 0, Justin Young 4 7 3 115, Janna Serrao 1 1 0 25
+Christiansburg A: Coby Lovelace 0 2 0 20, Camden Brewer 0 1 0 10, Melanie Fleischer 0 0 0 0, Jason Kuhn 0 2 0 20
+Bonuses: McLean A 13 300 23.08, Christiansburg A 5 40 8.00
+
+Loudoun County A 265, Kettle Run B 165
+Loudoun County A: Tom Anders 1 3 2 35, Connor Moon 1 2 0 35, Kishan Balaji 1 0 2 5, Devin Mash 0 0 1 -5, Grace Curtin 1 1 0 25
+Kettle Run B: Nick Faggiano 1 0 0 15, Declan Boyle 0 1 0 10, Catherine Henkel 0 0 0 0, Ethan Jakum 0 6 0 60
+Bonuses: Loudoun County A 10 170 17.00, Kettle Run B 8 80 10.00
+
+Round 6
+Blacksburg A 310, Maggie Walker C 115
+Maggie Walker C: Quinn Kast 0 2 0 20, Amanda Perez 0 1 1 5, Nicholas Favale 0 0 0 0, Ajay Srinivasan 0 2 0 20
+Blacksburg A: Cedric C 0 1 1 5, Vish S 1 5 0 65, Firas D 1 0 1 10, Robert L 1 3 1 40
+Bonuses: Maggie Walker C 5 70 14.00, Blacksburg A 12 190 15.83
+
+Langley B 305, Jefferson Forest B 65
+Langley B: Shahan Salam 0 0 0 0, Selena Bao 2 1 2 30, Matt Rubin 1 5 1 60, Daniel Mousavi 1 1 2 15
+Jefferson Forest B: Andrew Chang 0 0 0 0, Madison Martin 0 1 0 10, Luke Moon 0 0 0 0, Michael Kricheldorf 1 1 0 25
+Bonuses: Langley B 11 200 18.18, Jefferson Forest B 3 30 10.00
+
+Cave Spring A 615, Jefferson Forest C 20
+Jefferson Forest C: Will Duis 0 1 0 10, William Jeon 0 0 0 0, Jing Lei Wales 0 0 0 0, Emiko Ebreneyin 0 0 0 0
+Cave Spring A: Bennett Snyder 1 2 0 35, Maya Sawh 1 1 0 25, Billy Luqiu 3 6 1 100, Lexie Agee 1 4 0 55
+Bonuses: Jefferson Forest C 1 10 10.00, Cave Spring A 19 400 21.05
+
+Langley A 375, VES A 95
+VES A: Nate Baugher 0 0 0 0, Bruno Paso 0 3 1 25, Wilson Smith 0 0 2 -10, Sebastian Knebel 0 2 0 20
+Langley A: William Orr 4 1 1 65, Dan Ni 1 5 3 50, Aidan 0 2 0 20, Justin Chen 0 0 0 0
+Bonuses: VES A 5 60 12.00, Langley A 13 240 18.46
+
+Fort Defiance B 140, Kettle Run A 125
+Fort Defiance B: Noah 0 0 0 0, Grace 0 2 0 20, Roth 1 2 1 30, Emily 0 1 0 10, Jonas 0 0 0 0, Gabriela 0 0 0 0
+Kettle Run A: Joshua Wine 1 2 1 30, Miles Housley 0 3 2 20, Nick McCloskey 0 0 1 -5, Joseph Rowell 0 0 0 0
+Bonuses: Fort Defiance B 6 80 13.33, Kettle Run A 6 80 13.33
+
+Robert Bork A 490, Jamestown 45
+Robert Bork A: Julia Zhou 1 2 0 35, Kevin Wang 5 4 1 110, James Kuang 1 2 2 25
+Jamestown: Kieran Barre 0 0 0 0, David Bass 0 0 0 0, Isaac Criddle 1 0 1 10, Sam Kiser 0 1 1 5
+Bonuses: Robert Bork A 15 320 21.33, Jamestown 2 30 15.00
+
+Robert Bork B 280, Eastern Montgomery A 135
+Eastern Montgomery A: Faith Tes 2 0 0 30, Brett Smith 0 0 0 0, Gabe Bolding 1 2 0 35, Laney Edwards 0 0 0 0
+Robert Bork B: Siddharth Krishnakumar 0 2 0 20, Vishal Kanigcherla 0 5 0 50, Elliot Lee 0 4 0 40
+Bonuses: Eastern Montgomery A 5 70 14.00, Robert Bork B 11 170 15.45
+
+TC Williams 460, Maggie Walker B 135
+Maggie Walker B: Perisa Ashar 1 1 0 25, Siddharth Venigalla 0 0 2 -10, Jack Honig 0 0 0 0, Jackson Lamb 2 1 0 40
+TC Williams: Mark Bailey 7 7 0 175, Kelly Jones 0 0 1 -5
+Bonuses: Maggie Walker B 5 80 16.00, TC Williams 14 290 20.71
+
+Fort Defiance A 275, Blacksburg C 155
+Blacksburg C: Kevin Z 0 2 0 20, Vansh P 0 3 0 30, Dasol L 1 1 0 25, Alex R 0 0 0 0
+Fort Defiance A: Julian 0 2 0 20, Max 2 5 1 75, Alex 1 0 0 15, Andrew 0 0 1 -5
+Bonuses: Blacksburg C 7 80 11.43, Fort Defiance A 10 170 17.00
+
+Cave Spring B 215, Loudoun County B 90
+Loudoun County B: Caroline Curtin 2 0 0 30, Nathan Smith 1 1 1 20, Shrish Balaji 0 0 0 0, Elli Nguyen 0 0 0 0, Brighton Lieu 0 0 0 0
+Cave Spring B: Travis Schuck 0 0 0 0, Elliott Kroll 0 0 0 0, Miles Vance 0 6 1 55, Scott Rose 0 4 0 40, Elliott Kesler 0 0 0 0
+Bonuses: Loudoun County B 4 40 10.00, Cave Spring B 10 120 12.00
+
+BASIS McLean 505, Rappahannock A 60
+BASIS McLean: Sam Kaufman 0 2 0 20, Justin Ward 4 7 1 125, Anna Yang 0 2 0 20, Jiaming Zhang 0 2 0 20
+Rappahannock A: Bryce Jones 0 0 0 0, Serenity Cortez 0 0 0 0, Lauren Petty 0 1 0 10, Alec Petty 0 2 0 20
+Bonuses: BASIS McLean 17 320 18.82, Rappahannock A 3 30 10.00
+
+Blacksburg B 280, Kettle Run D 25
+Kettle Run D: Zach Williams 1 1 1 20, Thomas Harlow 0 0 0 0, Kenzie McEwen 0 0 1 -5, Alex P 0 0 0 0
+Blacksburg B: Cooper R 1 1 0 25, Bryan K 0 2 0 20, Christian S 1 4 0 55, Cato Z 0 4 0 40
+Bonuses: Kettle Run D 2 10 5.00, Blacksburg B 13 140 10.77
+
+Maggie Walker A 305, Mountain Vista B 90
+Mountain Vista B: Adriana Sauntry 0 0 0 0, Gabriel Smith 0 0 0 0, Caroline Sosnoski 2 0 0 30, Nick Goudeau 0 2 0 20
+Maggie Walker A: Sonya Stacia 0 3 0 30, Dennis Plotnikov 0 1 0 10, Daniel Xue 0 7 0 70, Alex Dietrich 0 1 1 5
+Bonuses: Mountain Vista B 4 40 10.00, Maggie Walker A 12 190 15.83
+
+Western Albemarle A 330, Jefferson Forest A 35
+Western Albemarle A: Mackenzie Whitley 0 1 0 10, Karen Raphael 1 3 2 35, Jack Emery 0 1 1 5, Harry Cowen 1 4 1 50
+Jefferson Forest A: Daniel Moon 0 2 1 15, Catherine Guo 0 1 0 10, Ashley Chang 0 0 0 0, Clare Cocker 0 0 0 0
+Bonuses: Western Albemarle A 11 230 20.91, Jefferson Forest A 3 10 3.33
+
+Kettle Run C 125, Rappahannock B 35
+Rappahannock B: Cassia Gainer 0 1 0 10, Itsail 0 0 0 0, Heather Smith 0 2 1 15, John McKelvey 0 0 0 0
+Kettle Run C: Liam Heppard 0 2 0 20, Griffin Barbeau 0 3 0 30, Marley Rowell 0 1 1 5, Sadie Jarrell 0 0 0 0
+Bonuses: Rappahannock B 3 10 3.33, Kettle Run C 6 70 11.67
+
+Freeman A 345, Eastern Montgomery B 30
+Freeman A: Alex K. 0 0 0 0, Walker Barkstrom 2 8 1 105, Will Chambers 1 2 1 30, Jacob B. 0 0 0 0
+Eastern Montgomery B: Kellen Walthall 0 0 0 0, Ashley Basham 0 0 0 0, Jack Graves 0 2 0 20
+Bonuses: Freeman A 13 210 16.15, Eastern Montgomery B 2 10 5.00
+
+Western Albermarle B 210, Christiansburg A 100
+Western Albermarle B: Sydney Dell 2 1 0 40, Charlie Sewell 2 0 0 30, Ben Lennox 0 0 0 0, Ben Christopher 2 2 0 50
+Christiansburg A: Camden Brewer 0 1 0 10, Angelo 0 1 0 10, Coby Lovelace 0 2 0 20, Jason Kuhn 0 1 0 10
+Bonuses: Western Albermarle B 9 90 10.00, Christiansburg A 5 50 10.00
+
+McLean A 375, Kettle Run B 75
+Kettle Run B: Nick Faggiano 0 1 0 10, Declan Boyle 0 1 0 10, Ethan Jakum 0 1 3 -5, Catherine Henkel 0 0 0 0
+McLean A: Janna Serrao 0 2 1 15, Justin Young 6 4 4 110, Eunkyoon Lee 0 1 0 10
+Bonuses: Kettle Run B 3 60 20.00, McLean A 13 240 18.46
+
+Round 7
+Robert Bork A 555, Blacksburg A 80
+Robert Bork A: Julia Zhou 0 2 0 20, Kevin Wang 4 2 0 80, James Kuang 5 3 0 105
+Blacksburg A: Cedric C 0 0 0 0, Vish S 3 1 3 40, Firas D 0 0 0 0, Robert L 0 0 0 0
+Bonuses: Robert Bork A 16 350 21.88, Blacksburg A 4 40 10.00
+
+Kettle Run A 270, VES A 210
+Kettle Run A: Joshua Wine 2 4 0 70, Miles Housley 1 1 0 25, Nick McCloskey 1 1 0 25, Joseph Rowell 0 0 0 0
+VES A: Nate Baugher 0 1 0 10, Wilson Smith 1 3 0 45, Bruno Paso 1 3 0 45, Sebastian Knebel 0 0 0 0
+Bonuses: Kettle Run A 10 150 15.00, VES A 9 110 12.22
+
+Langley A 295, Cave Spring A 275
+Cave Spring A: Bennett Snyder 1 1 0 25, Maya Sawh 0 1 0 10, Billy Luqiu 1 2 1 30, Lexie Agee 0 3 0 30
+Langley A: William Orr 2 1 1 35, Dan Ni 3 3 2 65, Aidan 1 0 0 15, Justin Chen 0 0 0 0
+Bonuses: Cave Spring A 9 180 20.00, Langley A 10 180 18.00
+
+McLean B 235, Fort Defiance B 150
+Fort Defiance B: Noah 0 0 0 0, Roth 0 3 2 20, Jonas 2 1 0 40, Emily 0 0 0 0, Grace 0 0 0 0, Gabriela 0 1 0 10
+McLean B: Nischal Dinesh 1 6 1 70, Nathan McCarley 0 0 0 0, Grace Chung 1 2 0 35
+Bonuses: Fort Defiance B 7 80 11.43, McLean B 10 130 13.00
+
+Langley B 490, Mountain Vista A 70
+Langley B: Shahan Salam 0 3 0 30, Selena Bao 1 3 1 40, Matt Rubin 1 6 0 75, Daniel Mousavi 2 0 0 30
+Mountain Vista A: Annalee Wisecarver 0 1 0 10, Derek Sprincis 2 0 2 20, Joseph Sabol 0 0 0 0, Niklas Blood 0 0 0 0
+Bonuses: Langley B 16 315 19.69, Mountain Vista A 3 40 13.33
+
+Maggie Walker C 420, Jefferson Forest B 20
+Jefferson Forest B: Michael Kricheldorf 0 1 0 10, Madison Martin 0 0 0 0, Luke Moon 0 0 0 0, Andrew Chang 0 0 0 0
+Maggie Walker C: Amanda Perez 1 3 0 45, Ajay Srinivasan 0 5 0 50, Nicholas Favale 1 3 0 45, Quinn Kast 2 2 0 50
+Bonuses: Jefferson Forest B 1 10 10.00, Maggie Walker C 17 230 13.53
+
+TC Williams 360, Blacksburg C 120
+TC Williams: Mark Bailey 4 8 4 120, Kelly Jones 0 2 0 20
+Blacksburg C: Alex R 0 1 0 10, Vansh P 0 3 0 30, Dasol L 0 0 0 0, Kevin Z 0 1 0 10
+Bonuses: TC Williams 14 220 15.71, Blacksburg C 5 70 14.00
+
+Maggie Walker B 315, Robert Bork B 235
+Maggie Walker B: Perisa Ashar 0 0 0 0, Siddharth Venigalla 0 1 1 5, Jack Honig 2 4 0 70, Jackson Lamb 2 1 0 40
+Robert Bork B: Siddharth Krishnakumar 0 2 0 20, Vishal Kanigcherla 2 3 1 55, Elliot Lee 0 2 0 20
+Bonuses: Maggie Walker B 10 200 20.00, Robert Bork B 9 140 15.56
+
+Fort Defiance A 380, Cave Spring C 40
+Cave Spring C: Charles Collier 0 2 0 20, James Snyder 0 0 0 0, Weston Colip 0 1 0 10, Andela Acic 0 0 0 0
+Fort Defiance A: Julian 1 7 1 80, Max 0 2 0 20, Alex 0 4 0 40, Hamie 0 1 0 10
+Bonuses: Cave Spring C 3 10 3.33, Fort Defiance A 15 230 15.33
+
+BASIS McLean 405, Cave Spring B 190
+BASIS McLean: Sam Kaufman 1 1 1 20, Justin Ward 4 4 1 95, Anna Yang 2 0 0 30, Jiaming Zhang 0 1 0 10
+Cave Spring B: Travis Schuck 0 1 0 10, Elliott Kroll 0 0 0 0, Miles Vance 1 3 0 45, Scott Rose 1 1 0 25
+Bonuses: BASIS McLean 13 250 19.23, Cave Spring B 7 110 15.71
+
+Loudoun County B 180, Kettle Run D 160
+Loudoun County B: Caroline Curtin 0 1 0 10, Nathan Smith 0 8 0 80, Shrish Balaji 0 0 0 0, Elli Nguyen 0 0 0 0, Brighton Lieu 0 1 0 10
+Kettle Run D: Alex P 0 1 0 10, Kenzie McEwen 0 3 0 30, Thomas Harlow 0 0 0 0, Zach Williams 0 3 0 30
+Bonuses: Loudoun County B 10 80 8.00, Kettle Run D 7 90 12.86
+
+Robinson A 500, Blacksburg B 80
+Blacksburg B: Cato Z 1 2 0 35, Christian S 1 1 0 25, Bryan K 0 0 0 0, Cooper R 0 0 0 0
+Robinson A: Joshua Link 3 4 2 75, Megan Sullivan 1 1 0 25, James Orefice 2 2 0 50, Mason Cook 0 2 0 20
+Bonuses: Blacksburg B 5 20 4.00, Robinson A 15 330 22.00
+
+Jefferson Forest A 320, Rappahannock B 100
+Jefferson Forest A: Clare Cocker 0 2 0 20, Catherine Guo 0 1 0 10, Ashley Chang 0 6 0 60, Daniel Moon 0 4 0 40
+Rappahannock B: John McKelvey 0 0 0 0, Heather Smith 0 3 0 30, Itsail 0 2 0 20, Cassia Gainer 0 0 0 0
+Bonuses: Jefferson Forest A 13 190 14.62, Rappahannock B 5 50 10.00
+
+Maggie Walker A 370, Western Albemarle A 195
+Maggie Walker A: Alex Dietrich 1 2 0 35, Sonya Stacia 1 1 1 20, Daniel Xue 1 2 0 35, Dennis Plotnikov 0 4 0 40
+Western Albemarle A: Harry Cowen 1 1 1 20, Jack Emery 1 2 0 35, Karen Raphael 0 2 0 20, Mackenzie Whitley 0 1 0 10
+Bonuses: Maggie Walker A 12 240 20.00, Western Albemarle A 8 110 13.75
+
+Kettle Run C 165, Fort Defiance C 135
+Fort Defiance C: Sabrina 0 6 1 55, Elizabeth 0 0 0 0, Isabel 0 0 0 0, Katie 0 1 0 10
+Kettle Run C: Sadie Jarrell 0 2 0 20, Griffin Barbeau 0 2 1 15, Liam Heppard 0 3 0 30, Marley Rowell 0 3 0 30
+Bonuses: Fort Defiance C 7 70 10.00, Kettle Run C 10 70 7.00
+
+Loudoun County A 340, Eastern Montgomery B 40
+Loudoun County A: Kishan Balaji 0 1 0 10, Connor Moon 1 2 0 35, Tom Anders 3 4 2 75, Devin Mash 0 0 0 0, Grace Curtin 0 3 0 30
+Eastern Montgomery B: Kellen Walthall 0 0 0 0, Kolten Leyer 0 0 0 0, Ashley Basham 0 0 0 0, Jack Graves 0 4 0 40
+Bonuses: Loudoun County A 14 190 13.57, Eastern Montgomery B 4 0 0.00
+
+McLean A 420, Western Albermarle B 135
+Western Albermarle B: Sydney Dell 0 1 0 10, Charlie Sewell 1 1 4 5, Ben Lennox 1 0 0 15, Ben Christopher 1 1 0 25
+McLean A: Janna Serrao 0 0 0 0, Justin Young 8 6 2 170, Eunkyoon Lee 0 0 0 0
+Bonuses: Western Albermarle B 6 80 13.33, McLean A 14 250 17.86
+
+Freeman A 295, Christiansburg A 125
+Freeman A: Josh DuPuis 0 1 0 10, Will Chambers 1 1 1 20, Walker Barkstrom 1 4 0 55, Alex K. 0 3 0 30
+Christiansburg A: Jason Kuhn 0 4 0 40, Camden Brewer 0 1 1 5, Melanie Fleischer 0 1 0 10, Coby Lovelace 0 0 0 0
+Bonuses: Freeman A 11 180 16.36, Christiansburg A 6 70 11.67
+
+Round 8
+
+Cave Spring C 170, Kettle Run D 85
+Kettle Run D: Zach Williams 0 5 0 50, Thomas Harlow 0 0 0 0, Kenzie McEwen 0 0 1 -5, Alex P 0 0 0 0
+Cave Spring C: Charles Collier 0 2 0 20, Weston Colip 0 3 0 30, Rachel Baffoe-Bonnie 0 3 0 30, Andela Acic 0 0 0 0
+Bonuses: Kettle Run D 5 40 8.00, Cave Spring C 8 90 11.25
+
+Jefferson Forest B 130, Eastern Montgomery B 125
+Eastern Montgomery B: Kellen Walthall 0 2 0 20, Kolten Leyer 0 1 0 10, Ashley Basham 1 0 0 15, Jack Graves 0 4 0 40
+Jefferson Forest B: Andrew Chang 0 4 0 40, Madison Martin 0 0 0 0, Luke Moon 0 0 0 0, Michael Kricheldorf 0 3 0 30
+Bonuses: Eastern Montgomery B 8 40 5.00, Jefferson Forest B 7 60 8.57
+
+Jefferson Forest C 155, Rappahannock B 65
+Jefferson Forest C: Jing Lei Wales 0 1 0 10, Emiko Ebreneyin 1 2 0 35, William Jeon 0 2 0 20, Will Duis 0 1 0 10
+Rappahannock B: Itsail 0 2 1 15, Heather Smith 0 1 0 10, John McKelvey 0 1 0 10, Quinn Sanborn 0 1 0 10
+Bonuses: Jefferson Forest C 7 80 11.43, Rappahannock B 5 20 4.00
+
+Kettle Run B 280, Maggie Walker C 145
+Maggie Walker C: Quinn Kast 0 3 0 30, Nicholas Favale 0 0 0 0, Ajay Srinivasan 0 1 0 10, Amanda Perez 1 1 0 25
+Kettle Run B: Nick Faggiano 0 1 0 10, Declan Boyle 1 2 1 30, Ethan Jakum 0 6 1 55, Catherine Henkel 1 1 0 25
+Bonuses: Maggie Walker C 6 80 13.33, Kettle Run B 12 160 13.33
+
+VES A 335, Fort Defiance C 50
+Fort Defiance C: Isabel 0 1 0 10, Elizabeth 0 1 0 10, Sabrina 0 1 0 10, Katie 0 0 0 0
+VES A: Nate Baugher 0 0 0 0, Wilson Smith 0 6 1 55, Bruno Paso 2 4 1 65, Sebastian Knebel 1 2 0 35
+Bonuses: Fort Defiance C 3 20 6.67, VES A 15 180 12.00
+
+Blacksburg A 270, Western Albermarle B 180
+Western Albermarle B: Sydney Dell 0 1 0 10, Charlie Sewell 0 1 0 10, Ben Lennox 0 1 0 10, Ben Christopher 0 4 0 40
+Blacksburg A: Cedric C 0 0 0 0, Vish S 1 8 1 90, Firas D 0 1 0 10, Robert L 0 1 0 10
+Bonuses: Western Albermarle B 7 110 15.71, Blacksburg A 11 160 14.55
+
+Maggie Walker B 320, Blacksburg B 130
+Maggie Walker B: Perisa Ashar 0 1 0 10, Siddharth Venigalla 0 2 1 15, Jack Honig 0 3 0 30, Jackson Lamb 1 4 0 55
+Blacksburg B: Cooper R 1 0 0 15, Bryan K 0 1 1 5, Christian S 1 2 0 35, Cato Z 0 1 1 5
+Bonuses: Maggie Walker B 11 210 19.09, Blacksburg B 6 70 11.67
+
+McLean B 210, Kettle Run C 140
+Kettle Run C: Marley Rowell 0 0 0 0, Liam Heppard 0 1 0 10, Griffin Barbeau 0 3 0 30, Sadie Jarrell 0 4 0 40
+McLean B: Nathan McCarley 2 2 1 45, Grace Chung 0 2 0 20, Nischal Dinesh 0 3 1 25
+Bonuses: Kettle Run C 8 60 7.50, McLean B 9 120 13.33
+
+Christiansburg A 160, Mountain Vista A 155
+Mountain Vista A: Joseph Sabol 0 0 0 0, Derek Sprincis 0 6 1 55, Niklas Blood 0 0 0 0, Annalee Wisecarver 0 3 0 30
+Christiansburg A: Jason Kuhn 0 1 0 10, Camden Brewer 1 0 0 15, Melanie Fleischer 0 1 0 10, Angelo 1 0 0 15, Coby Lovelace 0 2 0 20
+Bonuses: Mountain Vista A 9 70 7.78, Christiansburg A 6 90 15.00
+
+Jefferson Forest A 185, Fort Defiance B 110
+Jefferson Forest A: Clare Cocker 0 1 0 10, Catherine Guo 0 3 1 25, Ashley Chang 0 4 0 40, Daniel Moon 0 2 0 20
+Fort Defiance B: Grace 0 0 0 0, Roth 1 4 1 50, Noah 0 0 0 0, Emily 0 0 0 0, Gabriela 0 0 0 0, Jonas 0 2 0 20
+Bonuses: Jefferson Forest A 10 90 9.00, Fort Defiance B 7 40 5.71
+
+Blacksburg C 250, Loudoun County B 75
+Blacksburg C: Alex R 0 4 0 40, Vansh P 1 4 1 50, Dasol L 0 0 0 0, Kevin Z 0 6 0 60
+Loudoun County B: Caroline Curtin 0 0 0 0, Nathan Smith 1 1 0 25, Shrish Balaji 0 0 0 0, Brighton Lieu 0 1 0 10
+Bonuses: Blacksburg C 15 100 6.67, Loudoun County B 3 40 13.33
+
+Cave Spring B 325, Robert Bork B 220
+Robert Bork B: Elliot Lee 0 2 0 20, Siddharth Krishnakumar 0 3 0 30, Vishal Kanigcherla 1 2 1 30
+Cave Spring B: Travis Schuck 0 2 0 20, Elliott Kroll 0 1 0 10, Miles Vance 1 6 1 70, Scott Rose 1 0 0 15
+Bonuses: Robert Bork B 8 140 17.50, Cave Spring B 11 210 19.09
+
+Loudoun County A 325, Jamestown 275
+Loudoun County A: Kishan Balaji 0 2 0 20, Tom Anders 1 2 0 35, Connor Moon 1 3 0 45, Devin Mash 0 0 0 0, Grace Curtin 0 1 0 10
+Jamestown: Kieran Barre 1 0 1 10, David Bass 1 2 1 30, Isaac Criddle 1 4 0 55, Sam Kiser 0 1 0 10
+Bonuses: Loudoun County A 10 215 21.50, Jamestown 10 170 17.00
+
+Robinson A 440, Fort Defiance A 195
+Fort Defiance A: Hamie 0 0 0 0, Alex 0 2 0 20, Max 0 0 1 -5, Julian 0 5 0 50
+Robinson A: Joshua Link 1 1 0 25, Megan Sullivan 2 1 1 35, James Orefice 0 2 0 20, Mason Cook 0 6 0 60
+Bonuses: Fort Defiance A 7 130 18.57, Robinson A 13 300 23.08
+
+Western Albemarle A 415, Langley A 135
+Western Albemarle A: Karen Raphael 1 4 0 55, Mackenzie Whitley 0 0 0 0, Jack Emery 2 3 0 60, Harry Cowen 1 1 0 25, Gauri Prakash 1 0 0 15
+Langley A: William Orr 1 0 1 10, Dan Ni 2 3 1 55, Aidan 0 1 0 10, Justin Chen 0 0 0 0
+Bonuses: Western Albemarle A 13 260 20.00, Langley A 7 60 8.57
+
+McLean A 395, Langley B 225
+McLean A: Janna Serrao 0 0 0 0, Justin Young 6 4 1 125, Eunkyoon Lee 0 1 0 10
+Langley B: Shahan Salam 0 0 2 -10, Selena Bao 1 0 1 10, Matt Rubin 2 2 0 50, Daniel Mousavi 1 2 0 35
+Bonuses: McLean A 11 260 23.64, Langley B 8 140 17.50
+
+Robert Bork A 390, Freeman A 245
+Freeman A: Alex K. 1 3 0 45, Walker Barkstrom 2 3 0 60, Will Chambers 0 0 0 0, Josh DuPuis 0 0 0 0
+Robert Bork A: James Kuang 1 3 0 45, Kevin Wang 2 4 0 70, Julia Zhou 1 0 0 15
+Bonuses: Freeman A 9 140 15.56, Robert Bork A 11 260 23.64
+
+TC Williams 345, BASIS McLean 225
+BASIS McLean: Jiaming Zhang 1 0 0 15, Sam Kaufman 0 2 1 15, Justin Ward 0 1 1 5, Anna Yang 2 1 0 40
+TC Williams: Mark Bailey 4 6 0 120, Kelly Jones 1 1 0 25
+Bonuses: BASIS McLean 7 150 21.43, TC Williams 12 200 16.67
+
+Cave Spring A 525, Maggie Walker A 185
+Maggie Walker A: Sonya Stacia 0 1 0 10, Alex Dietrich 0 2 0 20, Dennis Plotnikov 0 1 0 10, Daniel Xue 1 1 0 25
+Cave Spring A: Lexie Agee 4 2 0 80, Billy Luqiu 3 4 0 85, Maya Sawh 0 0 0 0, Bennett Snyder 0 1 0 10
+Bonuses: Maggie Walker A 6 120 20.00, Cave Spring A 14 350 25.00
+
+Round 9
+Jefferson Forest B 125, Rappahannock B 80
+Rappahannock B: John McKelvey 0 1 0 10, Itsail 0 1 0 10, Heather Smith 0 2 0 20, Cassia Gainer 0 2 0 20
+Jefferson Forest B: Michael Kricheldorf 1 2 1 30, Luke Moon 0 0 1 -5, Andrew Chang 0 4 0 40, Madison Martin 0 1 0 10
+Bonuses: Rappahannock B 6 20 3.33, Jefferson Forest B 8 50 6.25
+
+Cave Spring C 150, Jefferson Forest C 90
+Cave Spring C: Charles Collier 0 4 0 40, James Snyder 0 1 0 10, Weston Colip 0 1 0 10, Andela Acic 0 1 0 10, Rachel Baffoe-Bonnie 0 1 0 10
+Jefferson Forest C: Will Duis 0 1 0 10, William Jeon 0 1 0 10, Emiko Ebreneyin 0 1 0 10, Jing Lei Wales 0 2 0 20
+Bonuses: Cave Spring C 8 70 8.75, Jefferson Forest C 5 40 8.00
+
+Kettle Run D 125, Eastern Montgomery B 50
+Eastern Montgomery B: Kellen Walthall 0 1 2 0, Kolten Leyer 0 0 0 0, Ashley Basham 0 1 0 10, Jack Graves 0 3 0 30
+Kettle Run D: Alex P 0 1 0 10, Kenzie McEwen 0 0 0 0, Thomas Harlow 0 0 0 0, Zach Williams 1 4 0 55
+Bonuses: Eastern Montgomery B 5 10 2.00, Kettle Run D 6 60 10.00
+
+VES A 190, Eastern Montgomery A 185
+Eastern Montgomery A: Faith Tes 0 1 0 10, Brett Smith 0 1 0 10, Gabe Bolding 2 3 0 60, Laney Edwards 1 1 0 25
+VES A: Sebastian Knebel 0 1 0 10, Bruno Paso 0 2 0 20, Wilson Smith 0 4 0 40, Nate Baugher 0 0 0 0
+Bonuses: Eastern Montgomery A 9 80 8.89, VES A 7 120 17.14
+
+Rappahannock A 260, Kettle Run B 165
+Kettle Run B: Declan Boyle 2 1 0 40, Nick Faggiano 0 2 0 20, Catherine Henkel 1 0 0 15, Ethan Jakum 1 1 1 20
+Rappahannock A: Alec Petty 0 3 1 25, Bryce Jones 1 2 0 35, Lauren Petty 0 4 0 40, Serenity Cortez 0 0 0 0
+Bonuses: Kettle Run B 8 70 8.75, Rappahannock A 10 160 16.00
+
+Maggie Walker C 170, Fort Defiance C 80
+Maggie Walker C: Quinn Kast 0 1 0 10, Nicholas Favale 1 0 2 5, Ajay Srinivasan 0 4 0 40, Amanda Perez 0 2 1 15
+Fort Defiance C: Isabel 0 1 0 10, Sabrina 0 2 0 20, Amanda 0 0 0 0, Katie 0 1 0 10
+Bonuses: Maggie Walker C 8 100 12.50, Fort Defiance C 4 40 10.00
+
+Maggie Walker B 285, McLean B 150
+Maggie Walker B: Perisa Ashar 0 0 1 -5, Siddharth Venigalla 1 4 1 50, Jack Honig 2 4 0 70, Jackson Lamb 0 1 2 0
+McLean B: Nischal Dinesh 1 0 0 15, Grace Chung 0 4 1 35, Nathan McCarley 0 1 0 10
+Bonuses: Maggie Walker B 12 170 14.17, McLean B 6 90 15.00
+
+Blacksburg A 335, Kettle Run C 65
+Kettle Run C: Liam Heppard 0 0 0 0, Marley Rowell 0 1 0 10, Sadie Jarrell 0 1 0 10, Griffin Barbeau 1 1 0 25
+Blacksburg A: Cedric C 2 3 0 60, Vish S 2 2 1 45, Firas D 0 1 2 0, Robert L 0 2 0 20
+Bonuses: Kettle Run C 4 20 5.00, Blacksburg A 12 210 17.50
+
+Blacksburg B 190, Western Albermarle B 145
+Western Albermarle B: Sydney Dell 0 0 1 -5, Charlie Sewell 1 1 1 20, Ben Lennox 0 3 2 20, Ben Christopher 0 1 0 10
+Blacksburg B: Cooper R 0 1 0 10, Bryan K 0 1 0 10, Christian S 3 2 0 65, Cato Z 0 2 3 5
+Bonuses: Western Albermarle B 6 100 16.67, Blacksburg B 9 100 11.11
+
+Fort Defiance B 180, Blacksburg C 125
+Blacksburg C: Alex R 0 0 0 0, Vansh P 0 5 2 40, Dasol L 0 0 0 0, Kevin Z 0 1 1 5
+Fort Defiance B: Noah 0 2 0 20, Jonas 1 3 0 45, Emily 1 0 0 15, Gabriela 0 0 0 0
+Bonuses: Blacksburg C 6 80 13.33, Fort Defiance B 7 100 14.29
+
+Christiansburg A 220, Loudoun County B 75
+Loudoun County B: Caroline Curtin 0 1 0 10, Nathan Smith 0 1 1 5, Shrish Balaji 0 1 0 10, Brighton Lieu 0 1 0 10, Elli Nguyen 0 0 0 0
+Christiansburg A: Jason Kuhn 0 4 0 40, Melanie Fleischer 0 3 1 25, Camden Brewer 0 3 0 30, Coby Lovelace 0 0 0 0, Angelo 1 1 0 25
+Bonuses: Loudoun County B 4 40 10.00, Christiansburg A 12 100 8.33
+
+Mountain Vista A 345, Jefferson Forest A 30
+Mountain Vista A: Joseph Sabol 1 3 0 45, Niklas Blood 0 0 0 0, Derek Sprincis 1 3 1 40, Annalee Wisecarver 0 4 0 40
+Jefferson Forest A: Daniel Moon 0 0 0 0, Ashley Chang 1 1 0 25, Catherine Guo 0 0 0 0, Clare Cocker 0 0 1 -5
+Bonuses: Mountain Vista A 12 220 18.33, Jefferson Forest A 2 10 5.00
+
+Loudoun County A 280, Cave Spring B 160
+Loudoun County A: Kishan Balaji 2 3 0 60, Tom Anders 2 3 1 55, Connor Moon 0 1 1 5, Grace Curtin 0 0 0 0
+Cave Spring B: Scott Rose 0 1 0 10, Miles Vance 2 4 0 70, Elliott Kroll 0 0 0 0, Elliott Kesler 0 1 0 10
+Bonuses: Loudoun County A 11 160 14.55, Cave Spring B 8 70 8.75
+
+Jamestown 465, Mountain Vista B 75
+Mountain Vista B: Gabriel Smith 0 1 0 10, Nick Goudeau 1 1 0 25, Caroline Sosnoski 0 0 0 0, Adriana Sauntry 0 0 0 0
+Jamestown: Kieran Barre 0 3 0 30, David Bass 3 5 1 90, Isaac Criddle 1 3 2 35, Sam Kiser 0 0 0 0
+Bonuses: Mountain Vista B 3 40 13.33, Jamestown 15 310 20.67
+
+Kettle Run A 310, Robert Bork B 215
+Kettle Run A: Joshua Wine 2 3 1 55, Miles Housley 0 3 0 30, Nick McCloskey 0 1 0 10, Joseph Rowell 1 1 0 25
+Robert Bork B: Siddharth Krishnakumar 0 2 1 15, Vishal Kanigcherla 0 4 0 40, Elliot Lee 0 1 0 10
+Bonuses: Kettle Run A 11 190 17.27, Robert Bork B 7 150 21.43
+
+Langley B 380, Western Albemarle A 275
+Langley B: Shahan Salam 0 1 0 10, Selena Bao 2 2 1 45, Matt Rubin 2 1 1 35, Daniel Mousavi 1 1 1 20
+Western Albemarle A: Harry Cowen 0 1 3 -5, Jack Emery 1 4 0 55, Karen Raphael 1 3 0 45, Mackenzie Whitley 0 0 0 0
+Bonuses: Langley B 10 270 27.00, Western Albemarle A 10 180 18.00
+
+Robinson A 335, McLean A 280
+Robinson A: Mason Cook 1 2 1 30, James Orefice 1 0 0 15, Megan Sullivan 0 4 1 35, Joshua Link 1 1 0 25
+McLean A: Janna Serrao 0 2 0 20, Justin Young 5 2 5 70, Eunkyoon Lee 0 1 0 10
+Bonuses: Robinson A 10 230 23.00, McLean A 10 180 18.00
+
+Langley A 235, Fort Defiance A 220
+Langley A: William Orr 2 2 1 45, Dan Ni 2 1 2 30, Aidan 0 2 0 20, Justin Chen 0 0 0 0
+Fort Defiance A: Andrew 2 1 0 40, Alex 0 1 0 10, Max 1 0 0 15, Julian 1 3 0 45
+Bonuses: Langley A 9 140 15.56, Fort Defiance A 9 110 12.22
+
+Cave Spring A 390, TC Williams 165
+TC Williams: Mark Bailey 2 3 5 35, Kelly Jones 0 1 0 10
+Cave Spring A: Lexie Agee 0 2 1 15, Billy Luqiu 2 4 3 55, Maya Sawh 2 1 0 40, Bennett Snyder 0 2 0 20
+Bonuses: TC Williams 6 120 20.00, Cave Spring A 13 260 20.00
+
+Robert Bork A 465, Maggie Walker A 210
+Maggie Walker A: Alex Dietrich 1 0 0 15, Sonya Stacia 3 0 0 45, Dennis Plotnikov 1 0 0 15, Daniel Xue 0 1 0 10
+Robert Bork A: James Kuang 4 1 0 70, Kevin Wang 4 2 0 80, Julia Zhou 1 1 0 25
+Bonuses: Maggie Walker A 6 125 20.83, Robert Bork A 13 290 22.31
+
+BASIS McLean 525, Freeman A 145
+Freeman A: Alex K. 0 0 0 0, Will Chambers 0 1 1 5, Walker Barkstrom 0 3 0 30, Josh DuPuis 0 1 0 10
+BASIS McLean: Sam Kaufman 1 1 0 25, Justin Ward 6 2 1 105, Anna Yang 2 2 0 50, Jiaming Zhang 1 0 0 15
+Bonuses: Freeman A 5 100 20.00, BASIS McLean 15 330 22.00
+
+Round 10
+Jefferson Forest C 120, Eastern Montgomery B 105
+Eastern Montgomery B: Kellen Walthall 0 3 1 25, Kolten Leyer 0 0 0 0, Ashley Basham 0 1 0 10, Jack Graves 0 2 0 20
+Jefferson Forest C: Jing Lei Wales 0 4 0 40, Emiko Ebreneyin 0 2 0 20, William Jeon 0 1 0 10, Will Duis 0 1 0 10
+Bonuses: Eastern Montgomery B 6 50 8.33, Jefferson Forest C 8 40 5.00
+
+Kettle Run D 160, Jefferson Forest B 150
+Jefferson Forest B: Michael Kricheldorf 0 3 0 30, Andrew Chang 0 4 0 40, Madison Martin 0 1 0 10, Luke Moon 0 0 0 0
+Kettle Run D: Zach Williams 0 4 0 40, Kenzie McEwen 0 1 0 10, Thomas Harlow 0 0 0 0, Alex P 0 2 0 20
+Bonuses: Jefferson Forest B 8 70 8.75, Kettle Run D 7 90 12.86
+
+Cave Spring C 185, Rappahannock B 100
+Cave Spring C: Weston Colip 1 4 0 55, James Snyder 1 0 0 15, Rachel Baffoe-Bonnie 1 0 0 15, Charles Collier 0 0 2 -10, Andela Acic 0 1 0 10
+Rappahannock B: John McKelvey 0 0 0 0, Heather Smith 0 1 0 10, Itsail 0 4 0 40, Cassia Gainer 0 0 0 0, Quinn Sanborn 0 0 0 0
+Bonuses: Cave Spring C 8 100 12.50, Rappahannock B 5 50 10.00
+
+Maggie Walker C 260, Rappahannock A 180
+Maggie Walker C: Quinn Kast 0 1 0 10, Nicholas Favale 0 5 2 40, Ajay Srinivasan 0 3 0 30, Amanda Perez 0 1 0 10
+Rappahannock A: Alec Petty 1 2 0 35, Lauren Petty 0 3 1 25, Bryce Jones 0 1 0 10, Daniel Dalle Luca 0 0 0 0
+Bonuses: Maggie Walker C 10 170 17.00, Rappahannock A 7 110 15.71
+
+Eastern Montgomery A 250, Fort Defiance C 130
+Eastern Montgomery A: Skylar Jones 0 1 0 10, Brett Smith 0 0 1 -5, Gabe Bolding 0 8 1 75, Laney Edwards 0 0 0 0
+Fort Defiance C: Elizabeth 1 2 1 30, Isabel 0 1 0 10, Amanda 0 0 0 0, Katie 0 2 0 20
+Bonuses: Eastern Montgomery A 9 170 18.89, Fort Defiance C 6 70 11.67
+
+Kettle Run B 375, VES A 100
+Kettle Run B: Ethan Jakum 4 4 2 90, Catherine Henkel 0 0 0 0, Declan Boyle 0 4 1 35, Nick Faggiano 0 0 0 0
+VES A: Nate Baugher 0 0 0 0, Wilson Smith 1 1 0 25, Bruno Paso 0 3 3 15, Sebastian Knebel 0 0 0 0
+Bonuses: Kettle Run B 12 250 20.83, VES A 5 60 12.00
+
+Blacksburg A 445, Blacksburg B 85
+Blacksburg A: Cedric C 1 2 0 35, Vish S 1 5 0 65, Firas D 2 1 0 40, Robert L 1 1 0 25
+Blacksburg B: Cato Z 0 3 4 10, Christian S 0 0 0 0, Bryan K 0 1 0 10, Cooper R 0 0 1 -5
+Bonuses: Blacksburg A 14 280 20.00, Blacksburg B 4 70 17.50
+
+Western Albermarle B 340, McLean B 85
+Western Albermarle B: Sydney Dell 0 2 0 20, Charlie Sewell 0 4 1 35, Emma Wayne 1 3 0 45, Ben Lennox 0 2 0 20
+McLean B: Grace Chung 0 2 1 15, Nischal Dinesh 0 1 3 -5
+Bonuses: Western Albermarle B 12 220 18.33, McLean B 3 75 25.00
+
+Maggie Walker B 355, Kettle Run C 145
+Kettle Run C: Griffin Barbeau 0 1 1 5, Liam Heppard 0 1 0 10, Marley Rowell 1 0 0 15, Sadie Jarrell 0 4 1 35
+Maggie Walker B: Jackson Lamb 1 1 0 25, Jack Honig 0 2 0 20, Siddharth Venigalla 2 6 3 75, Perisa Ashar 0 0 1 -5
+Bonuses: Kettle Run C 7 80 11.43, Maggie Walker B 12 240 20.00
+
+Mountain Vista A 290, Loudoun County B 85
+Loudoun County B: Caroline Curtin 1 2 2 25, Nathan Smith 0 2 1 15, Shrish Balaji 0 0 1 -5, Elli Nguyen 0 0 0 0
+Mountain Vista A: Niklas Blood 0 1 0 10, Joseph Sabol 1 2 1 30, Derek Sprincis 1 1 1 20, Annalee Wisecarver 0 5 0 50
+Bonuses: Loudoun County B 5 50 10.00, Mountain Vista A 11 180 16.36
+
+Blacksburg C 355, Jefferson Forest A 85
+Blacksburg C: Kevin Z 0 5 0 50, Dasol L 0 0 0 0, Vansh P 1 4 2 45, Alex R 0 4 0 40
+Jefferson Forest A: Clare Cocker 0 1 0 10, Catherine Guo 0 1 0 10, Ashley Chang 0 2 1 15, Daniel Moon 0 0 0 0
+Bonuses: Blacksburg C 14 220 15.71, Jefferson Forest A 4 50 12.50
+
+Christiansburg A 185, Fort Defiance B 175
+Fort Defiance B: Roth 2 2 1 45, Jonas 0 0 0 0, Gabriela 0 1 0 10, Grace 0 2 0 20, Emily 0 0 0 0, Noah 0 1 0 10
+Christiansburg A: Coby Lovelace 0 0 0 0, Melanie Fleischer 1 1 0 25, Camden Brewer 0 2 0 20, Jason Kuhn 1 2 1 30, Angelo 0 0 0 0
+Bonuses: Fort Defiance B 8 90 11.25, Christiansburg A 7 110 15.71
+
+Robert Bork B 425, Mountain Vista B 110
+Robert Bork B: Siddharth Krishnakumar 1 1 0 25, Vishal Kanigcherla 2 7 0 100, Elliot Lee 0 3 0 30
+Mountain Vista B: Caroline Sosnoski 0 0 0 0, Caroline Haddock 1 2 0 35, Gabriel Smith 0 0 0 0, Nick Goudeau 0 2 1 15
+Bonuses: Robert Bork B 14 270 19.29, Mountain Vista B 5 60 12.00
+
+Kettle Run A 305, Loudoun County A 220
+Loudoun County A: Kishan Balaji 1 2 1 30, Devin Mash 0 0 0 0, Connor Moon 1 2 0 35, Tom Anders 0 1 2 0, Grace Curtin 0 1 1 5
+Kettle Run A: Joshua Wine 2 2 0 50, Miles Housley 1 1 0 25, Nick McCloskey 0 1 0 10, Joseph Rowell 0 3 0 30
+Bonuses: Loudoun County A 8 150 18.75, Kettle Run A 10 190 19.00
+
+Jamestown 345, Cave Spring B 235
+Cave Spring B: Scott Rose 1 0 0 15, Miles Vance 0 1 0 10, Travis Schuck 2 1 0 40, Elliott Kroll 0 2 0 20
+Jamestown: Kieran Barre 2 1 0 40, David Bass 3 3 0 75, Isaac Criddle 0 0 1 -5, Sam Kiser 1 1 0 25
+Bonuses: Cave Spring B 7 150 21.43, Jamestown 11 210 19.09
+
+McLean A 355, Langley A 350
+McLean A: Eunkyoon Lee 0 1 0 10, Justin Young 2 6 0 90, Janna Serrao 1 0 0 15
+Langley A: William Orr 2 1 1 35, Dan Ni 3 4 1 80, Aidan 0 0 1 -5, Justin Chen 0 0 0 0
+Bonuses: McLean A 10 240 24.00, Langley A 10 240 24.00
+
+Western Albemarle A 315, Fort Defiance A 210
+Fort Defiance A: Hamie 0 0 0 0, Alex 0 1 0 10, Max 0 1 0 10, Julian 2 3 0 60
+Western Albemarle A: Harry Cowen 0 0 1 -5, Jack Emery 1 2 0 35, Karen Raphael 1 5 2 55, Mackenzie Whitley 0 1 0 10
+Bonuses: Fort Defiance A 7 130 18.57, Western Albemarle A 10 220 22.00
+
+Robinson A 405, Langley B 240
+Langley B: Shahan Salam 0 0 1 -5, Selena Bao 1 1 1 20, Matt Rubin 1 1 0 25, Daniel Mousavi 3 0 1 40
+Robinson A: Mason Cook 2 5 0 80, James Orefice 1 1 1 20, Megan Sullivan 1 1 0 25, Joshua Link 0 2 0 20
+Bonuses: Langley B 7 160 22.86, Robinson A 13 260 20.00
+
+BASIS McLean 345, Robert Bork A 325
+BASIS McLean: Sam Kaufman 1 1 1 20, Justin Ward 5 0 1 70, Anna Yang 1 1 0 25, Jiaming Zhang 0 0 0 0
+Robert Bork A: James Kuang 4 1 0 70, Kevin Wang 2 1 0 40, Julia Zhou 1 0 0 15
+Bonuses: BASIS McLean 9 230 25.56, Robert Bork A 9 200 22.22
+
+Cave Spring A 430, Freeman A 185
+Cave Spring A: Bennett Snyder 2 1 1 35, Maya Sawh 0 0 0 0, Billy Luqiu 2 4 0 70, Lexie Agee 1 3 0 45
+Freeman A: Alex K. 0 0 0 0, Walker Barkstrom 0 4 0 40, Will Chambers 0 3 1 25, Josh DuPuis 0 0 0 0
+Bonuses: Cave Spring A 13 280 21.54, Freeman A 7 120 17.14
+
+TC Williams 330, Maggie Walker A 305
+Maggie Walker A: Sonya Stacia 1 1 0 25, Daniel Xue 0 5 0 50, Dennis Plotnikov 0 0 1 -5, Alex Dietrich 2 0 1 25
+TC Williams: Mark Bailey 4 4 1 95, Kelly Jones 0 2 1 15
+Bonuses: Maggie Walker A 9 210 23.33, TC Williams 10 220 22.00
+
+Round 11
+Eastern Montgomery B 110, Rappahannock B 75
+Eastern Montgomery B: Kellen Walthall 0 2 0 20, Kolten Leyer 0 0 0 0, Ashley Basham 0 0 0 0, Jack Graves 0 5 0 50
+Rappahannock B: Itsail 0 2 1 15, Heather Smith 0 3 0 30, John McKelvey 0 0 0 0, Quinn Sanborn 0 0 0 0
+Bonuses: Eastern Montgomery B 7 40 5.71, Rappahannock B 5 30 6.00
+
+Jefferson Forest C 230, Kettle Run D 65
+Jefferson Forest C: Will Duis 0 2 0 20, William Jeon 0 6 0 60, Emiko Ebreneyin 0 3 0 30, Jing Lei Wales 0 1 0 10
+Kettle Run D: Zach Williams 0 3 1 25, Kenzie McEwen 0 0 0 0, Thomas Harlow 0 0 0 0, Alex P 0 1 0 10
+Bonuses: Jefferson Forest C 12 110 9.17, Kettle Run D 4 30 7.50
+
+Jefferson Forest B 120, Cave Spring C 105
+Cave Spring C: Weston Colip 1 1 0 25, Andela Acic 0 0 0 0, James Snyder 0 0 0 0, Charles Collier 1 1 0 25, Rachel Baffoe-Bonnie 0 2 1 15
+Jefferson Forest B: Andrew Chang 0 4 0 40, Madison Martin 0 1 0 10, Michael Kricheldorf 0 2 2 10, Luke Moon 0 0 0 0
+Bonuses: Cave Spring C 6 40 6.67, Jefferson Forest B 7 60 8.57
+
+Rappahannock A 265, VES A 95
+Rappahannock A: Serenity Cortez 0 0 0 0, Lauren Petty 1 5 0 65, Bryce Jones 0 1 0 10, Alec Petty 0 6 0 60
+VES A: Sebastian Knebel 0 0 0 0, Bruno Paso 0 4 0 40, Wilson Smith 0 1 1 5, Nate Baugher 0 0 0 0
+Bonuses: Rappahannock A 13 130 10.00, VES A 5 50 10.00
+
+Eastern Montgomery A 200, Maggie Walker C 160
+Eastern Montgomery A: Faith Tes 0 0 0 0, Brett Smith 0 0 1 -5, Gabe Bolding 0 9 0 90, Laney Edwards 1 0 0 15
+Maggie Walker C: Amanda Perez 0 3 0 30, Quinn Kast 0 0 0 0, Ajay Srinivasan 1 1 1 20, Nicholas Favale 2 1 2 30
+Bonuses: Eastern Montgomery A 10 100 10.00, Maggie Walker C 8 80 10.00
+
+Kettle Run B 415, Fort Defiance C 20
+Kettle Run B: Ethan Jakum 1 8 0 95, Catherine Henkel 0 1 0 10, Declan Boyle 1 1 1 20, Nick Faggiano 0 4 0 40
+Fort Defiance C: Isabel 0 1 0 10, Sabrina 0 1 0 10, Amanda 0 0 0 0, Katie 0 0 0 0
+Bonuses: Kettle Run B 16 250 15.62, Fort Defiance C 2 0 0.00
+
+Blacksburg B 205, McLean B 170
+McLean B: Grace Chung 0 2 0 20, Nischal Dinesh 2 3 0 60
+Blacksburg B: Cato Z 0 1 0 10, Christian S 2 3 1 55, Bryan K 0 3 0 30, Cooper R 0 1 0 10
+Bonuses: McLean B 7 90 12.86, Blacksburg B 10 100 10.00
+
+Western Albermarle B 255, Kettle Run C 90
+Western Albermarle B: Sydney Dell 1 5 0 65, Charlie Sewell 1 1 0 25, Emma Wayne 0 2 1 15, Ben Lennox 0 1 2 0
+Kettle Run C: Griffin Barbeau 0 3 0 30, Liam Heppard 0 0 0 0, Marley Rowell 1 0 0 15, Sadie Jarrell 0 0 0 0
+Bonuses: Western Albermarle B 11 150 13.64, Kettle Run C 4 45 11.25
+
+Blacksburg A 325, Maggie Walker B 160
+Blacksburg A: Robert L 0 2 0 20, Firas D 0 1 0 10, Vish S 6 1 1 95, Cedric C 0 2 0 20
+Maggie Walker B: Jackson Lamb 0 2 0 20, Jack Honig 2 0 1 25, Siddharth Venigalla 0 2 1 15, Perisa Ashar 0 0 0 0
+Bonuses: Blacksburg A 12 180 15.00, Maggie Walker B 6 100 16.67
+
+Fort Defiance B 130, Loudoun County B 70
+Loudoun County B: Caroline Curtin 0 2 0 20, Nathan Smith 0 0 0 0, Shrish Balaji 0 1 0 10, Elli Nguyen 0 0 0 0, Brighton Lieu 0 1 0 10
+Fort Defiance B: Jonas 0 0 1 -5, Roth 0 5 0 50, Grace 1 0 0 15, Emily 0 2 0 20
+Bonuses: Loudoun County B 4 30 7.50, Fort Defiance B 8 50 6.25
+
+Mountain Vista A 260, Blacksburg C 120
+Blacksburg C: Kevin Z 0 2 1 15, Dasol L 0 0 0 0, Vansh P 0 2 0 20, Alex R 1 2 0 35
+Mountain Vista A: Joseph Sabol 0 5 0 50, Derek Sprincis 1 5 1 60, Annalee Wisecarver 1 0 1 10, Niklas Blood 0 0 0 0
+Bonuses: Blacksburg C 7 50 7.14, Mountain Vista A 12 140 11.67
+
+Jefferson Forest A 185, Christiansburg A 170
+Jefferson Forest A: Daniel Moon 0 2 1 15, Catherine Guo 0 1 0 10, Ashley Chang 0 5 0 50, Clare Cocker 0 1 0 10
+Christiansburg A: Angelo 0 0 0 0, Camden Brewer 0 4 0 40, Melanie Fleischer 0 2 0 20, Jason Kuhn 1 3 1 40, Coby Lovelace 0 0 0 0
+Bonuses: Jefferson Forest A 9 100 11.11, Christiansburg A 10 70 7.00
+
+Jamestown 370, Robert Bork B 180
+Robert Bork B: Siddharth Krishnakumar 1 2 0 35, Vishal Kanigcherla 1 1 0 25, Elliot Lee 0 1 0 10
+Jamestown: Sam Kiser 0 2 0 20, Isaac Criddle 1 4 1 50, David Bass 2 3 0 60, Kieran Barre 0 1 0 10
+Bonuses: Robert Bork B 6 110 18.33, Jamestown 13 230 17.69
+
+Loudoun County A 230, Mountain Vista B 180
+Loudoun County A: Zach A. 0 1 1 5, Tom Anders 0 1 0 10, Connor Moon 1 2 0 35, Kishan Balaji 1 3 1 40
+Mountain Vista B: Nick Goudeau 1 7 1 80, Gabriel Smith 0 0 0 0, Caroline Sosnoski 0 0 1 -5, Adriana Sauntry 0 0 0 0, Caroline Haddock 0 0 1 -5
+Bonuses: Loudoun County A 9 140 15.56, Mountain Vista B 8 110 13.75
+
+Kettle Run A 400, Cave Spring B 145
+Cave Spring B: Scott Rose 0 2 0 20, Miles Vance 1 1 0 25, Travis Schuck 0 1 0 10, Elliott Kroll 0 2 0 20
+Kettle Run A: Joshua Wine 3 4 0 85, Miles Housley 2 1 1 35, Nick McCloskey 0 1 0 10, Joseph Rowell 0 2 0 20
+Bonuses: Cave Spring B 7 70 10.00, Kettle Run A 13 250 19.23
+
+McLean A 490, Western Albemarle A 65
+McLean A: Eunkyoon Lee 0 0 0 0, Justin Young 7 5 0 155, Janna Serrao 1 2 0 35
+Western Albemarle A: Harry Cowen 0 0 0 0, Jack Emery 0 0 0 0, Karen Raphael 0 2 0 20, Mackenzie Whitley 0 2 1 15
+Bonuses: McLean A 15 300 20.00, Western Albemarle A 4 30 7.50
+
+Langley B 495, Fort Defiance A 40
+Langley B: Shahan Salam 0 0 1 -5, Selena Bao 0 3 0 30, Matt Rubin 3 4 1 80, Daniel Mousavi 2 4 0 70
+Fort Defiance A: Julian 0 0 1 -5, Max 0 1 0 10, Alex 0 0 0 0, Andrew 1 0 0 15
+Bonuses: Langley B 16 320 20.00, Fort Defiance A 2 20 10.00
+
+Robinson A 335, Langley A 240
+Langley A: William Orr 1 2 1 30, Dan Ni 2 1 1 35, Aidan 2 0 0 30, Justin Chen 1 0 0 15
+Robinson A: Mason Cook 1 3 0 45, James Orefice 0 1 0 10, Megan Sullivan 0 1 0 10, Joshua Link 3 1 1 50
+Bonuses: Langley A 9 130 14.44, Robinson A 10 220 22.00
+
+Cave Spring A 335, BASIS McLean 305
+BASIS McLean: Sam Kaufman 0 0 0 0, Justin Ward 5 2 2 85, Anna Yang 1 1 0 25, Jiaming Zhang 0 0 1 -5
+Cave Spring A: Lexie Agee 0 2 0 20, Billy Luqiu 2 3 1 55, Maya Sawh 1 1 0 25, Bennett Snyder 1 1 0 25
+Bonuses: BASIS McLean 9 200 22.22, Cave Spring A 11 210 19.09
+
+Freeman A 295, Maggie Walker A 235
+Maggie Walker A: Daniel Xue 1 3 1 40, Alex Dietrich 2 0 1 25, Dennis Plotnikov 0 2 0 20, Sonya Stacia 0 1 0 10
+Freeman A: Alex K. 0 1 0 10, Walker Barkstrom 2 4 0 70, Will Chambers 1 3 0 45, Josh DuPuis 0 0 0 0
+Bonuses: Maggie Walker A 9 140 15.56, Freeman A 11 170 15.45
+
+Robert Bork A 420, TC Williams 175
+Robert Bork A: Julia Zhou 2 1 1 35, Kevin Wang 3 3 0 75, James Kuang 3 1 1 50
+TC Williams: Mark Bailey 3 4 0 85, Kelly Jones 0 0 0 0
+Bonuses: Robert Bork A 13 260 20.00, TC Williams 7 90 12.86
+
+Round 12
+Kettle Run D 125, Rappahannock B 95
+Kettle Run D: Zach Williams 0 5 0 50, Kenzie McEwen 0 1 0 10, Thomas Harlow 0 0 0 0, Alex P 0 1 1 5
+Rappahannock B: Itsail 0 2 0 20, Heather Smith 0 3 1 25, John McKelvey 0 0 0 0, Cassia Gainer 0 1 0 10
+Bonuses: Kettle Run D 7 60 8.57, Rappahannock B 6 40 6.67
+
+Cave Spring C 165, Eastern Montgomery B 110
+Eastern Montgomery B: Kellen Walthall 0 1 0 10, Kolten Leyer 0 0 0 0, Ashley Basham 0 0 0 0, Jack Graves 0 5 0 50
+Cave Spring C: Rachel Baffoe-Bonnie 0 0 0 0, Andela Acic 0 0 0 0, James Snyder 0 2 1 15, Charles Collier 0 4 0 40, Weston Colip 0 2 0 20
+Bonuses: Eastern Montgomery B 6 50 8.33, Cave Spring C 8 90 11.25
+
+Jefferson Forest B 185, Jefferson Forest C 80
+Jefferson Forest C: Will Duis 0 1 0 10, William Jeon 0 2 2 10, Emiko Ebreneyin 0 0 0 0, Jing Lei Wales 0 2 0 20
+Jefferson Forest B: Andrew Chang 0 3 0 30, Madison Martin 0 1 0 10, Michael Kricheldorf 0 2 1 15, Luke Moon 0 2 0 20
+Bonuses: Jefferson Forest C 5 40 8.00, Jefferson Forest B 8 110 13.75
+
+Kettle Run B 200, Eastern Montgomery A 175
+Eastern Montgomery A: Laney Edwards 0 1 0 10, Brett Smith 0 0 0 0, Gabe Bolding 0 6 1 55, Skylar Jones 0 1 0 10
+Kettle Run B: Nick Faggiano 0 0 0 0, Declan Boyle 0 4 0 40, Catherine Henkel 0 1 0 10, Ethan Jakum 1 2 1 30
+Bonuses: Eastern Montgomery A 8 100 12.50, Kettle Run B 8 120 15.00
+
+Maggie Walker C 255, VES A 125
+VES A: Nate Baugher 0 0 0 0, Bruno Paso 1 1 2 15, Wilson Smith 0 3 0 30, Sebastian Knebel 0 1 0 10
+Maggie Walker C: Amanda Perez 0 4 0 40, Quinn Kast 0 0 0 0, Ajay Srinivasan 0 3 0 30, Nicholas Favale 2 0 1 25
+Bonuses: VES A 6 70 11.67, Maggie Walker C 9 160 17.78
+
+Rappahannock A 240, Fort Defiance C 110
+Rappahannock A: Daniel Dalle Luca 0 0 0 0, Lauren Petty 0 4 1 35, Bryce Jones 0 2 0 20, Alec Petty 0 5 1 45
+Fort Defiance C: Isabel 0 1 0 10, Sabrina 0 0 0 0, Elizabeth 0 1 0 10, Katie 0 3 0 30
+Bonuses: Rappahannock A 11 140 12.73, Fort Defiance C 5 60 12.00
+
+Maggie Walker B 340, Western Albermarle B 45
+Western Albermarle B: Sydney Dell 0 0 0 0, Charlie Sewell 0 0 0 0, Ben Lennox 0 1 2 0, Emma Wayne 0 2 3 5
+Maggie Walker B: Perisa Ashar 0 0 0 0, Siddharth Venigalla 0 3 1 25, Jack Honig 1 2 1 30, Jackson Lamb 2 3 1 55
+Bonuses: Western Albermarle B 3 40 13.33, Maggie Walker B 11 230 20.91
+
+Blacksburg B 240, Kettle Run C 130
+Blacksburg B: Cato Z 0 2 1 15, Christian S 0 7 0 70, Bryan K 0 1 1 5, Cooper R 0 0 0 0
+Kettle Run C: Griffin Barbeau 0 1 1 5, Liam Heppard 0 2 0 20, Marley Rowell 0 0 0 0, Sadie Jarrell 1 1 0 25
+Bonuses: Blacksburg B 10 150 15.00, Kettle Run C 5 80 16.00
+
+Blacksburg A 265, McLean B 200
+McLean B: Nischal Dinesh 1 0 0 15, Grace Chung 0 6 1 55
+Blacksburg A: Cedric C 0 3 1 25, Vish S 1 3 1 40, Firas D 0 1 0 10, Robert L 0 2 0 20
+Bonuses: McLean B 7 130 18.57, Blacksburg A 10 170 17.00
+
+Blacksburg C 260, Christiansburg A 175
+Blacksburg C: Alex R 0 4 0 40, Vansh P 0 2 0 20, Dasol L 0 0 0 0, Kevin Z 0 4 0 40
+Christiansburg A: Jason Kuhn 0 3 0 30, Camden Brewer 1 1 0 25, Melanie Fleischer 0 1 0 10, Angelo 0 1 0 10
+Bonuses: Blacksburg C 10 160 16.00, Christiansburg A 7 100 14.29
+
+Mountain Vista A 345, Fort Defiance B 5
+Fort Defiance B: Emily 0 0 0 0, Gabriela 0 0 0 0, Roth 0 0 2 -10, Jonas 0 1 3 -5, Noah 0 0 0 0, Grace 0 0 0 0
+Mountain Vista A: Joseph Sabol 0 3 0 30, Derek Sprincis 2 2 1 45, Annalee Wisecarver 0 6 0 60, Niklas Blood 0 0 0 0
+Bonuses: Fort Defiance B 1 20 20.00, Mountain Vista A 13 210 16.15
+
+Jefferson Forest A 155, Loudoun County B 150
+Jefferson Forest A: Daniel Moon 0 3 0 30, Catherine Guo 0 2 0 20, Ashley Chang 0 3 2 20, Clare Cocker 0 0 1 -5
+Loudoun County B: Caroline Curtin 0 1 0 10, Nathan Smith 0 3 0 30, Shrish Balaji 0 0 0 0, Brighton Lieu 0 2 0 20
+Bonuses: Jefferson Forest A 8 90 11.25, Loudoun County B 6 90 15.00
+
+Jamestown 460, Kettle Run A 105
+Kettle Run A: Joshua Wine 1 2 2 25, Miles Housley 0 1 1 5, Nick McCloskey 0 0 0 0, Joseph Rowell 0 0 1 -5
+Jamestown: Sam Kiser 0 1 1 5, Isaac Criddle 1 4 0 55, David Bass 2 7 0 100, Kieran Barre 0 0 0 0
+Bonuses: Kettle Run A 4 80 20.00, Jamestown 15 300 20.00
+
+Cave Spring B 250, Mountain Vista B 155
+Cave Spring B: Scott Rose 1 2 1 30, Miles Vance 1 0 1 10, Travis Schuck 0 1 1 5, Elliott Kroll 1 2 0 35
+Mountain Vista B: Nick Goudeau 0 5 0 50, Adriana Sauntry 0 0 0 0, Caroline Haddock 0 1 0 10, Caroline Sosnoski 0 0 1 -5, Gabriel Smith 0 1 0 10
+Bonuses: Cave Spring B 8 170 21.25, Mountain Vista B 7 90 12.86
+
+Robert Bork B 350, Loudoun County A 80
+Loudoun County A: Zach A. 0 2 0 20, Tom Anders 0 1 3 -5, Connor Moon 0 0 2 -10, Kishan Balaji 0 1 1 5
+Robert Bork B: Vishal Kanigcherla 0 3 1 25, Elliot Lee 0 3 1 25, Siddharth Krishnakumar 0 6 0 60
+Bonuses: Loudoun County A 4 70 17.50, Robert Bork B 12 240 20.00
+
+Robinson A 400, Western Albemarle A 190
+Robinson A: Mason Cook 1 4 0 55, James Orefice 0 1 0 10, Megan Sullivan 1 2 1 30, Joshua Link 1 2 0 35
+Western Albemarle A: Harry Cowen 2 0 1 25, Jack Emery 1 1 0 25, Karen Raphael 0 0 0 0, Mackenzie Whitley 0 2 0 20
+Bonuses: Robinson A 12 270 22.50, Western Albemarle A 6 120 20.00
+
+Langley B 400, Langley A 240
+Langley B: Shahan Salam 0 2 0 20, Selena Bao 1 1 1 20, Matt Rubin 3 2 0 65, Daniel Mousavi 2 0 1 25
+Langley A: William Orr 0 0 1 -5, Dan Ni 3 5 2 85, Aidan 0 0 0 0, Justin Chen 0 0 0 0
+Bonuses: Langley B 11 270 24.55, Langley A 8 160 20.00
+
+McLean A 440, Fort Defiance A 170
+McLean A: Eunkyoon Lee 0 1 0 10, Justin Young 6 4 2 120, Janna Serrao 0 2 2 10
+Fort Defiance A: Andrew 0 6 0 60, Alex 0 0 0 0, Max 0 0 0 0, Julian 0 0 0 0
+Bonuses: McLean A 13 300 23.08, Fort Defiance A 6 110 18.33
+
+TC Williams 350, Freeman A 285
+TC Williams: Mark Bailey 3 8 1 120, Kelly Jones 0 1 0 10
+Freeman A: Josh DuPuis 0 0 0 0, Will Chambers 0 1 1 5, Walker Barkstrom 1 5 0 65, Alex K. 1 0 0 15
+Bonuses: TC Williams 12 220 18.33, Freeman A 8 200 25.00
+
+BASIS McLean 500, Maggie Walker A 175
+Maggie Walker A: Alex Dietrich 0 0 0 0, Sonya Stacia 0 0 1 -5, Daniel Xue 1 4 3 40, Dennis Plotnikov 0 1 0 10
+BASIS McLean: Sam Kaufman 0 1 0 10, Justin Ward 6 4 1 125, Anna Yang 1 2 0 35, Jiaming Zhang 0 0 0 0
+Bonuses: Maggie Walker A 6 130 21.67, BASIS McLean 14 330 23.57
+
+Robert Bork A 480, Cave Spring A 245
+Robert Bork A: Julia Zhou 0 1 1 5, Kevin Wang 4 3 0 90, James Kuang 5 0 0 75
+Cave Spring A: Lexie Agee 0 0 0 0, Billy Luqiu 3 2 2 55, Maya Sawh 0 0 0 0, Bennett Snyder 2 0 0 30
+Bonuses: Robert Bork A 13 310 23.85, Cave Spring A 7 160 22.86
+
+Round 13
+
+Robert Bork A 390, Robinson A 240
+Robinson A: Mason Cook 0 1 2 0, James Orefice 0 0 0 0, Megan Sullivan 2 3 0 60, Joshua Link 2 0 0 30
+Robert Bork A: James Kuang 4 1 2 60, Kevin Wang 3 1 0 55, Julia Zhou 1 1 0 25
+Bonuses: Robinson A 8 150 18.75, Robert Bork A 11 250 22.73
