@@ -25,13 +25,20 @@
     left: 0;
     background-color: #000;
     padding: 0px 25px;
-    color: #8888ff;
 }
 
-.sidebar-header {
+.sidebar-head {
+	color: #8888ff;
+    font-size: 20pt;
+    font-weight: bold;
+    text-align: center;
+}
+
+.sidebar-subhead {
 	font-size: 16pt;
     color: #ffffff;
     line-height: 10px;
+    font-weight: bold;
 }
 
 .sidebar a {
