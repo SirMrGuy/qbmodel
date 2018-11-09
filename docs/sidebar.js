@@ -19,6 +19,7 @@ function genSidebar(){
 	var thisSite = 	   [['Main Page',			'index.html'],
 						['Groger Scores',		'scores.html'],
 						['PACE Forecast',		'pace.html'],
+						['Documentation',		'documentation.html'],
 						['About',				'about.html']]
 	var otherSites =   [['Groger Ranks',		'https://grogerranks.wordpress.com/'],
 						['QB Resource Center',	'http://www.hsquizbowl.org/db/'],
