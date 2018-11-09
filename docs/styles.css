@@ -2,17 +2,36 @@
 	font-family: "Trebuchet MS";
 }
 
+.topbar {
+	height: 75px;
+	width: 100%;
+	position: fixed;
+	z-index: 1;
+	background-color: #006;
+    top: 0px;
+    left: 200px;
+    padding: 0px 25px;
+    line-height: 75px;
+    font-size: 36pt;
+    color: #fff;
+}
+
 .sidebar {
     height: 100%;
     width: 150px;
     position: fixed;
-    z-index: 1;
+    z-index: 2;
     top: 0; 
     left: 0;
-    background-color: #111;
-    overflow-x: hidden;
-    padding: 0px 20px;
+    background-color: #000;
+    padding: 0px 25px;
     color: #8888ff;
+}
+
+.sidebar-header {
+	font-size: 16pt;
+    color: #ffffff;
+    line-height: 10px;
 }
 
 .sidebar a {
@@ -20,6 +39,7 @@
 	color: #bbbbff;
 	display: block;
 	text-decoration: none;
+	line-height: 25px;
 }
 
 .sidebar a:hover {
@@ -32,6 +52,7 @@
 }
 
 .content {
-	margin-left: 190px;
-	padding: 20px 20px;
+	margin-left: 200px;
+	margin-top: 75px;
+	padding: 10px 20px;
 }
