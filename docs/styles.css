@@ -1,5 +1,11 @@
+p { 
+   font-family: 'CMUSerifRoman'; 
+   font-weight: normal; 
+   font-style: normal; 
+}
+
 * {
-	font-family: "Palatino Linotype",serif;
+	font-family: "CMUSerifRoman",serif;
 }
 
 .topbar {
