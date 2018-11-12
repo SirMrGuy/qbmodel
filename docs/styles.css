@@ -5,7 +5,7 @@ p {
 }
 
 * {
-	font-family: "CMUSerifRoman",serif;
+	font-family: "Palatino Linotype";
 }
 
 .topbar {
@@ -70,6 +70,7 @@ p {
 	margin-left: 250px;
 	margin-top: 75px;
 	padding: 10px 20px;
+    font-family: "CMUSerifRoman";
 }
 
 table, th, td {
