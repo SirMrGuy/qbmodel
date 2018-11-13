@@ -16,14 +16,14 @@ function genSidebar(){
 	para.append(text);
 	side.appendChild(para);
 
-	var thisSite = 	   [['Main Page',			'index.html'],
-						['Groger Scores',		'scores.html'],
-						['PACE Forecast',		'pace.html'],
-						['Documentation',		'documentation.html'],
-						['About',				'about.html']]
-	var otherSites =   [['Groger Ranks',		'https://grogerranks.wordpress.com/'],
-						['QB Resource Center',	'http://www.hsquizbowl.org/db/'],
-						['QB Database Search',	'http://hdwhite.org/qb/stats/']]
+	var thisSite = 	   [['Main Page',				'index.html'],
+						['Groger Scores Analysis',	'scores.html'],
+						['PACE NSC Forecast',		'pace.html'],
+						['Documentation',			'documentation.html'],
+						['About',					'about.html']]
+	var otherSites =   [['Groger Ranks',			'https://grogerranks.wordpress.com/'],
+						['Quizbowl Resource Center','http://www.hsquizbowl.org/db/'],
+						['Quizbowl Database Search','http://hdwhite.org/qb/stats/']]
 
 	var para = document.createElement('p');
 	para.className = 'sidebar-subhead';
