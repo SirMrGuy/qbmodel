@@ -1,4 +1,4 @@
-logitdata <- read.csv('logit.csv')
+logitdata <- read.csv('logit2.csv')
 l <- glm(win ~ diff, data = logitdata, family = 'binomial')
 x <- seq(-80,80,1)
 plot(x,1/(1+2.71828^-(x*l[['coefficients']][['diff']])),

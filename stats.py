@@ -19,11 +19,15 @@ marginpoints = []
 games = 0
 for tournament in tournaments:
     print 'Analyzing',tournament
-    with open(os.path.join('./tournaments',tournament+'.txt')) as scores, open(os.path.join('./aliases',tournament+'.txt')) as alias:
+    with open(os.path.join('./tournaments',tournament+'.txt')) as scores:
         aliases = {}
-        for a in alias:
-            lst = a.strip('\n').split(',')
-            aliases[lst[0]] = lst[1]
+        try:
+            with open(os.path.join('./aliases',tournament+'.txt')) as alias:
+                for a in alias:
+                    lst = a.strip('\n').split(',')
+                    aliases[lst[0]] = lst[1]
+        except:
+            pass
         for game in scores:
             if ':' not in game and ',' in game:
                 s = game.strip('\n')
@@ -44,9 +48,17 @@ with open('logit.csv','w') as out:
     out.write('win,diff\n')
     for p in logitpoints:
         out.write(str(p[0])+','+str(p[1])+'\n')
+with open('logit2.csv','w') as out:
+    out.write('win,diff\n')
+    for p in logitpoints:
+        if p[1]>=0: out.write(str(p[0])+','+str(p[1])+'\n')
 with open('margin.csv','w') as out:
     out.write('margin,diff\n')
     for p in marginpoints:
         out.write(str(p[0])+','+str(p[1])+'\n')
+with open('margin2.csv','w') as out:
+    out.write('margin,diff\n')
+    for p in marginpoints:
+        if p[1]>=0: out.write(str(p[0])+','+str(p[1])+'\n')
 
 print 'Analyzed',len(logitpoints)/2,'of',games,'game(s) in',len(tournaments),'tournament(s) in',round(time.time()-start,3),'second(s)'

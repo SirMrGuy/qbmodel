@@ -1,4 +1,4 @@
-margindata <- read.csv('margin.csv')
+margindata <- read.csv('margin2.csv')
 lin <- lm(margin ~ diff, data = margindata)
 x <- seq(-80,80,1)
 plot(x,lin[['coefficients']][['(Intercept)']]+x*lin[['coefficients']][['diff']],
