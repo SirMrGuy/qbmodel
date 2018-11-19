@@ -4,7 +4,9 @@ x <- seq(-80,80,1)
 plot(x,lin[['coefficients']][['(Intercept)']]+x*lin[['coefficients']][['diff']],
      main='Margin vs. Groger Score Difference',
      xlab='Score Difference',
+     xlim=c(0,70),
      ylab='Margin',
+     ylim=c(-600,700),
      type='l',
      col='blue',
      lwd=2)

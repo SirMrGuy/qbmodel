@@ -1,0 +1,460 @@
+Round 1
+
+St. Joseph 510, Okemos B 40
+St. Joseph: Jonathan U 0 0 0 0, Andrew O 2 1 0 40, Tomas A 3 7 2 105, Patrick M 1 2 0 35
+Okemos B: Nathan P 0 0 0 0, Curtis C 1 0 1 10, Harshil C 0 0 1 -5, Pranav S 1 0 0 15
+Bonuses: St. Joseph 16 330 20.62, Okemos B 2 20 10.00
+
+DCC B 260, Okemos A 225
+DCC B: Zachary E 2 0 0 30, Billy D 2 0 0 30, Bryce M 0 1 1 5, Gavin D 1 4 2 45
+Okemos A: Fergal H 1 0 1 10, Pratham P 0 1 0 10, Jon D 0 2 0 20, Joseph C 3 2 0 65
+Bonuses: DCC B 10 150 15.00, Okemos A 9 120 13.33
+
+Divine Child B 205, Okemos C 80
+Divine Child B: Adam K 1 7 2 75, Matt E 0 0 0 0, Lucy T 0 1 0 10, Emma R 0 0 0 0, Sara S 0 0 1 -5, Nicholas M 0 0 1 -5
+Okemos C: Biyang Z 0 0 1 -5, Holly E 0 1 0 10, Michal W 1 2 0 35
+Bonuses: Divine Child B 9 130 14.44, Okemos C 4 40 10.00
+
+DCC A 425, GPS 265
+DCC A: Robert D 3 2 0 65, Colin S 2 0 0 30, Parker S 1 2 2 25, David D 1 1 0 25
+GPS: Jason L 3 4 1 80, James S 0 0 0 0, Hannah O 1 0 0 15
+Bonuses: DCC A 12 280 23.33, GPS 8 170 21.25
+
+DCD C 150, St. Mary's 120
+DCD C: Ajay S 0 4 1 35, Dillan J 0 0 0 0, Ramzi N 0 0 1 -5, Adam B 1 0 0 15, Michelle M 0 3 1 25
+St. Mary's: Danny M 1 6 5 50
+Bonuses: DCD C 8 80 10.00, St. Mary's 7 70 10.00
+
+Dewitt 230, DCD B 190
+Dewitt: Jason P 0 0 0 0, Alec H 0 2 0 20, Kayla C 0 5 0 50, Landon R 0 2 0 20
+DCD B: Trey T 0 1 1 5, Zaid S 0 5 0 50, Connor S 2 1 2 30, Adam S 0 0 1 -5
+Bonuses: Dewitt 9 140 15.56, DCD B 9 110 12.22
+
+Plymouth A 125, DCD D 95
+Plymouth A: Sydney 1 0 0 15, Sreya 0 3 0 30, Dev 0 0 0 0, Nicholas 0 3 0 30
+DCD D: Arnav E 0 0 0 0, Yiou J 1 5 4 45, Jay X 0 0 0 0, Vivek S 0 1 0 10
+Bonuses: Plymouth A 7 50 7.14, DCD D 7 40 5.71
+
+DCD A 315, Mercy 200
+DCD A: Hans L 1 0 1 10, Daniel L 3 7 1 110, Harlib C 0 0 0 0, Maria C 0 0 1 -5
+Mercy: Lily O 1 1 0 25, Caitlin B 1 1 0 25, Rachel V 2 2 0 50, Sophie T 0 0 0 0
+Bonuses: DCD A 11 200 18.18, Mercy 8 100 12.50
+
+Divine Child A 435, Plymouth B 20
+Divine Child A: Alan V 0 4 1 35, Chad W 1 6 0 75, Sarah G 0 2 0 20, Julia P 1 2 0 35
+Plymouth B: Meera A 0 1 0 10, Varun R 0 1 0 10, Moriah M 0 0 0 0
+Bonuses: Divine Child A 16 270 16.88, Plymouth B 2 0 0.00
+
+Round 2
+DCC B 540, Divine Child B 90
+DCC B: Bryce M 0 2 1 15, Gavin D 2 3 0 60, Billy D 1 3 0 45, Zachary E 2 2 0 50
+Divine Child B: Adam K 2 0 2 20, Emma R 0 1 0 10, Sara S 0 0 0 0, Nicholas M 0 0 0 0, Matt E 0 0 0 0, Lucy T 0 0 0 0
+Bonuses: DCC B 15 370 24.67, Divine Child B 3 60 20.00
+
+St. Joseph 600, DCD D 35
+St. Joseph: Patrick M 2 2 0 50, Andrew O 1 1 0 25, Tomas A 2 9 3 105, Jonathan U 0 0 0 0
+DCD D: Jay X 0 0 0 0, Arnav E 0 0 0 0, Vivek S 0 0 0 0, Yiou J 0 1 1 5
+Bonuses: St. Joseph 17 420 24.71, DCD D 1 30 30.00
+
+DCC A 715, Dewitt 40
+DCC A: Parker S 1 1 0 25, David D 2 3 1 55, Colin S 3 2 0 65, Robert D 6 1 0 100
+Dewitt: Landon R 0 0 0 0, Alec H 0 0 0 0, Kayla C 0 1 0 10, Lana K 0 0 0 0, Brady M 0 0 0 0
+Bonuses: DCC A 19 470 24.74, Dewitt 1 30 30.00
+
+Mercy 405, Plymouth A 75
+Mercy: Lily O 1 0 0 15, Rachel V 1 9 0 105, Sophie T 0 1 1 5, Caitlin B 0 3 0 30
+Plymouth A: Nicholas 1 0 0 15, Dev 0 1 0 10, Sreya 0 2 0 20, Sydney 0 0 0 0
+Bonuses: Mercy 15 250 16.67, Plymouth A 4 30 7.50
+
+Okemos C 115, DCD C 100
+Okemos C: Biyang Z 0 1 0 10, Holly E 0 1 0 10, Michal W 0 4 3 25
+DCD C: Michelle M 0 1 1 5, Adam B 0 0 0 0, Ajay S 1 1 0 25, Ramzi N 2 0 0 30, Dillan J 0 0 0 0
+Bonuses: Okemos C 6 70 11.67, DCD C 5 40 8.00
+
+Okemos A 395, St. Mary's 60
+Okemos A: Jon D 0 3 0 30, Joseph C 1 3 0 45, Fergal H 2 3 1 55, Pratham P 0 1 1 5
+St. Mary's: Danny M 1 3 1 40
+Bonuses: Okemos A 13 260 20.00, St. Mary's 4 20 5.00
+
+GPS 440, Divine Child A 185
+GPS: Hannah O 0 0 0 0, Jason L 6 3 1 115, James S 3 1 0 55
+Divine Child A: Luke D 1 0 0 15, Sarah G 0 1 0 10, Chad W 0 0 0 0, Alan V 1 2 1 30
+Bonuses: GPS 13 270 20.77, Divine Child A 5 130 26.00
+
+DCD B 325, Plymouth B 35
+DCD B: Connor S 1 2 1 30, Adam S 0 1 1 5, Trey T 0 1 0 10, Zaid S 0 8 2 70, Justin L 0 0 0 0
+Plymouth B: Moriah M 0 1 1 5, Varun R 0 1 0 10, Meera A 0 0 0 0
+Bonuses: DCD B 13 210 16.15, Plymouth B 2 20 10.00
+
+DCD A 480, Okemos B 55
+DCD A: Maria C 1 1 1 20, Daniel L 1 3 0 45, Hans L 1 2 0 35, Harlib C 1 4 1 50
+Okemos B: Harshil C 1 2 2 25, Curtis C 0 0 0 0, Nathan P 0 0 0 0, Pranav S 0 1 0 10
+Bonuses: DCD A 14 330 23.57, Okemos B 4 20 5.00
+
+Round 3
+DCD A 430, DCD D 20
+DCD A: Daniel L 0 9 1 85, Hans L 0 1 0 10, Harlib C 0 1 2 0, Maria C 2 1 1 35
+DCD D: Vivek S 0 0 0 0, Jay X 0 0 0 0, Arnav E 0 0 0 0, Yiou J 0 2 0 20
+Bonuses: DCD A 14 300 21.43, DCD D 2 0 0.00
+
+Mercy 335, Okemos B 45
+Mercy: Sophie T 0 0 0 0, Rachel V 2 6 1 85, Caitlin B 0 3 0 30, Lily O 0 2 0 20
+Okemos B: Nathan P 0 3 4 10, Curtis C 0 0 1 -5, Harshil C 0 0 0 0, Pranav S 0 0 0 0
+Bonuses: Mercy 13 200 15.38, Okemos B 3 40 13.33
+
+Divine Child A 260, DCD B 155
+Divine Child A: Julia P 0 4 1 35, Alan V 0 4 0 40, Chad W 1 1 0 25, Sarah G 0 1 0 10
+DCD B: Connor S 1 0 1 10, Zaid S 0 1 1 5, Justin L 0 0 0 0, Adam S 1 2 0 35, Trey T 1 1 0 25
+Bonuses: Divine Child A 11 150 13.64, DCD B 7 80 11.43
+
+DCC B 450, St. Mary's 25
+DCC B: Gavin D 3 1 0 55, Zachary E 1 2 2 25, Billy D 1 5 2 55, Bryce M 3 0 0 45
+St. Mary's: Danny M 0 3 3 15
+Bonuses: DCC B 16 270 16.88, St. Mary's 3 10 3.33
+
+GPS 305, Dewitt 290
+GPS: Hannah O 0 1 0 10, James S 3 1 0 55, Jason L 3 3 3 60
+Dewitt: Landon R 1 2 1 30, Alec H 0 1 0 10, Kayla C 1 3 0 45, Jason P 1 0 0 15
+Bonuses: GPS 11 180 16.36, Dewitt 9 190 21.11
+
+Divine Child B 245, DCD C 85
+Divine Child B: Adam K 2 4 2 60, Lucy T 0 0 0 0, Matt E 0 0 1 -5, Emma R 0 1 0 10, Nicholas M 0 0 0 0, Sara S 2 1 0 40
+DCD C: Michelle M 0 1 0 10, Adam B 0 0 0 0, Dillan J 0 0 0 0, Ajay S 0 2 1 15, Ramzi N 0 2 0 20
+Bonuses: Divine Child B 10 140 14.00, DCD C 5 40 8.00
+
+Okemos A 480, Okemos C 20
+Okemos A: Pratham P 0 1 1 5, Fergal H 1 1 1 20, Joseph C 1 5 1 60, Jon D 1 6 0 75
+Okemos C: Holly E 0 0 0 0, Michal W 0 1 1 5, Biyang Z 0 1 1 5
+Bonuses: Okemos A 16 320 20.00, Okemos C 2 10 5.00
+
+St. Joseph 470, Plymouth A 55
+St. Joseph: Tomas A 5 6 2 125, Jonathan U 0 2 1 15, Patrick M 1 1 0 25, Andrew O 0 0 1 -5
+Plymouth A: Sreya 0 0 1 -5, Dev 0 0 0 0, Nicholas 0 3 0 30, Sydney 0 0 0 0
+Bonuses: St. Joseph 15 310 20.67, Plymouth A 3 30 10.00
+
+DCC A 780, Plymouth B 0
+DCC A: Robert D 5 1 0 85, Colin S 3 3 0 75, David D 3 1 0 55, Parker S 3 1 0 55
+Plymouth B: Moriah M 0 0 0 0, Varun R 0 0 0 0, Meera A 0 0 0 0, Angie Y 0 0 0 0
+Bonuses: DCC A 20 510 25.50, Plymouth B 0 0 0.00
+
+Round 4
+DCC A 535, Divine Child A 110
+DCC A: Parker S 0 1 1 5, Colin S 3 1 0 55, Robert D 4 0 1 55, David D 5 1 1 80
+Divine Child A: Alan V 1 2 1 30, Chad W 0 1 0 10, Sarah G 0 0 0 0, Julia P 0 0 0 0
+Bonuses: DCC A 15 340 22.67, Divine Child A 4 70 17.50
+
+GPS 440, DCD B 70
+GPS: Hannah O 0 0 0 0, James S 2 7 2 90, Jason L 3 3 1 70
+DCD B: Zaid S 0 0 0 0, Adam S 1 1 1 20, Trey T 0 0 0 0, Connor S 0 1 0 10, Justin L 0 0 0 0
+Bonuses: GPS 15 280 18.67, DCD B 3 40 13.33
+
+St. Mary's 135, Okemos C 80
+St. Mary's: Danny M 0 8 3 65
+Okemos C: Holly E 0 2 2 10, Michal W 0 0 0 0, Biyang Z 0 2 2 10
+Bonuses: St. Mary's 8 70 8.75, Okemos C 4 60 15.00
+
+St. Joseph 345, DCD A 210
+St. Joseph: Jonathan U 0 0 0 0, Tomas A 4 4 2 90, Patrick M 0 1 1 5, Andrew O 0 3 0 30
+DCD A: Harlib C 0 0 1 -5, Daniel L 0 3 2 20, Maria C 1 2 0 35, Hans L 0 2 0 20
+Bonuses: St. Joseph 12 220 18.33, DCD A 8 140 17.50
+
+Okemos A 425, Divine Child B 40
+Okemos A: Pratham P 0 0 1 -5, Jon D 3 5 0 95, Joseph C 0 3 1 25, Fergal H 2 3 0 60
+Divine Child B: Adam K 0 1 2 0, Emma R 0 0 0 0, Sara S 0 0 0 0, Nicholas M 0 0 0 0, Matt E 0 1 0 10, Lucy T 0 0 0 0
+Bonuses: Okemos A 16 250 15.62, Divine Child B 2 30 15.00
+
+DCC B 420, DCD C 110
+DCC B: Zachary E 1 1 1 20, Billy D 3 1 0 55, Bryce M 2 3 0 60, Gavin D 0 4 1 35
+DCD C: Ajay S 0 0 0 0, Dillan J 0 0 0 0, Adam B 0 1 0 10, Michelle M 0 0 0 0, Ramzi N 0 3 0 30
+Bonuses: DCC B 15 250 16.67, DCD C 4 70 17.50
+
+Mercy 365, DCD D 70
+Mercy: Caitlin B 0 2 0 20, Sophie T 0 0 0 0, Rachel V 1 7 1 80, Lily O 1 4 0 55
+DCD D: Vivek S 0 0 0 0, Jay X 0 0 0 0, Arnav E 0 0 0 0, Yiou J 1 2 1 30
+Bonuses: Mercy 15 210 14.00, DCD D 3 40 13.33
+
+Dewitt 310, Plymouth B 50
+Dewitt: Landon R 0 2 2 10, Alec H 0 1 1 5, Kayla C 1 8 0 95, Brady M 0 1 0 10
+Plymouth B: Moriah M 0 0 0 0, Varun R 0 3 0 30, Meera A 0 0 0 0, Angie Y 0 0 0 0
+Bonuses: Dewitt 13 190 14.62, Plymouth B 3 20 6.67
+
+Okemos B 335, Plymouth A 10
+Okemos B: Nathan P 0 0 1 -5, Pranav S 0 2 0 20, Harshil C 1 11 1 120, Curtis C 0 2 0 20
+Plymouth A: Sreya 0 0 0 0, Dev 0 0 0 0, Nicholas 0 0 0 0, Sydney 0 1 0 10
+Bonuses: Okemos B 16 180 11.25, Plymouth A 1 0 0.00
+
+Round 5
+DCD A 525, Plymouth A 30
+DCD A: Maria C 1 6 2 65, Harlib C 1 3 0 45, Daniel L 4 1 0 70, Hans L 1 1 0 25
+Plymouth A: Sreya 0 0 0 0, Dev 0 2 0 20, Nicholas 0 0 0 0, Sydney 0 0 0 0
+Bonuses: DCD A 18 320 17.78, Plymouth A 2 10 5.00
+
+DCC B 565, Okemos C 0
+DCC B: Gavin D 1 6 0 75, Bryce M 2 4 0 70, Zachary E 0 2 2 10, Billy D 2 1 0 40
+Okemos C: Holly E 0 0 0 0, Michal W 0 0 0 0, Biyang Z 0 0 0 0
+Bonuses: DCC B 18 370 20.56, Okemos C 0 0 0.00
+
+GPS 440, Plymouth B 85
+GPS: Hannah O 1 3 1 40, James S 2 2 0 50, Jason L 1 6 1 70
+Plymouth B: Varun R 0 3 0 30, Angie Y 0 0 0 0, Moriah M 0 0 0 0, Meera A 1 0 0 15
+Bonuses: GPS 15 280 18.67, Plymouth B 4 40 10.00
+
+Divine Child B 350, St. Mary's 65
+Divine Child B: Adam K 1 4 1 50, Lucy T 1 1 0 25, Matt E 0 1 0 10, Sara S 1 4 0 55, Emma R 0 0 0 0, Nicholas M 0 0 0 0
+St. Mary's: Danny M 1 3 2 35
+Bonuses: Divine Child B 13 210 16.15, St. Mary's 4 30 7.50
+
+Okemos B 165, DCD D 90
+Okemos B: Pranav S 0 3 0 30, Nathan P 0 1 0 10, Curtis C 0 1 1 5, Harshil C 0 3 2 20
+DCD D: Vivek S 0 0 0 0, Jay X 0 0 0 0, Arnav E 0 0 0 0, Yiou J 0 6 2 50
+Bonuses: Okemos B 8 100 12.50, DCD D 6 40 6.67
+
+St. Joseph 410, Mercy 120
+St. Joseph: Tomas A 4 5 3 95, Jonathan U 0 0 0 0, Andrew O 0 3 1 25, Patrick M 2 0 0 30
+Mercy: Caitlin B 0 3 0 30, Rachel V 1 0 1 10, Lily O 0 1 0 10
+Bonuses: St. Joseph 14 260 18.57, Mercy 5 70 14.00
+
+Okemos A 355, DCD C 100
+Okemos A: Fergal H 1 3 3 30, Joseph C 1 2 0 35, Jon D 0 4 1 35, Pratham P 1 1 0 25
+DCD C: Adam B 0 0 0 0, Michelle M 0 1 0 10, Dillan J 0 2 0 20, Ramzi N 0 1 0 10, Ajay S 0 1 0 10
+Bonuses: Okemos A 13 230 17.69, DCD C 5 50 10.00
+
+DCC A 605, DCD B 55
+DCC A: Robert D 5 1 0 85, Colin S 0 4 0 40, David D 3 3 1 70, Parker S 1 0 1 10
+DCD B: Trey T 0 0 0 0, Zaid S 0 0 0 0, Justin L 0 0 0 0, Connor S 1 0 0 15, Adam S 0 1 0 10
+Bonuses: DCC A 17 400 23.53, DCD B 2 30 15.00
+
+Divine Child A 245, Dewitt 240
+Divine Child A: Alan V 1 6 2 65, Chad W 0 0 1 -5, Sarah G 1 1 0 25, Julia P 1 0 3 0
+Dewitt: Alec H 1 1 0 25, Kayla C 1 6 0 75, Jason P 0 0 0 0, Landon R 0 1 0 10
+Bonuses: Divine Child A 10 160 16.00, Dewitt 10 130 13.00
+
+Round 6
+Divine Child A 255, Divine Child B 170
+Divine Child A: Luke D 1 3 1 40, Alan V 0 1 1 5, Chad W 0 0 0 0, Sarah G 0 4 0 40
+Divine Child B: Adam K 3 3 1 70, Sara S 0 2 3 5, Matt E 0 0 1 -5, Lucy T 0 0 0 0
+Bonuses: Divine Child A 9 170 18.89, Divine Child B 8 100 12.50
+
+DCD B 255, St. Mary's 45
+DCD B: Zaid S 0 3 0 30, Adam S 1 4 0 55, Trey T 0 0 0 0, Connor S 1 2 1 30, Justin L 0 0 0 0
+St. Mary's: Danny M 1 2 2 25
+Bonuses: DCD B 11 140 12.73, St. Mary's 3 20 6.67
+
+DCD C 180, Okemos B 70
+DCD C: Ramzi N 0 3 1 25, Ajay S 1 1 0 25, Adam B 0 0 0 0, Michelle M 1 1 1 20, Dillan J 0 0 0 0
+Okemos B: Nathan P 0 1 1 5, Curtis C 0 0 1 -5, Harshil C 1 1 3 10, Pranav S 0 2 0 20
+Bonuses: DCD C 7 110 15.71, Okemos B 5 40 8.00
+
+Plymouth B 150, Plymouth A 60
+Plymouth B: Meera A 0 1 0 10, Angie Y 0 1 0 10, Varun R 0 4 1 35, Moriah M 0 1 1 5
+Plymouth A: Sreya 0 0 0 0, Dev 0 0 0 0, Nicholas 0 2 0 20, Sydney 0 2 0 20
+Bonuses: Plymouth B 7 90 12.86, Plymouth A 4 20 5.00
+
+DCC A 545, DCD A 190
+DCC A: Robert D 4 3 0 90, Colin S 4 0 0 60, Parker S 1 1 0 25, David D 1 1 1 20
+DCD A: Maria C 0 0 0 0, Harlib C 2 1 0 40, Daniel L 1 1 1 20, Hans L 0 0 0 0
+Bonuses: DCC A 15 350 23.33, DCD A 5 130 26.00
+
+St. Joseph 375, Okemos A 225
+St. Joseph: Jonathan U 0 1 0 10, Andrew O 0 1 0 10, Patrick M 1 1 0 25, Tomas A 0 7 2 60
+Okemos A: Fergal H 2 1 1 35, Pratham P 0 0 0 0, Jon D 1 2 0 35, Joseph C 0 2 1 15
+Bonuses: St. Joseph 11 270 24.55, Okemos A 8 140 17.50
+
+DCD D 105, Okemos C 45
+DCD D: Jay X 0 1 0 10, Yiou J 2 2 4 30, Vivek S 0 0 0 0, Arnav E 0 0 1 -5
+Okemos C: Holly E 0 0 0 0, Michal W 0 2 0 20, Biyang Z 0 1 1 5
+Bonuses: DCD D 5 70 14.00, Okemos C 3 20 6.67
+
+GPS 305, DCC B 230
+GPS: Hannah O 0 0 1 -5, James S 3 4 1 80, Jason L 1 2 1 30
+DCC B: Gavin D 0 4 1 35, Zachary E 0 3 0 30, Billy D 0 0 0 0, Bryce M 0 1 1 5
+Bonuses: GPS 10 200 20.00, DCC B 8 160 20.00
+
+Dewitt 330, Mercy 95
+Dewitt: Landon R 1 4 0 55, Kayla C 1 6 0 75, Lana K 0 0 0 0, Alec H 0 1 0 10, Brady M 0 0 0 0
+Mercy: Caitlin B 0 1 0 10, Lily O 0 2 0 20, Rachel V 0 2 3 5
+Bonuses: Dewitt 13 190 14.62, Mercy 5 60 12.00
+
+Round 7
+Dewitt 245, Okemos B 110
+Dewitt: Kayla C 0 6 1 55, Landon R 0 0 0 0, Jason P 0 3 0 30, Alec H 0 2 0 20
+Okemos B: Pranav S 1 0 1 10, Nathan P 0 0 0 0, Curtis C 0 0 0 0, Harshil C 1 4 1 50
+Bonuses: Dewitt 11 140 12.73, Okemos B 6 50 8.33
+
+St. Mary's 130, Okemos C 110
+St. Mary's: Danny M 0 7 0 70
+Okemos C: Holly E 0 2 0 20, Michal W 1 1 1 20, Biyang Z 0 2 2 10
+Bonuses: St. Mary's 7 60 8.57, Okemos C 6 60 10.00
+
+Divine Child B 165, DCD C 155
+Divine Child B: Nicholas M 0 0 1 -5, Emma R 0 0 1 -5, Sara S 0 3 0 30, Matt E 0 1 0 10, Lucy T 0 0 0 0, Adam K 2 2 1 45
+DCD C: Ajay S 0 2 1 15, Dillan J 0 0 1 -5, Ramzi N 0 2 0 20, Adam B 0 0 0 0, Michelle M 1 1 0 25
+Bonuses: Divine Child B 8 90 11.25, DCD C 6 100 16.67
+
+GPS 390, Okemos A 255
+GPS: Hannah O 0 0 0 0, Jason L 2 4 0 70, James S 1 4 3 40
+Okemos A: Joseph C 1 1 1 20, Jon D 0 3 0 30, Pratham P 0 0 0 0, Fergal H 2 2 1 45
+Bonuses: GPS 11 280 25.45, Okemos A 9 160 17.78
+
+DCD B 140, Plymouth A 115
+DCD B: Zaid S 1 0 1 10, Justin L 0 0 0 0, Adam S 1 2 0 35, Trey T 0 2 0 20, Connor S 0 1 3 -5
+Plymouth A: Sydney 0 1 0 10, Nicholas 0 1 0 10, Dev 1 1 0 25, Sreya 0 2 0 20
+Bonuses: DCD B 7 80 11.43, Plymouth A 6 50 8.33
+
+St. Joseph 330, DCD A 225
+St. Joseph: Tomas A 3 5 0 95, Jonathan U 1 0 0 15, Patrick M 0 0 1 -5, Andrew O 2 0 1 25
+DCD A: Maria C 0 2 0 20, Harlib C 0 2 0 20, Daniel L 1 1 0 25, Hans L 2 0 0 30
+Bonuses: St. Joseph 11 200 18.18, DCD A 8 130 16.25
+
+DCC A 380, DCC B 260
+DCC A: Parker S 1 1 1 20, David D 2 1 0 40, Colin S 1 1 1 20, Robert D 1 3 1 40
+DCC B: Gavin D 2 1 0 40, Bryce M 1 1 0 25, Zachary E 1 0 0 15, Billy D 0 3 0 30
+Bonuses: DCC A 11 260 23.64, DCC B 9 150 16.67
+
+Plymouth B 170, DCD D 150
+Plymouth B: Meera A 0 4 0 40, Angie Y 0 1 0 10, Moriah M 0 4 2 30
+DCD D: Vivek S 0 1 0 10, Jay X 0 0 0 0, Arnav E 0 0 0 0, Yiou J 2 3 2 50
+Bonuses: Plymouth B 9 90 10.00, DCD D 6 90 15.00
+
+Divine Child A 300, Mercy 140
+Divine Child A: Alan V 0 4 2 30, Chad W 0 1 0 10, Sarah G 1 0 0 15, Julia P 0 5 1 45
+Mercy: Caitlin B 0 0 0 0, Rachel V 0 3 0 30, Lily O 0 4 0 40
+Bonuses: Divine Child A 11 200 18.18, Mercy 7 70 10.00
+
+Round 8
+Divine Child A 470, DCD C 25
+Divine Child A: Sarah G 0 2 0 20, Chad W 0 2 1 15, Luke D 0 5 0 50, Alan V 1 7 0 85
+DCD C: Ajay S 0 0 0 0, Dillan J 0 0 0 0, Adam B 0 0 0 0, Michelle M 0 0 1 -5, Ramzi N 0 1 0 10
+Bonuses: Divine Child A 17 300 17.65, DCD C 1 20 20.00
+
+DCC B 375, Okemos A 180
+DCC B: Gavin D 2 2 0 50, Zachary E 1 1 1 20, Billy D 2 0 2 20, Bryce M 1 2 0 35
+Okemos A: Jon D 0 2 0 20, Joseph C 1 2 0 35, Fergal H 2 1 2 30, Pratham P 0 0 1 -5
+Bonuses: DCC B 11 250 22.73, Okemos A 8 100 12.50
+
+Mercy 175, Okemos B 85
+Mercy: Rachel V 1 3 1 40, Caitlin B 0 5 0 50, Lily O 0 0 1 -5
+Okemos B: Harshil C 0 4 0 40, Curtis C 0 0 3 -15, Nathan P 0 1 0 10, Pranav S 0 0 0 0
+Bonuses: Mercy 9 90 10.00, Okemos B 5 50 10.00
+
+Dewitt 225, Divine Child B 210
+Dewitt: Landon R 0 4 0 40, Lana K 0 0 0 0, Brady M 0 0 0 0, Alec H 1 0 0 15, Kayla C 0 3 0 30
+Divine Child B: Lucy T 0 0 0 0, Emma R 0 0 0 0, Adam K 1 7 2 75, Matt E 0 0 1 -5, Sara S 0 2 2 10, Nicholas M 0 0 0 0
+Bonuses: Dewitt 8 140 17.50, Divine Child B 10 130 13.00
+
+GPS 345, DCD A 180
+GPS: Jason L 3 3 1 70, James S 1 3 0 45, Hannah O 1 1 1 20
+DCD A: Maria C 1 2 0 35, Harlib C 1 1 1 20, Daniel L 0 1 3 -5, Hans L 1 0 1 10
+Bonuses: GPS 12 210 17.50, DCD A 7 120 17.14
+
+DCC A 625, St. Joseph 110
+DCC A: Robert D 3 1 0 55, Colin S 2 0 0 30, Parker S 4 1 0 70, David D 4 1 0 70
+St. Joseph: Jonathan U 0 0 0 0, Tomas A 1 3 1 40, Patrick M 0 0 0 0, Andrew O 0 0 0 0
+Bonuses: DCC A 16 400 25.00, St. Joseph 4 70 17.50
+
+St. Mary's 150, Plymouth B 75
+St. Mary's: Danny M 1 7 1 80
+Plymouth B: Moriah M 0 2 0 20, Meera A 0 1 1 5, Angie Y 0 1 0 10
+Bonuses: St. Mary's 8 70 8.75, Plymouth B 4 40 10.00
+
+DCD D 70, Plymouth A 65
+DCD D: Arnav E 0 0 0 0, Vivek S 0 0 0 0, Jay X 0 0 0 0, Yiou J 0 4 2 30
+Plymouth A: Sydney 0 1 0 10, Nicholas 0 2 0 20, Dev 0 0 1 -5, Sreya 0 1 0 10
+Bonuses: DCD D 4 40 10.00, Plymouth A 4 30 7.50
+
+DCD B 265, Okemos C 50
+DCD B: Connor S 0 2 0 20, Zaid S 2 2 2 40, Adam S 1 4 1 50, Trey T 0 2 1 15
+Okemos C: Holly E 0 1 0 10, Michal W 0 1 0 10, Biyang Z 0 0 0 0
+Bonuses: DCD B 13 140 10.77, Okemos C 2 30 15.00
+
+Round 9
+Plymouth B 170, Okemos C 65
+Plymouth B: Anita P 0 0 0 0, Meera A 0 1 0 10, Moriah M 0 7 0 70, Angie Y 0 0 0 0
+Okemos C: Holly E 0 0 0 0, Michal W 0 2 1 15, Biyang Z 0 2 0 20
+Bonuses: Plymouth B 8 90 11.25, Okemos C 4 30 7.50
+
+Okemos A 235, DCD A 195
+Okemos A: Pratham P 0 0 0 0, Jon D 0 3 0 30, Joseph C 1 2 0 35, Fergal H 3 0 1 40
+DCD A: Maria C 1 2 0 35, Harlib C 0 3 2 20, Daniel L 1 1 0 25, Hans L 1 0 0 15
+Bonuses: Okemos A 9 130 14.44, DCD A 9 100 11.11
+
+St. Mary's 190, Plymouth A 105
+St. Mary's: Danny M 2 7 0 100
+Plymouth A: Sreya 0 3 0 30, Dev 0 1 0 10, Nicholas 0 0 1 -5, Sydney 0 1 0 10
+Bonuses: St. Mary's 9 90 10.00, Plymouth A 5 60 12.00
+
+Divine Child B 260, Mercy 210
+Divine Child B: Matt E 0 0 0 0, Lucy T 0 1 0 10, Sara S 1 4 1 50, Emma R 0 0 0 0, Nicholas M 0 0 0 0, Adam K 0 4 0 40
+Mercy: Caitlin B 0 1 0 10, Rachel V 1 4 0 55, Lily O 1 2 0 35
+Bonuses: Divine Child B 10 160 16.00, Mercy 9 110 12.22
+
+Divine Child A 430, Okemos B 90
+Divine Child A: Julia P 2 1 1 35, Alan V 1 2 0 35, Chad W 0 3 0 30, Sarah G 2 3 0 60
+Okemos B: Nathan P 0 1 0 10, Pranav S 0 0 0 0, Harshil C 1 3 1 40, Curtis C 0 1 0 10
+Bonuses: Divine Child A 14 270 19.29, Okemos B 6 30 5.00
+
+DCC A 550, GPS 90
+DCC A: David D 2 2 1 45, Parker S 2 1 1 35, Colin S 3 1 0 55, Robert D 2 1 1 35
+GPS: James S 0 1 1 5, Hannah O 0 0 0 0, Jason L 0 3 1 25
+Bonuses: DCC A 14 380 27.14, GPS 4 60 15.00
+
+Dewitt 260, DCD C 110
+Dewitt: Kayla C 0 5 2 40, Alec H 0 1 1 5, Jason P 0 1 0 10, Landon R 1 1 0 25
+DCD C: Ajay S 0 2 0 20, Ramzi N 0 0 0 0, Dillan J 0 0 0 0, Adam B 0 1 1 5, Michelle M 1 3 0 45
+Bonuses: Dewitt 9 180 20.00, DCD C 7 40 5.71
+
+DCD B 370, DCD D 10
+DCD B: Adam S 1 3 0 45, Trey T 0 1 0 10, Connor S 0 4 0 40, Justin L 1 0 0 15, Zaid S 0 5 0 50
+DCD D: Arnav E 0 0 0 0, Vivek S 0 0 0 0, Jay X 0 0 0 0, Yiou J 0 1 2 0
+Bonuses: DCD B 15 210 14.00, DCD D 1 10 10.00
+
+DCC B 370, St. Joseph 190
+DCC B: Gavin D 1 3 0 45, Zachary E 2 1 1 35, Billy D 2 0 0 30, Bryce M 0 4 0 40
+St. Joseph: Patrick M 0 1 1 5, Andrew O 0 1 0 10, Tomas A 2 1 1 35, Jonathan U 0 1 0 10
+Bonuses: DCC B 13 220 16.92, St. Joseph 6 130 21.67
+
+Round 10
+DCC A 590, Okemos A 95
+DCC A: Parker S 3 1 0 55, David D 5 2 0 95, Robert D 1 2 0 35, Colin S 1 1 0 25
+Okemos A: Joseph C 1 0 0 15, Jon D 1 0 2 5, Pratham P 0 0 0 0, Fergal H 0 2 1 15
+Bonuses: DCC A 16 380 23.75, Okemos A 4 60 15.00
+
+St. Joseph 380, GPS 275
+St. Joseph: Tomas A 3 5 1 90, Jonathan U 0 1 0 10, Patrick M 0 0 1 -5, Andrew O 1 1 0 25
+GPS: Jason L 0 2 0 20, James S 3 2 2 55, Hannah O 0 2 0 20
+Bonuses: St. Joseph 11 260 23.64, GPS 9 180 20.00
+
+Plymouth B 210, DCD B 165
+Plymouth B: Angie Y 0 0 0 0, Moriah M 0 8 0 80, Anita P 0 0 0 0, Meera A 0 1 0 10
+DCD B: Connor S 1 0 3 0, Trey T 0 1 0 10, Adam S 0 3 1 25, Justin L 0 2 0 20, Zaid S 0 2 0 20
+Bonuses: Plymouth B 9 120 13.33, DCD B 9 90 10.00
+
+Mercy 320, DCD C 145
+Mercy: Rachel V 1 6 0 75, Caitlin B 0 4 2 30, Lily O 1 1 0 25
+DCD C: Adam B 0 0 0 0, Michelle M 0 3 0 30, Ramzi N 0 1 1 5, Dillan J 0 0 0 0, Ajay S 0 3 0 30
+Bonuses: Mercy 13 190 14.62, DCD C 7 80 11.43
+
+Divine Child B 165, Okemos B 135
+Divine Child B: Matt E 0 2 0 20, Lucy T 0 1 1 5, Sara S 0 0 0 0, Adam K 0 5 0 50
+Okemos B: Nathan P 0 0 0 0, Curtis C 0 2 1 15, Harshil C 0 6 2 50, Pranav S 0 0 0 0
+Bonuses: Divine Child B 8 90 11.25, Okemos B 8 70 8.75
+
+Plymouth A 165, Okemos C 145
+Plymouth A: Sydney 0 2 1 15, Sreya 0 3 0 30, Dev 0 1 0 10, Nicholas 0 2 0 20
+Okemos C: Holly E 0 3 1 25, Michal W 0 3 4 10, Biyang Z 0 3 0 30
+Bonuses: Plymouth A 8 90 11.25, Okemos C 9 80 8.89
+
+DCC B 320, DCD A 255
+DCC B: Gavin D 2 3 0 60, Bryce M 1 0 0 15, Zachary E 1 2 1 30, Billy D 0 1 1 5
+DCD A: Harlib C 0 1 0 10, Daniel L 1 4 0 55, Hans L 1 2 0 35, Maria C 0 1 1 5
+Bonuses: DCC B 10 210 21.00, DCD A 10 150 15.00
+
+DCD D 140, St. Mary's 80
+DCD D: Vivek S 0 0 0 0, Jay X 0 2 0 20, Arnav E 0 0 0 0, Yiou J 1 5 1 60
+St. Mary's: Danny M 0 6 4 40
+Bonuses: DCD D 8 60 7.50, St. Mary's 6 40 6.67
+
+Divine Child A 415, Dewitt 135
+Divine Child A: Luke D 0 1 2 0, Sarah G 0 3 0 30, Chad W 0 3 1 25, Alan V 0 7 0 70
+Dewitt: Landon R 0 1 0 10, Jason P 0 0 0 0, Brady M 0 0 0 0, Alec H 0 0 0 0, Kayla C 1 4 0 55
+Bonuses: Divine Child A 14 290 20.71, Dewitt 6 70 11.67

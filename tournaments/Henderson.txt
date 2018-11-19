@@ -1,0 +1,926 @@
+Round 1
+
+Friends Select A 400, Wilmington Charter C 50
+Friends Select A: Matt D'Annunzio 2 3 1 55, Jonah Taranta 1 1 0 25, Silas Mohr 2 2 1 45, Aidan Pulliam 1 1 0 25
+Wilmington Charter C: Shivtej Lakkakula 0 0 0 0, Amogh Baradwaj 0 0 0 0, Adhi Babu 0 2 0 20
+Bonuses: Friends Select A 13 250 19.23, Wilmington Charter C 2 30 15.00
+
+Downingtown STEM 470, Camp Hill B 0
+Downingtown STEM: Anish Gadgil 3 8 1 120, Saahas Yechuri 0 1 1 5, Sashwat Venkatesh 0 4 0 40, William Liao 0 0 1 -5
+Camp Hill B: Leo Chapman 0 0 0 0, Cole Hillegas 0 0 0 0, Bobby Latham 0 0 0 0
+Bonuses: Downingtown STEM 16 310 19.38, Camp Hill B 0 0 0.00
+
+Emmaus 330, Cedar Crest B 100
+Cedar Crest B: Ford Starks 0 1 0 10, Rhys Yeatter 0 4 0 40, Alexis Steele 0 0 0 0, Emily Bixler 0 0 0 0
+Emmaus: Shreya Sriramenini 1 1 2 15, Max Hafner 1 5 2 55, Ethan Hoben 0 2 0 20, Frankie Hughes 2 1 0 40
+Bonuses: Cedar Crest B 5 50 10.00, Emmaus 13 200 15.38
+
+Great Valley B 345, PALCS 160
+Great Valley B: Noah Harrigan 2 2 0 50, Shrey Pandya 0 3 0 30, Aakash Narayan 0 2 0 20, Kyle Yang 1 2 0 35
+PALCS: Max Lind 1 4 0 55, Nic Gustafson 1 0 1 10, Eeshwar Krishnan 1 0 0 15
+Bonuses: Great Valley B 12 210 17.50, PALCS 7 80 11.43
+
+Downingtown East A 315, Great Valley D 135
+Great Valley D: Will Lewis 0 6 1 55, Nandhini Krishnan 0 0 0 0, Chet Mittal 0 0 0 0, Josh Gonsalves 0 0 0 0
+Downingtown East A: Malaika Paralkar 2 5 1 75, Jack Bassick 0 0 1 -5, Katherine Pan 0 1 0 10, Simran Rajpal 0 2 1 15, Maggie Shaheen 0 1 0 10
+Bonuses: Great Valley D 6 80 13.33, Downingtown East A 11 210 19.09
+
+Great Valley A 530, Smithtown East B 0
+Great Valley A: John Li 3 3 0 75, Anshu Nunemunthala 0 5 1 45, Rishi Raman 4 2 2 70
+Smithtown East B: Chelsea Maresca 0 0 0 0, Tyler King 0 0 0 0, Brian Sabujo 0 0 0 0, Sikar Konakanchar 0 0 0 0
+Bonuses: Great Valley A 17 340 20.00, Smithtown East B 0 0 0.00
+
+Manheim Township D 295, Ranney 220
+Manheim Township D: Baybars Charkas 3 4 0 85, Sanya Nair 0 1 0 10, Ellie Taliani 0 1 0 10, Jane Farrell 0 0 0 0, Victoria Le 0 2 0 20
+Ranney: Jacob Egol 2 2 1 45, Seth Marx 0 2 0 20, Lily Egol 1 0 0 15, Elizabeth Wright 0 0 0 0
+Bonuses: Manheim Township D 11 170 15.45, Ranney 7 140 20.00
+
+Manheim Township B 385, Smithtown West C 85
+Manheim Township B: Aizaaz Faiz (AZ) 2 7 1 95, Zac Stapler 1 3 2 35, Sam Whitton 0 0 1 -5, Eric Lai 0 1 0 10
+Smithtown West C: Jared Paolillo 1 0 0 15, Sami Syed 0 2 0 20, Kumail Syed 0 0 0 0, Colin Mattera 1 0 1 10, Elana Kim 0 0 0 0
+Bonuses: Manheim Township B 14 250 17.86, Smithtown West C 4 40 10.00
+
+Hempfield 380, Smithtown West A 135
+Smithtown West A: Marianne Lopez 0 4 0 40, Kyle Sasso 0 1 0 10, Logan Rivera 1 0 0 15, Paula Quinto 0 0 0 0
+Hempfield: Cartsen Brodbeck 0 3 1 25, Will Yaeger 1 5 2 55, Ryan Zhang 1 2 3 20, Micah Clark 0 0 0 0
+Bonuses: Smithtown West A 6 70 11.67, Hempfield 12 280 23.33
+
+Penn Manor 410, Great Valley C 185
+Penn Manor : Connor Mayers 4 8 3 125, Chad Hoglund 0 1 1 5, Brennan McFall 0 0 0 0, Morgan Cooper 0 0 0 0
+Great Valley C: Prithvi Parthasarathy 0 1 0 10, Anish Kodali 1 3 0 45, Rahul Narayanan 1 0 0 15, Kashyap Nathan 0 0 1 -5
+Bonuses: Penn Manor 13 280 21.54, Great Valley C 6 120 20.00
+
+Downingtown East B 310, Cedar Crest A 140
+Cedar Crest A: Aran Bybee 0 3 1 25, Viraj Govani 1 0 1 10, Aidan Hanley 0 0 0 0, Syed Monzareen 0 2 1 15
+Downingtown East B: Nikhil Alex 0 4 1 35, Jeya Iyadurai 0 4 1 35, Leah Lurie 0 1 0 10, Nora Wan 0 2 0 20
+Bonuses: Cedar Crest A 6 90 15.00, Downingtown East B 11 210 19.09
+
+Wilmington Charter A 555, Smithtown West B 35
+Smithtown West B: Skouhel Augustin 0 0 0 0, Nick Johnston 0 2 1 15, Nick Baiata 0 0 0 0, Caroline Kelley 0 0 0 0, Jonathan Pofcher 0 0 0 0
+Wilmington Charter A: Sohum Shenoy 5 2 0 95, Waley He 5 1 1 80, Richard Cui 0 0 0 0, Prasanna Krishnamoorthy 0 2 2 10
+Bonuses: Smithtown West B 2 20 10.00, Wilmington Charter A 15 370 24.67
+
+Wilton 160, Saratoga Springs 130
+Saratoga Springs: Sean Corbett 0 6 3 45, Jordon Gyarmathy 0 1 0 10, Graham Harrower 0 0 1 -5
+Wilton: Anjo Therattil 0 8 2 70
+Bonuses: Saratoga Springs 7 80 11.43, Wilton 8 90 11.25
+
+Manheim Township A 670, Smithtown East A -5
+Manheim Township A: Noah Andrews 2 2 0 50, Will Steger 3 8 0 125, Ryan Kashatus 1 2 0 35, Cyril Hainthaler 0 2 0 20
+Smithtown East A: Jack Rowe 0 0 1 -5, Shubh Thacker 0 0 0 0, Ike Zhang 0 0 0 0, Ritvik Chilakamarthy 0 0 0 0
+Bonuses: Manheim Township A 20 440 22.00, Smithtown East A 0 0 0.00
+
+Wilmington Charter B 245, Friends Select B 180
+Friends Select B: Minas Macos 0 1 0 10, Adrian Altieri 0 1 1 5, Akhilesh Khambekar 1 5 0 65
+Wilmington Charter B: Aman Singh 0 4 3 25, Rishith Ramamurthy 2 2 0 50, Shreyas Ravichander 0 1 0 10, Keshav Kotteswaran 0 1 0 10
+Bonuses: Friends Select B 8 100 12.50, Wilmington Charter B 10 150 15.00
+
+Camp Hill A 405, Downingtown East C 55
+Downingtown East C: Yash Rajpal 0 0 0 0, Shouro Shuvit 0 3 1 25, Cory Yurkovic 0 0 0 0
+Camp Hill A: Charlie Caddell 0 2 0 20, Matt Gurgiolo 0 0 0 0, Sam Haas 1 2 0 35, Sydney Preston 1 8 1 90
+Bonuses: Downingtown East C 3 30 10.00, Camp Hill A 14 260 18.57
+
+Manheim Township C 265, Nanticoke A 200
+Nanticoke A: Noah Krubitzer 0 3 0 30, Liam Carcieri 1 2 1 30, Gabe Jenceleski 1 0 1 10, Will Kanjorski 0 1 0 10
+Manheim Township C: Nate Rybner 0 2 1 15, Kevin Phan 0 3 0 30, Lily Snyder 0 2 0 20, Eric Anderson 2 1 0 40
+Bonuses: Nanticoke A 8 120 15.00, Manheim Township C 10 160 16.00
+
+Lancaster Mennonite 335, Nanticoke B 45
+Nanticoke B: Andrew Stratton 0 0 0 0, Lance Jenson 1 2 0 35, Christopher Cabonilas 0 0 0 0
+Lancaster Mennonite: Jacob Cairns 2 7 1 95, Josiah Esch 0 4 0 40, Ty Palfi 0 0 0 0
+Bonuses: Nanticoke B 3 10 3.33, Lancaster Mennonite 13 200 15.38
+
+Round 2
+Friends Select A 360, Cedar Crest B 65
+Cedar Crest B: Ford Starks 0 0 0 0, Rhys Yeatter 0 0 0 0, Alexis Steele 1 2 0 35, Emily Bixler 0 0 0 0
+Friends Select A: Matt D'Annunzio 3 3 1 70, Jonah Taranta 0 3 0 30, Silas Mohr 0 4 0 40, Aidan Pulliam 1 0 1 10
+Bonuses: Cedar Crest B 3 30 10.00, Friends Select A 14 210 15.00
+
+Great Valley A 365, Cedar Crest A 125
+Cedar Crest A: Aran Bybee 0 2 2 10, Viraj Govani 1 1 0 25, Aidan Hanley 0 1 0 10, Syed Monzareen 0 1 0 10
+Great Valley A: John Li 1 5 0 65, Anshu Nunemunthala 1 2 1 30, Rishi Raman 1 1 2 15, Dan Milani 1 0 0 15
+Bonuses: Cedar Crest A 6 70 11.67, Great Valley A 12 240 20.00
+
+Manheim Township C 370, Downingtown East B 145
+Downingtown East B: Nikhil Alex 0 2 0 20, Jeya Iyadurai 2 1 2 30, Leah Lurie 0 2 0 20, Nora Wan 0 0 1 -5
+Manheim Township C: Nate Rybner 2 5 2 70, Kevin Phan 0 0 0 0, Deeya Doshi 1 1 0 25, Eric Anderson 1 2 0 35
+Bonuses: Downingtown East B 7 80 11.43, Manheim Township C 12 240 20.00
+
+Downingtown STEM 300, Lancaster Mennonite 115
+Downingtown STEM: Anish Gadgil 2 6 2 80, Saahas Yechuri 0 1 0 10, Sashwat Venkatesh 1 0 2 5, William Liao 1 0 0 15
+Lancaster Mennonite: Jacob Cairns 0 2 0 20, Josiah Esch 1 2 0 35, Ty Palfi 0 0 0 0
+Bonuses: Downingtown STEM 11 190 17.27, Lancaster Mennonite 5 60 12.00
+
+Wilmington Charter C 135, PALCS 130
+Wilmington Charter C: Shivtej Lakkakula 0 0 0 0, Amogh Baradwaj 1 2 0 35, Adhi Babu 0 4 0 40
+PALCS: Max Lind 0 5 1 45, Colin Leonard 1 0 0 15, Nic Gustafson 0 2 2 10, Eeshwar Krishnan 0 0 0 0
+Bonuses: Wilmington Charter C 7 60 8.57, PALCS 8 60 7.50
+
+Hempfield 445, Downingtown East A 75
+Hempfield: Cartsen Brodbeck 1 1 2 15, Will Yaeger 2 8 0 110, Ryan Zhang 1 3 1 40, Colby Gamble 0 0 0 0
+Downingtown East A: Malaika Paralkar 0 1 0 10, Jack Bassick 0 0 0 0, Katherine Pan 0 0 1 -5, Simran Rajpal 0 1 0 10, Maggie Shaheen 1 1 1 20
+Bonuses: Hempfield 16 280 17.50, Downingtown East A 4 40 10.00
+
+Manheim Township B 390, Great Valley D 85
+Manheim Township B: Aizaaz Faiz (AZ) 1 2 0 35, Zac Stapler 0 6 0 60, Sam Whitton 0 1 0 10, Eric Lai 2 3 1 55
+Great Valley D: Will Lewis 0 4 0 40, Nandhini Krishnan 0 0 1 -5, Chet Mittal 0 0 0 0, Josh Gonsalves 0 0 0 0
+Bonuses: Manheim Township B 15 230 15.33, Great Valley D 4 50 12.50
+
+Penn Manor 485, Nanticoke B 30
+Penn Manor : Connor Mayers 3 8 3 110, Chad Hoglund 1 4 0 55, Brennan McFall 0 0 0 0, Bernie Eckman 0 0 0 0
+Nanticoke B: Andrew Stratton 0 2 0 20, Lance Jenson 0 0 0 0, Christopher Cabonilas 0 0 0 0
+Bonuses: Penn Manor 16 320 20.00, Nanticoke B 2 10 5.00
+
+Great Valley B 315, Emmaus 95
+Great Valley B: Noah Harrigan 1 4 1 50, Shrey Pandya 0 5 0 50, Aakash Narayan 0 0 0 0, Kyle Yang 2 1 1 35
+Emmaus: Shreya Sriramenini 1 1 1 20, Max Hafner 0 2 0 20, Ethan Hoben 0 0 0 0, Frankie Hughes 0 1 1 5
+Bonuses: Great Valley B 13 180 13.85, Emmaus 5 50 10.00
+
+Wilmington Charter A 505, Wilton 50
+Wilmington Charter A: Sohum Shenoy 5 1 0 85, Waley He 3 4 1 80, Richard Cui 0 1 0 10, Prasanna Krishnamoorthy 1 0 1 10
+Wilton: Anjo Therattil 1 3 1 40
+Bonuses: Wilmington Charter A 15 320 21.33, Wilton 4 10 2.50
+
+Smithtown West A 120, Smithtown West C 45
+Smithtown West A: Marianne Lopez 0 3 0 30, Kyle Sasso 0 1 1 5, Logan Rivera 0 3 0 30, Paula Quinto 1 0 0 15
+Smithtown West C: Jared Paolillo 0 0 0 0, Sami Syed 0 0 0 0, Kumail Syed 0 0 0 0, Colin Mattera 0 3 1 25, Elana Kim 0 0 0 0
+Bonuses: Smithtown West A 8 40 5.00, Smithtown West C 3 20 6.67
+
+Ranney 340, Smithtown West B 20
+Ranney: Jacob Egol 1 9 2 95, Seth Marx 0 3 1 25, Lily Egol 0 0 0 0, Elizabeth Wright 0 0 0 0
+Smithtown West B: Skouhel Augustin 0 2 0 20, Nick Johnston 0 0 0 0, Nick Baiata 0 0 0 0, Caroline Kelley 0 0 0 0, Jonathan Pofcher 0 0 0 0
+Bonuses: Ranney 13 220 16.92, Smithtown West B 2 0 0.00
+
+Manheim Township D 350, Saratoga Springs 60
+Saratoga Springs: Sean Corbett 0 3 0 30, Jordon Gyarmathy 0 0 0 0, Graham Harrower 0 0 0 0
+Manheim Township D: Baybars Charkas 2 4 1 65, Sanya Nair 2 1 0 40, Ellie Taliani 0 2 0 20, Jane Farrell 0 1 0 10, Victoria Le 0 1 1 5
+Bonuses: Saratoga Springs 3 30 10.00, Manheim Township D 13 210 16.15
+
+Manheim Township A 515, Downingtown East C 30
+Downingtown East C: Yash Rajpal 0 0 0 0, Shouro Shuvit 0 2 2 10, Cory Yurkovic 0 0 0 0
+Manheim Township A: Noah Andrews 0 2 0 20, Will Steger 4 4 1 95, Ryan Kashatus 0 1 0 10, Cyril Hainthaler 0 5 0 50
+Bonuses: Downingtown East C 2 20 10.00, Manheim Township A 16 340 21.25
+
+Great Valley C 360, Camp Hill B 55
+Camp Hill B: Leo Chapman 1 1 0 25, Cole Hillegas 0 0 0 0, Bobby Latham 0 1 0 10
+Great Valley C: Prithvi Parthasarathy 1 2 0 35, Anish Kodali 2 7 1 95, Rahul Narayanan 0 2 0 20, Kashyap Nathan 0 0 0 0
+Bonuses: Camp Hill B 3 20 6.67, Great Valley C 14 210 15.00
+
+Nanticoke A 215, Smithtown East B 15
+Nanticoke A: Noah Krubitzer 1 6 0 75, Liam Carcieri 0 2 2 10, Gabe Jenceleski 0 1 0 10, Will Kanjorski 0 1 0 10
+Smithtown East B: Chelsea Maresca 0 1 0 10, Tyler King 0 0 0 0, Brian Sabujo 0 0 0 0, Sikar Konakanchar 0 0 1 -5
+Bonuses: Nanticoke A 11 110 10.00, Smithtown East B 1 10 10.00
+
+Camp Hill A 250, Friends Select B 170
+Friends Select B: Minas Macos 0 1 1 5, Adrian Altieri 0 0 1 -5, Akhilesh Khambekar 1 5 1 60
+Camp Hill A: Charlie Caddell 0 1 0 10, Declan Fitzpatrick 0 0 0 0, Sam Haas 0 1 0 10, Sydney Preston 1 6 1 70
+Bonuses: Friends Select B 7 110 15.71, Camp Hill A 9 160 17.78
+
+Wilmington Charter B 155, Smithtown East A 110
+Smithtown East A: Jack Rowe 0 0 1 -5, Shubh Thacker 1 4 1 50, Ike Zhang 0 1 0 10, Ritvik Chilakamarthy 0 0 1 -5
+Wilmington Charter B: Aman Singh 1 2 2 25, Rishith Ramamurthy 2 2 3 35, Shreyas Ravichander 0 0 0 0, Keshav Kotteswaran 0 0 1 -5
+Bonuses: Smithtown East A 6 60 10.00, Wilmington Charter B 7 100 14.29
+
+Round 3
+Great Valley C 300, Nanticoke B 55
+Great Valley C: Prithvi Parthasarathy 2 0 0 30, Anish Kodali 2 3 3 45, Rahul Narayanan 1 2 0 35, Kashyap Nathan 0 1 0 10
+Nanticoke B: Andrew Stratton 0 3 0 30, Lance Jenson 0 0 0 0, Christopher Cabonilas 1 0 0 15
+Bonuses: Great Valley C 11 180 16.36, Nanticoke B 4 10 2.50
+
+Penn Manor 440, Downingtown STEM 120
+Penn Manor : Connor Mayers 5 7 2 135, Chad Hoglund 0 2 1 15, Brennan McFall 0 0 0 0, Bernie Eckman 0 0 0 0
+Downingtown STEM: Anish Gadgil 1 1 1 20, Saahas Yechuri 0 1 1 5, Sashwat Venkatesh 0 1 0 10, William Liao 0 1 1 5
+Bonuses: Penn Manor 14 290 20.71, Downingtown STEM 5 80 16.00
+
+Great Valley D 305, Smithtown West A 50
+Great Valley D: Will Lewis 1 8 0 95, Nandhini Krishnan 0 0 2 -10, Chet Mittal 0 2 2 10, Josh Gonsalves 0 3 0 30
+Smithtown West A: Marianne Lopez 0 1 0 10, Kyle Sasso 0 0 0 0, Logan Rivera 0 0 0 0, Paula Quinto 0 1 0 10
+Bonuses: Great Valley D 14 180 12.86, Smithtown West A 2 30 15.00
+
+Hempfield 310, Smithtown West C 50
+Hempfield: Cartsen Brodbeck 1 3 1 40, Will Yaeger 1 2 3 20, Ryan Zhang 3 2 0 65, Micah Clark 0 0 1 -5
+Smithtown West C: Jared Paolillo 0 1 0 10, Sami Syed 0 1 0 10, Kumail Syed 0 0 0 0, Colin Mattera 0 1 0 10
+Bonuses: Hempfield 12 190 15.83, Smithtown West C 3 20 6.67
+
+Lancaster Mennonite 375, Camp Hill B 100
+Camp Hill B: Leo Chapman 0 2 0 20, Cole Hillegas 2 1 0 40, Bobby Latham 0 0 0 0
+Lancaster Mennonite: Jacob Cairns 0 10 2 90, Josiah Esch 1 2 0 35, Ty Palfi 0 0 0 0
+Bonuses: Camp Hill B 5 40 8.00, Lancaster Mennonite 13 250 19.23
+
+Manheim Township B 330, Downingtown East A 185
+Manheim Township B: Aizaaz Faiz (AZ) 0 2 0 20, Zac Stapler 4 1 2 60, Sam Whitton 1 1 0 25, Eric Lai 1 2 0 35
+Downingtown East A: Malaika Paralkar 0 1 0 10, Jack Bassick 1 0 0 15, Katherine Pan 0 1 0 10, Simran Rajpal 0 2 0 20, Maggie Shaheen 0 3 0 30
+Bonuses: Manheim Township B 12 190 15.83, Downingtown East A 8 100 12.50
+
+Emmaus 280, Wilmington Charter C 120
+Wilmington Charter C: Shivtej Lakkakula 0 0 0 0, Amogh Baradwaj 0 1 0 10, Adhi Babu 0 4 0 40
+Emmaus: Shreya Sriramenini 0 2 1 15, Max Hafner 0 3 1 25, Ethan Hoben 0 1 0 10, Frankie Hughes 3 3 1 70
+Bonuses: Wilmington Charter C 5 70 14.00, Emmaus 12 160 13.33
+
+Great Valley B 505, Cedar Crest B 40
+Cedar Crest B: Ford Starks 0 0 0 0, Rhys Yeatter 0 1 0 10, Alexis Steele 0 1 0 10, Emily Bixler 0 0 0 0
+Great Valley B: Noah Harrigan 0 6 2 50, Shrey Pandya 2 1 0 40, Aakash Narayan 1 4 1 50, Kyle Yang 1 2 0 35
+Bonuses: Cedar Crest B 2 20 10.00, Great Valley B 17 330 19.41
+
+Friends Select A 290, PALCS 175
+PALCS: Max Lind 1 1 0 25, Colin Leonard 0 1 0 10, Nic Gustafson 0 2 0 20, Eeshwar Krishnan 0 1 0 10
+Friends Select A: Matt D'Annunzio 0 4 2 30, Jonah Taranta 0 0 0 0, Silas Mohr 2 4 1 65, Aidan Pulliam 0 2 1 15
+Bonuses: PALCS 6 110 18.33, Friends Select A 12 180 15.00
+
+Manheim Township C 435, Cedar Crest A 95
+Cedar Crest A: Aran Bybee 0 2 0 20, Viraj Govani 1 1 2 15, Aidan Hanley 0 0 0 0, Syed Monzareen 0 0 0 0
+Manheim Township C: Nate Rybner 2 1 1 35, Kevin Phan 1 2 0 35, Deeya Doshi 1 4 0 55, Lily Snyder 0 4 0 40
+Bonuses: Cedar Crest A 4 60 15.00, Manheim Township C 15 270 18.00
+
+Great Valley A 435, Nanticoke A 130
+Nanticoke A: Noah Krubitzer 1 2 0 35, Liam Carcieri 0 1 0 10, Gabe Jenceleski 0 0 1 -5, Will Kanjorski 0 1 0 10
+Great Valley A: John Li 2 3 0 60, Anshu Nunemunthala 0 4 1 35, Rishi Raman 0 3 2 20, Dan Milani 0 2 0 20
+Bonuses: Nanticoke A 5 80 16.00, Great Valley A 14 300 21.43
+
+Manheim Township D 295, Smithtown West B 75
+Smithtown West B: Skouhel Augustin 0 1 0 10, Nick Johnston 0 3 1 25, Nick Baiata 0 0 0 0, Caroline Kelley 0 0 0 0, Jonathan Pofcher 0 0 0 0
+Manheim Township D: Baybars Charkas 1 5 2 55, Sanya Nair 1 2 0 35, Ellie Taliani 0 1 0 10, Jane Farrell 0 0 0 0, Victoria Le 0 4 1 35
+Bonuses: Smithtown West B 4 40 10.00, Manheim Township D 14 160 11.43
+
+Downingtown East B 390, Smithtown East B 10
+Smithtown East B: Chelsea Maresca 0 0 0 0, Tyler King 0 0 0 0, Brian Sabujo 0 1 0 10, Sikar Konakanchar 0 0 0 0
+Downingtown East B: Nikhil Alex 1 7 0 85, Jeya Iyadurai 0 5 0 50, Leah Lurie 1 1 0 25, Nora Wan 0 1 0 10
+Bonuses: Smithtown East B 1 0 0.00, Downingtown East B 16 220 13.75
+
+Friends Select B 210, Smithtown East A 130
+Friends Select B: Minas Macos 1 4 0 55, Adrian Altieri 0 1 0 10, Akhilesh Khambekar 1 3 0 45
+Smithtown East A: Jack Rowe 0 0 0 0, Shubh Thacker 2 2 1 45, Ike Zhang 0 2 0 20, Ritvik Chilakamarthy 0 0 1 -5
+Bonuses: Friends Select B 10 100 10.00, Smithtown East A 6 70 11.67
+
+Ranney 375, Wilton 65
+Ranney: Jacob Egol 3 8 2 115, Seth Marx 1 2 0 35, Lily Egol 0 0 0 0, Elizabeth Wright 0 0 1 -5
+Wilton: Anjo Therattil 1 3 0 45
+Bonuses: Ranney 14 230 16.43, Wilton 4 20 5.00
+
+Wilmington Charter B 215, Downingtown East C 25
+Wilmington Charter B: Aman Singh 2 5 2 70, Rishith Ramamurthy 1 2 3 20, Shreyas Ravichander 0 0 0 0, Keshav Kotteswaran 0 0 1 -5
+Downingtown East C: Saniya Vaidya 0 0 1 -5, Yash Rajpal 0 1 0 10, Shouro Shuvit 0 2 0 20, Cory Yurkovic 0 0 0 0
+Bonuses: Wilmington Charter B 10 130 13.00, Downingtown East C 3 0 0.00
+
+Wilmington Charter A 515, Saratoga Springs 105
+Saratoga Springs: Sean Corbett 2 2 1 45, Jordon Gyarmathy 0 1 0 10, Graham Harrower 0 0 0 0
+Wilmington Charter A: Sohum Shenoy 6 3 0 120, Waley He 1 3 2 35, Richard Cui 0 1 0 10, Prasanna Krishnamoorthy 0 1 0 10
+Bonuses: Saratoga Springs 5 50 10.00, Wilmington Charter A 15 340 22.67
+
+Manheim Township A 450, Camp Hill A 175
+Manheim Township A: Noah Andrews 1 3 1 40, Will Steger 3 2 1 60, Ryan Kashatus 2 1 0 40, Cyril Hainthaler 1 1 1 20
+Camp Hill A: Charlie Caddell 0 0 0 0, Matt Gurgiolo 0 1 0 10, Sam Haas 0 0 0 0, Sydney Preston 1 4 0 55
+Bonuses: Manheim Township A 14 290 20.71, Camp Hill A 6 110 18.33
+
+Round 4
+Ranney 250, Saratoga Springs 155
+Ranney: Jacob Egol 2 5 3 65, Seth Marx 0 1 1 5, Lily Egol 0 0 0 0, Elizabeth Wright 0 0 0 0
+Saratoga Springs: Sean Corbett 1 6 0 75, Jordon Gyarmathy 0 0 0 0, Graham Harrower 0 0 0 0
+Bonuses: Ranney 8 180 22.50, Saratoga Springs 7 80 11.43
+
+Wilmington Charter A 455, Manheim Township D 180
+Manheim Township D: Baybars Charkas 0 5 0 50, Sanya Nair 0 1 0 10, Ellie Taliani 0 1 0 10, Jane Farrell 0 0 0 0, Victoria Le 0 0 0 0
+Wilmington Charter A: Sohum Shenoy 5 4 2 105, Waley He 1 2 0 35, Richard Cui 0 0 0 0, Prasanna Krishnamoorthy 1 0 0 15
+Bonuses: Manheim Township D 7 110 15.71, Wilmington Charter A 13 300 23.08
+
+Camp Hill B 145, Nanticoke B 65
+Camp Hill B: Leo Chapman 0 0 0 0, Cole Hillegas 1 2 0 35, Bobby Latham 0 5 0 50
+Nanticoke B: Andrew Stratton 0 3 0 30, Lance Jenson 1 1 0 25, Christopher Cabonilas 0 0 0 0
+Bonuses: Camp Hill B 8 60 7.50, Nanticoke B 5 10 2.00
+
+Great Valley A 320, Downingtown East B 145
+Great Valley A: John Li 1 5 0 65, Anshu Nunemunthala 0 3 0 30, Rishi Raman 0 0 2 -10, Dan Milani 1 1 2 15
+Downingtown East B: Nikhil Alex 0 1 0 10, Jeya Iyadurai 0 3 0 30, Leah Lurie 0 2 1 15, Nora Wan 0 1 0 10
+Bonuses: Great Valley A 11 220 20.00, Downingtown East B 7 80 11.43
+
+Downingtown East A 200, Smithtown West C 105
+Downingtown East A: Malaika Paralkar 0 2 3 5, Jack Bassick 0 0 0 0, Katherine Pan 0 1 1 5, Simran Rajpal 0 1 0 10, Maggie Shaheen 0 6 0 60
+Smithtown West C: Jared Paolillo 0 0 0 0, Sami Syed 1 1 0 25, Colin Mattera 0 2 0 20, Elana Kim 0 0 0 0
+Bonuses: Downingtown East A 10 120 12.00, Smithtown West C 4 60 15.00
+
+Downingtown STEM 285, Great Valley C 145
+Downingtown STEM: Anish Gadgil 4 4 0 100, Saahas Yechuri 1 0 2 5, Sashwat Venkatesh 1 0 1 10, William Liao 0 0 0 0
+Great Valley C: Prithvi Parthasarathy 0 0 0 0, Anish Kodali 1 4 1 50, Rahul Narayanan 0 0 0 0, Tyler Yang 0 1 1 5
+Bonuses: Downingtown STEM 10 170 17.00, Great Valley C 6 90 15.00
+
+Great Valley B 265, Wilmington Charter C 20
+Wilmington Charter C: Shivtej Lakkakula 0 0 0 0, Amogh Baradwaj 0 0 0 0, Adhi Babu 0 1 0 10, Jordan Hill 0 0 0 0
+Great Valley B: Noah Harrigan 0 5 2 40, Shrey Pandya 0 3 3 15, Aakash Narayan 0 2 1 15, Kyle Yang 0 1 1 5
+Bonuses: Wilmington Charter C 1 10 10.00, Great Valley B 11 190 17.27
+
+Friends Select A 380, Emmaus 30
+Friends Select A: Matt D'Annunzio 2 4 0 70, Jonah Taranta 2 2 0 50, Silas Mohr 0 2 0 20, Aidan Pulliam 0 1 0 10
+Emmaus: Shreya Sriramenini 0 1 2 0, Max Hafner 0 1 2 0, Ethan Hoben 0 0 1 -5, Frankie Hughes 0 2 1 15
+Bonuses: Friends Select A 13 230 17.69, Emmaus 4 20 5.00
+
+PALCS 165, Cedar Crest B 150
+PALCS: Max Lind 0 3 1 25, Colin Leonard 0 1 0 10, Nic Gustafson 0 2 0 20, Eeshwar Krishnan 0 2 0 20
+Cedar Crest B: Ford Starks 1 3 0 45, Rhys Yeatter 0 3 1 25, Alexis Steele 0 0 0 0, Emily Bixler 0 1 0 10
+Bonuses: PALCS 8 90 11.25, Cedar Crest B 8 70 8.75
+
+Smithtown West B 130, Wilton 100
+Wilton: Anjo Therattil 0 7 2 60
+Smithtown West B: Skouhel Augustin 0 2 0 20, Nick Johnston 0 3 0 30, Nick Baiata 0 0 0 0, Caroline Kelley 0 0 0 0, Jonathan Pofcher 0 2 0 20
+Bonuses: Wilton 7 40 5.71, Smithtown West B 7 60 8.57
+
+Manheim Township A 340, Wilmington Charter B 90
+Wilmington Charter B: Aman Singh 0 2 2 10, Rishith Ramamurthy 0 3 0 30, Shreyas Ravichander 0 0 0 0, Keshav Kotteswaran 0 0 0 0
+Manheim Township A: Noah Andrews 1 2 1 30, Will Steger 3 3 1 70, Ryan Kashatus 1 0 0 15, Cyril Hainthaler 1 1 0 25
+Bonuses: Wilmington Charter B 5 50 10.00, Manheim Township A 12 200 16.67
+
+Camp Hill A 210, Smithtown East A 50
+Camp Hill A: Charlie Caddell 0 0 0 0, Declan Fitzpatrick 0 0 0 0, Sam Haas 0 1 0 10, Sydney Preston 0 8 0 80
+Smithtown East A: Jack Rowe 0 0 0 0, Shubh Thacker 0 2 1 15, Ike Zhang 0 0 0 0, Ritvik Chilakamarthy 0 2 1 15
+Bonuses: Camp Hill A 9 120 13.33, Smithtown East A 4 20 5.00
+
+Penn Manor 215, Lancaster Mennonite 105
+Penn Manor : Connor Mayers 2 3 6 30, Chad Hoglund 0 2 1 15, Brennan McFall 0 1 0 10, Bernie Eckman 0 0 0 0
+Lancaster Mennonite: Jacob Cairns 0 5 3 35, Josiah Esch 0 1 0 10, Ty Palfi 0 0 0 0
+Bonuses: Penn Manor 8 160 20.00, Lancaster Mennonite 6 60 10.00
+
+Hempfield 335, Great Valley D 145
+Great Valley D: Will Lewis 2 3 0 60, Nandhini Krishnan 0 1 0 10, Chet Mittal 0 1 1 5, Josh Gonsalves 0 1 0 10
+Hempfield: Cartsen Brodbeck 1 2 1 30, Will Yaeger 1 3 2 35, Ryan Zhang 2 2 0 50, Colby Gamble 0 0 0 0
+Bonuses: Great Valley D 8 60 7.50, Hempfield 11 220 20.00
+
+Manheim Township B 305, Smithtown West A 10
+Manheim Township B: Aizaaz Faiz (AZ) 0 3 1 25, Zac Stapler 1 6 3 60, Sam Whitton 1 0 0 15, Eric Lai 0 1 1 5
+Smithtown West A: Marianne Lopez 0 1 0 10, Kyle Sasso 0 0 0 0, Logan Rivera 0 0 0 0, Paula Quinto 0 0 0 0
+Bonuses: Manheim Township B 12 200 16.67, Smithtown West A 1 0 0.00
+
+Friends Select B 130, Downingtown East C 115
+Downingtown East C: Saniya Vaidya 0 0 0 0, Yash Rajpal 0 0 0 0, Shouro Shuvit 0 5 1 45, Cory Yurkovic 0 2 0 20
+Friends Select B: Minas Macos 0 2 0 20, Adrian Altieri 0 0 2 -10, Akhilesh Khambekar 0 5 0 50
+Bonuses: Downingtown East C 7 50 7.14, Friends Select B 7 70 10.00
+
+Manheim Township C 420, Smithtown East B 0
+Smithtown East B: Chelsea Maresca 0 0 0 0, Tyler King 0 0 0 0, Brian Sabujo 0 0 0 0, Sikar Konakanchar 0 0 0 0
+Manheim Township C: Kevin Phan 0 2 0 20, Deeya Doshi 1 2 1 30, Lily Snyder 0 5 0 50, Eric Anderson 1 5 1 60
+Bonuses: Smithtown East B 0 0 0.00, Manheim Township C 16 260 16.25
+
+Cedar Crest A 195, Nanticoke A 190
+Nanticoke A: Noah Krubitzer 0 1 2 0, Liam Carcieri 0 4 0 40, Gabe Jenceleski 2 0 0 30, Will Kanjorski 0 1 0 10
+Cedar Crest A: Aran Bybee 0 4 0 40, Viraj Govani 0 0 0 0, Aidan Hanley 0 2 1 15, Syed Monzareen 0 5 0 50
+Bonuses: Nanticoke A 8 110 13.75, Cedar Crest A 11 90 8.18
+
+Round 5
+Manheim Township D 335, Wilton 70
+Manheim Township D: Baybars Charkas 2 4 1 65, Sanya Nair 1 3 0 45, Ellie Taliani 0 1 0 10, Jane Farrell 0 0 0 0, Victoria Le 0 2 1 15
+Wilton: Anjo Therattil 0 5 2 40
+Bonuses: Manheim Township D 13 200 15.38, Wilton 5 30 6.00
+
+Downingtown East B 210, Nanticoke A 170
+Nanticoke A: Noah Krubitzer 1 3 0 45, Liam Carcieri 0 1 0 10, Gabe Jenceleski 0 3 1 25, Will Kanjorski 0 0 0 0
+Downingtown East B: Nikhil Alex 0 4 0 40, Jeya Iyadurai 1 0 3 0, Leah Lurie 2 2 0 50, Nora Wan 0 0 0 0
+Bonuses: Nanticoke A 8 90 11.25, Downingtown East B 9 120 13.33
+
+Hempfield 325, Manheim Township B 235
+Manheim Township B: Aizaaz Faiz (AZ) 1 3 1 40, Zac Stapler 1 1 2 15, Sam Whitton 0 2 0 20, Eric Lai 0 2 0 20
+Hempfield: Cartsen Brodbeck 0 1 0 10, Will Yaeger 2 3 0 60, Ryan Zhang 1 2 3 20, Micah Clark 0 1 1 5
+Bonuses: Manheim Township B 10 140 14.00, Hempfield 10 230 23.00
+
+Downingtown STEM 350, Nanticoke B 95
+Nanticoke B: Andrew Stratton 0 1 0 10, Lance Jenson 1 1 0 25, Christopher Cabonilas 0 1 0 10
+Downingtown STEM: Anish Gadgil 2 4 1 65, Saahas Yechuri 0 1 2 0, Sashwat Venkatesh 2 2 2 40, William Liao 0 1 1 5
+Bonuses: Nanticoke B 4 50 12.50, Downingtown STEM 12 240 20.00
+
+Cedar Crest B 135, Wilmington Charter C 50
+Wilmington Charter C: Shivtej Lakkakula 0 0 0 0, Amogh Baradwaj 0 2 0 20, Adhi Babu 0 2 0 20
+Cedar Crest B: Ford Starks 0 1 1 5, Rhys Yeatter 0 4 0 40, Alexis Steele 0 1 0 10, Emily Bixler 0 1 0 10
+Bonuses: Wilmington Charter C 4 10 2.50, Cedar Crest B 7 70 10.00
+
+Manheim Township C 420, Great Valley A 135
+Great Valley A: John Li 1 1 1 20, Anshu Nunemunthala 0 2 1 15, Rishi Raman 0 1 2 0, Dan Milani 0 1 0 10
+Manheim Township C: Nate Rybner 2 7 1 95, Kevin Phan 0 2 0 20, Deeya Doshi 0 0 0 0, Lily Snyder 1 1 0 25, Eric Anderson 0 1 0 10
+Bonuses: Great Valley A 6 90 15.00, Manheim Township C 14 270 19.29
+
+Emmaus 270, PALCS 75
+PALCS: Max Lind 1 2 2 25, Colin Leonard 0 0 0 0, Nic Gustafson 0 0 1 -5, Eeshwar Krishnan 1 0 0 15
+Emmaus: Shreya Sriramenini 1 3 0 45, Max Hafner 0 5 0 50, Ethan Hoben 0 3 1 25, Frankie Hughes 0 0 0 0
+Bonuses: PALCS 4 40 10.00, Emmaus 12 150 12.50
+
+Lancaster Mennonite 265, Great Valley C 180
+Lancaster Mennonite: Jacob Cairns 1 4 2 45, Josiah Esch 2 2 0 50, Ty Palfi 0 0 0 0
+Great Valley C: Prithvi Parthasarathy 0 0 2 -10, Anish Kodali 1 3 2 35, Rahul Narayanan 0 2 1 15, Kashyap Nathan 0 1 0 10, Tyler Yang 0 2 0 20
+Bonuses: Lancaster Mennonite 9 170 18.89, Great Valley C 9 110 12.22
+
+Great Valley B 320, Friends Select A 295
+Friends Select A: Matt D'Annunzio 2 1 0 40, Jonah Taranta 1 4 0 55, Silas Mohr 0 0 0 0, Aidan Pulliam 0 0 0 0
+Great Valley B: Noah Harrigan 2 3 1 55, Shrey Pandya 0 2 1 15, Aakash Narayan 1 1 0 25, Kyle Yang 0 2 1 15
+Bonuses: Friends Select A 8 200 25.00, Great Valley B 11 210 19.09
+
+Penn Manor 410, Camp Hill B 85
+Camp Hill B: Leo Chapman 0 1 0 10, Cole Hillegas 1 1 0 25, Bobby Latham 0 0 0 0
+Penn Manor : Connor Mayers 4 8 2 130, Chad Hoglund 0 2 2 10, Brennan McFall 0 0 0 0, Morgan Cooper 0 0 0 0
+Bonuses: Camp Hill B 3 50 16.67, Penn Manor 14 270 19.29
+
+Downingtown East A 315, Smithtown West A 80
+Downingtown East A: Malaika Paralkar 1 5 0 65, Jack Bassick 0 1 0 10, Katherine Pan 2 1 1 35, Simran Rajpal 0 2 0 20, Maggie Shaheen 0 0 1 -5
+Smithtown West A: Marianne Lopez 0 0 0 0, Kyle Sasso 0 3 0 30, Logan Rivera 0 1 0 10, Paula Quinto 0 0 0 0
+Bonuses: Downingtown East A 12 190 15.83, Smithtown West A 4 40 10.00
+
+Great Valley D 180, Smithtown West C 75
+Great Valley D: Will Lewis 0 5 1 45, Nandhini Krishnan 0 2 0 20, Chet Mittal 0 0 0 0, Josh Gonsalves 0 1 1 5
+Smithtown West C: Jared Paolillo 1 1 0 25, Sami Syed 0 2 0 20, Kumail Syed 0 0 0 0, Colin Mattera 0 2 2 10, Elana Kim 0 0 0 0
+Bonuses: Great Valley D 8 110 13.75, Smithtown West C 6 20 3.33
+
+Saratoga Springs 195, Smithtown West B 125
+Smithtown West B: Skouhel Augustin 1 0 0 15, Nick Johnston 0 1 2 0, Nick Baiata 0 1 0 10, Caroline Kelley 0 1 0 10, Jonathan Pofcher 0 4 0 40
+Saratoga Springs: Sean Corbett 2 5 0 80, Jordon Gyarmathy 0 0 0 0, Graham Harrower 1 0 0 15
+Bonuses: Smithtown West B 8 50 6.25, Saratoga Springs 8 100 12.50
+
+Wilmington Charter A 520, Ranney 120
+Ranney: Jacob Egol 0 4 0 40, Seth Marx 0 0 1 -5, Lily Egol 1 0 0 15, Elizabeth Wright 0 0 0 0
+Wilmington Charter A: Sohum Shenoy 2 3 1 55, Waley He 6 3 1 115, Richard Cui 0 0 0 0, Prasanna Krishnamoorthy 0 1 0 10
+Bonuses: Ranney 5 70 14.00, Wilmington Charter A 15 340 22.67
+
+Manheim Township A 420, Friends Select B 100
+Manheim Township A: Noah Andrews 1 2 0 35, Will Steger 4 3 1 85, Ryan Kashatus 0 2 0 20, Cyril Hainthaler 1 1 1 20
+Friends Select B: Minas Macos 0 0 0 0, Adrian Altieri 2 0 0 30, Akhilesh Khambekar 0 3 0 30
+Bonuses: Manheim Township A 14 260 18.57, Friends Select B 5 40 8.00
+
+Camp Hill A 210, Wilmington Charter B 175
+Camp Hill A: Charlie Caddell 2 0 0 30, Matt Gurgiolo 0 0 0 0, Sam Haas 0 2 0 20, Sydney Preston 2 3 0 60
+Wilmington Charter B: Aman Singh 1 4 2 45, Rishith Ramamurthy 0 2 0 20, Shreyas Ravichander 0 1 0 10, Keshav Kotteswaran 0 0 0 0
+Bonuses: Camp Hill A 9 100 11.11, Wilmington Charter B 8 100 12.50
+
+Cedar Crest A 140, Smithtown East B 50
+Cedar Crest A: Aran Bybee 0 3 0 30, Viraj Govani 0 0 1 -5, Aidan Hanley 0 1 0 10, Syed Monzareen 1 2 0 35
+Smithtown East B: Chelsea Maresca 0 1 0 10, Tyler King 0 1 0 10, Brian Sabujo 0 1 0 10, Sikar Konakanchar 0 0 0 0
+Bonuses: Cedar Crest A 7 70 10.00, Smithtown East B 3 20 6.67
+
+Downingtown East C 165, Smithtown East A 100
+Smithtown East A: Jack Rowe 0 0 0 0, Shubh Thacker 1 1 0 25, Ike Zhang 1 2 0 35, Ritvik Chilakamarthy 0 1 0 10
+Downingtown East C: Saniya Vaidya 0 0 0 0, Yash Rajpal 0 4 0 40, Shouro Shuvit 0 4 1 35, Cory Yurkovic 0 1 0 10
+Bonuses: Smithtown East A 6 30 5.00, Downingtown East C 9 80 8.89
+
+Round 6
+Cedar Crest A 200, Great Valley D 90
+Cedar Crest A: Aran Bybee 0 4 1 35, Viraj Govani 0 2 0 20, Aidan Hanley 1 1 0 25, Syed Monzareen 0 1 0 10
+Great Valley D: Will Lewis 1 1 2 15, Nandhini Krishnan 1 0 0 15, Chet Mittal 0 1 0 10, Josh Gonsalves 0 0 0 0
+Bonuses: Cedar Crest A 9 110 12.22, Great Valley D 4 50 12.50
+
+Downingtown East A 195, Downingtown East B 85
+Downingtown East B: Nikhil Alex 0 3 0 30, Jeya Iyadurai 0 2 0 20, Leah Lurie 0 0 0 0, Nora Wan 0 0 1 -5
+Downingtown East A: Malaika Paralkar 0 3 3 15, Jack Bassick 0 1 0 10, Katherine Pan 0 2 1 15, Simran Rajpal 1 0 0 15, Maggie Shaheen 2 0 0 30
+Bonuses: Downingtown East B 5 40 8.00, Downingtown East A 9 110 12.22
+
+Nanticoke A 155, Smithtown West A 150
+Nanticoke A: Noah Krubitzer 0 4 1 35, Liam Carcieri 1 1 0 25, Gabe Jenceleski 0 0 0 0, Will Kanjorski 0 1 1 5
+Smithtown West A: Marianne Lopez 2 1 0 40, Kyle Sasso 0 1 0 10, Logan Rivera 0 3 0 30, Paula Quinto 0 0 0 0
+Bonuses: Nanticoke A 7 90 12.86, Smithtown West A 7 70 10.00
+
+Ranney 345, Wilmington Charter B 110
+Ranney: Jacob Egol 5 6 1 130, Seth Marx 0 2 1 15, Lily Egol 0 0 0 0, Elizabeth Wright 0 0 0 0
+Wilmington Charter B: Aman Singh 1 2 2 25, Rishith Ramamurthy 1 1 2 15, Shreyas Ravichander 0 0 0 0, Keshav Kotteswaran 0 0 0 0
+Bonuses: Ranney 13 200 15.38, Wilmington Charter B 5 70 14.00
+
+Nanticoke B 155, Wilmington Charter C 45
+Wilmington Charter C: Shivtej Lakkakula 0 1 0 10, Amogh Baradwaj 0 2 1 15, Adhi Babu 0 1 2 0
+Nanticoke B: Andrew Stratton 1 3 0 45, Lance Jenson 0 2 0 20, Christopher Cabonilas 0 0 0 0
+Bonuses: Wilmington Charter C 4 20 5.00, Nanticoke B 6 90 15.00
+
+Camp Hill B 115, Cedar Crest B 95
+Camp Hill B: Leo Chapman 1 0 0 15, Cole Hillegas 0 0 0 0, Bobby Latham 0 3 0 30
+Cedar Crest B: Ford Starks 0 1 0 10, Rhys Yeatter 1 1 0 25, Alexis Steele 0 2 0 20, Emily Bixler 0 1 0 10
+Bonuses: Camp Hill B 4 70 17.50, Cedar Crest B 6 30 5.00
+
+Smithtown West C 85, Smithtown East B 60
+Smithtown West C: Jared Paolillo 1 1 0 25, Sami Syed 0 1 0 10, Kumail Syed 0 0 0 0, Colin Mattera 0 1 0 10, Elana Kim 0 0 0 0
+Smithtown East B: Chelsea Maresca 0 2 0 20, Tyler King 0 2 0 20, Brian Sabujo 0 0 0 0, Sikar Konakanchar 0 0 0 0
+Bonuses: Smithtown West C 4 40 10.00, Smithtown East B 4 20 5.00
+
+Smithtown East A 155, Smithtown West B 125
+Smithtown West B: Skouhel Augustin 1 1 0 25, Nick Johnston 0 2 0 20, Nick Baiata 0 0 1 -5, Caroline Kelley 1 0 0 15, Jonathan Pofcher 0 0 0 0
+Smithtown East A: Jack Rowe 0 1 0 10, Shubh Thacker 0 4 2 30, Ike Zhang 1 2 0 35, Ritvik Chilakamarthy 0 0 0 0
+Bonuses: Smithtown West B 5 70 14.00, Smithtown East A 8 80 10.00
+
+Wilton 215, Downingtown East C 95
+Wilton: Anjo Therattil 0 11 1 105
+Downingtown East C: Saniya Vaidya 0 0 1 -5, Yash Rajpal 1 0 1 10, Shouro Shuvit 1 2 2 25, Cory Yurkovic 1 0 0 15
+Bonuses: Wilton 11 110 10.00, Downingtown East C 5 50 10.00
+
+Emmaus 255, Lancaster Mennonite 185
+Emmaus: Shreya Sriramenini 0 3 0 30, Max Hafner 1 3 1 40, Ethan Hoben 1 1 0 25, Frankie Hughes 1 1 1 20
+Lancaster Mennonite: Jacob Cairns 0 4 1 35, Josiah Esch 2 1 0 40, Ty Palfi 0 0 0 0
+Bonuses: Emmaus 11 140 12.73, Lancaster Mennonite 7 110 15.71
+
+PALCS 205, Great Valley C 145
+PALCS: Max Lind 4 2 1 75, Colin Leonard 0 0 1 -5, Nic Gustafson 0 3 0 30, Eeshwar Krishnan 1 0 0 15
+Great Valley C: Prithvi Parthasarathy 0 1 1 5, Anish Kodali 0 3 0 30, Rahul Narayanan 0 1 0 10, Kashyap Nathan 0 0 0 0, Tyler Yang 0 0 2 -10
+Bonuses: PALCS 10 90 9.00, Great Valley C 5 110 22.00
+
+Friends Select B defeats Saratoga Springs by forfeit
+
+Friends Select A 335, Manheim Township A 285
+Friends Select A: Matt D'Annunzio 2 4 0 70, Jonah Taranta 0 0 0 0, Silas Mohr 0 4 0 40, Aidan Pulliam 1 0 0 15
+Manheim Township A: Noah Andrews 0 1 1 5, Will Steger 1 1 4 5, Ryan Kashatus 1 1 0 25, Cyril Hainthaler 2 1 0 40
+Bonuses: Friends Select A 11 210 19.09, Manheim Township A 8 210 26.25
+
+Great Valley B 255, Camp Hill A 210
+Great Valley B: Noah Harrigan 2 2 2 40, Shrey Pandya 0 3 1 25, Aakash Narayan 0 0 0 0, Kyle Yang 2 1 0 40, Rithvik Bobbili 0 0 0 0
+Camp Hill A: Charlie Caddell 1 2 0 35, Declan Fitzpatrick 0 0 0 0, Matt Gurgiolo 0 0 0 0, Sam Haas 0 0 0 0, Sydney Preston 1 4 2 45
+Bonuses: Great Valley B 10 150 15.00, Camp Hill A 8 130 16.25
+
+Wilmington Charter A 455, Manheim Township D 120
+Manheim Township D: Baybars Charkas 1 1 1 20, Sanya Nair 1 1 0 25, Ellie Taliani 1 0 0 15, Jane Farrell 0 0 0 0, Victoria Le 0 0 0 0
+Wilmington Charter A: Sohum Shenoy 4 1 1 65, Waley He 3 5 1 90, Richard Cui 0 0 0 0, Prasanna Krishnamoorthy 0 0 0 0
+Bonuses: Manheim Township D 5 60 12.00, Wilmington Charter A 13 300 23.08
+
+Great Valley A 445, Manheim Township C 100
+Great Valley A: John Li 2 2 0 50, Anshu Nunemunthala 1 3 0 45, Rishi Raman 0 5 0 50, Dan Milani 2 0 0 30
+Manheim Township C: Nate Rybner 1 1 4 5, Kevin Phan 1 0 0 15, Deeya Doshi 0 0 1 -5, Lily Snyder 0 0 0 0, Eric Anderson 1 0 0 15
+Bonuses: Great Valley A 15 270 18.00, Manheim Township C 4 70 17.50
+
+Penn Manor 390, Manheim Township B 210
+Penn Manor : Connor Mayers 7 4 2 135, Chad Hoglund 1 1 0 25, Brennan McFall 0 0 0 0, Bernie Eckman 0 0 0 0
+Manheim Township B: Aizaaz Faiz (AZ) 1 3 2 35, Zac Stapler 1 2 0 35, Sam Whitton 0 0 0 0, Eric Lai 0 0 0 0
+Bonuses: Penn Manor 13 230 17.69, Manheim Township B 7 140 20.00
+
+Hempfield 265, Downingtown STEM 245
+Downingtown STEM: Anish Gadgil 1 3 2 35, Saahas Yechuri 1 1 0 25, Sashwat Venkatesh 1 2 0 35, William Liao 0 0 0 0
+Hempfield: Cartsen Brodbeck 0 3 0 30, Will Yaeger 2 3 1 55, Ryan Zhang 0 2 0 20, Colby Gamble 0 0 0 0
+Bonuses: Downingtown STEM 9 150 16.67, Hempfield 10 160 16.00
+
+Round 7
+Hempfield 345, Manheim Township C 250
+Hempfield: Cartsen Brodbeck 0 0 1 -5, Will Yaeger 4 4 1 95, Ryan Zhang 1 3 0 45, Micah Clark 0 0 0 0
+Manheim Township C: Nate Rybner 0 1 0 10, Kevin Phan 1 2 0 35, Deeya Doshi 0 0 0 0, Lily Snyder 1 1 0 25, Eric Anderson 2 0 0 30
+Bonuses: Hempfield 12 210 17.50, Manheim Township C 8 150 18.75
+
+Penn Manor 380, Downingtown STEM 155
+Downingtown STEM: Anish Gadgil 1 2 1 30, Saahas Yechuri 1 1 0 25, Sashwat Venkatesh 0 2 0 20, William Liao 0 0 0 0
+Penn Manor : Connor Mayers 6 5 1 135, Chad Hoglund 1 0 0 15, Brennan McFall 0 1 0 10, Morgan Cooper 0 0 0 0
+Bonuses: Downingtown STEM 7 80 11.43, Penn Manor 13 220 16.92
+
+Great Valley A 415, Manheim Township B 105
+Great Valley A: John Li 1 4 0 55, Anshu Nunemunthala 0 2 1 15, Rishi Raman 0 2 0 20, Dan Milani 3 2 0 65
+Manheim Township B: Aizaaz Faiz (AZ) 0 2 1 15, Zac Stapler 3 0 2 35, Sam Whitton 0 0 1 -5, Eric Lai 0 0 0 0
+Bonuses: Great Valley A 14 260 18.57, Manheim Township B 5 60 12.00
+
+Friends Select A 340, Great Valley B 190
+Friends Select A: Matt D'Annunzio 3 2 1 60, Jonah Taranta 0 0 0 0, Silas Mohr 1 3 0 45, Aidan Pulliam 1 1 0 25
+Great Valley B: Noah Harrigan 3 2 0 65, Shrey Pandya 0 2 1 15, Kyle Yang 0 0 0 0, Rithvik Bobbili 0 0 0 0
+Bonuses: Friends Select A 11 210 19.09, Great Valley B 7 110 15.71
+
+Manheim Township D 365, Camp Hill A 210
+Manheim Township D: Baybars Charkas 2 6 0 90, Sanya Nair 1 2 0 35, Ellie Taliani 0 1 0 10, Jane Farrell 0 0 0 0, Victoria Le 0 0 0 0
+Camp Hill A: Charlie Caddell 0 1 0 10, Declan Fitzpatrick 1 0 0 15, Sam Haas 1 1 0 25, Sydney Preston 1 3 1 40
+Bonuses: Manheim Township D 12 230 19.17, Camp Hill A 8 120 15.00
+
+Wilmington Charter A 385, Manheim Township A 260
+Manheim Township A: Noah Andrews 1 2 1 30, Will Steger 2 1 0 40, Ryan Kashatus 0 0 0 0, Cyril Hainthaler 2 0 0 30
+Wilmington Charter A: Sohum Shenoy 4 1 1 65, Waley He 2 5 0 80, Richard Cui 0 0 0 0, Prasanna Krishnamoorthy 0 0 0 0
+Bonuses: Manheim Township A 8 160 20.00, Wilmington Charter A 12 240 20.00
+
+Downingtown East C 180, Cedar Crest B 170
+Cedar Crest B: Ford Starks 0 4 0 40, Rhys Yeatter 0 1 0 10, Alexis Steele 0 4 0 40, Emily Bixler 0 0 0 0
+Downingtown East C: Saniya Vaidya 0 1 0 10, Yash Rajpal 0 0 0 0, Shouro Shuvit 0 6 1 55, Cory Yurkovic 0 2 1 15
+Bonuses: Cedar Crest B 9 80 8.89, Downingtown East C 9 100 11.11
+
+Great Valley C 275, Cedar Crest A 195
+Great Valley C: Prithvi Parthasarathy 0 1 0 10, Anish Kodali 0 3 0 30, Rahul Narayanan 0 2 0 20, Kashyap Nathan 0 4 1 35, Tyler Yang 0 2 0 20
+Cedar Crest A: Aran Bybee 0 2 0 20, Viraj Govani 0 1 1 5, Aidan Hanley 0 2 0 20, Syed Monzareen 1 2 1 30
+Bonuses: Great Valley C 12 160 13.33, Cedar Crest A 8 120 15.00
+
+Nanticoke A 410, Camp Hill B 65
+Nanticoke A: Noah Krubitzer 0 3 0 30, Liam Carcieri 1 5 0 65, Gabe Jenceleski 1 2 0 35, Will Kanjorski 0 4 0 40
+Camp Hill B: Leo Chapman 0 0 0 0, Cole Hillegas 1 0 0 15, Bobby Latham 0 1 0 10
+Bonuses: Nanticoke A 16 240 15.00, Camp Hill B 2 40 20.00
+
+Friends Select B 225, PALCS 110
+Friends Select B: Minas Macos 0 2 0 20, Adrian Altieri 0 2 0 20, Akhilesh Khambekar 1 5 0 65
+PALCS: Max Lind 0 3 0 30, Colin Leonard 0 0 0 0, Nic Gustafson 0 3 2 20, Eeshwar Krishnan 0 0 0 0
+Bonuses: Friends Select B 10 120 12.00, PALCS 6 60 10.00
+
+Nanticoke B 200, Smithtown East B 50
+Smithtown East B: Chelsea Maresca 0 0 0 0, Tyler King 0 0 0 0, Brian Sabujo 0 2 0 20, Sikar Konakanchar 0 0 0 0
+Nanticoke B: Andrew Stratton 0 5 0 50, Lance Jenson 0 6 0 60, Christopher Cabonilas 0 0 0 0
+Bonuses: Smithtown East B 2 30 15.00, Nanticoke B 11 90 8.18
+
+Wilton 175, Smithtown West A 160
+Wilton: Anjo Therattil 1 9 2 95
+Smithtown West A: Marianne Lopez 0 1 0 10, Kyle Sasso 0 3 0 30, Logan Rivera 0 0 0 0, Paula Quinto 0 2 0 20
+Bonuses: Wilton 10 80 8.00, Smithtown West A 6 100 16.67
+
+Smithtown West B 265, Smithtown West C 135
+Smithtown West B: Skouhel Augustin 0 1 0 10, Nick Johnston 0 5 0 50, Nick Baiata 0 0 0 0, Caroline Kelley 0 0 0 0, Jonathan Pofcher 1 5 0 65
+Smithtown West C: Jared Paolillo 0 2 1 15, Sami Syed 1 2 0 35, Kumail Syed 0 0 0 0, Colin Mattera 1 1 0 25, Elana Kim 0 0 0 0
+Bonuses: Smithtown West B 12 140 11.67, Smithtown West C 7 60 8.57
+
+Smithtown East A 340, Wilmington Charter C 90
+Wilmington Charter C: Shivtej Lakkakula 0 0 0 0, Amogh Baradwaj 0 1 0 10, Adhi Babu 0 3 0 30
+Smithtown East A: Jack Rowe 1 3 0 45, Shubh Thacker 0 3 2 20, Ike Zhang 0 2 1 15, Ritvik Chilakamarthy 0 4 0 40
+Bonuses: Wilmington Charter C 4 50 12.50, Smithtown East A 13 220 16.92
+
+Ranney 415, Downingtown East A 195
+Ranney: Jacob Egol 2 9 0 120, Seth Marx 1 1 0 25, Lily Egol 0 0 0 0, Elizabeth Wright 0 0 0 0
+Downingtown East A: Malaika Paralkar 1 0 0 15, Jack Bassick 0 1 0 10, Katherine Pan 0 0 0 0, Simran Rajpal 0 2 0 20, Maggie Shaheen 0 3 0 30
+Bonuses: Ranney 13 270 20.77, Downingtown East A 7 120 17.14
+
+Downingtown East B 210, Lancaster Mennonite 200
+Downingtown East B: Nikhil Alex 0 2 0 20, Jeya Iyadurai 0 4 0 40, Leah Lurie 0 3 2 20, Nora Wan 0 1 0 10
+Lancaster Mennonite: Jacob Cairns 2 5 2 70, Josiah Esch 0 1 0 10, Ty Palfi 0 0 0 0
+Bonuses: Downingtown East B 10 120 12.00, Lancaster Mennonite 8 120 15.00
+
+Emmaus 235, Wilmington Charter B 170
+Emmaus: Shreya Sriramenini 0 0 0 0, Max Hafner 4 3 2 80, Ethan Hoben 0 0 1 -5, Frankie Hughes 0 3 0 30
+Wilmington Charter B: Aman Singh 0 2 0 20, Rishith Ramamurthy 1 3 0 45, Shreyas Ravichander 0 0 0 0, Keshav Kotteswaran 0 0 1 -5
+Bonuses: Emmaus 10 130 13.00, Wilmington Charter B 6 110 18.33
+
+Great Valley D defeats Saratoga Springs by forfeit
+
+Round 8
+Cedar Crest A defeats Saratoga Springs by forfeit
+
+Ranney 455, Downingtown East B 130
+Ranney: Jacob Egol 3 9 2 125, Seth Marx 0 2 0 20, Lily Egol 0 0 0 0, Elizabeth Wright 0 0 0 0
+Downingtown East B: Nikhil Alex 2 1 0 40, Jeya Iyadurai 0 3 0 30, Leah Lurie 0 0 0 0, Nora Wan 0 0 0 0
+Bonuses: Ranney 14 310 22.14, Downingtown East B 6 60 10.00
+
+Nanticoke A 240, Wilton 155
+Nanticoke A: Noah Krubitzer 0 1 0 10, Liam Carcieri 1 3 1 40, Gabe Jenceleski 0 2 0 20, Will Kanjorski 0 4 2 30
+Wilton: Anjo Therattil 1 5 0 65
+Bonuses: Nanticoke A 11 140 12.73, Wilton 6 90 15.00
+
+Smithtown West C 220, Wilmington Charter C 20
+Wilmington Charter C: Shivtej Lakkakula 0 0 0 0, Amogh Baradwaj 0 1 0 10, Adhi Babu 0 1 0 10
+Smithtown West C: Jared Paolillo 0 6 0 60, Sami Syed 0 3 0 30, Kumail Syed 0 0 0 0, Colin Mattera 0 3 0 30, Elana Kim 0 0 0 0
+Bonuses: Wilmington Charter C 2 0 0.00, Smithtown West C 12 100 8.33
+
+Smithtown West B 270, Smithtown East B 10
+Smithtown West B: Skouhel Augustin 1 0 0 15, Nick Johnston 0 6 2 50, Nick Baiata 0 1 0 10, Caroline Kelley 0 0 0 0, Jonathan Pofcher 0 7 1 65
+Smithtown East B: Chelsea Maresca 0 1 0 10, Tyler King 0 0 0 0, Brian Sabujo 0 0 0 0, Sikar Konakanchar 0 0 0 0
+Bonuses: Smithtown West B 15 130 8.67, Smithtown East B 1 0 0.00
+
+Nanticoke B 160, Smithtown East A 135
+Nanticoke B: Andrew Stratton 0 6 0 60, Lance Jenson 0 2 0 20, Christopher Cabonilas 0 1 0 10
+Smithtown East A: Jack Rowe 0 1 1 5, Shubh Thacker 0 3 2 20, Ike Zhang 0 1 0 10, Ritvik Chilakamarthy 0 0 0 0
+Bonuses: Nanticoke B 9 70 7.78, Smithtown East A 5 100 20.00
+
+Emmaus 205, Downingtown East A 150
+Emmaus: Shreya Sriramenini 0 1 0 10, Max Hafner 1 4 1 50, Ethan Hoben 0 2 1 15, Frankie Hughes 0 1 0 10
+Downingtown East A: Malaika Paralkar 2 3 1 55, Jack Bassick 0 0 0 0, Katherine Pan 0 2 0 20, Simran Rajpal 0 0 0 0, Maggie Shaheen 0 1 1 5
+Bonuses: Emmaus 9 120 13.33, Downingtown East A 8 70 8.75
+
+Camp Hill B 135, Downingtown East C 115
+Camp Hill B: Leo Chapman 0 3 1 25, Cole Hillegas 0 2 0 20, Bobby Latham 0 3 0 30
+Downingtown East C: Saniya Vaidya 0 1 0 10, Yash Rajpal 0 0 0 0, Shouro Shuvit 0 3 2 20, Cory Yurkovic 0 1 1 5
+Bonuses: Camp Hill B 8 60 7.50, Downingtown East C 5 80 16.00
+
+Great Valley D 205, PALCS 160
+Great Valley D: Will Lewis 0 6 2 50, Nandhini Krishnan 0 1 1 5, Chet Mittal 0 0 0 0, Josh Gonsalves 0 2 0 20
+PALCS: Max Lind 1 5 1 60, Colin Leonard 0 0 0 0, Nic Gustafson 0 1 2 0, Eeshwar Krishnan 0 0 0 0
+Bonuses: Great Valley D 9 130 14.44, PALCS 7 100 14.29
+
+Cedar Crest B 195, Smithtown West A 105
+Cedar Crest B: Ford Starks 0 2 0 20, Rhys Yeatter 0 2 1 15, Alexis Steele 0 4 0 40, Emily Bixler 0 1 0 10
+Smithtown West A: Marianne Lopez 1 0 0 15, Kyle Sasso 0 1 0 10, Logan Rivera 0 2 0 20, Paula Quinto 0 1 0 10
+Bonuses: Cedar Crest B 9 110 12.22, Smithtown West A 5 50 10.00
+
+Lancaster Mennonite 265, Wilmington Charter B 220
+Lancaster Mennonite: Jacob Cairns 0 7 1 65, Josiah Esch 0 3 0 30, Ty Palfi 0 0 0 0
+Wilmington Charter B: Aman Singh 1 1 2 15, Rishith Ramamurthy 2 1 2 30, Shreyas Ravichander 2 1 0 40, Keshav Kotteswaran 0 0 1 -5
+Bonuses: Lancaster Mennonite 10 170 17.00, Wilmington Charter B 8 140 17.50
+
+Great Valley C 290, Friends Select B 120
+Friends Select B: Minas Macos 0 2 1 15, Adrian Altieri 0 0 1 -5, Akhilesh Khambekar 1 3 1 40
+Great Valley C: Prithvi Parthasarathy 0 1 0 10, Rahul Narayanan 2 3 0 60, Kashyap Nathan 0 0 1 -5, Tyler Yang 0 7 1 65
+Bonuses: Friends Select B 6 70 11.67, Great Valley C 13 160 12.31
+
+Wilmington Charter A 340, Camp Hill A 195
+Camp Hill A: Charlie Caddell 0 0 0 0, Matt Gurgiolo 0 0 0 0, Sam Haas 1 1 0 25, Sydney Preston 4 2 0 80
+Wilmington Charter A: Sohum Shenoy 2 1 1 35, Waley He 4 4 2 90, Richard Cui 0 0 0 0, Prasanna Krishnamoorthy 0 0 1 -5
+Bonuses: Camp Hill A 8 90 11.25, Wilmington Charter A 11 220 20.00
+
+Manheim Township A 385, Great Valley B 210
+Great Valley B: Noah Harrigan 0 1 0 10, Shrey Pandya 0 2 1 15, Aakash Narayan 0 2 0 20, Kyle Yang 1 1 0 25
+Manheim Township A: Noah Andrews 0 1 2 0, Will Steger 3 5 1 90, Ryan Kashatus 1 1 1 20, Cyril Hainthaler 1 0 0 15
+Bonuses: Great Valley B 7 140 20.00, Manheim Township A 12 260 21.67
+
+Friends Select A 295, Manheim Township D 260
+Friends Select A: Matt D'Annunzio 2 1 1 35, Jonah Taranta 0 4 0 40, Silas Mohr 1 1 0 25, Aidan Pulliam 1 0 0 15
+Manheim Township D: Baybars Charkas 1 3 2 35, Sanya Nair 1 0 0 15, Ellie Taliani 2 0 0 30, Jane Farrell 0 2 0 20, Victoria Le 0 0 0 0
+Bonuses: Friends Select A 10 180 18.00, Manheim Township D 9 160 17.78
+
+Manheim Township B 345, Manheim Township C 180
+Manheim Township B: Aizaaz Faiz (AZ) 1 3 1 40, Zac Stapler 2 3 2 50, Sam Whitton 0 1 0 10, Eric Lai 0 2 1 15
+Manheim Township C: Nate Rybner 0 2 1 15, Kevin Phan 0 1 0 10, Deeya Doshi 0 0 1 -5, Lily Snyder 0 3 0 30, Eric Anderson 0 1 2 0
+Bonuses: Manheim Township B 12 230 19.17, Manheim Township C 7 130 18.57
+
+Great Valley A 415, Downingtown STEM 160
+Great Valley A: John Li 1 3 0 45, Anshu Nunemunthala 2 3 1 55, Rishi Raman 1 2 0 35, Dan Milani 0 2 0 20
+Downingtown STEM: Anish Gadgil 2 0 3 15, Saahas Yechuri 1 1 0 25, Sashwat Venkatesh 1 0 1 10, William Liao 0 0 0 0
+Bonuses: Great Valley A 14 260 18.57, Downingtown STEM 5 110 22.00
+
+Penn Manor 300, Hempfield 295
+Penn Manor : Connor Mayers 4 4 1 95, Chad Hoglund 1 0 0 15, Brennan McFall 0 1 0 10, Bernie Eckman 0 0 0 0
+Hempfield: Cartsen Brodbeck 0 1 1 5, Will Yaeger 5 2 0 95, Ryan Zhang 0 1 1 5, Colby Gamble 0 0 0 0
+Bonuses: Penn Manor 10 180 18.00, Hempfield 9 190 21.11
+
+Round 9
+Smithtown West A 140, Camp Hill B 95
+Smithtown West A: Marianne Lopez 0 2 0 20, Kyle Sasso 0 2 0 20, Logan Rivera 0 2 0 20, Paula Quinto 0 0 0 0
+Camp Hill B: Leo Chapman 1 2 0 35, Cole Hillegas 0 2 0 20, Bobby Latham 0 1 0 10
+Bonuses: Smithtown West A 6 80 13.33, Camp Hill B 6 30 5.00
+
+Wilmington Charter B 180, Downingtown East B 95
+Downingtown East B: Nikhil Alex 0 2 0 20, Jeya Iyadurai 0 2 0 20, Leah Lurie 0 2 1 15, Nora Wan 0 0 0 0
+Wilmington Charter B: Aman Singh 1 1 2 15, Rishith Ramamurthy 0 3 0 30, Shreyas Ravichander 0 1 0 10, Keshav Kotteswaran 0 1 1 5
+Bonuses: Downingtown East B 6 40 6.67, Wilmington Charter B 7 120 17.14
+
+Downingtown East A 175, Lancaster Mennonite 160
+Downingtown East A: Malaika Paralkar 2 4 0 70, Jack Bassick 0 0 0 0, Katherine Pan 0 0 1 -5, Simran Rajpal 0 1 0 10, Maggie Shaheen 0 1 0 10
+Lancaster Mennonite: Jacob Cairns 0 7 1 65, Josiah Esch 0 0 0 0, Ty Palfi 0 1 1 5
+Bonuses: Downingtown East A 8 90 11.25, Lancaster Mennonite 8 90 11.25
+
+Smithtown West B 205, Wilmington Charter C 100
+Wilmington Charter C: Shivtej Lakkakula 0 0 0 0, Amogh Baradwaj 0 1 0 10, Adhi Babu 0 4 0 40
+Smithtown West B: Skouhel Augustin 0 2 1 15, Nick Johnston 0 3 0 30, Nick Baiata 0 0 0 0, Caroline Kelley 0 0 0 0, Jonathan Pofcher 0 5 0 50
+Bonuses: Wilmington Charter C 5 50 10.00, Smithtown West B 10 110 11.00
+
+Great Valley C 240, Great Valley D 130
+Great Valley C: Anish Kodali 1 6 1 70, Rahul Narayanan 0 0 0 0, Kashyap Nathan 1 1 0 25, Tyler Yang 0 1 1 5
+Great Valley D: Will Lewis 1 4 1 50, Nandhini Krishnan 0 1 0 10, Chet Mittal 0 1 0 10, Josh Gonsalves 0 0 0 0
+Bonuses: Great Valley C 10 140 14.00, Great Valley D 7 60 8.57
+
+Wilton 175, Cedar Crest B 60
+Cedar Crest B: Ford Starks 0 1 0 10, Rhys Yeatter 0 1 0 10, Alexis Steele 0 2 2 10, Emily Bixler 0 1 0 10
+Wilton: Anjo Therattil 1 8 0 95
+Bonuses: Cedar Crest B 5 20 4.00, Wilton 9 80 8.89
+
+Nanticoke B 130, Smithtown West C 125
+Smithtown West C: Jared Paolillo 0 1 0 10, Sami Syed 0 3 1 25, Kumail Syed 0 0 0 0, Colin Mattera 0 2 0 20, Elana Kim 0 0 0 0
+Nanticoke B: Andrew Stratton 0 4 0 40, Lance Jenson 0 2 0 20, Christopher Cabonilas 0 0 0 0
+Bonuses: Smithtown West C 6 70 11.67, Nanticoke B 6 70 11.67
+
+Cedar Crest A 245, Friends Select B 75
+Friends Select B: Minas Macos 0 3 3 15, Adrian Altieri 0 0 0 0, Akhilesh Khambekar 1 1 1 20
+Cedar Crest A: Aran Bybee 1 4 0 55, Viraj Govani 0 2 0 20, Aidan Hanley 0 0 0 0, Syed Monzareen 2 1 0 40
+Bonuses: Friends Select B 5 40 8.00, Cedar Crest A 10 130 13.00
+
+Downingtown East C 160, Nanticoke A 155
+Nanticoke A: Noah Krubitzer 0 1 1 5, Liam Carcieri 2 2 1 45, Gabe Jenceleski 0 1 2 0, Will Kanjorski 0 1 1 5
+Downingtown East C: Saniya Vaidya 0 1 0 10, Yash Rajpal 0 1 0 10, Shouro Shuvit 0 5 1 45, Cory Yurkovic 1 0 0 15
+Bonuses: Nanticoke A 7 100 14.29, Downingtown East C 8 80 10.00
+
+Downingtown STEM 345, Manheim Township B 260
+Manheim Township B: Aizaaz Faiz (AZ) 1 2 0 35, Zac Stapler 2 1 0 40, Sam Whitton 1 0 0 15, Eric Lai 2 0 0 30
+Downingtown STEM: Anish Gadgil 2 2 1 45, Saahas Yechuri 0 1 0 10, Sashwat Venkatesh 3 1 0 55, William Liao 1 0 0 15
+Bonuses: Manheim Township B 9 140 15.56, Downingtown STEM 10 220 22.00
+
+Hempfield 375, Great Valley A 220
+Hempfield: Cartsen Brodbeck 1 1 0 25, Will Yaeger 3 4 1 80, Ryan Zhang 2 0 0 30, Micah Clark 0 1 0 10
+Great Valley A: John Li 0 2 0 20, Anshu Nunemunthala 1 2 1 30, Rishi Raman 1 0 1 10, Dan Milani 0 1 0 10
+Bonuses: Hempfield 12 230 19.17, Great Valley A 7 150 21.43
+
+Manheim Township C 315, Penn Manor 285
+Penn Manor : Connor Mayers 2 4 2 60, Chad Hoglund 2 1 1 35, Brennan McFall 0 0 0 0, Morgan Cooper 0 0 0 0
+Manheim Township C: Nate Rybner 1 5 0 65, Kevin Phan 1 0 1 10, Deeya Doshi 1 1 0 25, Lily Snyder 1 0 0 15
+Bonuses: Penn Manor 9 190 21.11, Manheim Township C 10 200 20.00
+
+Friends Select A 400, Camp Hill A 140
+Friends Select A: Matt D'Annunzio 4 4 2 90, Jonah Taranta 0 2 1 15, Silas Mohr 0 3 0 30, Aidan Pulliam 1 0 0 15
+Camp Hill A: Charlie Caddell 1 2 0 35, Declan Fitzpatrick 0 0 1 -5, Sam Haas 0 0 0 0, Sydney Preston 0 2 0 20
+Bonuses: Friends Select A 14 250 17.86, Camp Hill A 5 90 18.00
+
+Manheim Township A 310, Manheim Township D 285
+Manheim Township D: Baybars Charkas 2 5 0 80, Sanya Nair 1 0 0 15, Ellie Taliani 0 1 0 10, Jane Farrell 0 1 0 10, Victoria Le 0 0 0 0
+Manheim Township A: Noah Andrews 1 0 1 10, Will Steger 2 1 2 30, Ryan Kashatus 3 0 0 45, Cyril Hainthaler 1 1 0 25
+Bonuses: Manheim Township D 10 170 17.00, Manheim Township A 9 200 22.22
+
+Wilmington Charter A 355, Great Valley B 270
+Great Valley B: Noah Harrigan 1 2 1 30, Aakash Narayan 2 2 0 50, Kyle Yang 0 1 0 10, Rithvik Bobbili 0 1 0 10
+Wilmington Charter A: Sohum Shenoy 1 1 0 25, Waley He 3 3 3 60, Richard Cui 0 1 0 10, Prasanna Krishnamoorthy 2 0 0 30
+Bonuses: Great Valley B 9 170 18.89, Wilmington Charter A 11 230 20.91
+
+Smithtown East A 180, Smithtown East B 50
+Smithtown East B: Chelsea Maresca 0 1 0 10, Tyler King 0 1 0 10, Brian Sabujo 0 1 0 10, Sikar Konakanchar 0 0 0 0
+Smithtown East A: Jack Rowe 1 0 0 15, Shubh Thacker 0 4 2 30, Ike Zhang 0 3 0 30, Ritvik Chilakamarthy 0 1 1 5
+Bonuses: Smithtown East B 3 20 6.67, Smithtown East A 9 100 11.11
+
+Ranney 440, Emmaus 130
+Emmaus: Shreya Sriramenini 1 0 0 15, Max Hafner 1 0 1 10, Ethan Hoben 0 2 0 20, Frankie Hughes 0 1 1 5
+Ranney: Jacob Egol 4 8 0 140, Seth Marx 0 1 0 10, Lily Egol 0 1 0 10, Elizabeth Wright 0 0 0 0
+Bonuses: Emmaus 5 80 16.00, Ranney 14 280 20.00
+
+PALCS defeats Saratoga Springs by forfeit
+
+Round 10
+Wilmington Charter B 240, Downingtown East A 225
+Downingtown East A: Malaika Paralkar 0 4 1 35, Jack Bassick 1 0 0 15, Katherine Pan 0 1 0 10, Maggie Shaheen 1 0 0 15
+Wilmington Charter B: Aman Singh 1 3 1 40, Rishith Ramamurthy 1 4 1 50, Shreyas Ravichander 0 0 0 0, Keshav Kotteswaran 0 0 0 0
+Bonuses: Downingtown East A 7 150 21.43, Wilmington Charter B 9 150 16.67
+
+Wilton 235, Camp Hill B 85
+Wilton: Anjo Therattil 1 7 0 85
+Camp Hill B: Leo Chapman 0 4 0 40, Cole Hillegas 0 2 1 15, Bobby Latham 0 0 0 0
+Bonuses: Wilton 8 150 18.75, Camp Hill B 6 30 5.00
+
+Emmaus 315, Downingtown East B 175
+Emmaus: Shreya Sriramenini 0 2 2 10, Max Hafner 2 3 0 60, Ethan Hoben 1 0 1 10, Frankie Hughes 1 0 0 15
+Downingtown East B: Nikhil Alex 1 1 0 25, Jeya Iyadurai 0 3 0 30, Leah Lurie 1 1 1 20, Nora Wan 0 0 0 0
+Bonuses: Emmaus 9 220 24.44, Downingtown East B 7 100 14.29
+
+Smithtown West B 250, Nanticoke B 100
+Smithtown West B: Skouhel Augustin 1 1 0 25, Nick Johnston 0 3 1 25, Nick Baiata 0 1 0 10, Caroline Kelley 0 0 0 0, Jonathan Pofcher 0 4 0 40
+Nanticoke B: Andrew Stratton 1 3 1 40, Lance Jenson 0 1 0 10, Christopher Cabonilas 0 0 0 0
+Bonuses: Smithtown West B 10 150 15.00, Nanticoke B 5 50 10.00
+
+Cedar Crest A 280, PALCS 155
+PALCS: Max Lind 0 5 1 45, Colin Leonard 0 1 0 10, Nic Gustafson 0 0 4 -20, Eeshwar Krishnan 0 0 0 0
+Cedar Crest A: Aran Bybee 0 7 0 70, Viraj Govani 1 2 1 30, Aidan Hanley 0 0 0 0, Syed Monzareen 0 1 0 10
+Bonuses: PALCS 6 120 20.00, Cedar Crest A 11 170 15.45
+
+Smithtown West A 185, Downingtown East C 115
+Downingtown East C: Saniya Vaidya 0 0 0 0, Yash Rajpal 1 2 0 35, Shouro Shuvit 0 3 2 20, Cory Yurkovic 0 0 0 0
+Smithtown West A: Marianne Lopez 0 3 0 30, Kyle Sasso 0 1 0 10, Logan Rivera 1 2 0 35, Paula Quinto 0 0 0 0
+Bonuses: Downingtown East C 6 60 10.00, Smithtown West A 7 110 15.71
+
+Great Valley D 225, Friends Select B 105
+Great Valley D: Will Lewis 3 3 0 75, Nandhini Krishnan 0 0 1 -5, Chet Mittal 1 1 0 25, Josh Gonsalves 0 1 0 10
+Friends Select B: Minas Macos 0 2 1 15, Adrian Altieri 1 0 2 5, Akhilesh Khambekar 0 1 1 5
+Bonuses: Great Valley D 9 120 13.33, Friends Select B 4 80 20.00
+
+Wilmington Charter C 195, Smithtown East B 100
+Smithtown East B: Chelsea Maresca 0 3 0 30, Tyler King 0 1 0 10, Brian Sabujo 0 0 0 0, Sikar Konakanchar 0 0 0 0
+Wilmington Charter C: Shivtej Lakkakula 0 0 0 0, Amogh Baradwaj 0 2 0 20, Adhi Babu 0 6 1 55
+Bonuses: Smithtown East B 4 60 15.00, Wilmington Charter C 8 120 15.00
+
+Great Valley C defeats Saratoga Springs by forfeit
+
+Smithtown East A 215, Smithtown West C 120
+Smithtown East A: Jack Rowe 0 1 0 10, Shubh Thacker 1 1 2 15, Ike Zhang 0 2 0 20, Ritvik Chilakamarthy 0 3 0 30
+Smithtown West C: Jared Paolillo 0 0 0 0, Sami Syed 0 2 1 15, Kumail Syed 0 0 0 0, Colin Mattera 0 2 1 15, Elana Kim 0 0 0 0
+Bonuses: Smithtown East A 8 140 17.50, Smithtown West C 4 90 22.50
+
+Ranney 355, Lancaster Mennonite 250
+Ranney: Jacob Egol 3 5 1 90, Seth Marx 1 2 0 35, Lily Egol 0 0 0 0, Elizabeth Wright 0 0 0 0
+Lancaster Mennonite: Jacob Cairns 3 1 0 55, Josiah Esch 1 3 0 45, Ty Palfi 0 0 0 0
+Bonuses: Ranney 11 230 20.91, Lancaster Mennonite 8 150 18.75
+
+Nanticoke A 320, Cedar Crest B 10
+Nanticoke A: Noah Krubitzer 0 2 1 15, Liam Carcieri 1 3 0 45, Gabe Jenceleski 0 3 0 30, Will Kanjorski 0 3 0 30
+Cedar Crest B: Ford Starks 0 0 0 0, Rhys Yeatter 0 1 0 10, Alexis Steele 0 0 0 0, Emily Bixler 0 0 0 0
+Bonuses: Nanticoke A 12 200 16.67, Cedar Crest B 1 0 0.00
+
+Manheim Township A 585, Camp Hill A 115
+Camp Hill A: Charlie Caddell 0 1 0 10, Matt Gurgiolo 0 0 0 0, Sam Haas 0 0 0 0, Sydney Preston 1 2 2 25
+Manheim Township A: Noah Andrews 2 0 0 30, Will Steger 2 2 0 50, Ryan Kashatus 2 3 0 60, Cyril Hainthaler 1 4 0 55
+Bonuses: Camp Hill A 4 80 20.00, Manheim Township A 16 390 24.38
+
+Manheim Township D 315, Great Valley B 290
+Manheim Township D: Baybars Charkas 1 3 1 40, Sanya Nair 2 1 1 35, Ellie Taliani 0 1 0 10, Jane Farrell 0 0 0 0, Victoria Le 0 1 0 10
+Great Valley B: Noah Harrigan 1 2 1 30, Shrey Pandya 1 1 0 25, Aakash Narayan 1 3 0 45, Kyle Yang 0 0 0 0, Rithvik Bobbili 0 1 0 10
+Bonuses: Manheim Township D 9 220 24.44, Great Valley B 10 180 18.00
+
+Wilmington Charter A 420, Friends Select A 280
+Friends Select A: Matt D'Annunzio 2 3 0 60, Jonah Taranta 2 1 0 40, Silas Mohr 0 1 0 10, Aidan Pulliam 0 0 0 0
+Wilmington Charter A: Sohum Shenoy 1 2 1 30, Waley He 5 3 2 95, Richard Cui 0 0 0 0, Prasanna Krishnamoorthy 0 0 1 -5
+Bonuses: Friends Select A 9 170 18.89, Wilmington Charter A 11 300 27.27
+
+Penn Manor 425, Great Valley A 215
+Penn Manor : Connor Mayers 3 6 1 100, Chad Hoglund 1 2 0 35, Brennan McFall 0 1 0 10, Bernie Eckman 0 0 0 0
+Great Valley A: John Li 2 0 1 25, Anshu Nunemunthala 1 1 0 25, Rishi Raman 3 0 1 40, Dan Milani 0 0 1 -5
+Bonuses: Penn Manor 13 280 21.54, Great Valley A 7 130 18.57
+
+Downingtown STEM 390, Manheim Township C 185
+Downingtown STEM: Anish Gadgil 2 4 0 70, Saahas Yechuri 1 1 0 25, Sashwat Venkatesh 0 3 0 30, William Liao 0 1 1 5
+Manheim Township C: Nate Rybner 0 1 2 0, Kevin Phan 2 1 2 30, Deeya Doshi 0 1 0 10, Eric Anderson 1 0 0 15
+Bonuses: Downingtown STEM 12 260 21.67, Manheim Township C 6 130 21.67
+
+Hempfield 340, Manheim Township B 215
+Hempfield: Cartsen Brodbeck 0 2 0 20, Will Yaeger 2 4 1 65, Ryan Zhang 1 1 0 25, Colby Gamble 0 1 0 10
+Manheim Township B: Aizaaz Faiz (AZ) 2 0 1 25, Zac Stapler 3 0 4 25, Sam Whitton 0 1 0 10, Eric Lai 1 1 0 25
+Bonuses: Hempfield 11 220 20.00, Manheim Township B 8 130 16.25
+
+Round 11
+Manheim Township C 380, Camp Hill A 25
+Camp Hill A: Charlie Caddell 0 0 0 0, Declan Fitzpatrick 0 0 0 0, Sam Haas 1 0 0 15, Sydney Preston 1 0 3 0
+Manheim Township C: Nate Rybner 2 6 2 80, Deeya Doshi 2 2 0 50, Lily Snyder 0 0 0 0, Eric Anderson 0 3 0 30
+Bonuses: Camp Hill A 2 10 5.00, Manheim Township C 15 220 14.67
+
+Downingtown STEM 325, Manheim Township D 255
+Manheim Township D: Baybars Charkas 1 4 0 55, Sanya Nair 1 1 0 25, Ellie Taliani 1 0 0 15, Jane Farrell 0 1 0 10, Victoria Le 0 0 0 0
+Downingtown STEM: Anish Gadgil 3 5 0 95, Saahas Yechuri 0 1 0 10, Sashwat Venkatesh 0 0 0 0, William Liao 1 0 1 10
+Bonuses: Manheim Township D 9 150 16.67, Downingtown STEM 10 210 21.00
+
+Wilmington Charter A 265, Penn Manor 250
+Penn Manor : Connor Mayers 2 4 3 55, Chad Hoglund 2 0 0 30, Brennan McFall 1 0 0 15, Bernie Eckman 0 0 0 0, Morgan Cooper 0 0 0 0
+Wilmington Charter A: Sohum Shenoy 1 0 2 5, Waley He 1 5 1 60, Richard Cui 0 0 0 0, Prasanna Krishnamoorthy 1 1 1 20
+Bonuses: Penn Manor 9 150 16.67, Wilmington Charter A 9 180 20.00
+
+Hempfield 385, Friends Select A 255
+Friends Select A: Matt D'Annunzio 1 1 0 25, Jonah Taranta 2 1 0 40, Silas Mohr 0 2 0 20, Aidan Pulliam 0 1 0 10
+Hempfield: Cartsen Brodbeck 1 1 0 25, Will Yaeger 4 4 0 100, Ryan Zhang 1 1 1 20, Micah Clark 0 0 0 0
+Bonuses: Friends Select A 8 160 20.00, Hempfield 12 240 20.00
+
+Great Valley B 355, Manheim Township B 185
+Great Valley B: Noah Harrigan 0 2 1 15, Shrey Pandya 0 4 0 40, Kyle Yang 1 4 0 55, Rithvik Bobbili 1 1 0 25
+Manheim Township B: Aizaaz Faiz (AZ) 0 0 4 -20, Zac Stapler 2 3 1 55, Sam Whitton 1 1 0 25, Eric Lai 0 0 1 -5
+Bonuses: Great Valley B 13 220 16.92, Manheim Township B 7 130 18.57
+
+Manheim Township A 355, Great Valley A 250
+Great Valley A: John Li 1 3 0 45, Anshu Nunemunthala 1 3 0 45, Rishi Raman 0 0 2 -10, Dan Milani 0 1 0 10
+Manheim Township A: Noah Andrews 0 1 0 10, Will Steger 3 1 1 50, Ryan Kashatus 2 2 1 45, Cyril Hainthaler 0 2 0 20
+Bonuses: Great Valley A 9 160 17.78, Manheim Township A 11 230 20.91

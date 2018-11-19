@@ -1,0 +1,223 @@
+Round 1
+
+WV 395, Rancho Bernardo A 155
+Rancho Bernardo A: Kady Hsu 0 1 0 10, Claire Ahn 0 1 1 5, Eric Timmerman 2 1 0 40, Brent Fish 1 0 1 10
+WV: Shahar Schwartz 3 4 1 80, Connor Rankin 1 1 3 10, Ari Mazoq 2 0 0 30, Daniel Shalom 0 0 0 0, Aakarsh Vermani 1 1 0 25
+Bonuses: Rancho Bernardo A 6 90 15.00, WV 13 250 19.23
+
+Olympian A 390, Santa Monica 290
+Santa Monica: Ana 0 0 0 0, Josh Xu 2 2 0 50, Leo 1 3 0 45, Nami 0 0 1 -5
+Olympian A: Jake Blankenbacler 3 0 0 45, Thea Paraguya 0 0 0 0, Athina Rosue 1 1 0 25, Kaia Yager 3 4 1 80
+Bonuses: Santa Monica 8 200 25.00, Olympian A 12 240 20.00
+
+NoHo A 480, Olympian B 130
+Olympian B: Ynrique Dugan 1 0 0 15, Chelsea Ocampo 0 0 0 0, Chanwoo Nam 1 2 0 35, Alex Gates 0 0 0 0
+NoHo A: Ronen Lee 2 2 1 45, Brandon Hong 5 0 1 70, Joseph Rosenbaum 0 3 0 30, Tyler Meshkinyar 1 1 0 25
+Bonuses: Olympian B 4 80 20.00, NoHo A 14 310 22.14
+
+CCA A 445, CCA B 45
+CCA A: Shreyank Kadadi 4 2 1 75, Alan Zhu 2 2 1 45, Raymond Song 1 4 2 45
+CCA B: Brian Zhu 0 2 0 20, Paul Mola 0 1 1 5
+Bonuses: CCA A 15 280 18.67, CCA B 3 20 6.67
+
+Round 2
+Olympian A 485, Olympian B 110
+Olympian B: Ynrique Dugan 0 1 0 10, Chelsea Ocampo 0 0 0 0, Chanwoo Nam 0 2 0 20, Alex Gates 1 1 1 20
+Olympian A: Jake Blankenbacler 1 3 0 45, Thea Paraguya 0 2 0 20, Athina Rosue 0 1 1 5, Kaia Yager 2 6 1 85
+Bonuses: Olympian B 5 60 12.00, Olympian A 15 330 22.00
+
+WV 400, NoHo A 210
+NoHo A: Ronen Lee 1 3 2 35, Brandon Hong 0 3 1 25, Joseph Rosenbaum 0 0 0 0, Tyler Meshkinyar 0 0 0 0
+WV: Shahar Schwartz 3 4 2 75, Connor Rankin 0 0 0 0, Ari Mazoq 0 0 0 0, Daniel Shalom 3 0 1 40, Aakarsh Vermani 1 1 0 25
+Bonuses: NoHo A 7 150 21.43, WV 12 260 21.67
+
+Santa Monica 385, CCA B 130
+Santa Monica: Ana 0 3 0 30, Josh Xu 1 1 1 20, Leo 3 2 1 60, Nami 2 1 1 35
+CCA B: Brian Zhu 0 5 1 45, Paul Mola 0 2 1 15
+Bonuses: Santa Monica 13 240 18.46, CCA B 7 70 10.00
+
+CCA A 315, Rancho Bernardo A 215
+CCA A: Shreyank Kadadi 1 0 3 0, Alan Zhu 1 2 3 20, Raymond Song 4 2 1 75
+Rancho Bernardo A: Kady Hsu 0 0 0 0, Claire Ahn 0 1 0 10, Eric Timmerman 1 3 0 45, Brent Fish 1 1 1 20
+Bonuses: CCA A 10 220 22.00, Rancho Bernardo A 7 140 20.00
+
+Round 3
+Rancho Bernardo A 300, CCA B 105
+CCA B: Brian Zhu 2 1 1 35, Paul Mola 0 2 2 10
+Rancho Bernardo A: Kady Hsu 0 3 0 30, Claire Ahn 0 1 0 10, Eric Timmerman 1 2 1 30, Brent Fish 1 5 1 60
+Bonuses: CCA B 5 60 12.00, Rancho Bernardo A 13 170 13.08
+
+NoHo A 480, Santa Monica 170
+NoHo A: Ronen Lee 2 1 0 40, Brandon Hong 4 5 0 110, Joseph Rosenbaum 0 2 0 20, Tyler Meshkinyar 0 0 0 0
+Santa Monica: Ana 1 0 1 10, Josh Xu 1 1 1 20, Leo 0 2 0 20, Nami 0 1 0 10
+Bonuses: NoHo A 14 310 22.14, Santa Monica 6 110 18.33
+
+WV 490, Olympian B 55
+Olympian B: Ynrique Dugan 0 1 0 10, Chelsea Ocampo 1 0 0 15, Chanwoo Nam 0 1 0 10, Alex Gates 0 0 0 0
+WV: Shahar Schwartz 6 3 0 120, Connor Rankin 0 0 0 0, Ari Mazoq 0 5 1 45, Daniel Shalom 0 2 1 15, Aakarsh Vermani 0 0 0 0
+Bonuses: Olympian B 3 20 6.67, WV 16 310 19.38
+
+Olympian A 380, CCA A 285
+CCA A: Shreyank Kadadi 0 1 0 10, Alan Zhu 3 1 1 50, Raymond Song 3 1 2 45
+Olympian A: Jake Blankenbacler 1 1 0 25, Thea Paraguya 1 1 0 25, Athina Rosue 1 0 0 15, Kaia Yager 2 3 1 55
+Bonuses: CCA A 9 180 20.00, Olympian A 10 260 26.00
+
+Round 4
+NoHo A 375, CCA A 255
+CCA A: Shreyank Kadadi 0 1 2 0, Alan Zhu 0 2 0 20, Raymond Song 4 1 1 65
+NoHo A: Ronen Lee 2 1 1 35, Brandon Hong 3 2 0 65, Joseph Rosenbaum 1 1 0 25, Tyler Meshkinyar 1 0 1 10
+Bonuses: CCA A 8 170 21.25, NoHo A 11 240 21.82
+
+Santa Monica 475, Olympian B 30
+Olympian B: Ynrique Dugan 0 0 0 0, Chelsea Ocampo 1 0 2 5, Chanwoo Nam 0 1 0 10, Alex Gates 0 0 1 -5
+Santa Monica: Ana 3 3 0 75, Josh Xu 2 1 0 40, Leo 1 2 1 30, Nami 1 2 1 30
+Bonuses: Olympian B 2 20 10.00, Santa Monica 15 300 20.00
+
+Olympian A 500, Rancho Bernardo A 135
+Olympian A: Jake Blankenbacler 4 1 0 70, Thea Paraguya 0 1 0 10, Athina Rosue 1 3 0 45, Kaia Yager 1 4 0 55
+Rancho Bernardo A: Kady Hsu 0 1 0 10, Claire Ahn 0 0 0 0, Eric Timmerman 3 1 1 50, Brent Fish 0 0 1 -5
+Bonuses: Olympian A 15 320 21.33, Rancho Bernardo A 5 80 16.00
+
+WV 420, CCA B 75
+CCA B: Brian Zhu 0 4 1 35, Paul Mola 0 1 2 0
+WV: Shahar Schwartz 4 4 1 95, Connor Rankin 0 0 0 0, Ari Mazoq 2 0 2 20, Daniel Shalom 0 1 0 10, Aakarsh Vermani 0 2 1 15
+Bonuses: CCA B 5 40 8.00, WV 13 280 21.54
+
+Round 5
+Olympian A 415, WV 245
+WV: Shahar Schwartz 5 0 3 60, Connor Rankin 0 1 0 10, Ari Mazoq 1 1 0 25, Daniel Shalom 0 0 0 0, Aakarsh Vermani 0 0 0 0
+Olympian A: Jake Blankenbacler 2 2 1 45, Thea Paraguya 0 0 0 0, Athina Rosue 3 3 0 75, Kaia Yager 0 2 1 15
+Bonuses: WV 8 150 18.75, Olympian A 12 280 23.33
+
+Rancho Bernardo A 365, Olympian B 100
+Olympian B: Ynrique Dugan 0 1 0 10, Chelsea Ocampo 0 1 1 5, Chanwoo Nam 1 1 0 25, Alex Gates 0 0 0 0
+Rancho Bernardo A: Kady Hsu 0 0 1 -5, Claire Ahn 0 2 0 20, Eric Timmerman 0 5 0 50, Brent Fish 1 5 1 60
+Bonuses: Olympian B 4 60 15.00, Rancho Bernardo A 13 240 18.46
+
+CCA A 435, Santa Monica 200
+Santa Monica: Ana 0 1 0 10, Josh Xu 0 4 0 40, Leo 0 1 0 10, Nami 0 1 2 0
+CCA A: Shreyank Kadadi 3 0 1 40, Alan Zhu 2 1 1 35, Raymond Song 4 2 2 70
+Bonuses: Santa Monica 7 140 20.00, CCA A 12 290 24.17
+
+NoHo A 395, CCA B 170
+CCA B: Brian Zhu 2 3 1 55, Paul Mola 1 0 0 15
+NoHo A: Ronen Lee 2 4 2 60, Brandon Hong 2 1 1 35, Joseph Rosenbaum 0 0 0 0, Tyler Meshkinyar 0 3 0 30
+Bonuses: CCA B 6 100 16.67, NoHo A 12 270 22.50
+
+Round 6
+CCA A 420, Olympian B 120
+CCA A: Shreyank Kadadi 0 2 0 20, Alan Zhu 2 3 1 55, Raymond Song 3 3 2 65
+Olympian B: Ynrique Dugan 0 1 0 10, Chelsea Ocampo 0 0 0 0, Chanwoo Nam 0 1 0 10, Alex Gates 2 1 0 40
+Bonuses: CCA A 13 280 21.54, Olympian B 5 60 12.00
+
+WV 345, Santa Monica 225
+WV: Shahar Schwartz 5 3 2 95, Connor Rankin 0 0 0 0, Ari Mazoq 1 0 0 15, Daniel Shalom 1 1 0 25, Aakarsh Vermani 0 0 0 0
+Santa Monica: Ana 0 1 0 10, Josh Xu 1 4 0 55, Leo 0 1 1 5, Nami 1 0 0 15
+Bonuses: WV 11 210 19.09, Santa Monica 8 140 17.50
+
+NoHo A 415, Rancho Bernardo A 165
+NoHo A: Ronen Lee 3 3 1 70, Brandon Hong 1 1 2 15, Joseph Rosenbaum 2 2 0 50, Tyler Meshkinyar 0 0 0 0
+Rancho Bernardo A: Kady Hsu 0 1 0 10, Claire Ahn 1 0 0 15, Eric Timmerman 1 1 0 25, Brent Fish 1 1 0 25
+Bonuses: NoHo A 12 280 23.33, Rancho Bernardo A 6 90 15.00
+
+Olympian A 610, CCA B 40
+CCA B: Brian Zhu 0 1 0 10, Paul Mola 0 1 0 10
+Olympian A: Jake Blankenbacler 2 2 0 50, Thea Paraguya 0 1 0 10, Athina Rosue 3 1 1 50, Kaia Yager 3 4 1 80
+Bonuses: CCA B 2 20 10.00, Olympian A 16 420 26.25
+
+Round 7
+Olympian A 460, NoHo A 200
+NoHo A: Ronen Lee 0 1 4 -10, Brandon Hong 1 1 1 20, Joseph Rosenbaum 2 1 0 40, Tyler Meshkinyar 0 0 0 0
+Olympian A: Jake Blankenbacler 3 0 0 45, Thea Paraguya 1 2 0 35, Athina Rosue 0 1 1 5, Kaia Yager 3 3 0 75
+Bonuses: NoHo A 6 150 25.00, Olympian A 13 300 23.08
+
+Santa Monica 340, Rancho Bernardo A 195
+Rancho Bernardo A: Kady Hsu 0 0 1 -5, Claire Ahn 1 0 0 15, Eric Timmerman 1 0 0 15, Brent Fish 2 3 0 60
+Santa Monica: Ana 1 1 0 25, Josh Xu 2 5 0 80, Leo 0 1 2 0, Nami 0 1 1 5
+Bonuses: Rancho Bernardo A 7 110 15.71, Santa Monica 11 230 20.91
+
+WV 365, CCA A 345
+WV: Shahar Schwartz 4 1 2 60, Connor Rankin 1 1 1 20, Ari Mazoq 0 1 0 10, Daniel Shalom 1 1 0 25, Aakarsh Vermani 0 0 0 0
+CCA A: Shreyank Kadadi 2 1 1 35, Alan Zhu 2 1 1 35, Raymond Song 2 2 1 45
+Bonuses: WV 10 250 25.00, CCA A 10 230 23.00
+
+CCA B 230, Olympian B 210
+CCA B: Brian Zhu 3 4 1 80, Paul Mola 0 1 0 10
+Olympian B: Ynrique Dugan 0 1 0 10, Chelsea Ocampo 1 0 1 10, Chanwoo Nam 0 1 0 10, Alex Gates 2 3 0 60
+Bonuses: CCA B 8 140 17.50, Olympian B 8 120 15.00
+
+Round 8
+
+NoHo A 340, Olympian A 290
+Olympian A: Jake Blankenbecler 0 1 2 0, Thea Paraguya 1 1 0 25, Athina Rosure 1 0 0 15, Kaia Yager 2 3 0 60
+NoHo A: Ronen Lee 2 2 1 45, Brandon Hong 1 3 2 35, Joseph Rosenbaum 1 1 0 25, Tyler Meshkinyar 0 0 1 -5
+Bonuses: Olympian A 9 190 21.11, NoHo A 10 240 24.00
+
+WV 265, CCA A 240
+CCA A: Shreyank Kadadi 1 1 0 25, Alan Zhu 0 3 2 20, Raymond Song 2 0 1 25
+WV: Shahar Schwartz 4 2 3 65, Connor Rankin 0 1 1 5, Ari Mazoq 0 0 0 0, Daniel Shalom 0 1 0 10, Aakarsh Vermani 1 1 0 25
+Bonuses: CCA A 7 170 24.29, WV 10 160 16.00
+
+Santa Monica 380, Ranco Bernardo A 225
+Santa Monica: Ana 0 2 1 15, Josh Xu 4 4 1 95, Leo 0 2 0 20, Nami 0 0 0 0
+Ranco Bernardo A: Kady Hsu 0 0 0 0, Claire Ahn 0 1 1 5, Eric Timmerman 0 4 0 40, Brent Fish 0 3 0 30
+Bonuses: Santa Monica 12 250 20.83, Ranco Bernardo A 8 150 18.75
+
+Olympian B 240, CCA B 120
+CCA B: Paul Mola 0 1 2 0, Brian Zhu 1 3 3 30
+Olympian B: Ynrique Dugan 0 2 0 20, Chelsea Ocampo 1 1 1 20, Chanwoo Nam 0 3 2 20, Alex Gates 2 1 0 40
+Bonuses: CCA B 5 90 18.00, Olympian B 10 140 14.00
+
+Round 9
+WV 345, Olympian A 315
+WV: Shahar Schwartz 6 2 1 105, Connor Rankin 1 0 2 5, Ari Mazoq 0 1 1 5, Daniel Shalom 0 0 0 0, Aakarsh Vermani 0 0 0 0
+Olympian A: Jake Blankenbecler 1 3 0 45, Thea Paraguya 0 4 0 40, Athina Rosure 1 1 1 20, Kaia Yager 0 0 0 0
+Bonuses: WV 10 230 23.00, Olympian A 10 210 21.00
+
+NoHo A 310, CCA A 300
+CCA A: Shreyank Kadadi 2 1 1 35, Alan Zhu 3 1 0 55, Raymond Song 1 2 1 30
+NoHo A: Ronen Lee 4 3 1 85, Brandon Hong 2 1 1 35, Joseph Rosenbaum 0 0 0 0, Tyler Meshkinyar 0 0 0 0
+Bonuses: CCA A 10 180 18.00, NoHo A 10 190 19.00
+
+Santa Monica 385, CCA B 135
+Santa Monica: Ana 2 1 0 40, Josh Xu 2 2 0 50, Leo 0 1 0 10, Nami 1 2 2 25
+CCA B: Paul Mola 0 1 0 10, Brian Zhu 1 6 0 75
+Bonuses: Santa Monica 11 260 23.64, CCA B 8 50 6.25
+
+Ranco Bernardo A 320, Olympian B 100
+Ranco Bernardo A: Kady Hsu 0 1 0 10, Claire Ahn 2 3 1 55, Eric Timmerman 0 2 1 15, Brent Fish 2 2 0 50
+Olympian B: Ynrique Dugan 0 0 0 0, Chelsea Ocampo 0 1 0 10, Chanwoo Nam 0 1 1 5, Alex Gates 0 3 1 25
+Bonuses: Ranco Bernardo A 12 190 15.83, Olympian B 5 60 12.00
+
+Round 10
+Olympian A 455, CCA A 115
+CCA A: Shreyank Kadadi 0 0 0 0, Alan Zhu 1 1 2 15, Raymond Song 1 1 3 10
+Olympian A: Jake Blankenbecler 2 3 1 55, Thea Paraguya 1 0 0 15, Athina Rosure 1 3 0 45, Kaia Yager 1 3 1 40
+Bonuses: CCA A 4 90 22.50, Olympian A 14 300 21.43
+
+NoHo A 400, WV 280
+WV: Shahar Schwartz 2 2 3 35, Connor Rankin 0 0 0 0, Ari Mazoq 1 1 0 25, Daniel Shalom 1 0 0 15, Aakarsh Vermani 1 0 0 15
+NoHo A: Ronen Lee 3 2 2 55, Brandon Hong 1 3 1 40, Joseph Rosenbaum 1 2 0 35, Tyler Meshkinyar 0 0 0 0
+Bonuses: WV 8 190 23.75, NoHo A 12 270 22.50
+
+Santa Monica 440, Olympian B 55
+Santa Monica: Ana 1 2 1 30, Josh Xu 4 6 1 115, Leo 0 1 0 10, Nami 0 0 1 -5
+Olympian B: Ynrique Dugan 0 0 0 0, Chelsea Ocampo 1 0 0 15, Chanwoo Nam 0 0 0 0, Alex Gates 0 1 0 10
+Bonuses: Santa Monica 14 290 20.71, Olympian B 2 30 15.00
+
+Ranco Bernardo A 270, CCA B 145
+Ranco Bernardo A: Kady Hsu 0 0 0 0, Claire Ahn 0 3 0 30, Eric Timmerman 1 4 0 55, Brent Fish 0 1 1 5
+CCA B: Paul Mola 1 0 0 15, Brian Zhu 1 4 1 50
+Bonuses: Ranco Bernardo A 9 180 20.00, CCA B 6 80 13.33
+
+Round 11
+WV 415, NoHo A 145
+NoHo A: Ronen Lee 1 1 0 25, Brandon Hong 1 3 0 45, Joseph Rosenbaum 0 0 1 -5, Tyler Meshkinyar 0 0 2 -10
+WV: Shahar Schwartz 5 1 0 85, Connor Rankin 2 1 0 40, Ari Mazoq 1 0 1 10, Daniel Shalom 3 0 1 40, Aakarsh Vermani 0 0 0 0
+Bonuses: NoHo A 6 90 15.00, WV 13 240 18.46
+
+Round 12
+WV 340, NoHo A 245
+NoHo A: Ronen Lee 1 3 1 40, Brandon Hong 0 3 1 25, Joseph Rosenbaum 0 1 0 10, Tyler Meshkinyar 0 1 0 10
+WV: Shahar Schwartz 2 3 3 45, Connor Rankin 1 0 0 15, Ari Mazoq 1 3 0 45, Daniel Shalom 0 0 0 0, Aakarsh Vermani 0 0 1 -5
+Bonuses: NoHo A 9 160 17.78, WV 10 240 24.00

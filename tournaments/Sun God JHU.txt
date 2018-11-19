@@ -1,0 +1,387 @@
+Round 1
+
+Robert Bork A 450, VCU 85
+VCU: Daniel Ogburn	0 3 1 25, Mally Stewart	0 0 0 0, Nathan Nguyen	0 0 0 0, VCU 0 0 0 0, Liz Stoke 0 0 0 0
+Robert Bork A: James Kuang	0 5 0 50, Kevin Wang	1 3 0 45, Benjamin Xu	0 2 2 10, Fred Zhang 1 3 0 45
+Bonuses: VCU 3 60 20.00, Robert Bork A 15 300 20.00
+
+Langley A 205, Robert Bork C 150
+Langley A: Dan Ni	0 6 2 50, Matthew Rubin	0 3 0 30, Jeffery Grow	1 0 0 15, Selena Bao 0 1 2 0
+Robert Bork C: Sathya Gnanakumar	0 2 0 20, Joshua Lian	0 1 1 5, Karthink Prasad	1 1 1 20, Kevin Zhang 0 2 1 15
+Bonuses: Langley A 11 110 10.00, Robert Bork C 7 90 12.86
+
+UMD A 415, UMD B 220
+UMD A: Graham Reid	1 1 1 20, Weijia Cheng	2 3 1 55, Caleb Kendrick	1 2 0 35, Justin Hawkins 1 1 0 25
+UMD B: Jack Lewis	2 0 0 30, Vishwa Shanmugam	1 3 3 30, Adam Howlett	1 0 1 10, Jason Shi 0 1 0 10
+Bonuses: UMD A 12 280 23.33, UMD B 8 140 17.50
+
+JHU A 505, Penn Manor 10
+Penn Manor: Connor Mayers	0 0 2 -10, Chad Holgund 0 1 2 0
+JHU A: Robert Chu	1 8 1 90, Eric Bobrow 1 8 0 95, JHU A 0 0 0 0
+Bonuses: Penn Manor 1 20 20.00, JHU A 18 320 17.78
+
+JHU B 405, Langley B 55
+Langley B: Ari Tretiak	0 0 1 -5, Danil Mousavi	0 2 2 10, Nima Razavi	0 0 0 0, William Orr 0 2 0 20
+JHU B: Seth Ebner	0 6 1 55, Walter Zhao	0 9 0 90, Patrick Xia 0 0 0 0
+Bonuses: Langley B 4 30 7.50, JHU B 15 260 17.33
+
+UVA 430, Robert Bork B 140
+Robert Bork B: William Wang	2 2 2 40, Ryan Xu	0 0 0 0, Sohom Paul 0 3 2 20
+UVA: Eric Xu	0 5 0 50, Nick Collins	3 1 0 55, Jack Mehr	1 2 1 30, John Connor 1 0 0 15
+Bonuses: Robert Bork B 7 80 11.43, UVA 13 280 21.54
+
+UMD C 245, Gettysburg 230
+Gettysburg: Ryan Bilger	1 4 1 50, Danny Greenblatt	0 3 2 20, Ryzeson Maravich	0 1 0 10
+UMD C: Ani Perumalla	2 5 1 75, Daniel Jensen	0 0 0 0, Jonathan Moore 1 3 1 40, UMD C 0 1 0 10
+Bonuses: Gettysburg 9 150 16.67, UMD C 12 120 10.00
+
+Round 2
+Robert Bork A 360, UMD C 140
+UMD C: Ani Perumalla	1 4 0 55, Daniel Jensen	0 1 0 10, Jonathan Moore 0 1 1 5
+Robert Bork A: James Kuang	0 2 0 20, Kevin Wang	0 2 0 20, Benjamin Xu	2 1 0 40, Fred Zhang 3 3 1 70
+Bonuses: UMD C 7 70 10.00, Robert Bork A 13 210 16.15
+
+Gettysburg 290, Robert Bork B 220
+Robert Bork B: William Wang	2 2 0 50, Ryan Xu	0 2 0 20, Sohom Paul 1 0 1 10
+Gettysburg: Ryan Bilger	1 7 2 75, Danny Greenblatt	1 3 0 45, Ryzeson Maravich	0 1 0 10
+Bonuses: Robert Bork B 7 140 20.00, Gettysburg 13 160 12.31
+
+UMD A 410, JHU B 175
+UMD A: Graham Reid	0 3 1 25, Weijia Cheng	1 2 0 35, Caleb Kendrick	3 4 1 80, Justin Hawkins 0 0 0 0
+JHU B: Seth Ebner	1 2 0 35, Walter Zhao	0 3 1 25, Patrick Xia 1 0 0 15
+Bonuses: UMD A 13 270 20.77, JHU B 7 100 14.29
+
+UVA 475, Langley B 65
+UVA: Eric Xu	2 7 2 90, Nick Collins	0 0 0 0, Jack Mehr	1 5 0 65, John Connor 0 1 0 10
+Langley B: Ari Tretiak	0 0 0 0, Danil Mousavi	0 3 0 30, Nima Razavi	0 0 0 0, William Orr 0 1 1 5
+Bonuses: UVA 16 310 19.38, Langley B 4 30 7.50
+
+JHU A 495, Robert Bork C 30
+Robert Bork C: Sathya Gnanakumar	0 0 1 -5, Vishal Kanigicherla	0 1 1 5, Joshua Lian	0 0 1 -5, Karthink Prasad	0 0 1 -5, Kevin Zhang 0 1 1 5
+JHU A: Robert Chu	5 4 0 115, Eric Bobrow 1 7 1 80
+Bonuses: Robert Bork C 2 35 17.50, JHU A 17 300 17.65
+
+VCU 185, Langley A 170
+Langley A: Dan Ni	1 7 0 85, Matthew Rubin	0 0 3 -15, Jeffery Grow	0 1 0 10, Selena Bao 0 0 0 0
+VCU: Daniel Ogburn	0 6 0 60, Mally Stewart	0 1 1 5, Nathan Nguyen	0 1 0 10, Richard Foster	0 0 0 0, Liz Stoke 0 0 0 0
+Bonuses: Langley A 9 90 10.00, VCU 8 110 13.75
+
+UMD B 460, Penn Manor 50
+UMD B: Jack Lewis	2 4 0 70, Vishwa Shanmugam	3 6 2 95, Adam Howlett	1 1 0 25, Jason Shi 0 0 0 0
+Penn Manor: Connor Mayers	0 2 0 20, Chad Holgund 0 1 2 0
+Bonuses: UMD B 17 270 15.88, Penn Manor 3 30 10.00
+
+Round 3
+JHU B 450, UMD C 95
+JHU B: Seth Ebner	2 4 0 70, Walter Zhao	2 7 2 90, Patrick Xia 0 0 0 0
+UMD C: Ani Perumalla	0 4 1 35, Daniel Jensen	0 1 0 10, Jonathan Moore 0 0 0 0
+Bonuses: JHU B 15 290 19.33, UMD C 5 50 10.00
+
+UVA 410, Gettysburg 160
+UVA: Eric Xu	0 4 3 25, Nick Collins	2 2 0 50, Jack Mehr	2 0 1 25, John Connor 2 0 0 30
+Gettysburg: Ryan Bilger	1 3 0 45, Danny Greenblatt	1 0 0 15, Ryzeson Maravich	0 1 0 10
+Bonuses: UVA 12 280 23.33, Gettysburg 6 90 15.00
+
+UMD B 495, Langley A 35
+Langley A: Dan Ni	0 1 3 -5, Matthew Rubin	0 1 0 10, Jeffery Grow	0 1 0 10, Selena Bao 0 0 0 0
+UMD B: Jack Lewis	1 2 1 30, Vishwa Shanmugam	3 4 1 80, Adam Howlett	1 2 0 35, Jason Shi 0 2 0 20
+Bonuses: Langley A 3 20 6.67, UMD B 15 330 22.00
+
+JHU A 400, Langley B 120
+JHU A: Robert Chu	2 7 2 90, Eric Bobrow 1 3 1 40
+Langley B: Ari Tretiak	0 4 0 40, Danil Mousavi	1 0 1 10, Nima Razavi	0 0 0 0, William Orr 0 1 0 10
+Bonuses: JHU A 13 270 20.77, Langley B 6 60 10.00
+
+VCU 135, Robert Bork C 130
+VCU: Daniel Ogburn	1 2 0 35, Mally Stewart	0 0 0 0, Nathan Nguyen	0 4 2 30, Richard Foster	0 0 0 0, Liz Stoke 0 0 0 0
+Robert Bork C: Sathya Gnanakumar	0 3 0 30, Vishal Kanigicherla	0 1 0 10, Joshua Lian	0 2 2 10, Karthink Prasad	0 2 2 10, Kevin Zhang 0 1 2 0
+Bonuses: VCU 7 70 10.00, Robert Bork C 9 70 7.78
+
+Robert Bork A 470, Penn Manor 35
+Robert Bork A: James Kuang	2 2 1 45, Kevin Wang	0 2 1 15, Benjamin Xu	0 4 0 40, Fred Zhang 0 6 0 60
+Penn Manor: Connor Mayers	0 2 1 15, Chad Holgund 0 0 2 -10
+Bonuses: Robert Bork A 16 310 19.38, Penn Manor 2 30 15.00
+
+UMD A 510, Robert Bork B 100
+UMD A: Graham Reid	1 3 1 40, Weijia Cheng	1 5 0 65, Caleb Kendrick	1 3 0 45, Justin Hawkins 0 2 0 20
+Robert Bork B: William Wang	2 0 1 25, Ryan Xu	0 1 0 10, Sohom Paul 0 1 1 5
+Bonuses: UMD A 16 340 21.25, Robert Bork B 4 60 15.00
+
+Round 4
+Robert Bork A 495, Robert Bork C 70
+Robert Bork C: Sathya Gnanakumar	0 1 0 10, Vishal Kanigicherla	0 1 0 10, Joshua Lian	0 2 0 20, Kevin Zhang 0 0 0 0
+Robert Bork A: James Kuang	3 1 0 55, Kevin Wang	4 1 0 70, Benjamin Xu	0 1 1 5, Fred Zhang 0 6 1 55
+Bonuses: Robert Bork C 4 30 7.50, Robert Bork A 16 310 19.38
+
+Gettysburg 245, VCU 115
+VCU: Daniel Ogburn	1 2 2 25, Mally Stewart	1 0 0 15, Nathan Nguyen	1 1 0 25, Richard Foster	0 0 0 0, Liz Stoke 0 0 0 0
+Gettysburg: Ryan Bilger	1 7 0 85, Danny Greenblatt	0 2 0 20, Ryzeson Maravich	0 1 0 10
+Bonuses: VCU 6 50 8.33, Gettysburg 11 130 11.82
+
+UMD A 440, Langley B 105
+UMD A: Graham Reid	1 3 0 45, Weijia Cheng	2 0 2 20, Caleb Kendrick	1 5 0 65, Justin Hawkins 0 2 2 10
+Langley B: Ari Tretiak	1 0 0 15, Danil Mousavi	0 2 0 20, Nima Razavi	0 2 0 20, William Orr 0 0 0 0
+Bonuses: UMD A 14 300 21.43, Langley B 5 50 10.00
+
+UVA 420, UMD C 100
+UVA: Eric Xu	1 6 2 65, Nick Collins	2 2 0 50, Jack Mehr	0 1 1 5, John Connor 2 1 0 40
+UMD C: Ani Perumalla	1 2 1 30, Daniel Jensen	0 0 0 0, Jonathan Moore 0 1 0 10
+Bonuses: UVA 15 260 17.33, UMD C 4 60 15.00
+
+JHU B 385, Robert Bork B 185
+JHU B: Seth Ebner	1 6 1 70, Walter Zhao	3 3 0 75, Patrick Xia 0 0 0 0
+Robert Bork B: William Wang	3 0 0 45, Ryan Xu	0 2 0 20, Sohom Paul 0 2 0 20
+Bonuses: JHU B 13 240 18.46, Robert Bork B 7 100 14.29
+
+Langley A 110, Penn Manor 90
+Langley A: Dan Ni	1 3 1 40, Matthew Rubin	0 3 1 25, Jeffery Grow	0 3 0 30, Selena Bao 0 2 1 15
+Penn Manor: Connor Mayers	1 2 2 25, Chad Holgund 0 2 1 15
+Bonuses: Langley A 12 0 0.00, Penn Manor 5 50 10.00
+
+UMD B 350, JHU A 235
+UMD B: Jack Lewis	1 1 1 20, Vishwa Shanmugam	3 2 1 60, Adam Howlett	1 2 0 35, Jason Shi 1 1 0 25
+JHU A: Robert Chu	3 3 0 75, Eric Bobrow 0 2 2 10
+Bonuses: UMD B 12 210 17.50, JHU A 8 150 18.75
+
+Round 5
+UMD B 495, Robert Bork C 20
+Robert Bork C: Sathya Gnanakumar	0 0 0 0, Vishal Kanigicherla	0 0 0 0, Karthink Prasad	0 1 0 10, Kevin Zhang 0 0 0 0
+UMD B: Jack Lewis	1 5 0 65, Vishwa Shanmugam	1 7 0 85, Adam Howlett	1 2 1 30, Jason Shi 1 0 0 15
+Bonuses: Robert Bork C 1 10 10.00, UMD B 18 300 16.67
+
+Robert Bork A 310, Langley A 175
+Langley A: Dan Ni	0 3 2 20, Matthew Rubin	0 1 0 10, Jeffery Grow	1 2 0 35, Selena Bao 0 0 0 0
+Robert Bork A: James Kuang	0 4 0 40, Kevin Wang	1 0 1 10, Benjamin Xu	1 1 0 25, Fred Zhang 0 4 1 35
+Bonuses: Langley A 7 110 15.71, Robert Bork A 11 200 18.18
+
+JHU A 370, VCU 130
+JHU A: Robert Chu	2 5 0 80, Eric Bobrow 1 5 1 60
+VCU: Daniel Ogburn	0 2 0 20, Mally Stewart	0 3 0 30, Nathan Nguyen	0 1 2 0, Richard Foster	0 0 0 0, Liz Stoke 0 1 0 10
+Bonuses: JHU A 13 230 17.69, VCU 7 70 10.00
+
+Gettysburg 320, Langley B 35
+Langley B: Ari Tretiak	0 1 2 0, Danil Mousavi	1 1 2 15, Nima Razavi	0 0 0 0, William Orr 0 0 0 0
+Gettysburg: Ryan Bilger	3 7 0 115, Danny Greenblatt	0 3 1 25, Ryzeson Maravich	0 1 0 10
+Bonuses: Langley B 3 20 6.67, Gettysburg 14 170 12.14
+
+Robert Bork B 205, UMD C 130
+Robert Bork B: William Wang	0 7 3 55, Ryan Xu	0 3 0 30, Julia Zhou	0 0 1 -5, Sohom Paul 0 1 1 5
+UMD C: Ani Perumalla	0 5 2 40, Daniel Jensen	0 1 0 10, Jonathan Moore 0 0 0 0
+Bonuses: Robert Bork B 11 120 10.91, UMD C 6 80 13.33
+
+UVA 335, UMD A 225
+UVA: Eric Xu	1 6 1 70, Nick Collins	2 1 0 40, Jack Mehr	0 1 0 10, John Connor 0 1 1 5
+UMD A: Graham Reid	1 2 0 35, Weijia Cheng	0 0 1 -5, Caleb Kendrick	1 3 2 35, Justin Hawkins 1 0 1 10
+Bonuses: UVA 12 210 17.50, UMD A 8 150 18.75
+
+JHU B 365, Penn Manor 75
+Penn Manor: Connor Mayers	0 2 1 15, Chad Holgund 0 2 0 20
+JHU B: Seth Ebner	0 5 1 45, Walter Zhao	2 6 3 75, Patrick Xia 1 1 0 25
+Bonuses: Penn Manor 4 40 10.00, JHU B 15 220 14.67
+
+Round 6
+Robert Bork B 345, Langley A 130
+Langley A: Dan Ni	0 1 2 0, Matthew Rubin	1 0 1 10, Jeffery Grow	0 1 0 10, Selena Bao 1 2 1 30
+Robert Bork B: William Wang	0 5 1 45, Ryan Xu	0 0 0 0, Julia Zhou	1 6 1 70, Sohom Paul 0 1 0 10
+Bonuses: Langley A 6 80 13.33, Robert Bork B 13 220 16.92
+
+UMD C 235, Langley B 90
+UMD C: Ani Perumalla	0 7 1 65, Daniel Jensen	0 3 2 20, Jonathan Moore 0 0 0 0
+Langley B: Ari Tretiak	0 2 2 10, Danil Mousavi	0 1 1 5, Nima Razavi	0 0 1 -5, William Orr 0 3 2 20
+Bonuses: UMD C 10 150 15.00, Langley B 6 60 10.00
+
+UMD A 485, Gettysburg 110
+UMD A: Graham Reid	3 4 1 80, Weijia Cheng	1 2 0 35, Caleb Kendrick	1 4 1 50, Justin Hawkins 0 0 0 0
+Gettysburg: Ryan Bilger	0 3 0 30, Danny Greenblatt	0 2 0 20, Ryzeson Maravich	0 0 0 0
+Bonuses: UMD A 15 320 21.33, Gettysburg 5 60 12.00
+
+UVA 290, JHU B 260
+UVA: Eric Xu	0 6 2 50, Nick Collins	2 0 0 30, Jack Mehr	0 1 0 10, John Connor 0 1 0 10
+JHU B: Seth Ebner	0 2 0 20, Walter Zhao	2 6 1 85, Patrick Xia 0 0 1 -5
+Bonuses: UVA 10 190 19.00, JHU B 10 160 16.00
+
+UMD B 380, VCU 95
+UMD B: Jack Lewis	0 5 1 45, Vishwa Shanmugam	2 3 1 55, Adam Howlett	1 0 1 10, Jason Shi 0 2 0 20
+VCU: Daniel Ogburn	0 2 2 10, Mally Stewart	0 0 0 0, Nathan Nguyen	0 2 1 15, Richard Foster	0 1 0 10, Liz Stoke 0 0 0 0
+Bonuses: UMD B 13 250 19.23, VCU 5 60 12.00
+
+Robert Bork C 150, Penn Manor 110
+Robert Bork C: Sathya Gnanakumar	0 4 1 35, Vishal Kanigicherla	0 0 0 0, Joshua Lian	1 0 1 10, Karthink Prasad	0 2 0 20, Kevin Zhang 0 1 1 5
+Penn Manor: Connor Mayers	0 5 1 45, Chad Holgund 0 1 1 5
+Bonuses: Robert Bork C 8 80 10.00, Penn Manor 6 60 10.00
+
+Robert Bork A 235, JHU A 230
+JHU A: Robert Chu	1 4 3 40, Eric Bobrow 1 2 1 30
+Robert Bork A: James Kuang	0 3 0 30, Kevin Wang	0 0 0 0, Benjamin Xu	0 1 0 10, Fred Zhang 1 4 0 55
+Bonuses: JHU A 8 160 20.00, Robert Bork A 9 140 15.56
+
+Round 7
+UMD A 585, UMD C 45
+UMD A: Graham Reid	1 3 0 45, Weijia Cheng	2 3 0 60, Caleb Kendrick	4 4 2 90, Justin Hawkins 0 0 0 0
+UMD C: Ani Perumalla	0 3 1 25, Daniel Jensen	0 0 0 0, Jonathan Moore 0 0 0 0
+Bonuses: UMD A 17 390 22.94, UMD C 3 20 6.67
+
+JHU B 265, Gettysburg 195
+Gettysburg: Ryan Bilger	0 6 1 55, Danny Greenblatt	0 1 2 0, Ryzeson Maravich	0 0 0 0
+JHU B: Seth Ebner	1 7 0 85, Walter Zhao	0 5 4 30, Patrick Xia 0 0 0 0
+Bonuses: Gettysburg 7 140 20.00, JHU B 13 150 11.54
+
+Robert Bork B 255, Langley B 75
+Robert Bork B: William Wang	0 4 2 30, Ryan Xu	0 1 0 10, Julia Zhou	0 3 1 25, Sohom Paul 0 4 2 30
+Langley B: Ari Tretiak	0 2 0 20, Danil Mousavi	0 0 2 -10, Nima Razavi	0 0 0 0, William Orr 0 2 1 15
+Bonuses: Robert Bork B 12 160 13.33, Langley B 4 50 12.50
+
+JHU A 445, Langley A 75
+JHU A: Robert Chu	2 10 2 120, Eric Bobrow 1 3 0 45
+Langley A: Dan Ni	0 2 1 15, Matthew Rubin	0 1 0 10, Jeffery Grow	0 0 0 0, Selena Bao 0 1 0 10
+Bonuses: JHU A 16 280 17.50, Langley A 4 40 10.00
+
+UMD B 470, Robert Bork A 125
+UMD B: Jack Lewis	1 3 0 45, Vishwa Shanmugam	1 7 1 80, Adam Howlett	0 2 0 20, Jason Shi 1 0 0 15
+Robert Bork A: James Kuang	0 1 0 10, Kevin Wang	0 1 0 10, Benjamin Xu	0 1 1 5, Fred Zhang 0 2 2 10
+Bonuses: UMD B 15 310 20.67, Robert Bork A 5 90 18.00
+
+Penn Manor 165, VCU 150
+VCU: Daniel Ogburn	0 5 0 50, Mally Stewart	0 3 1 25, Nathan Nguyen	0 0 0 0, Richard Foster	0 1 1 5, Liz Stoke 0 0 0 0
+Penn Manor: Connor Mayers	0 9 1 85, Chad Holgund 0 1 2 0
+Bonuses: VCU 9 70 7.78, Penn Manor 10 80 8.00
+
+Round 8
+UMD C 235, Robert Bork C 130
+UMD C: Ani Perumalla	1 7 1 80, Daniel Jensen	0 0 0 0, Jonathan Moore 0 2 1 15
+Robert Bork C: Sathya Gnanakumar	0 0 2 -10, Vishal Kanigicherla	0 2 1 15, Joshua Lian	0 1 0 10, Karthink Prasad	0 1 1 5, Kevin Zhang 0 3 2 20
+Bonuses: UMD C 10 140 14.00, Robert Bork C 7 90 12.86
+
+Langley B 195, VCU 95
+Langley B: Ari Tretiak	0 2 1 15, Danil Mousavi	0 3 2 20, Nima Razavi	0 2 0 20, William Orr 1 2 3 20
+VCU: Daniel Ogburn	0 2 1 15, Mally Stewart	0 0 1 -5, Nathan Nguyen	0 4 1 35, Richard Foster	0 0 0 0, Liz Stoke 0 0 0 0
+Bonuses: Langley B 10 120 12.00, VCU 6 50 8.33
+
+Robert Bork B 270, Penn Manor 160
+Penn Manor: Connor Mayers	0 5 2 40, Chad Holgund 0 3 2 20
+Robert Bork B: William Wang	0 3 0 30, Ryan Xu	0 1 0 10, Julia Zhou	0 6 1 55, Sohom Paul 0 2 1 15
+Bonuses: Penn Manor 8 100 12.50, Robert Bork B 12 160 13.33
+
+JHU A 380, UVA 235
+UVA: Eric Xu	2 1 2 30, Nick Collins	2 1 0 40, Jack Mehr	2 0 2 20, John Connor 0 0 1 -5
+JHU A: Robert Chu	2 5 0 80, Eric Bobrow 1 4 1 50
+Bonuses: UVA 8 150 18.75, JHU A 12 250 20.83
+
+Robert Bork A 290, JHU B 190
+Robert Bork A: James Kuang	2 0 0 30, Kevin Wang	0 3 0 30, Benjamin Xu	0 2 0 20, Fred Zhang 0 3 2 20
+JHU B: Seth Ebner	0 3 1 25, Walter Zhao	1 5 0 65, Patrick Xia 0 0 0 0
+Bonuses: Robert Bork A 10 190 19.00, JHU B 9 100 11.11
+
+UMD B 375, Gettysburg 185
+UMD B: Jack Lewis	2 2 1 45, Vishwa Shanmugam	0 6 2 50, Adam Howlett	1 1 0 25, Jason Shi 1 0 0 15
+Gettysburg: Ryan Bilger	1 2 0 35, Danny Greenblatt	0 4 0 40, Ryzeson Maravich	0 0 0 0
+Bonuses: UMD B 13 240 18.46, Gettysburg 7 110 15.71
+
+UMD A 510, Langley A 110
+Langley A: Dan Ni	0 1 1 5, Matthew Rubin	0 2 0 20, Jeffery Grow	0 1 1 5
+UMD A: Graham Reid	2 3 2 50, Weijia Cheng	0 2 0 20, Caleb Kendrick	4 4 2 90, Justin Hawkins 0 0 0 0
+Bonuses: Langley A 4 80 20.00, UMD A 15 350 23.33
+
+Round 9
+JHU A 450, Gettysburg 115
+Gettysburg: Ryan Bilger	1 3 0 45, Danny Greenblatt	0 1 0 10, Ryzeson Maravich	0 0 0 0
+JHU A: Robert Chu	3 6 1 100, Eric Bobrow 0 6 0 60
+Bonuses: Gettysburg 5 60 12.00, JHU A 15 290 19.33
+
+UMD B 345, JHU B 145
+UMD B: Jack Lewis	0 5 1 45, Vishwa Shanmugam	0 5 0 50, Adam Howlett	1 1 0 25, Jason Shi 1 0 0 15
+JHU B: Seth Ebner	0 0 0 0, Walter Zhao	0 3 0 30, Patrick Xia 1 1 0 25
+Bonuses: UMD B 13 210 16.15, JHU B 5 90 18.00
+
+UMD A 385, Robert Bork A 225
+Robert Bork A: James Kuang	0 3 0 30, Kevin Wang	1 1 0 25, Benjamin Xu	0 1 0 10, Fred Zhang 0 2 0 20
+UMD A: Graham Reid	1 2 0 35, Weijia Cheng	1 3 0 45, Caleb Kendrick	2 1 3 25, Justin Hawkins 0 2 0 20
+Bonuses: Robert Bork A 8 140 17.50, UMD A 12 260 21.67
+
+UVA 535, Langley A 55
+Langley A: Dan Ni	0 0 3 -15, Matthew Rubin	0 1 0 10, Jeffery Grow	0 1 0 10, Selena Bao 0 1 2 0
+UVA: Eric Xu	2 3 0 60, Nick Collins	0 2 0 20, Jack Mehr	2 3 0 60, John Connor 1 4 0 55
+Bonuses: Langley A 3 50 16.67, UVA 17 340 20.00
+
+VCU 115, UMD C 95
+UMD C: Ani Perumalla	0 4 2 30, Daniel Jensen	0 3 1 25, Jonathan Moore 0 0 0 0
+VCU: Daniel Ogburn	0 2 0 20, Mally Stewart	0 1 0 10, Nathan Nguyen	1 3 2 35, Richard Foster	0 0 0 0, Liz Stoke 0 0 0 0
+Bonuses: UMD C 7 40 5.71, VCU 7 50 7.14
+
+Robert Bork B 265, Robert Bork C 150
+Robert Bork C: Sathya Gnanakumar	0 0 0 0, Vishal Kanigicherla	0 1 0 10, Joshua Lian	1 0 0 15, Karthink Prasad	0 4 1 35, Kevin Zhang 0 0 0 0
+Robert Bork B: William Wang	0 3 2 20, Ryan Xu	0 1 0 10, Julia Zhou	2 1 0 40, Sohom Paul 1 4 1 50
+Bonuses: Robert Bork C 6 90 15.00, Robert Bork B 12 145 12.08
+
+Penn Manor 170, Langley B 110
+Penn Manor: Connor Mayers	0 7 1 65, Chad Holgund 1 0 0 15
+Langley B: Ari Tretiak	0 1 2 0, Danil Mousavi	1 2 0 35, Nima Razavi	0 1 0 10, William Orr 0 2 1 15
+Bonuses: Penn Manor 8 90 11.25, Langley B 7 50 7.14
+
+Round 10
+JHU A 330, JHU B 155
+JHU A: Robert Chu	0 5 1 45, Eric Bobrow 1 7 0 85
+JHU B: Seth Ebner	1 2 1 30, Walter Zhao	0 2 1 15, Patrick Xia 0 2 0 20
+Bonuses: JHU A 13 200 15.38, JHU B 7 90 12.86
+
+Robert Bork B 265, VCU 40
+Robert Bork B: William Wang	1 4 2 45, Ryan Xu	0 1 0 10, Julia Zhou	0 1 1 5, Sohom Paul 0 5 1 45
+VCU: Daniel Ogburn	0 2 0 20, Mally Stewart	0 0 0 0, Nathan Nguyen	1 0 0 15, Richard Foster	0 0 0 0, Liz Stoke 0 0 1 -5
+Bonuses: Robert Bork B 12 160 13.33, VCU 3 10 3.33
+
+Robert Bork C 205, Langley B 105
+Robert Bork C: Sathya Gnanakumar	0 3 1 25, Joshua Lian	0 2 1 15, Karthink Prasad	1 4 1 50, Kevin Zhang 0 0 1 -5
+Langley B: Ari Tretiak	0 0 2 -10, Danil Mousavi	0 2 1 15, Nima Razavi	0 2 0 20, William Orr 0 2 0 20
+Bonuses: Robert Bork C 10 120 12.00, Langley B 6 60 10.00
+
+UMD C 160, Penn Manor 135
+UMD C: Ani Perumalla	0 8 4 60, Jonathan Moore 0 1 0 10
+Penn Manor: Connor Mayers	1 5 3 50, Chad Holgund 0 1 1 5
+Bonuses: UMD C 9 90 10.00, Penn Manor 7 80 11.43
+
+Gettysburg 220, Langley A 165
+Langley A: Dan Ni	0 2 1 15, Matthew Rubin	0 1 0 10, Jeffery Grow	1 1 0 25, Selena Bao 0 3 1 25
+Gettysburg: Ryan Bilger	1 9 1 100, Danny Greenblatt	0 0 2 -10, Ryzeson Maravich	0 0 0 0
+Bonuses: Langley A 8 90 11.25, Gettysburg 10 130 13.00
+
+UMD A 565, UMD B 75
+UMD A: Graham Reid	1 5 0 65, Weijia Cheng	2 2 1 45, Caleb Kendrick	4 2 0 80, Justin Hawkins 1 0 0 15
+UMD B: Jack Lewis	0 1 2 0, Vishwa Shanmugam	1 0 1 10, Adam Howlett	0 0 0 0, Jason Shi 1 0 0 15
+Bonuses: UMD A 17 360 21.18, UMD B 3 50 16.67
+
+UVA 390, Robert Bork A 160
+Robert Bork A: James Kuang	0 2 1 15, Kevin Wang	0 0 0 0, Benjamin Xu	0 0 1 -5, Fred Zhang 0 4 0 40
+UVA: Eric Xu	0 6 2 50, Nick Collins	3 0 1 40, Jack Mehr	2 2 0 50, John Connor 0 0 0 0
+Bonuses: Robert Bork A 6 110 18.33, UVA 13 250 19.23
+
+Round 11
+Robert Bork A 345, Gettysburg 185
+Gettysburg: Ryan Bilger	0 5 0 50, Danny Greenblatt	0 2 0 20, Ryzeson Maravich	0 0 1 -5
+Robert Bork A: James Kuang	3 1 2 45, Kevin Wang	1 1 0 25, Benjamin Xu	0 3 0 30, Fred Zhang 0 3 1 25
+Bonuses: Gettysburg 7 120 17.14, Robert Bork A 12 220 18.33
+
+UMD A 400, JHU A 240
+JHU A: Robert Chu	0 5 2 40, Eric Bobrow 1 2 1 30
+UMD A: Graham Reid	0 0 1 -5, Weijia Cheng	3 2 1 60, Caleb Kendrick	3 4 0 85, Justin Hawkins 0 0 0 0
+Bonuses: JHU A 8 170 21.25, UMD A 12 260 21.67
+
+JHU B 245, Langley A 160
+Langley A: Dan Ni	0 4 1 35, Matthew Rubin	0 2 0 20, Jeffery Grow	0 2 0 20, Selena Bao 0 0 1 -5
+JHU B: Seth Ebner	1 3 0 45, Walter Zhao	1 4 2 45, Patrick Xia 0 0 1 -5
+Bonuses: Langley A 8 90 11.25, JHU B 9 160 17.78
+
+UMD B 340, UVA 205
+UVA: Eric Xu	0 3 1 25, Nick Collins	0 2 1 15, Jack Mehr	1 0 1 10, John Connor 1 0 0 15
+UMD B: Jack Lewis	0 4 0 40, Vishwa Shanmugam	0 3 1 25, Adam Howlett	1 2 0 35, Jason Shi 2 0 0 30
+Bonuses: UVA 7 140 20.00, UMD B 12 210 17.50
+
+Round 15
+UMD A 295, UMD B 255
+UMD A: Graham Reid	0 1 1 5, Weijia Cheng	2 0 1 25, Caleb Kendrick	4 1 1 65, Justin Hawkins 1 1 1 20
+UMD B: Jack Lewis	1 1 0 25, Vishwa Shanmugam	1 2 1 30, Adam Howlett	1 2 0 35, Jason Shi 1 1 0 25
+Bonuses: UMD A 10 180 18.00, UMD B 10 140 14.00
+
+UMD A 295, UMD B 255
+UMD A: Graham Reid	0 1 1 5, Weijia Cheng	2 0 1 25, Caleb Kendrick	4 1 1 65, Justin Hawkins 1 1 1 20
+UMD B: Jack Lewis	1 1 0 25, Vishwa Shanmugam	1 2 1 30, Adam Howlett	1 2 0 35, Jason Shi 1 1 0 25
+Bonuses: UMD A 10 180 18.00, UMD B 10 140 14.00
