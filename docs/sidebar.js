@@ -10,12 +10,6 @@ function genSidebar(){
 	var side = document.createElement('div');
 	side.className = 'sidebar';
 
-	var para = document.createElement('p');
-	para.className = 'sidebar-head';
-	var text = document.createTextNode('Navigate');
-	para.append(text);
-	side.appendChild(para);
-
 	var thisSite = 	   [['Main Page',				'index.html'],
 						['Groger Score Analysis',	'scores.html'],
 						['PACE NSC Forecast',		'pace.html'],
