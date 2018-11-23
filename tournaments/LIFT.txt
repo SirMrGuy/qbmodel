@@ -1,0 +1,781 @@
+West Egg B 220, N Babylon A 190
+West Egg B: Patrick Duan 0 3 1 25, Brandon Huang 0 2 1 15, Kathryn Lee 0 2 0 20, Samuel Katzman 0 1 0 10
+N Babylon A: Elpida Manolas 3 2 0 65, Sam Keller 1 1 1 20, Lakeyah Jackson 1 0 0 15, Ellie Ganser 0 0 0 0
+Bonuses: West Egg B 8 150 18.75, N Babylon A 8 90 11.25
+
+Wilton 515, Hunter C 80
+Hunter C: Ella Leeds 1 1 1 20, Aruna Das 1 0 1 10, Philip Belin 0 0 0 0
+Wilton: Alexander Koutsoukos 6 9 0 180, Lukas Koutsoukos 0 1 1 5
+Bonuses: Hunter C 3 50 16.67, Wilton 16 330 20.62
+
+Hunter B 655, Island Trees B 0
+Hunter B: Asher Jaffe 3 9 0 135, Jacob Harin-Bernhardt 2 3 2 50, Rachel Yang 1 1 0 25
+Island Trees B: Ethan Garcia 0 0 0 0, Santiago Araryo 0 0 0 0, Dimitris Koliatsis 0 0 0 0
+Bonuses: Hunter B 19 445 23.42, Island Trees B 0 0 0.00
+
+High Tech B 365, Kellenberg C 95
+Kellenberg C: Ciara Atkins 1 2 0 35, Simeon Belgrave 0 1 0 10, Anthony Vazquez 0 0 0 0
+High Tech B: Adrian Thamburaj 1 2 2 25, Frank Grabowski 0 5 1 45, Alex Wu 2 2 1 45, Max Brodsky 0 1 0 10, Robert Kang 0 0 0 0
+Bonuses: Kellenberg C 4 50 12.50, High Tech B 13 240 18.46
+
+Hunter A 535, Mt. Lakes B 75
+Hunter A: Daniel Ma 6 0 1 85, Benjamin Chapman 1 2 2 25, Cerulean Ozarow 1 1 0 25, Pedro Juan Orduz 2 0 0 30
+Mt. Lakes B: Jake Barnett (Daniel) 0 1 0 10, Maimoonah Shafqat 0 1 0 10, Kanay Shah 0 0 0 0, Max Lin 0 0 0 0, Kaylee Smith 1 0 0 15
+Bonuses: Hunter A 13 370 28.46, Mt. Lakes B 3 40 13.33
+
+St. Joseph A 270, N Babylon C 100
+N Babylon C: Spiros Manolas 2 3 0 60, Ian Battaglia 0 0 0 0, Ryan Elwood 0 0 0 0, Eren Gokturk 0 0 0 0
+St. Joseph A: Liam Cotter 0 3 0 30, Matthew Furnell 0 4 1 35, Giovanni Young 1 1 0 25, John Gorman 0 1 0 10
+Bonuses: N Babylon C 5 40 8.00, St. Joseph A 10 170 17.00
+
+Island Trees A 400, West Egg C 30
+West Egg C: Lana Zhang 0 0 0 0, Jack Lenge 0 3 0 30, Allen Lu 0 0 0 0
+Island Trees A: David Wendt 3 6 3 90, Thomas Zamvoz 1 2 1 30, Marcos Llorente 0 1 0 10, Joshua Kim 0 0 0 0, Sheryl Lin 0 0 0 0
+Bonuses: West Egg C 3 0 0.00, Island Trees A 13 270 20.77
+
+Tenafly A 510, St. Joseph B 30
+Tenafly A: Andrew Han 2 3 1 55, Jerry Feng 0 1 0 10, Alex Slusarev 1 4 0 55, Juno Lee 1 3 0 45
+St. Joseph B: Christian Vazauer 0 0 0 0, Francisco Vazauer 0 1 0 10, Joshua Joo 0 0 0 0, Matthew San Miguel 0 1 0 10
+Bonuses: Tenafly A 15 345 23.00, St. Joseph B 2 10 5.00
+
+Clarke 355, Card Spellman A 40
+Clarke: Ankit Sayed 3 2 2 55, Arjun Panickssery 1 4 1 50, Joel Matthew 0 2 0 20, Shyan Huda 0 0 0 0
+Card Spellman A: Ciera Smith 0 1 0 10, Stephanie Brown 0 0 0 0, Daniel Roman 2 0 1 25, Michelle Hollad 0 0 0 0, Emma McCarthy 0 0 0 0
+Bonuses: Clarke 12 230 19.17, Card Spellman A 3 5 1.67
+
+Mather 440, Mt Lakes A 175
+Mather: John Phipps 2 4 0 70, Alex Delvecchio 3 2 1 60, Evan O'Rourke 1 0 0 15
+Mt Lakes A: Anita Shanter 0 2 0 20, Lucy Horowitz 2 0 1 25, Conrad Lewis 0 0 0 0, Ryan Shanker 0 2 0 20
+Bonuses: Mather 12 295 24.58, Mt Lakes A 6 110 18.33
+
+Seton Hall 270, VSS 140
+VSS: Joshua Paley 0 2 2 10, Sameer Singh 1 0 1 10, Connor Menzies 0 1 0 10, Syed Ali 0 2 0 20, Joshua Ramkissoon 0 0 0 0
+Seton Hall: Edwin Mensah-Boateng 0 0 1 -5, Aaron Fleischer 0 0 0 0, John Prout 0 0 0 0, Nick Rauschenberger 6 3 1 115, Bryan Fok 0 0 0 0
+Bonuses: VSS 6 90 15.00, Seton Hall 9 160 17.78
+
+West Egg A 465, Kings Pk B 70
+West Egg A: Noah Sheidlower 2 2 2 40, Anderson Gu 2 4 0 70, Ethan Vainrib 0 2 1 15, Daniel Lu 1 0 0 15
+Kings Pk B: Nadia Prasad 0 1 0 10, Alexa Grimley 0 0 0 0, Zach Kant 0 3 0 30, Weslyn Cai 0 0 0 0
+Bonuses: West Egg A 13 325 25.00, Kings Pk B 4 30 7.50
+
+High Tech A 540, Card Spellman B 45
+Card Spellman B: Madison Lewis 0 0 1 -5, Chaise Artemis 0 2 0 20, Sade Henriquez 0 0 0 0, Melissa Hewitt 0 0 0 0, Chibugo Okeke 0 0 0 0
+High Tech A: Michael Li 2 2 1 45, Darren Petrosino 2 2 1 45, Cole Snedeker 1 1 0 25, Deepak Gopalakrishnan 3 2 2 55
+Bonuses: Card Spellman B 2 30 15.00, High Tech A 15 370 24.67
+
+Stuyvesant 240, Pt Jefferson A 120
+Stuyvesant: Benjamin Avrahami 2 5 3 65, Benjamin Gallai 0 0 1 -5, Nten Nyiam 0 0 0 0, Kenny Tang 0 2 0 20
+Pt Jefferson A: Cameron Cohen 1 3 1 40, Reid Biondo 0 0 0 0, Kyle Ongmai 0 1 0 10
+Bonuses: Stuyvesant 9 160 17.78, Pt Jefferson A 5 70 14.00
+
+Team No Powers 545, Hunter D 40
+Hunter D: Christopher Kim 0 0 0 0, Eric Cao 0 0 0 0, Maggie Kwan 0 0 2 -10, Maxwell Huang 2 0 0 30
+Team No Powers: John Sanchez 1 1 0 25, Ariel Stein 1 4 0 55, Brian Zhang 2 0 0 30, Ethan Zhang 1 6 0 75
+Bonuses: Hunter D 2 20 10.00, Team No Powers 16 360 22.50
+
+Tenafly B 440, N Babylon B 20
+Tenafly B: Anusha De 0 6 0 60, Lukas Spitz Chapman 4 5 0 110, Hank Jennings 0 1 0 10, Aaron Gordon 0 0 0 0
+N Babylon B: Thomas Bruggemann 0 0 0 0, Gabby Jean Baptiste 0 1 0 10, Antonios Manolas 0 0 0 0, Nicholas Sullivan 0 0 0 0
+Bonuses: Tenafly B 16 260 16.25, N Babylon B 1 10 10.00
+
+Kings Pk B 140, N Babylon C 70
+N Babylon C: Spiros Manolas 0 5 0 50, Ian Battaglia 0 0 0 0, Ryan Elwood 0 0 0 0, Eren Gokturk 0 0 0 0
+Kings Pk B: Nadia Prasad 1 0 0 15, Alexa Grimley 1 1 0 25, Zach Kant 0 2 2 10, Weslyn Cai 1 1 1 20
+Bonuses: N Babylon C 5 20 4.00, Kings Pk B 7 70 10.00
+
+West Egg C 150, Card Spellman A 60
+Card Spellman A: Ciera Smith 0 1 0 10, Stephanie Brown 0 1 0 10, Daniel Roman 0 2 2 10, Michelle Hollad 0 0 0 0, Emma McCarthy 0 0 0 0
+West Egg C: Lana Zhang 0 1 0 10, Jack Lenge 0 7 0 70, Allen Lu 0 1 0 10
+Bonuses: Card Spellman A 4 30 7.50, West Egg C 9 60 6.67
+
+Mt Lakes A 410, Clarke 150
+Mt Lakes A: Anita Shanter 1 4 0 55, Lucy Horowitz 2 0 0 30, Conrad Lewis 2 1 1 35, Ryan Shanker 0 2 0 20
+Clarke: Ankit Sayed 0 4 2 30, Arjun Panickssery 0 2 2 10, Joel Matthew 0 0 0 0, Shyan Huda 0 0 0 0
+Bonuses: Mt Lakes A 12 270 22.50, Clarke 6 110 18.33
+
+St. Joseph A 260, Island Trees B 40
+Island Trees B: Ethan Garcia 0 0 1 -5, Santiago Araryo 0 1 1 5, Dimitris Koliatsis 0 1 0 10
+St. Joseph A: Liam Cotter 0 4 0 40, Matthew Furnell 1 2 0 35, Giovanni Young 1 3 1 40, John Gorman 0 1 1 5
+Bonuses: Island Trees B 2 30 15.00, St. Joseph A 12 140 11.67
+
+West Egg A 405, Hunter B 215
+West Egg A: Noah Sheidlower 0 2 1 15, Anderson Gu 0 4 1 35, Ethan Vainrib 1 2 1 30, Daniel Lu 1 2 0 35
+Hunter B: Asher Jaffe 1 2 1 30, Jacob Harin-Bernhardt 0 1 1 5, Rachel Yang 2 1 1 35
+Bonuses: West Egg A 12 290 24.17, Hunter B 7 145 20.71
+
+Island Trees A 315, Mather 215
+Island Trees A: David Wendt 6 2 1 105, Thomas Zamvoz 1 1 0 25, Marcos Llorente 0 0 1 -5, Joshua Kim 0 0 0 0
+Mather: John Phipps 3 1 1 50, Alex Delvecchio 0 0 0 0, Evan O'Rourke 1 2 1 30
+Bonuses: Island Trees A 10 190 19.00, Mather 7 135 19.29
+
+Seton Hall 255, Pt. Jefferson B 65
+Pt. Jefferson B: Pina Than 0 1 0 10, Gil Zaltsman 1 0 0 15, Sinan Ates 0 2 0 20
+Seton Hall: Edwin Mensah-Boateng 0 1 0 10, Aaron Fleischer 0 0 0 0, John Prout 0 0 0 0, Nick Rauschenberger 9 2 3 140, Bryan Fok 0 0 0 0
+Bonuses: Pt. Jefferson B 4 20 5.00, Seton Hall 12 105 8.75
+
+West Egg B 190, Card Spellman B 75
+West Egg B: Patrick Duan 0 1 2 0, Brandon Huang 2 4 2 60, Kathryn Lee 0 2 0 20, Samuel Katzman 0 0 0 0
+Card Spellman B: Madison Lewis 0 0 0 0, Chaise Artemis 0 0 1 -5, Melissa Hewitt 0 1 0 10, Chibugo Okeke 0 0 0 0, Ray Vaughn Brown 0 3 0 30
+Bonuses: West Egg B 9 110 12.22, Card Spellman B 4 40 10.00
+
+High Tech A 425, Tenafly A 210
+Tenafly A: Andrew Han 1 0 0 15, Jerry Feng 0 1 0 10, Alex Slusarev 2 0 1 25, Juno Lee 2 2 1 45
+High Tech A: Michael Li 1 1 0 25, Darren Petrosino 2 1 1 35, Cole Snedeker 1 1 0 25, Deepak Gopalakrishnan 3 1 1 50
+Bonuses: Tenafly A 8 115 14.38, High Tech A 11 290 26.36
+
+N Babylon A 110, St. Joseph B 40
+N Babylon A: Elpida Manolas 0 2 0 20, Sam Keller 1 2 0 35, Lakeyah Jackson 1 0 0 15, Molly Battaglia 0 0 0 0
+St. Joseph B: Christian Vazauer 0 1 1 5, Francisco Vazauer 0 1 1 5, Joshua Joo 0 2 0 20, Matthew San Miguel 0 0 0 0
+Bonuses: N Babylon A 6 40 6.67, St. Joseph B 4 10 2.50
+
+Tenafly B 255, Hunter D 110
+Tenafly B: Anusha De 0 3 1 25, Lukas Spitz Chapman 1 3 1 40, Hank Jennings 0 2 0 20, Aaron Gordon 0 1 0 10
+Hunter D: Christopher Kim 0 1 0 10, Eric Cao 0 2 0 20, Maggie Kwan 0 2 0 20, Maxwell Huang 1 0 1 10
+Bonuses: Tenafly B 10 160 16.00, Hunter D 6 50 8.33
+
+Team No Powers 350, Stuyvesant 190
+Stuyvesant: Benjamin Avrahami 1 3 0 45, Benjamin Gallai 1 0 0 15, Nten Nyiam 0 2 0 20, Kenny Tang 0 2 0 20
+Team No Powers: Dean Ah Now 5 3 1 100, John Sanchez 1 1 0 25, Ariel Stein 0 1 1 5, Brian Zhang 0 0 0 0
+Bonuses: Stuyvesant 9 90 10.00, Team No Powers 11 220 20.00
+
+Pt Jefferson A 205, N Babylon B 35
+N Babylon B: Thomas Bruggemann 0 1 0 10, Gabby Jean Baptiste 0 1 0 10, Antonios Manolas 0 0 1 -5, Nicholas Sullivan 0 0 0 0
+Pt Jefferson A: Cameron Cohen 0 6 2 50, Reid Biondo 0 4 0 40, Kyle Ongmai 1 1 0 25
+Bonuses: N Babylon B 2 20 10.00, Pt Jefferson A 12 90 7.50
+
+Mt. Lakes B 265, VSS 105
+VSS: Joshua Paley 2 1 2 30, Sameer Singh 0 0 1 -5, Connor Menzies 0 0 0 0, Syed Ali 0 2 1 15, Joshua Ramkissoon 0 1 0 10
+Mt. Lakes B: Jake Barnett (Daniel) 0 2 0 20, Maimoonah Shafqat 0 0 0 0, Max Lin 1 2 0 35, Kaylee Smith 1 4 0 55
+Bonuses: VSS 6 55 9.17, Mt. Lakes B 10 155 15.50
+
+Hunter C 280, Kings Pk A 140
+Kings Pk A: Eric Milchko 1 5 3 50, Sanjay Verma 0 0 0 0, Charles Speciale 0 0 0 0
+Hunter C: Ella Leeds 1 4 0 55, Aruna Das 1 1 1 20, Philip Belin 1 4 0 55
+Bonuses: Kings Pk A 6 90 15.00, Hunter C 12 150 12.50
+
+High Tech B 320, Wilton 240
+Wilton: Alexander Koutsoukos 3 3 1 70, Lukas Koutsoukos 1 1 1 20
+High Tech B: Adrian Thamburaj 0 4 0 40, Frank Grabowski 2 0 0 30, Alex Wu 1 1 0 25, Max Brodsky 1 1 0 25
+Bonuses: Wilton 8 150 18.75, High Tech B 10 200 20.00
+
+Hunter C 300, Kellenberg C 115
+Kellenberg C: Ciara Atkins 0 1 0 10, Simeon Belgrave 0 4 1 35, Anthony Vazquez 0 1 0 10
+Hunter C: Ella Leeds 0 0 0 0, Aruna Das 1 4 0 55, Philip Belin 1 6 0 75
+Bonuses: Kellenberg C 6 60 10.00, Hunter C 12 170 14.17
+
+Mt. Lakes B 345, Pt. Jefferson B 60
+Mt. Lakes B: Jake Barnett (Daniel) 1 1 1 20, Maimoonah Shafqat 0 3 0 30, Kanay Shah 4 5 0 110, Max Lin 0 0 0 0
+Pt. Jefferson B: Pina Than 0 1 1 5, Gil Zaltsman 1 0 0 15, Sinan Ates 1 1 1 20
+Bonuses: Mt. Lakes B 14 185 13.21, Pt. Jefferson B 4 20 5.00
+
+Hunter A 570, VSS 80
+VSS: Joshua Paley 0 0 0 0, Sameer Singh 0 3 1 25, Connor Menzies 0 0 0 0, Syed Ali 1 0 0 15, Joshua Ramkissoon 0 0 0 0
+Hunter A: Daniel Ma 6 2 1 105, Benjamin Chapman 0 1 2 0, Cerulean Ozarow 1 3 0 45, Pedro Juan Orduz 2 1 0 40
+Bonuses: VSS 4 40 10.00, Hunter A 16 380 23.75
+
+Tenafly A 365, Card Spellman B 45
+Tenafly A: Andrew Han 1 4 0 55, Jerry Feng 0 1 1 5, Alex Slusarev 1 3 0 45, Juno Lee 0 5 1 45
+Card Spellman B: Madison Lewis 1 0 0 15, Chaise Artemis 0 0 0 0, Sade Henriquez 0 0 0 0, Melissa Hewitt 1 0 0 15, Chibugo Okeke 0 0 0 0, Ray Vaughn Brown 0 0 0 0
+Bonuses: Tenafly A 15 215 14.33, Card Spellman B 2 15 7.50
+
+Mt Lakes A 415, Card Spellman A 90
+Mt Lakes A: Anita Shanter 2 2 1 45, Lucy Horowitz 1 1 1 20, Conrad Lewis 1 3 1 40, Ryan Shanker 1 2 1 30
+Card Spellman A: Ciera Smith 0 0 0 0, Stephanie Brown 0 2 0 20, Daniel Roman 0 1 0 10, Michelle Hollad 0 0 0 0, Emma McCarthy 0 1 0 10
+Bonuses: Mt Lakes A 13 280 21.54, Card Spellman A 4 50 12.50
+
+Island Trees A 280, Clarke 270
+Island Trees A: David Wendt 6 0 1 85, Thomas Zamvoz 0 1 0 10, Marcos Llorente 0 1 0 10, Joshua Kim 0 0 0 0, Sheryl Lin 1 0 0 15
+Clarke: Ankit Sayed 1 1 1 20, Arjun Panickssery 1 2 0 35, Joel Matthew 3 2 1 60, Shyan Huda 0 0 0 0
+Bonuses: Island Trees A 9 160 17.78, Clarke 10 155 15.50
+
+Mather 420, West Egg C 0
+West Egg C: Lana Zhang 0 0 0 0, Jack Lenge 0 1 1 5, Allen Lu 0 0 1 -5
+Mather: John Phipps 4 4 0 100, Alex Delvecchio 0 1 3 -5, Evan O'Rourke 3 2 0 65
+Bonuses: West Egg C 1 0 0.00, Mather 14 260 18.57
+
+Hunter B 505, St. Joseph A 65
+Hunter B: Asher Jaffe 1 8 0 95, Jacob Harin-Bernhardt 2 2 0 50, Rachel Yang 0 3 0 30
+St. Joseph A: Liam Cotter 1 1 0 25, Matthew Furnell 1 0 0 15, Giovanni Young 0 0 0 0, John Gorman 0 0 1 -5
+Bonuses: Hunter B 16 330 20.62, St. Joseph A 3 30 10.00
+
+Wilton 440, Kings Pk A 65
+Kings Pk A: Eric Milchko 1 0 0 15, Sanjay Verma 0 1 0 10, Charles Speciale 0 0 0 0
+Wilton: Alexander Koutsoukos 6 6 1 145, Lukas Koutsoukos 1 2 0 35
+Bonuses: Kings Pk A 2 40 20.00, Wilton 15 260 17.33
+
+West Egg A 595, N Babylon C 15
+West Egg A: Noah Sheidlower 2 4 0 70, Anderson Gu 2 1 1 35, Ethan Vainrib 1 3 1 40, Daniel Lu 2 1 0 40
+N Babylon C: Spiros Manolas 1 0 0 15, Ian Battaglia 0 0 0 0, Ryan Elwood 0 0 0 0, Eren Gokturk 0 0 0 0
+Bonuses: West Egg A 16 410 25.62, N Babylon C 1 0 0.00
+
+Kings Pk B 185, Island Trees B 150
+Kings Pk B: Nadia Prasad 0 1 0 10, Alexa Grimley 0 2 0 20, Zach Kant 0 4 1 35, Weslyn Cai 0 2 0 20
+Island Trees B: Ethan Garcia 0 1 0 10, Santiago Araryo 0 3 0 30, Dimitris Koliatsis 0 2 0 20
+Bonuses: Kings Pk B 9 100 11.11, Island Trees B 6 90 15.00
+
+Tenafly B 235, Pt Jefferson A 145
+Tenafly B: Anusha De 0 3 1 25, Lukas Spitz Chapman 2 3 0 60, Hank Jennings 0 1 0 10, Aaron Gordon 0 1 0 10
+Pt Jefferson A: Cameron Cohen 0 2 0 20, Reid Biondo 0 3 0 30, Kyle Ongmai 0 3 1 25
+Bonuses: Tenafly B 10 130 13.00, Pt Jefferson A 8 70 8.75
+
+High Tech A 625, N Babylon A 20
+High Tech A: Michael Li 1 1 1 20, Darren Petrosino 3 3 1 70, Cole Snedeker 2 0 0 30, Deepak Gopalakrishnan 4 3 1 85
+N Babylon A: Elpida Manolas 0 1 0 10, Sam Keller 0 0 0 0, Lakeyah Jackson 0 0 0 0, Ellie Ganser 0 0 0 0
+Bonuses: High Tech A 17 420 24.71, N Babylon A 1 10 10.00
+
+Stuyvesant 270, Hunter D 160
+Stuyvesant: Benjamin Avrahami 2 4 0 70, Benjamin Gallai 0 0 0 0, Nten Nyiam 1 2 0 35, Kenny Tang 0 3 1 25
+Hunter D: Christopher Kim 0 0 0 0, Eric Cao 0 4 0 40, Maggie Kwan 0 1 0 10, Maxwell Huang 2 0 0 30
+Bonuses: Stuyvesant 12 140 11.67, Hunter D 7 80 11.43
+
+Team No Powers 620, N Babylon B 10
+N Babylon B: Thomas Bruggemann 0 0 0 0, Gabby Jean Baptiste 0 1 0 10, Antonios Manolas 0 0 0 0, Nicholas Sullivan 0 0 0 0
+Team No Powers: Dean Ah Now 8 6 1 175, John Sanchez 0 3 0 30, Brian Zhang 0 0 0 0, Ethan Zhang 1 0 0 15
+Bonuses: N Babylon B 1 0 0.00, Team No Powers 18 400 22.22
+
+West Egg B 390, St. Joseph B 30
+West Egg B: Patrick Duan 1 3 0 45, Brandon Huang 3 7 1 110, Kathryn Lee 0 2 1 15, Samuel Katzman 0 0 0 0
+St. Joseph B: Christian Vazauer 0 0 1 -5, Francisco Vazauer 0 2 1 15, Joshua Joo 0 0 0 0, Matthew San Miguel 0 0 0 0
+Bonuses: West Egg B 16 220 13.75, St. Joseph B 2 20 10.00
+
+Pt Jefferson A 220, Hunter D 20
+Pt Jefferson A: Cameron Cohen 1 5 0 65, Reid Biondo 0 1 0 10, Kyle Ongmai 1 1 0 25
+Hunter D: Christopher Kim 0 0 0 0, Eric Cao 0 2 2 10, Maggie Kwan 0 0 0 0, Maxwell Huang 0 0 2 -10
+Bonuses: Pt Jefferson A 9 120 13.33, Hunter D 2 20 10.00
+
+High Tech A 495, West Egg B 60
+High Tech A: Michael Li 1 2 1 30, Darren Petrosino 3 2 0 65, Cole Snedeker 1 2 0 35, Deepak Gopalakrishnan 1 3 2 35
+West Egg B: Patrick Duan 0 0 0 0, Brandon Huang 0 2 2 10, Kathryn Lee 0 0 1 -5, Samuel Katzman 0 0 1 -5
+Bonuses: High Tech A 15 330 22.00, West Egg B 2 60 30.00
+
+Stuyvesant 315, N Babylon B 50
+Stuyvesant: Benjamin Avrahami 0 7 1 65, Benjamin Gallai 1 1 0 25, Nten Nyiam 0 0 1 -5, Kenny Tang 0 3 0 30
+N Babylon B: Thomas Bruggemann 0 1 0 10, Gabby Jean Baptiste 0 0 0 0, Antonios Manolas 0 3 0 30, Nicholas Sullivan 0 0 0 0
+Bonuses: Stuyvesant 12 200 16.67, N Babylon B 4 10 2.50
+
+Team No Powers 435, Tenafly B 110
+Tenafly B: Anusha De 0 1 0 10, Lukas Spitz Chapman 1 3 2 35, Hank Jennings 0 0 0 0, Aaron Gordon 0 1 1 5
+Team No Powers: Dean Ah Now 1 8 0 95, Ariel Stein 2 0 1 25, Brian Zhang 0 0 0 0, Ethan Zhang 1 1 0 25
+Bonuses: Tenafly B 6 60 10.00, Team No Powers 13 290 22.31
+
+St. Joseph B 105, Card Spellman B 80
+St. Joseph B: Christian Vazauer 0 1 0 10, Francisco Vazauer 0 1 1 5, Joshua Joo 0 1 0 10, Matthew San Miguel 0 3 0 30
+Card Spellman B: Madison Lewis 0 2 0 20, Chaise Artemis 0 0 0 0, Melissa Hewitt 0 0 0 0, Chibugo Okeke 0 0 0 0, Ray Vaughn Brown 1 0 1 10
+Bonuses: St. Joseph B 6 50 8.33, Card Spellman B 3 50 16.67
+
+Tenafly A 450, N Babylon A 30
+N Babylon A: Elpida Manolas 0 0 0 0, Sam Keller 0 2 0 20, Lakeyah Jackson 0 0 0 0, Molly Battaglia 0 0 0 0
+Tenafly A: Andrew Han 0 4 1 35, Jerry Feng 1 0 0 15, Alex Slusarev 3 2 0 65, Juno Lee 1 3 1 40
+Bonuses: N Babylon A 2 10 5.00, Tenafly A 14 295 21.07
+
+Mather 380, Card Spellman A 40
+Mather: John Phipps 2 4 1 65, Alex Delvecchio 0 6 1 55, Evan O'Rourke 0 3 0 30
+Card Spellman A: Ciera Smith 0 0 0 0, Stephanie Brown 0 1 0 10, Daniel Roman 0 1 0 10, Michelle Hollad 0 0 0 0, Emma McCarthy 0 0 0 0
+Bonuses: Mather 15 230 15.33, Card Spellman A 2 20 10.00
+
+Clarke 375, West Egg C 10
+West Egg C: Lana Zhang 0 0 0 0, Jack Lenge 0 1 0 10, Allen Lu 0 0 0 0
+Clarke: Ankit Sayed 0 7 1 65, Arjun Panickssery 1 5 1 60, Joel Matthew 0 2 0 20, Shyan Huda 0 0 0 0
+Bonuses: West Egg C 1 0 0.00, Clarke 15 230 15.33
+
+Hunter A 470, Seton Hall 150
+Seton Hall: Edwin Mensah-Boateng 0 0 0 0, Aaron Fleischer 0 0 0 0, John Prout 0 0 0 0, Nick Rauschenberger 1 4 1 50, Bryan Fok 0 0 0 0
+Hunter A: Daniel Ma 6 3 2 110, Benjamin Chapman 0 1 0 10, Cerulean Ozarow 0 1 1 5, Pedro Juan Orduz 1 1 0 25
+Bonuses: Seton Hall 5 100 20.00, Hunter A 13 320 24.62
+
+West Egg A 620, Island Trees B 30
+West Egg A: Noah Sheidlower 3 1 2 45, Anderson Gu 2 3 0 60, Ethan Vainrib 2 2 0 50, Daniel Lu 1 3 0 45
+Island Trees B: Ethan Garcia 0 0 0 0, Santiago Araryo 0 0 0 0, Dimitris Koliatsis 0 1 0 10
+Bonuses: West Egg A 17 420 24.71, Island Trees B 1 20 20.00
+
+Island Trees A 460, Mt Lakes A 150
+Mt Lakes A: Anita Shanter 1 2 1 30, Lucy Horowitz 2 0 3 15, Conrad Lewis 0 0 0 0, Ryan Shanker 0 0 1 -5
+Island Trees A: David Wendt 4 7 0 130, Thomas Zamvoz 0 2 0 20, Marcos Llorente 0 0 0 0, Joshua Kim 0 0 0 0
+Bonuses: Mt Lakes A 5 110 22.00, Island Trees A 13 310 23.85
+
+Hunter B 420, N Babylon C 40
+Hunter B: Asher Jaffe 1 5 2 55, Jacob Harin-Bernhardt 1 2 0 35, Rachel Yang 2 3 0 60
+N Babylon C: Spiros Manolas 0 2 0 20, Ian Battaglia 0 0 0 0, Ryan Elwood 0 0 0 0, Eren Gokturk 0 0 0 0
+Bonuses: Hunter B 14 270 19.29, N Babylon C 2 20 10.00
+
+St. Joseph A 170, Kings Pk B 90
+St. Joseph A: Liam Cotter 1 1 1 20, Matthew Furnell 0 4 0 40, Giovanni Young 0 1 0 10, John Gorman 0 2 0 20
+Kings Pk B: Nadia Prasad 0 0 0 0, Alexa Grimley 0 0 0 0, Zach Kant 1 2 0 35, Weslyn Cai 0 2 1 15
+Bonuses: St. Joseph A 9 80 8.89, Kings Pk B 5 40 8.00
+
+VSS 210, Pt. Jefferson B 140
+VSS: Joshua Paley 0 2 1 15, Sameer Singh 0 3 0 30, Connor Menzies 0 0 0 0, Syed Ali 0 3 1 25, Joshua Ramkissoon 0 0 0 0
+Pt. Jefferson B: Pina Than 0 3 0 30, Gil Zaltsman 0 3 0 30, Sinan Ates 0 0 0 0
+Bonuses: VSS 8 140 17.50, Pt. Jefferson B 6 80 13.33
+
+Wilton 390, Kellenberg C 60
+Kellenberg C: Ciara Atkins 1 2 0 35, Simeon Belgrave 0 0 1 -5, Anthony Vazquez 0 0 0 0
+Wilton: Alexander Koutsoukos 5 5 0 125, Lukas Koutsoukos 1 2 0 35
+Bonuses: Kellenberg C 3 30 10.00, Wilton 13 230 17.69
+
+High Tech B 430, Kings Pk A 55
+Kings Pk A: Eric Milchko 1 2 0 35, Sanjay Verma 0 0 0 0, Charles Speciale 0 0 0 0
+High Tech B: Adrian Thamburaj 1 6 1 70, Frank Grabowski 0 2 0 20, Alex Wu 0 4 0 40, Max Brodsky 1 1 0 25, Robert Kang 0 0 0 0
+Bonuses: Kings Pk A 3 20 6.67, High Tech B 15 275 18.33
+
+N Babylon A 70, Card Spellman B 45
+Card Spellman B: Madison Lewis 0 2 1 15, Chaise Artemis 0 0 0 0, Sade Henriquez 0 0 0 0, Melissa Hewitt 0 0 0 0, Chibugo Okeke 0 0 0 0, Ray Vaughn Brown 0 2 0 20
+N Babylon A: Elpida Manolas 0 5 2 40, Sam Keller 0 0 2 -10, Lakeyah Jackson 0 0 0 0, Ellie Ganser 0 1 0 10
+Bonuses: Card Spellman B 4 10 2.50, N Babylon A 6 30 5.00
+
+Team No Powers 500, Pt Jefferson A 90
+Pt Jefferson A: Cameron Cohen 2 1 2 30, Reid Biondo 0 1 0 10, Kyle Ongmai 0 0 0 0
+Team No Powers: Dean Ah Now 5 1 0 85, John Sanchez 0 2 1 15, Ariel Stein 3 2 1 60, Ethan Zhang 1 0 1 10
+Bonuses: Pt Jefferson A 4 50 12.50, Team No Powers 14 330 23.57
+
+West Egg B 300, Tenafly A 270
+West Egg B: Patrick Duan 1 1 0 25, Brandon Huang 0 3 1 25, Kathryn Lee 0 4 0 40, Samuel Katzman 1 0 1 10
+Tenafly A: Andrew Han 1 3 1 40, Jerry Feng 1 0 1 10, Alex Slusarev 1 0 0 15, Juno Lee 0 2 3 5
+Bonuses: West Egg B 10 200 20.00, Tenafly A 8 200 25.00
+
+Mather 300, Clarke 245
+Mather: John Phipps 2 4 0 70, Alex Delvecchio 0 2 0 20, Evan O'Rourke 2 0 0 30
+Clarke: Ankit Sayed 1 5 1 60, Arjun Panickssery 0 2 1 15, Joel Matthew 0 1 0 10, Shyan Huda 0 0 0 0
+Bonuses: Mather 10 180 18.00, Clarke 9 160 17.78
+
+Stuyvesant 270, Tenafly B 235
+Stuyvesant: Benjamin Avrahami 0 2 1 15, Benjamin Gallai 1 1 0 25, Nten Nyiam 1 0 0 15, Kenny Tang 1 3 0 45
+Tenafly B: Anusha De 0 3 0 30, Lukas Spitz Chapman 3 4 0 85, Hank Jennings 0 0 0 0, Aaron Gordon 0 0 0 0
+Bonuses: Stuyvesant 9 170 18.89, Tenafly B 10 120 12.00
+
+Kings Pk A 285, Kellenberg C 170
+Kellenberg C: Ciara Atkins 1 1 0 25, Simeon Belgrave 0 4 0 40, Anthony Vazquez 1 1 0 25
+Kings Pk A: Eric Milchko 3 6 1 100, Sanjay Verma 0 1 0 10, Charles Speciale 0 1 1 5
+Bonuses: Kellenberg C 8 80 10.00, Kings Pk A 11 170 15.45
+
+Mt Lakes A 460, West Egg C 10
+Mt Lakes A: Anita Shanter 1 5 0 65, Lucy Horowitz 2 5 0 80, Conrad Lewis 0 1 2 0, Ryan Shanker 1 1 0 25
+West Egg C: Lana Zhang 0 1 0 10, Jack Lenge 0 0 0 0, Allen Lu 0 0 0 0
+Bonuses: Mt Lakes A 16 290 18.12, West Egg C 1 0 0.00
+
+Island Trees B 130, N Babylon C 20
+Island Trees B: Ethan Garcia 0 5 0 50, Santiago Araryo 0 1 2 0, Dimitris Koliatsis 0 3 0 30
+N Babylon C: Spiros Manolas 0 2 0 20, Ian Battaglia 0 0 0 0, Ryan Elwood 0 0 0 0, Eren Gokturk 0 0 0 0
+Bonuses: Island Trees B 9 50 5.56, N Babylon C 2 0 0.00
+
+Hunter B 425, Kings Pk B 80
+Hunter B: Asher Jaffe 2 1 1 35, Jacob Harin-Bernhardt 2 4 0 70, Rachel Yang 2 1 0 40
+Kings Pk B: Nadia Prasad 1 0 0 15, Alexa Grimley 1 0 0 15, Zach Kant 1 1 3 10, Weslyn Cai 0 0 0 0
+Bonuses: Hunter B 12 280 23.33, Kings Pk B 4 40 10.00
+
+High Tech A 580, St. Joseph B 80
+High Tech A: Michael Li 2 5 0 80, Darren Petrosino 0 2 1 15, Cole Snedeker 2 0 0 30, Deepak Gopalakrishnan 2 3 1 55
+St. Joseph B: Christian Vazauer 1 2 0 35, Francisco Vazauer 1 0 0 15, Joshua Joo 0 0 0 0, Matthew San Miguel 0 0 0 0
+Bonuses: High Tech A 16 400 25.00, St. Joseph B 4 30 7.50
+
+Island Trees A 390, Card Spellman A 45
+Island Trees A: David Wendt 2 1 2 30, Thomas Zamvoz 1 6 2 65, Marcos Llorente 0 2 0 20, Sheryl Lin 1 0 0 15
+Card Spellman A: Ciera Smith 0 0 0 0, Stephanie Brown 0 0 0 0, Daniel Roman 1 0 1 10, Michelle Hollad 1 0 0 15, Emma McCarthy 0 0 0 0
+Bonuses: Island Trees A 13 260 20.00, Card Spellman A 2 20 10.00
+
+West Egg A 520, St. Joseph A 120
+West Egg A: Noah Sheidlower 3 2 0 65, Anderson Gu 0 2 1 15, Ethan Vainrib 2 1 0 40, Daniel Lu 2 2 0 50
+St. Joseph A: Liam Cotter 1 0 1 10, Matthew Furnell 0 3 0 30, Giovanni Young 0 1 0 10, John Gorman 0 0 0 0
+Bonuses: West Egg A 14 350 25.00, St. Joseph A 5 70 14.00
+
+Seton Hall 300, Mt. Lakes B 200
+Seton Hall: Edwin Mensah-Boateng 0 0 0 0, Aaron Fleischer 0 0 0 0, John Prout 1 0 0 15, Nick Rauschenberger 3 6 2 95, Bryan Fok 0 0 0 0
+Mt. Lakes B: Jake Barnett (Daniel) 1 3 0 45, Maimoonah Shafqat 1 2 0 35, Kanay Shah 1 1 0 25, Max Lin 0 0 0 0, Kaylee Smith 0 0 1 -5
+Bonuses: Seton Hall 10 190 19.00, Mt. Lakes B 9 100 11.11
+
+Hunter D 100, N Babylon B 45
+N Babylon B: Thomas Bruggemann 0 0 0 0, Gabby Jean Baptiste 0 0 0 0, Antonios Manolas 1 1 0 25, Nicholas Sullivan 0 1 0 10
+Hunter D: Christopher Kim 1 1 0 25, Eric Cao 0 4 3 25, Maggie Kwan 0 0 0 0, Maxwell Huang 0 1 2 0
+Bonuses: N Babylon B 3 10 3.33, Hunter D 7 50 7.14
+
+High Tech B 370, Hunter C 125
+High Tech B: Adrian Thamburaj 2 2 2 40, Frank Grabowski 3 4 2 75, Alex Wu 0 1 1 5, Max Brodsky 0 0 1 -5, Robert Kang 1 0 0 15
+Hunter C: Ella Leeds 0 0 0 0, Aruna Das 0 2 0 20, Philip Belin 1 2 0 35
+Bonuses: High Tech B 13 240 18.46, Hunter C 5 70 14.00
+
+Hunter A 590, Pt. Jefferson B 75
+Pt. Jefferson B: Pina Than 0 2 0 20, Gil Zaltsman 0 0 0 0, Sinan Ates 0 1 1 5
+Hunter A: Daniel Ma 4 3 0 90, Benjamin Chapman 3 0 1 40, Cerulean Ozarow 2 2 1 45, Pedro Juan Orduz 2 0 1 25
+Bonuses: Pt. Jefferson B 3 50 16.67, Hunter A 16 390 24.38
+
+Hunter B 280, Wilton 220
+Wilton: Alexander Koutsoukos 3 4 1 80, Lukas Koutsoukos 0 0 0 0
+Hunter B: Asher Jaffe 3 4 0 85, Jacob Harin-Bernhardt 0 1 0 10, Rachel Yang 3 0 1 40
+Bonuses: Wilton 7 140 20.00, Hunter B 11 145 13.18
+
+Hunter A 475, Mather 175
+Mather: John Phipps 1 2 0 35, Alex Delvecchio 3 0 1 40, Evan O'Rourke 0 0 0 0
+Hunter A: Daniel Ma 6 2 1 105, Benjamin Chapman 1 0 2 5, Cerulean Ozarow 3 1 0 55, Pedro Juan Orduz 0 0 0 0
+Bonuses: Mather 6 100 16.67, Hunter A 13 310 23.85
+
+N Babylon C 90, N Babylon B 70
+N Babylon C: Spiros Manolas 1 3 1 40, Ian Battaglia 0 0 0 0, Ryan Elwood 0 0 0 0, Eren Gokturk 0 0 0 0
+N Babylon B: Thomas Bruggemann 0 1 0 10, Gabby Jean Baptiste 1 1 0 25, Antonios Manolas 0 1 0 10, Nicholas Sullivan 0 0 0 0
+Bonuses: N Babylon C 4 50 12.50, N Babylon B 4 25 6.25
+
+High Tech A 490, Stuyvesant 110
+Stuyvesant: Benjamin Avrahami 0 2 0 20, Benjamin Gallai 0 1 0 10, Nten Nyiam 0 1 1 5, Kenny Tang 1 0 1 10
+High Tech A: Michael Li 1 1 1 20, Darren Petrosino 3 3 1 70, Cole Snedeker 2 0 1 25, Deepak Gopalakrishnan 2 2 1 45
+Bonuses: Stuyvesant 5 65 13.00, High Tech A 14 330 23.57
+
+Pt. Jefferson B 105, Card Spellman A 75
+Card Spellman A: Ciera Smith 1 0 0 15, Stephanie Brown 0 0 0 0, Daniel Roman 0 0 0 0, Michelle Hollad 0 3 1 25, Emma McCarthy 0 1 1 5
+Pt. Jefferson B: Pina Than 0 2 0 20, Gil Zaltsman 0 3 1 25, Sinan Ates 0 0 2 -10
+Bonuses: Card Spellman A 5 30 6.00, Pt. Jefferson B 5 70 14.00
+
+West Egg A 380, High Tech B 180
+West Egg A: Noah Sheidlower 3 2 1 60, Anderson Gu 4 4 1 95, Ethan Vainrib 0 0 1 -5, Daniel Lu 0 0 0 0
+High Tech B: Adrian Thamburaj 1 2 2 25, Frank Grabowski 1 1 0 25, Alex Wu 0 1 0 10, Max Brodsky 0 0 0 0, Robert Kang 0 0 0 0
+Bonuses: West Egg A 13 230 17.69, High Tech B 6 120 20.00
+
+Team No Powers 555, West Egg B 95
+West Egg B: Patrick Duan 2 0 0 30, Brandon Huang 0 0 1 -5, Kathryn Lee 1 0 0 15, Samuel Katzman 0 0 1 -5
+Team No Powers: Dean Ah Now 7 5 0 155, John Sanchez 1 3 0 45, Ariel Stein 0 0 1 -5, Brian Zhang 0 0 0 0
+Bonuses: West Egg B 3 60 20.00, Team No Powers 16 360 22.50
+
+Mt Lakes A 320, Mt. Lakes B 115
+Mt Lakes A: Anita Shanter 1 4 0 55, Lucy Horowitz 0 2 0 20, Conrad Lewis 0 3 2 20, Ryan Shanker 1 0 0 15
+Mt. Lakes B: Jake Barnett (Daniel) 1 2 1 30, Maimoonah Shafqat 0 0 0 0, Kanay Shah 2 0 3 15, Max Lin 0 1 0 10
+Bonuses: Mt Lakes A 11 210 19.09, Mt. Lakes B 6 60 10.00
+
+St. Joseph A 170, Hunter C 155
+Hunter C: Ella Leeds 1 2 2 25, Aruna Das 1 0 2 5, Philip Belin 1 2 0 35
+St. Joseph A: Liam Cotter 1 1 0 25, Matthew Furnell 1 2 0 35, Giovanni Young 0 3 0 30, John Gorman 0 0 0 0
+Bonuses: Hunter C 7 90 12.86, St. Joseph A 8 80 10.00
+
+Island Trees A 345, Seton Hall 295
+Seton Hall: Edwin Mensah-Boateng 1 0 0 15, Aaron Fleischer 0 0 0 0, John Prout 0 0 0 0, Nick Rauschenberger 3 4 1 80, Bryan Fok 0 1 0 10
+Island Trees A: David Wendt 2 3 2 50, Thomas Zamvoz 1 1 0 25, Marcos Llorente 2 1 0 40, Joshua Kim 0 0 0 0, Sheryl Lin 0 0 0 0
+Bonuses: Seton Hall 9 190 21.11, Island Trees A 10 230 23.00
+
+Tenafly A 425, Tenafly B 40
+Tenafly B: Anusha De 0 0 1 -5, Lukas Spitz Chapman 1 2 2 25, Hank Jennings 0 0 0 0, Aaron Gordon 0 0 0 0
+Tenafly A: Andrew Han 2 2 0 50, Jerry Feng 1 2 0 35, Alex Slusarev 0 3 2 20, Juno Lee 0 4 0 40
+Bonuses: Tenafly B 3 20 6.67, Tenafly A 14 280 20.00
+
+Pt Jefferson A 135, N Babylon A 110
+N Babylon A: Elpida Manolas 1 1 0 25, Sam Keller 1 0 0 15, Lakeyah Jackson 0 0 0 0, Ellie Ganser 0 0 0 0, Molly Battaglia 0 0 0 0
+Pt Jefferson A: Cameron Cohen 0 3 0 30, Reid Biondo 0 3 0 30, Kyle Ongmai 1 0 1 10
+Bonuses: N Babylon A 3 70 23.33, Pt Jefferson A 7 65 9.29
+
+Kellenberg C 205, Hunter D 85
+Kellenberg C: Ciara Atkins 1 4 3 40, Simeon Belgrave 1 3 0 45, Anthony Vazquez 0 0 0 0
+Hunter D: Christopher Kim 0 0 0 0, Eric Cao 1 2 1 30, Maggie Kwan 0 1 0 10, Maxwell Huang 0 0 1 -5
+Bonuses: Kellenberg C 9 120 13.33, Hunter D 4 50 12.50
+
+VSS 220, Kings Pk A 150
+VSS: Joshua Paley 0 1 0 10, Sameer Singh 1 6 0 75, Connor Menzies 0 0 0 0, Syed Ali 0 1 0 10, Joshua Ramkissoon 0 0 1 -5
+Kings Pk A: Eric Milchko 0 0 0 0, Sanjay Verma 0 0 2 -10, Charles Speciale 6 1 2 90
+Bonuses: VSS 9 130 14.44, Kings Pk A 7 70 10.00
+
+Island Trees B 70, West Egg C 55
+Island Trees B: Ethan Garcia 0 3 0 30, Santiago Araryo 0 1 0 10
+West Egg C: Lana Zhang 1 0 0 15, Jack Lenge 0 3 2 20, Allen Lu 0 0 0 0
+Bonuses: Island Trees B 4 30 7.50, West Egg C 4 20 5.00
+
+Island Trees A 320, Stuyvesant 285
+Stuyvesant: Benjamin Avrahami 1 2 1 30, Benjamin Gallai 0 1 0 10, Nten Nyiam 0 1 0 10, Kenny Tang 1 3 0 45
+Island Trees A: David Wendt 1 5 1 60, Thomas Zamvoz 1 3 0 45, Marcos Llorente 0 0 0 0, Joshua Kim 0 0 0 0
+Bonuses: Stuyvesant 9 190 21.11, Island Trees A 10 215 21.50
+
+Hunter B 380, Seton Hall 200
+Hunter B: Asher Jaffe 1 5 0 65, Jacob Harin-Bernhardt 3 2 1 60, Rachel Yang 1 1 0 25
+Seton Hall: Edwin Mensah-Boateng 0 0 0 0, John Prout 0 1 0 10, Nick Rauschenberger 3 2 2 55, Bryan Fok 1 0 0 15
+Bonuses: Hunter B 13 230 17.69, Seton Hall 7 120 17.14
+
+Hunter A 435, West Egg A 155
+West Egg A: Noah Sheidlower 1 1 0 25, Anderson Gu 1 1 0 25, Ethan Vainrib 1 0 1 10, Daniel Lu 1 0 0 15
+Hunter A: Daniel Ma 2 3 0 60, Benjamin Chapman 1 1 0 25, Cerulean Ozarow 2 1 0 40, Pedro Juan Orduz 3 0 0 45
+Bonuses: West Egg A 6 80 13.33, Hunter A 13 265 20.38
+
+High Tech B 350, West Egg B 225
+West Egg B: Patrick Duan 0 2 1 15, Brandon Huang 2 3 2 50, Kathryn Lee 0 1 0 10, Samuel Katzman 0 0 0 0
+High Tech B: Adrian Thamburaj 1 3 0 45, Frank Grabowski 1 5 1 60, Alex Wu 1 0 0 15, Max Brodsky 0 0 0 0, Robert Kang 0 0 0 0
+Bonuses: West Egg B 8 150 18.75, High Tech B 11 230 20.91
+
+Mather 365, Team No Powers 270
+Team No Powers: Dean Ah Now 4 0 0 60, John Sanchez 0 0 2 -10, Ariel Stein 0 3 0 30, Ethan Zhang 0 1 0 10
+Mather: John Phipps 2 0 0 30, Alex Delvecchio 3 3 0 75, Evan O'Rourke 3 1 1 50
+Bonuses: Team No Powers 8 180 22.50, Mather 12 210 17.50
+
+Tenafly A 280, Hunter C 265
+Hunter C: Ella Leeds 2 1 1 35, Aruna Das 0 2 1 15, Philip Belin 0 6 1 55
+Tenafly A: Andrew Han 1 2 1 30, Jerry Feng 0 1 0 10, Juno Lee 0 5 0 50
+Bonuses: Hunter C 11 160 14.55, Tenafly A 9 190 21.11
+
+Mt. Lakes B 235, Tenafly B 180
+Tenafly B: Anusha De 0 1 1 5, Lukas Spitz Chapman 1 3 2 35, Hank Jennings 0 1 0 10, Aaron Gordon 0 0 0 0
+Mt. Lakes B: Jake Barnett (Daniel) 2 6 1 85, Kanay Shah 0 2 0 20, Max Lin 0 1 0 10, Kaylee Smith 0 0 0 0
+Bonuses: Tenafly B 6 130 21.67, Mt. Lakes B 11 120 10.91
+
+High Tech A 375, Wilton 250
+Wilton: Alexander Koutsoukos 4 5 0 110, Lukas Koutsoukos 0 0 0 0
+High Tech A: Michael Li 0 0 0 0, Darren Petrosino 1 3 0 45, Cole Snedeker 0 0 2 -10, Deepak Gopalakrishnan 4 3 2 80
+Bonuses: Wilton 9 140 15.56, High Tech A 11 260 23.64
+
+Mt Lakes A 310, St. Joseph A 165
+Mt Lakes A: Anita Shanter 2 1 1 35, Lucy Horowitz 1 2 1 30, Conrad Lewis 2 1 1 35, Ryan Shanker 0 1 0 10
+St. Joseph A: Liam Cotter 0 3 0 30, Matthew Furnell 0 3 0 30, Giovanni Young 0 0 0 0, John Gorman 0 0 0 0
+Bonuses: Mt Lakes A 10 200 20.00, St. Joseph A 6 105 17.50
+
+VSS 195, Kings Pk B 165
+VSS: Joshua Paley 0 1 0 10, Sameer Singh 0 3 2 20, Connor Menzies 0 1 0 10, Syed Ali 0 0 0 0, Joshua Ramkissoon 1 1 3 10
+Kings Pk B: Nadia Prasad 0 0 0 0, Alexa Grimley 0 3 0 30, Zach Kant 0 0 1 -5, Weslyn Cai 1 4 0 55
+Bonuses: VSS 7 145 20.71, Kings Pk B 8 85 10.62
+
+Kellenberg C 285, Island Trees B 110
+Kellenberg C: Ciara Atkins 0 6 0 60, Simeon Belgrave 0 2 1 15, Anthony Vazquez 0 4 0 40
+Island Trees B: Ethan Garcia 0 4 0 40, Santiago Araryo 0 1 0 10
+Bonuses: Kellenberg C 12 170 14.17, Island Trees B 5 60 12.00
+
+Card Spellman B 140, N Babylon B 95
+Card Spellman B: Madison Lewis 0 2 0 20, Melissa Hewitt 0 3 0 30, Chibugo Okeke 0 2 0 20, Ray Vaughn Brown 0 2 0 20
+N Babylon B: Thomas Bruggemann 0 4 0 40, Gabby Jean Baptiste 0 0 1 -5, Antonios Manolas 0 2 0 20, Nicholas Sullivan 0 1 0 10
+Bonuses: Card Spellman B 9 50 5.56, N Babylon B 7 30 4.29
+
+Hunter D 180, St. Joseph B 160
+Hunter D: Christopher Kim 0 0 0 0, Eric Cao 0 4 0 40, Maggie Kwan 0 5 0 50, Maxwell Huang 0 1 0 10
+St. Joseph B: Christian Vazauer 0 2 0 20, Francisco Vazauer 1 0 1 10, Joshua Joo 1 2 0 35, Matthew San Miguel 1 0 0 15
+Bonuses: Hunter D 10 80 8.00, St. Joseph B 7 80 11.43
+
+Kings Pk A 305, N Babylon A 155
+N Babylon A: Elpida Manolas 0 3 0 30, Sam Keller 2 0 2 20, Lakeyah Jackson 0 2 0 20, Ellie Ganser 0 1 1 5
+Kings Pk A: Eric Milchko 1 6 1 70, Sanjay Verma 0 0 2 -10, Charles Speciale 3 2 0 65
+Bonuses: N Babylon A 8 80 10.00, Kings Pk A 12 180 15.00
+
+Card Spellman A 135, N Babylon C 90
+Card Spellman A: Ciera Smith 0 1 0 10, Stephanie Brown 0 1 0 10, Daniel Roman 0 3 1 25, Michelle Hollad 0 0 0 0, Emma McCarthy 0 1 0 10
+N Babylon C: Spiros Manolas 2 6 2 80, Ian Battaglia 0 0 0 0, Ryan Elwood 0 0 0 0, Eren Gokturk 0 0 0 0
+Bonuses: Card Spellman A 6 80 13.33, N Babylon C 8 10 1.25
+
+West Egg A 460, Mather 190
+West Egg A: Noah Sheidlower 4 2 0 80, Anderson Gu 1 3 0 45, Ethan Vainrib 2 1 0 40, Daniel Lu 1 0 0 15
+Mather: John Phipps 1 1 0 25, Alex Delvecchio 1 1 0 25, Evan O'Rourke 0 2 0 20
+Bonuses: West Egg A 14 280 20.00, Mather 6 120 20.00
+
+Wilton 365, Stuyvesant 180
+Wilton: Alexander Koutsoukos 4 4 1 95, Lukas Koutsoukos 0 3 0 30
+Stuyvesant: Benjamin Avrahami 1 0 0 15, Benjamin Gallai 1 1 0 25, Nten Nyiam 0 4 1 35, Kenny Tang 0 0 1 -5
+Bonuses: Wilton 11 240 21.82, Stuyvesant 7 110 15.71
+
+St. Joseph A 210, Mt. Lakes B 105
+Mt. Lakes B: Maimoonah Shafqat 0 2 0 20, Kanay Shah 0 2 1 15, Max Lin 0 0 0 0, Kaylee Smith 0 1 1 5
+St. Joseph A: Liam Cotter 0 6 0 60, Matthew Furnell 0 3 1 25, Giovanni Young 0 2 0 20, John Gorman 0 0 1 -5
+Bonuses: Mt. Lakes B 5 65 13.00, St. Joseph A 11 110 10.00
+
+Hunter C 245, Tenafly B 240
+Hunter C: Ella Leeds 0 0 0 0, Aruna Das 1 2 0 35, Philip Belin 1 5 1 60
+Tenafly B: Anusha De 1 1 0 25, Lukas Spitz Chapman 1 6 2 65, Hank Jennings 0 0 0 0
+Bonuses: Hunter C 9 150 16.67, Tenafly B 9 150 16.67
+
+Pt. Jefferson B 185, N Babylon C 60
+N Babylon C: Spiros Manolas 0 4 0 40, Ian Battaglia 0 1 0 10, Ryan Elwood 0 0 0 0, Eren Gokturk 0 0 0 0
+Pt. Jefferson B: Pina Than 0 2 0 20, Gil Zaltsman 0 3 1 25, Sinan Ates 0 4 0 40
+Bonuses: N Babylon C 5 10 2.00, Pt. Jefferson B 9 100 11.11
+
+St. Joseph B 145, Island Trees B 125
+St. Joseph B: Christian Vazauer 0 0 0 0, Francisco Vazauer 1 2 1 30, Joshua Joo 0 4 0 40, Matthew San Miguel 0 2 0 20
+Island Trees B: Ethan Garcia 0 5 0 50, Santiago Araryo 0 1 1 5
+Bonuses: St. Joseph B 9 55 6.11, Island Trees B 6 70 11.67
+
+Card Spellman A 145, Card Spellman B 90
+Card Spellman B: Madison Lewis 0 1 1 5, Chaise Artemis 0 0 0 0, Sade Henriquez 0 2 0 20, Melissa Hewitt 0 0 0 0, Ray Vaughn Brown 0 2 1 15
+Card Spellman A: Ciera Smith 0 0 0 0, Stephanie Brown 0 0 0 0, Daniel Roman 1 5 0 65, Michelle Hollad 0 1 0 10, Emma McCarthy 0 1 0 10
+Bonuses: Card Spellman B 5 50 10.00, Card Spellman A 8 60 7.50
+
+Kellenberg C 170, West Egg C 90
+Kellenberg C: Ciara Atkins 0 6 0 60, Simeon Belgrave 0 2 1 15, Anthony Vazquez 0 0 1 -5
+West Egg C: Lana Zhang 0 1 0 10, Jack Lenge 0 5 0 50, Allen Lu 0 0 1 -5
+Bonuses: Kellenberg C 8 100 12.50, West Egg C 6 35 5.83
+
+Kings Pk B 130, N Babylon A 120
+Kings Pk B: Nadia Prasad 0 3 0 30, Alexa Grimley 0 0 0 0, Zach Kant 0 3 1 25, Weslyn Cai 0 1 1 5
+N Babylon A: Elpida Manolas 1 3 1 40, Sam Keller 0 3 0 30, Lakeyah Jackson 0 0 0 0, Ellie Ganser 0 0 0 0, Molly Battaglia 0 0 0 0
+Bonuses: Kings Pk B 7 70 10.00, N Babylon A 7 50 7.14
+
+Team No Powers 555, High Tech B 100
+Team No Powers: Dean Ah Now 5 3 0 105, John Sanchez 3 2 1 60, Brian Zhang 0 0 0 0, Ethan Zhang 0 1 0 10
+High Tech B: Frank Grabowski 0 3 0 30, Alex Wu 0 2 0 20, Max Brodsky 0 0 0 0, Robert Kang 0 0 0 0
+Bonuses: Team No Powers 14 380 27.14, High Tech B 5 50 10.00
+
+Mt Lakes A 320, Tenafly A 300
+Tenafly A: Andrew Han 0 2 2 10, Jerry Feng 0 0 0 0, Juno Lee 4 4 0 100
+Mt Lakes A: Anita Shanter 3 3 1 70, Lucy Horowitz 2 1 0 40, Conrad Lewis 0 0 2 -10, Ryan Shanker 0 0 0 0
+Bonuses: Tenafly A 10 190 19.00, Mt Lakes A 9 220 24.44
+
+Hunter B 295, Island Trees A 290
+Hunter B: Asher Jaffe 3 6 2 95, Jacob Harin-Bernhardt 0 1 0 10, Rachel Yang 0 0 0 0
+Island Trees A: David Wendt 4 2 0 80, Thomas Zamvoz 1 2 1 30, Marcos Llorente 0 0 0 0, Sheryl Lin 0 0 0 0
+Bonuses: Hunter B 10 190 19.00, Island Trees A 9 180 20.00
+
+High Tech A 620, Seton Hall 105
+Seton Hall: Edwin Mensah-Boateng 0 1 0 10, Aaron Fleischer 0 0 0 0, Nick Rauschenberger 2 0 3 15, Bryan Fok 0 0 0 0
+High Tech A: Michael Li 2 2 1 45, Darren Petrosino 3 2 0 65, Cole Snedeker 2 0 0 30, Deepak Gopalakrishnan 5 0 1 70
+Bonuses: Seton Hall 3 80 26.67, High Tech A 16 410 25.62
+
+Hunter A 570, West Egg B 100
+West Egg B: Patrick Duan 0 2 1 15, Brandon Huang 0 1 0 10, Kathryn Lee 0 1 0 10, Samuel Katzman 1 0 0 15
+Hunter A: Daniel Ma 6 4 2 120, Benjamin Chapman 1 1 0 25, Cerulean Ozarow 0 2 2 10, Pedro Juan Orduz 1 1 0 25
+Bonuses: West Egg B 5 50 10.00, Hunter A 16 390 24.38
+
+Pt Jefferson A 285, Kings Pk A 120
+Kings Pk A: Eric Milchko 0 1 1 5, Sanjay Verma 0 0 1 -5, Charles Speciale 1 3 3 30
+Pt Jefferson A: Cameron Cohen 1 5 0 65, Reid Biondo 1 2 0 35, Kyle Ongmai 1 3 0 45
+Bonuses: Kings Pk A 5 90 18.00, Pt Jefferson A 13 140 10.77
+
+Pt Jefferson A 275, VSS -10
+VSS: Joshua Paley 0 0 1 -5, Sameer Singh 0 2 2 10, Connor Menzies 0 0 1 -5, Syed Ali 0 0 1 -5, Joshua Ramkissoon 0 0 1 -5
+Pt Jefferson A: Cameron Cohen 1 5 0 65, Reid Biondo 1 3 0 45, Kyle Ongmai 1 2 0 35
+Bonuses: VSS 2 0 0.00, Pt Jefferson A 13 130 10.00
+
+St. Joseph A 170, Tenafly B 155
+St. Joseph A: Liam Cotter 0 2 1 15, Matthew Furnell 0 3 1 25, Giovanni Young 1 1 0 25, John Gorman 0 0 1 -5
+Tenafly B: Anusha De 0 0 0 0, Lukas Spitz Chapman 0 8 1 75, Hank Jennings 0 0 0 0, Aaron Gordon 0 0 0 0
+Bonuses: St. Joseph A 7 110 15.71, Tenafly B 8 80 10.00
+
+Hunter D 115, West Egg C 35
+Hunter D: Christopher Kim 0 1 0 10, Eric Cao 0 5 0 50, Maxwell Huang 0 1 1 5
+West Egg C: Lana Zhang 0 0 0 0, Jack Lenge 1 2 0 35, Allen Lu 0 0 0 0
+Bonuses: Hunter D 7 50 7.14, West Egg C 3 0 0.00
+
+N Babylon C 105, Card Spellman B 90
+N Babylon C: Spiros Manolas 1 5 0 65, Ian Battaglia 0 1 0 10, Ryan Elwood 0 0 0 0, Eren Gokturk 0 0 0 0
+Card Spellman B: Madison Lewis 0 2 0 20, Sade Henriquez 0 0 0 0, Melissa Hewitt 0 0 0 0, Chibugo Okeke 0 0 0 0, Ray Vaughn Brown 0 3 0 30
+Bonuses: N Babylon C 7 30 4.29, Card Spellman B 5 40 8.00
+
+Hunter B 415, Stuyvesant 175
+Hunter B: Asher Jaffe 4 1 2 60, Jacob Harin-Bernhardt 0 3 1 25, Rachel Yang 0 5 0 50
+Stuyvesant: Benjamin Avrahami 0 3 0 30, Benjamin Gallai 0 0 0 0, Nten Nyiam 1 2 1 30, Kenny Tang 0 0 1 -5
+Bonuses: Hunter B 13 280 21.54, Stuyvesant 6 120 20.00
+
+Tenafly A 330, Mt. Lakes B 180
+Tenafly A: Andrew Han 2 5 0 80, Jerry Feng 1 1 0 25, Juno Lee 1 2 0 35
+Mt. Lakes B: Jake Barnett (Daniel) 3 1 0 55, Maimoonah Shafqat 0 2 0 20, Kanay Shah 1 0 0 15, Max Lin 0 0 0 0, Kaylee Smith 0 0 0 0
+Bonuses: Tenafly A 12 190 15.83, Mt. Lakes B 7 90 12.86
+
+Mather 460, West Egg B 120
+West Egg B: Patrick Duan 0 0 1 -5, Brandon Huang 2 1 0 40, Kathryn Lee 1 0 0 15, Samuel Katzman 0 1 0 10
+Mather: John Phipps 3 3 0 75, Alex Delvecchio 3 4 1 80, Evan O'Rourke 0 1 1 5
+Bonuses: West Egg B 5 60 12.00, Mather 14 300 21.43
+
+Mt Lakes A 435, Hunter C 50
+Mt Lakes A: Anita Shanter 0 2 0 20, Lucy Horowitz 0 1 1 5, Conrad Lewis 2 4 1 65, Ryan Shanker 2 2 0 50
+Hunter C: Ella Leeds 0 1 0 10, Aruna Das 0 1 0 10, Philip Belin 0 1 0 10
+Bonuses: Mt Lakes A 13 295 22.69, Hunter C 3 20 6.67
+
+Hunter A 535, High Tech B 150
+Hunter A: Daniel Ma 8 2 0 140, Benjamin Chapman 1 0 0 15, Cerulean Ozarow 1 1 0 25, Pedro Juan Orduz 1 0 0 15
+High Tech B: Adrian Thamburaj 3 1 1 50, Frank Grabowski 1 0 1 10, Alex Wu 0 0 0 0, Max Brodsky 0 0 0 0, Robert Kang 0 0 0 0
+Bonuses: Hunter A 14 340 24.29, High Tech B 5 90 18.00
+
+Wilton 365, Seton Hall 160
+Seton Hall: Edwin Mensah-Boateng 0 0 1 -5, John Prout 0 1 0 10, Nick Rauschenberger 2 4 1 65, Bryan Fok 0 0 0 0
+Wilton: Alexander Koutsoukos 5 5 0 125, Lukas Koutsoukos 0 1 0 10
+Bonuses: Seton Hall 7 90 12.86, Wilton 11 230 20.91
+
+Island Trees A 335, High Tech A 310
+High Tech A: Michael Li 0 1 1 5, Darren Petrosino 1 1 0 25, Cole Snedeker 1 2 0 35, Deepak Gopalakrishnan 1 2 3 20
+Island Trees A: David Wendt 3 5 0 95, Thomas Zamvoz 0 0 0 0, Marcos Llorente 1 0 0 15, Sheryl Lin 0 0 0 0
+Bonuses: High Tech A 9 225 25.00, Island Trees A 9 225 25.00
+
+Team No Powers 370, West Egg A 300
+Team No Powers: Dean Ah Now 3 1 0 55, John Sanchez 0 3 0 30, Ariel Stein 1 2 0 35, Brian Zhang 0 0 0 0
+West Egg A: Noah Sheidlower 3 1 0 55, Anderson Gu 2 1 0 40, Ethan Vainrib 0 1 0 10, Daniel Lu 1 0 0 15
+Bonuses: Team No Powers 10 250 25.00, West Egg A 9 180 20.00
+
+Pt. Jefferson B 185, N Babylon B 55
+N Babylon B: Thomas Bruggemann 0 0 0 0, Gabby Jean Baptiste 0 2 0 20, Antonios Manolas 0 1 1 5, Nicholas Sullivan 0 0 0 0
+Pt. Jefferson B: Pina Than 1 2 0 35, Gil Zaltsman 0 5 0 50, Sinan Ates 0 2 0 20
+Bonuses: N Babylon B 3 30 10.00, Pt. Jefferson B 10 80 8.00
+
+Kings Pk A 230, Kings Pk B 35
+Kings Pk B: Nadia Prasad 0 0 1 -5, Alexa Grimley 0 0 0 0, Zach Kant 0 3 0 30, Weslyn Cai 0 0 0 0
+Kings Pk A: Eric Milchko 0 4 0 40, Sanjay Verma 1 2 0 35, Charles Speciale 1 1 1 20
+Bonuses: Kings Pk B 3 10 3.33, Kings Pk A 9 135 15.00
+
+Kellenberg C 125, St. Joseph B 80
+Kellenberg C: Ciara Atkins 0 4 1 35, Simeon Belgrave 0 2 0 20, Anthony Vazquez 0 1 0 10
+St. Joseph B: Christian Vazauer 0 1 0 10, Francisco Vazauer 1 1 1 20, Joshua Joo 0 2 0 20, Matthew San Miguel 0 0 0 0
+Bonuses: Kellenberg C 7 60 8.57, St. Joseph B 5 30 6.00
+
+Pt Jefferson A 270, Kings Pk B 75
+Kings Pk B: Nadia Prasad 0 0 0 0, Alexa Grimley 0 0 0 0, Zach Kant 0 3 1 25, Weslyn Cai 0 1 0 10
+Pt Jefferson A: Cameron Cohen 2 4 2 60, Reid Biondo 0 2 0 20, Kyle Ongmai 0 2 0 20
+Bonuses: Kings Pk B 4 40 10.00, Pt Jefferson A 10 170 17.00
+
+Seton Hall 365, Stuyvesant 245
+Seton Hall: Edwin Mensah-Boateng 0 0 0 0, Aaron Fleischer 0 1 0 10, Nick Rauschenberger 2 9 0 120, Bryan Fok 0 0 0 0
+Stuyvesant: Benjamin Avrahami 1 3 1 40, Benjamin Gallai 0 0 0 0, Nten Nyiam 0 2 0 20, Kenny Tang 1 1 0 25
+Bonuses: Seton Hall 12 235 19.58, Stuyvesant 8 160 20.00
+
+High Tech B 380, Mather 260
+Mather: John Phipps 2 3 0 60, Alex Delvecchio 1 1 1 20, Evan O'Rourke 1 1 1 20
+High Tech B: Adrian Thamburaj 3 2 3 50, Frank Grabowski 1 1 0 25, Alex Wu 2 1 1 35, Max Brodsky 0 1 0 10
+Bonuses: Mather 9 160 17.78, High Tech B 11 260 23.64
+
+West Egg A 670, West Egg B 35
+West Egg A: Noah Sheidlower 5 5 1 120, Anderson Gu 2 1 0 40, Ethan Vainrib 1 0 0 15, Daniel Lu 1 2 0 35
+West Egg B: Patrick Duan 0 0 1 -5, Brandon Huang 0 0 3 -15, Kathryn Lee 2 0 0 30, Samuel Katzman 0 0 1 -5
+Bonuses: West Egg A 17 460 27.06, West Egg B 2 30 15.00
+
+Island Trees A 410, Wilton 230
+Island Trees A: David Wendt 6 4 0 130, Thomas Zamvoz 0 0 0 0, Marcos Llorente 1 1 0 25, Sheryl Lin 0 0 1 -5
+Wilton: Alexander Koutsoukos 4 2 0 80, Lukas Koutsoukos 0 2 0 20
+Bonuses: Island Trees A 12 260 21.67, Wilton 8 130 16.25
+
+Team No Powers 370, Hunter A 335
+Hunter A: Daniel Ma 6 2 0 110, Benjamin Chapman 0 0 1 -5, Cerulean Ozarow 0 0 1 -5, Pedro Juan Orduz 0 1 0 10
+Team No Powers: Dean Ah Now 3 1 1 50, John Sanchez 1 1 0 25, Ariel Stein 1 2 0 35, Ethan Zhang 0 1 0 10
+Bonuses: Hunter A 9 225 25.00, Team No Powers 10 250 25.00
+
+High Tech A 425, Hunter B 255
+Hunter B: Asher Jaffe 0 4 1 35, Jacob Harin-Bernhardt 0 1 0 10, Rachel Yang 2 0 0 30
+High Tech A: Michael Li 3 0 2 35, Darren Petrosino 1 4 0 55, Cole Snedeker 1 0 1 10, Deepak Gopalakrishnan 3 0 2 35
+Bonuses: Hunter B 7 180 25.71, High Tech A 12 290 24.17
+
+Hunter C 235, Mt. Lakes B 210
+Mt. Lakes B: Jake Barnett (Daniel) 1 3 1 40, Maimoonah Shafqat 0 2 0 20, Kanay Shah 0 3 0 30, Kaylee Smith 0 0 0 0
+Hunter C: Ella Leeds 0 1 0 10, Aruna Das 0 3 1 25, Philip Belin 2 1 0 40
+Bonuses: Mt. Lakes B 9 120 13.33, Hunter C 7 160 22.86
+
+Tenafly A 435, St. Joseph A 185
+Tenafly A: Andrew Han 2 3 0 60, Jerry Feng 1 2 2 25, Juno Lee 2 4 0 70
+St. Joseph A: Liam Cotter 0 2 0 20, Matthew Furnell 0 3 0 30, Giovanni Young 0 1 0 10, John Gorman 0 0 1 -5
+Bonuses: Tenafly A 14 280 20.00, St. Joseph A 6 130 21.67
+
+Mt Lakes A 285, Tenafly B 180
+Mt Lakes A: Anita Shanter 0 1 1 5, Lucy Horowitz 0 3 1 25, Conrad Lewis 1 3 0 45, Ryan Shanker 2 1 1 35
+Tenafly B: Anusha De 0 1 1 5, Lukas Spitz Chapman 3 2 2 55, Hank Jennings 0 1 0 10
+Bonuses: Mt Lakes A 11 175 15.91, Tenafly B 7 110 15.71
+
+St. Joseph B 185, West Egg C 75
+St. Joseph B: Christian Vazauer 1 3 0 45, Francisco Vazauer 0 3 0 30, Joshua Joo 0 2 0 20, Matthew San Miguel 0 0 0 0
+West Egg C: Lana Zhang 0 0 0 0, Jack Lenge 0 3 1 25, Allen Lu 0 1 0 10
+Bonuses: St. Joseph B 9 90 10.00, West Egg C 4 40 10.00
+
+Hunter D 180, Island Trees B 170
+Hunter D: Christopher Kim 0 0 0 0, Eric Cao 1 2 1 30, Maxwell Huang 0 5 0 50
+Island Trees B: Ethan Garcia 1 5 0 65, Santiago Araryo 0 2 1 15
+Bonuses: Hunter D 8 100 12.50, Island Trees B 8 90 11.25
+
+Hunter A 440, High Tech A 310
+High Tech A: Michael Li 1 0 0 15, Darren Petrosino 2 3 2 50, Cole Snedeker 0 0 0 0, Deepak Gopalakrishnan 1 2 2 25
+Hunter A: Daniel Ma 6 2 1 105, Benjamin Chapman 0 0 0 0, Cerulean Ozarow 0 0 1 -5, Pedro Juan Orduz 2 1 0 40
+Bonuses: High Tech A 9 220 24.44, Hunter A 11 300 27.27
+
+Team No Powers 570, Island Trees A 125
+Island Trees A: David Wendt 1 2 4 15, Thomas Zamvoz 1 0 1 10, Marcos Llorente 0 0 0 0, Sheryl Lin 0 0 0 0
+Team No Powers: Dean Ah Now 7 3 1 130, John Sanchez 1 3 1 40, Ariel Stein 0 1 0 10, Brian Zhang 0 2 0 20
+Bonuses: Island Trees A 4 100 25.00, Team No Powers 17 370 21.76
+
+Hunter B defeats West Egg A by forfeit
+
+Mather 330, Wilton 230
+Mather: John Phipps 4 1 0 70, Alex Delvecchio 1 2 0 35, Evan O'Rourke 0 2 1 15
+Wilton: Alexander Koutsoukos 4 4 0 100, Lukas Koutsoukos 0 0 0 0
+Bonuses: Mather 10 210 21.00, Wilton 8 130 16.25
+
+Seton Hall 335, High Tech B 185
+Seton Hall: Edwin Mensah-Boateng 1 0 0 15, John Prout 0 0 1 -5, Nick Rauschenberger 3 8 0 125, Bryan Fok 0 0 0 0
+High Tech B: Adrian Thamburaj 0 2 1 15, Frank Grabowski 0 1 1 5, Alex Wu 1 1 1 20, Max Brodsky 0 0 0 0, Robert Kang 1 0 0 15
+Bonuses: Seton Hall 12 200 16.67, High Tech B 6 130 21.67
