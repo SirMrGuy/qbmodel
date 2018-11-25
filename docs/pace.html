@@ -4,16 +4,16 @@
 	<title>Steven Liu's Quizbowl Models</title>
 	<link type="text/css" rel="stylesheet" href="styles.css">
 	<script type="text/javascript" src="sidebar.js"></script>
+	<script type="text/javascript" src="pace.js"></script>
 </head>
 <body>
 	<script>genSidebar();</script>
 	<div class="topbar">PACE NSC Forecast</div>
 	<div class="content">
-		<p style="color:red">Warning: This forecast is highly experimental and very much in an alpha state. I wouldn't take the exact numbers here too seriously.</p>
-		<p style="font-size:16pt"><b>Topline: Thomas Jefferson A has a 33.4% chance of winning the 2019 PACE NSC.</b></p>
-		<p>Full forecast:</p>
-		<table border="1">
+		<p>Summary:</p>
+		<table id="paceTable" border="1">
 			<col width="200">
+			<col width="80">
 			<col width="80">
 			<col width="80">
 			<col width="80">
@@ -21,183 +21,13 @@
 			<tr>
 				<th>Team</th>
 				<th>Avg. Rank</th>
+				<th>Top 24</th>
 				<th>Top 16</th>
 				<th>Top 8</th>
 				<th>Champ</th>
 			</tr>
-			<tr>
-				<td>Thomas Jefferson A</td>
-				<td>3.55</td>
-				<td>98.0%</td>
-				<td>86.5%</td>
-				<td>33.4%</td>
-			</tr>
-			<tr>
-				<td>Hunter A</td>
-				<td>4.40</td>
-				<td>96.7%</td>
-				<td>81.9%</td>
-				<td>22.5%</td>
-			</tr>
-			<tr>
-				<td>DCC A</td>
-				<td>4.93</td>
-				<td>95.8%</td>
-				<td>78.6%</td>
-				<td>18.0%</td>
-			</tr>
-			<tr>
-				<td>James E. Taylor A</td>
-				<td>5.98</td>
-				<td>93.6%</td>
-				<td>71.7%</td>
-				<td>11.8%</td>
-			</tr>
-			<tr>
-				<td>Canyon Crest "B"</td>
-				<td>8.72</td>
-				<td>86.1%</td>
-				<td>53.6%</td>
-				<td>4.1%</td>
-			</tr>
-			<tr>
-				<td>Uni Lab A</td>
-				<td>10.19</td>
-				<td>81.2%</td>
-				<td>44.6%</td>
-				<td>2.3%</td>
-			</tr>
-			<tr>
-				<td>Wayzata A</td>
-				<td>10.40</td>
-				<td>80.6%</td>
-				<td>43.1%</td>
-				<td>2.1%</td>
-			</tr>
-			<tr>
-				<td>Miami Valley A</td>
-				<td>11.10</td>
-				<td>77.9%</td>
-				<td>38.1%</td>
-				<td>1.6%</td>
-			</tr>
-			<tr>
-				<td>Ladue A</td>
-				<td>13.19</td>
-				<td>68.8%</td>
-				<td>27.3%</td>
-				<td>0.7%</td>
-			</tr>
-			<tr>
-				<td>High Tech A</td>
-				<td>13.98</td>
-				<td>64.9%</td>
-				<td>24.7%</td>
-				<td>0.5%</td>
-			</tr>
-			<tr>
-				<td>Beavercreek A</td>
-				<td>14.03</td>
-				<td>64.3%</td>
-				<td>24.7%</td>
-				<td>0.4%</td>
-			</tr>
-			<tr>
-				<td>Carnegie Vanguard A</td>
-				<td>14.16</td>
-				<td>63.6%</td>
-				<td>24.1%</td>
-				<td>0.4%</td>
-			</tr>
-			<tr>
-				<td>Lexington A</td>
-				<td>14.63</td>
-				<td>61.2%</td>
-				<td>22.3%</td>
-				<td>0.3%</td>
-			</tr>
-			<tr>
-				<td>Chattahoochee A</td>
-				<td>14.63</td>
-				<td>61.3%</td>
-				<td>22.4%</td>
-				<td>0.3%</td>
-			</tr>
-			<tr>
-				<td>Montgomery Blair A</td>
-				<td>14.77</td>
-				<td>60.9%</td>
-				<td>21.6%</td>
-				<td>0.3%</td>
-			</tr>
-			<tr>
-				<td>LASA A</td>
-				<td>15.06</td>
-				<td>59.3%</td>
-				<td>19.8%</td>
-				<td>0.3%</td>
-			</tr>
-			<tr>
-				<td>Stevenson A</td>
-				<td>15.25</td>
-				<td>58.3%</td>
-				<td>19.2%</td>
-				<td>0.3%</td>
-			</tr>
-			<tr>
-				<td>Ithaca A</td>
-				<td>15.83</td>
-				<td>55.3%</td>
-				<td>17.9%</td>
-				<td>0.2%</td>
-			</tr>
-			<tr>
-				<td>Stanford Online A</td>
-				<td>15.87</td>
-				<td>54.8%</td>
-				<td>18.0%</td>
-				<td>0.2%</td>
-			</tr>
-			<tr>
-				<td>St. Johns A</td>
-				<td>16.41</td>
-				<td>51.6%</td>
-				<td>16.2%</td>
-				<td>0.1%</td>
-			</tr>
-			<tr>
-				<td>Strake Jesuit A</td>
-				<td>17.83</td>
-				<td>43.9%</td>
-				<td>12.2%</td>
-				<td>0.1%</td>
-			</tr>
-			<tr>
-				<td>IMSA A</td>
-				<td>18.06</td>
-				<td>42.7%</td>
-				<td>11.6%</td>
-				<td>0.1%</td>
-			</tr>
-			<tr>
-				<td>Auburn A</td>
-				<td>18.30</td>
-				<td>41.6%</td>
-				<td>10.9%</td>
-				<td>0.0%</td>
-			</tr>
-			<tr>
-				<td>Montgomery Blair B</td>
-				<td>18.96</td>
-				<td>37.8%</td>
-				<td>9.0%</td>
-				<td>0.0%</td>
-			</tr>
 		</table>
-		<p>Commentary:</p>
-		<p>TJ's chances are probably slightly underrated here, if I had to guess. Currently, my code does not simulate finals; rather, it simply takes the best team after the Top 8 round robin as the champion. I expect that this makes upsets more likely than in reality, because at the real competition, if TJ finishes second in the round robin, they have an opportunity to come back in a disadvantaged final.</p>
-		<p>Canyon Crest is also lower than they probably should be, but that's a product of their Groger Score being underrated due to a split roster at their best tournament thus far, Triton Fall. It's likely they'll get double-digit chances of being champions once they play with a full roster.</p>
-		<p>This forecast is probably too bullish on many of the lower teams' chances, since they first have to contend with prelims, and there's no guarantee that they'll avoid upsets which send them into Tier II. Once we have a better idea of which teams are going to PACE, I'll run simulations of the prelims as well, but right now it makes little sense to do this as it's likely many of the top 96 teams won't end up going.</p>
 	</div>
+	<script>fillTable();</script>
 </body>
 </html>

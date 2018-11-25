@@ -43,12 +43,12 @@ with open('ranks'+date+'.txt') as f:
 
 prelimbrackets = [[teams[n] for n in x] for x in genbracket(12,8)]
 
-trials = 1000.0
+trials = 10000.0
 count = 0
 start = time.time()
 while count < trials:
     count += 1
-    if count%100 == 0: print count,round((time.time()-start)*(trials-count)/count)
+    if count%100 == 0: print count,round((time.time()-start)*(trials-count)/count,1)
 
     prelimresults = []
     for b in prelimbrackets: prelimresults.append(roundrobin(b))
@@ -107,7 +107,8 @@ while count < trials:
 
     for i in range(96):
         finishes[results[i]][i] += 1
-
+        
+'''
 with open('pacesimfull.csv','w') as f:
     for team in teams:
         s = team
@@ -123,3 +124,20 @@ with open('pacesimsummary.csv','w') as f:
                str(round(100*sum(finishes[team][0:24])/trials,1))]
         s = ','.join(lst)+'\n'
         f.write(s)
+'''
+
+with open('./docs/pace.js','w') as f:
+    f.write('function fillTable() {\n')
+    f.write('\tvar table = document.getElementById("paceTable");\n')
+    for team in teams[:24]:
+        lst = [team,
+               "{:.2f}".format(sum([i*finishes[team][i] for i in range(96)])/trials+1),
+               "{:.1f}".format(round(100*sum(finishes[team][0:24])/trials,1))+'%',
+               "{:.1f}".format(round(100*sum(finishes[team][0:16])/trials,1))+'%',
+               "{:.1f}".format(round(100*sum(finishes[team][0:8])/trials,1))+'%',
+               "{:.1f}".format(round(100*finishes[team][0]/trials,1))+'%']
+        f.write('\tvar row = table.insertRow()\n')
+        for i in range(len(lst)):
+            f.write('\tvar cell = row.insertCell();\n')
+            f.write('\tcell.innerHTML = "'+lst[i]+'";\n')
+    f.write('}\n')
