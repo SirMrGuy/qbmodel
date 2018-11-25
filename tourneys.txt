@@ -1,21 +1,21 @@
-MIT Fall
-PHSAT
-Scottie
-Earlybird
-PPT
-Miami Valley Fall
-Columbia Fall
-Quaker Bowl
-JHU Fall
-Kentucky Fall
-Mizzou Fall
-RIFT
-Cal Cup 1
-SPOOKY
-Triton Fall
-Penn Bowl
-MSU Fall
-ACE
-Sun God JHU
-Henderson
-LIFT
+MIT Fall,10-29
+PHSAT,10-29
+Scottie,10-29
+Earlybird,10-29
+PPT,10-29
+Miami Valley Fall,10-29
+Columbia Fall,10-29
+Quaker Bowl,10-29
+JHU Fall,10-29
+Kentucky Fall,10-29
+Mizzou Fall,10-29
+RIFT,10-29
+Cal Cup 1,10-29
+SPOOKY,10-29
+Triton Fall,10-29
+Penn Bowl,10-29
+MSU Fall,10-29
+ACE,10-29
+Sun God JHU,10-29
+Henderson,10-29
+LIFT,10-29

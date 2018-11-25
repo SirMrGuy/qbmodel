@@ -3,26 +3,30 @@ start = time.time()
 
 import os
 
-ranks = {}
-with open('ranks.txt') as f:
-    for line in f:
-        lst = line.strip('\n').split('\t')
-        ranks[' '.join(lst[1].split(' ')[:-1])] = float(lst[2])
+rankdates = ['10-29']
+ranklst = []
+for date in rankdates:
+    with open('ranks'+date+'.txt') as f:
+        ranklst.append({})
+        for line in f:
+            lst = line.strip('\n').split('\t')
+            ranklst[-1][' '.join(lst[1].split(' ')[:-1])] = float(lst[2])
 
 tournaments = []
 with open('tourneys.txt') as f:
     for line in f:
-        tournaments.append(line.strip('\n').split(',')[0])
+        tournaments.append(line.strip('\n').split(','))
 
 logitpoints = []
 marginpoints = []
 games = 0
 for tournament in tournaments:
-    print 'Analyzing',tournament
-    with open(os.path.join('./tournaments',tournament+'.txt')) as scores:
+    print 'Analyzing',tournament[0]
+    ranks = ranklst[rankdates.index(tournament[1])]
+    with open(os.path.join('./tournaments',tournament[0]+'.txt')) as scores:
         aliases = {}
         try:
-            with open(os.path.join('./aliases',tournament+'.txt')) as alias:
+            with open(os.path.join('./aliases',tournament[0]+'.txt')) as alias:
                 for a in alias:
                     lst = a.strip('\n').split(',')
                     aliases[lst[0]] = lst[1]
