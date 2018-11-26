@@ -46,7 +46,7 @@
 46	High Tech B (NJ)	84.67
 47	Midtown Classical A (FL)	84.53
 48	Greens Farms A (CT)	84.02
-49	Barrington A (IL)	83.36
+49	Barrington IL A (IL)	83.36
 50	Glasgow A (KY)	83.33
 51	Arcadia A (CA)	83.30
 52	Phillips Academy A (MA)	82.95
@@ -82,7 +82,7 @@
 82	Wheeler A (GA)	75.03
 83	Cave Spring A (VA)	74.77
 84	Lambert A (GA)	74.43
-85	Barrington A (RI)	73.35
+85	Barrington RI A (RI)	73.35
 86	Belmont A (MA)	73.16
 87	Clements A (TX)	72.71
 88	Livingston A (NJ)	72.57

@@ -9,7 +9,7 @@
 <body>
 	<script>genSidebar();</script>
 	<div class="topbar">PACE NSC Forecast</div>
-	<div class="content">
+	<div id="main" class="content">
 		<p>Summary:</p>
 		<table id="paceTable" border="1">
 			<col width="200">
@@ -26,8 +26,41 @@
 				<th>Top 8</th>
 				<th>Champ</th>
 			</tr>
-		</table>
+		</table><br>
+		<script>fillTable();teamSelect();</script><br>
+		<canvas id="graph" width="1050" height="500"></canvas>
+		<script>
+			var c = document.getElementById("graph");
+			var ctx = c.getContext("2d");
+			ctx.beginPath();
+			ctx.moveTo(39,20);
+			ctx.lineTo(39, 450);
+			ctx.lineTo(1000, 450);
+			ctx.stroke();
+
+			ctx.font = "12px Arial";
+			ctx.textAlign="end";
+			ctx.textBaseline="middle"; 
+
+			for(var i = 0; i < 5; i++) {
+				ctx.beginPath();
+				ctx.moveTo(39,450-100*i);
+				ctx.lineTo(29,450-100*i);
+				ctx.stroke();
+				ctx.fillText(String(10*i)+"%",29,450-100*i);
+			}
+
+			ctx.textAlign="center";
+			ctx.textBaseline="top";
+
+			[1,8,16,24,48,72,96].forEach(function(i){
+				ctx.beginPath();
+				ctx.moveTo(40+10*i,450);
+				ctx.lineTo(40+10*i,460);
+				ctx.stroke();
+				ctx.fillText(String(i),40+10*i,460);
+			});
+		</script>
 	</div>
-	<script>fillTable();</script>
 </body>
 </html>
