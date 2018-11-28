@@ -1,0 +1,1148 @@
+Round 1
+
+West Egg 270, Penn State B 145
+Penn State B: Andy Huang 0 2 2 10, Bryce Katch 0 1 1 5, Dan Nguyen 0 3 2 20, Ashish Kumbhardare 0 1 0 10
+West Egg: Noah Sheidlower 1 7 1 80, Sammy Katzman 0 0 1 -5, Ethan Vainrib 0 2 1 15, Jay Kim 0 1 0 10
+Bonuses: Penn State B 7 100 14.29, West Egg 11 170 15.45
+
+Yale 640, Ilium 40
+Yale: Jacob Reed 6 3 0 120, Stephen Eltinge 1 5 0 65, Moses Kitakule 1 2 0 35
+Ilium: Isaiah Gutman 0 0 1 -5, Aidan Uckun 0 0 1 -5, Julian Perry 1 0 1 10, Kaelan Imani 0 1 0 10
+Bonuses: Yale 18 420 23.33, Ilium 2 30 15.00
+
+Delaware 495, Princeton B 60
+Delaware: Eric Wolfsberg 1 9 0 105, Sophia Marianiello 1 0 1 10, Rohan Narayan 2 4 0 70
+Princeton B: Ana Pranger 0 1 1 5, Ned Furlong 1 1 0 25, Jack Edmondson 0 0 0 0
+Bonuses: Delaware 17 310 18.24, Princeton B 3 30 10.00
+
+Penn State A 420, Robert Bork B 95
+Robert Bork B: Prithvi Nathan 1 0 1 10, Sohom Paul 1 0 1 10, William Wang 0 2 3 5, Ryan Xu 0 1 0 10
+Penn State A: Victor Prieto 0 6 0 60, Bruce McAninch 0 3 1 25, Colton Sanden 1 2 0 35, Saimun Shahee 0 3 0 30
+Bonuses: Robert Bork B 5 60 12.00, Penn State A 15 270 18.00
+
+Carnegie Mellon A 310, UMD C 100
+Carnegie Mellon A: Sameer Apte 2 6 0 90, David Neiman 0 1 0 10, Harrison Lee 1 1 2 15, Ruel Beresford 0 2 1 15
+UMD C: Tanay Wakhare 0 1 1 5, Ani Perumalla 0 6 1 55, Jonathan Moore 0 0 0 0, Dillon D'Rozario 0 0 0 0
+Bonuses: Carnegie Mellon A 13 180 13.85, UMD C 7 40 5.71
+
+Robert Bork A 350, JHU B 150
+JHU B: Vinu Harihar 0 2 0 20, Leland Held 0 2 1 15, Aditi Jithendra 0 2 1 15, Sebastian Llaca 0 0 0 0
+Robert Bork A: James Kuang 1 3 2 35, Kevin Wang 0 1 0 10, Fred Zhang 3 3 0 75, Julia Zhou 0 1 0 10
+Bonuses: JHU B 6 100 16.67, Robert Bork A 12 220 18.33
+
+UVA A 415, NYU C 85
+UVA A: Eric Xu 0 5 2 40, Jack Mehr 3 2 0 65, Nick Collins 2 0 1 25, John Connor 1 1 0 25
+NYU C: Andrew Ankersen 1 1 0 25, Rachel Cameron 0 0 0 0, Joshua Jones 0 2 0 20, Alan Sun 0 0 0 0
+Bonuses: UVA A 14 260 18.57, NYU C 4 40 10.00
+
+Princeton A 390, Pitt 15
+Princeton A: Nathaniel Hull 3 1 1 50, Monty James 2 2 2 40, Eve Fleisig 1 5 1 60
+Pitt: Walt Young 1 0 0 15, Calvin Yu 0 0 1 -5, Mo Elfayoumi 0 1 1 5
+Bonuses: Princeton A 14 240 17.14, Pitt 2 0 0.00
+
+Cornell A 375, Columbia B 115
+Cornell A: Amith Punyala 3 4 0 85, Jonathan Tran 1 3 2 35, Daniel Xu 2 1 1 35, Brandon Zhang 0 0 2 -10
+Columbia B: Antonio Camara 1 2 0 35, Jackson Painter 0 0 0 0, Elise Schlecht 0 1 0 10, Jeff Xie 0 0 0 0
+Bonuses: Cornell A 14 230 16.43, Columbia B 4 70 17.50
+
+UMD A 495, NYU A 125
+UMD A: Caleb Kendrick 3 3 2 65, Graham Reid 1 2 0 35, Weijia Cheng 2 2 0 50, Justin Hawkins 0 2 1 15
+NYU A: Mitch Baron 1 0 0 15, Rahul Rao-Pothuraju 0 2 0 20, Danny Richardson 0 0 0 0, Harrison Whitaker 0 2 0 20
+Bonuses: UMD A 15 330 22.00, NYU A 5 70 14.00
+
+Gettysburg 390, Penn State C 55
+Penn State C: Alex Ellis 0 2 0 20, Aiden Cunningham 0 0 3 -15, Tatyana Zvorsky 0 1 0 10, Adithya Sadagopan 0 0 0 0
+Gettysburg: Ryan Bilger 2 10 1 125, Danny Greenblatt 0 3 1 25, Ryzeson Maravich 0 1 0 10
+Bonuses: Penn State C 3 40 13.33, Gettysburg 16 230 14.38
+
+Columbia A 415, NYU B 160
+NYU B: Lev Bernstein 0 1 0 10, Doug Simons 2 0 0 30, Rohan Vora 0 2 0 20, Oliver Xu 0 0 0 0
+Columbia A: Rafael Krichevsky 4 6 0 120, Gerhardt Hinkle 0 0 1 -5, Julia Tong 0 1 0 10, Jeremy lema 2 1 0 40
+Bonuses: NYU B 5 100 20.00, Columbia A 14 250 17.86
+
+UMD B 540, Cornell C 60
+UMD B: Jack Lewis 1 3 1 40, Vishwa Shanmugam 2 6 1 85, Adam Howlett 2 1 0 40, Jason Shi 1 1 0 25
+Cornell C: Eric Dai 0 0 0 0, Cole Horvath 0 1 0 10, Ernest Li 0 1 0 10
+Bonuses: UMD B 17 350 20.59, Cornell C 2 40 20.00
+
+JHU A 490, Carnegie Mellon B 25
+JHU A: Eric Bobrow 2 4 0 70, Robert Chu 3 4 0 85, Walter Zhao 1 2 2 25
+Carnegie Mellon B: Jackie Wu 0 0 0 0, Sebastian La Duca 0 1 1 5, Gabriel Chuang 0 0 1 -5, Andy Kong 0 1 1 5
+Bonuses: JHU A 16 310 19.38, Carnegie Mellon B 2 20 10.00
+
+Cornell B 305, High Tech B 140
+High Tech B: Ivy Wang 0 2 1 15, Cole Snedeker 0 1 0 10, Frank Grabowksi 0 1 0 10, Samuel Hampel 0 2 1 15
+Cornell B: Carson Gresens 0 2 0 20, Allan Lee 0 6 1 55, Atharv Garje 2 4 0 70
+Bonuses: High Tech B 6 90 15.00, Cornell B 14 160 11.43
+
+High Tech A 395, SHU 125
+SHU: Chris Manners 2 4 1 65
+High Tech A: Michael Li 1 3 0 45, Steven Liu 1 3 1 40, Darren Petrosino 0 2 0 20, Deepak Gopalakrishnan 0 4 0 40
+Bonuses: SHU 6 60 10.00, High Tech A 14 250 17.86
+
+Virginia Tech 260, Penn Manor 110
+Penn Manor: Connor Mayers 1 7 3 70, Audrey Ritchie 0 0 0 0, Kyle Stigelman 0 0 0 0
+Virginia Tech: Nick Luca 0 3 1 25, Jack Huguenin 0 2 0 20, Alia Wilson 1 2 0 35, Mahdi Alkafawi 0 2 0 20
+Bonuses: Penn Manor 8 40 5.00, Virginia Tech 10 160 16.00
+
+Beavercreek 320, Wilmington Charter 185
+Beavercreek: Hari Parameswaran 1 9 3 90, Abby Cohen 0 1 0 10, Tegan Kapadia 0 1 0 10, Tiffany Zhou 0 0 0 0
+Wilmington Charter: Sohum Shenoy 1 1 3 10, Waley He 1 4 2 45, Prasanna Krishnamoorthy 0 0 0 0, Rishith Ramamurthy 0 1 0 10
+Bonuses: Beavercreek 12 210 17.50, Wilmington Charter 8 120 15.00
+
+Miami Valley 240, UVA B 235
+Miami Valley: John John Groger 0 8 0 80, William Groger 0 3 0 30
+UVA B: Quinn LeGallo-Malone 0 6 1 55, Goutham Thiagarajan 0 0 0 0, Reese Fulgenzi 1 1 1 20, Udayan Kumra 0 1 0 10
+Bonuses: Miami Valley 11 130 11.82, UVA B 9 150 16.67
+
+Round 2
+Robert Bork A 380, West Egg 130
+Robert Bork A: James Kuang 1 1 2 15, Kevin Wang 1 2 0 35, Fred Zhang 1 8 1 90, Julia Zhou 0 0 0 0
+West Egg: Noah Sheidlower 1 2 0 35, Sammy Katzman 0 0 0 0, Ethan Vainrib 0 2 0 20, Jay Kim 0 1 1 5
+Bonuses: Robert Bork A 14 240 17.14, West Egg 6 70 11.67
+
+Yale 605, JHU B 20
+Yale: Jacob Reed 4 7 0 130, Stephen Eltinge 1 5 0 65, Moses Kitakule 0 2 0 20
+JHU B: Vinu Harihar 0 0 0 0, Leland Held 0 0 0 0, Aditi Jithendra 0 0 0 0, Sebastian Llaca 0 1 0 10
+Bonuses: Yale 19 390 20.53, JHU B 1 10 10.00
+
+Delaware 270, Ilium 200
+Delaware: Eric Wolfsberg 0 8 1 75, Sophia Marianiello 0 0 0 0, Rohan Narayan 1 2 0 35
+Ilium: Isaiah Gutman 1 2 0 35, Aidan Uckun 1 1 0 25, Julian Perry 0 3 0 30, Kaelan Imani 0 1 0 10
+Bonuses: Delaware 11 160 14.55, Ilium 9 100 11.11
+
+Carnegie Mellon A 275, Princeton B 40
+Carnegie Mellon A: Sameer Apte 0 9 1 85, David Neiman 0 2 1 15, Harrison Lee 0 2 0 20, Ruel Beresford 0 0 1 -5
+Princeton B: Ana Pranger 1 0 0 15, Ned Furlong 0 1 1 5, Jack Edmondson 0 0 0 0
+Bonuses: Carnegie Mellon A 13 160 12.31, Princeton B 2 20 10.00
+
+Penn State A 370, UMD C 135
+Penn State A: Victor Prieto 1 5 1 60, Bruce McAninch 1 4 1 50, Colton Sanden 0 1 0 10, Saimun Shahee 0 1 0 10
+UMD C: Tanay Wakhare 0 1 1 5, Ani Perumalla 0 4 1 35, Jonathan Moore 0 1 1 5, Dillon D'Rozario 0 0 0 0
+Bonuses: Penn State A 13 240 18.46, UMD C 6 90 15.00
+
+High Tech A 330, Robert Bork B 180
+High Tech A: Michael Li 1 3 1 40, Steven Liu 0 3 0 30, Darren Petrosino 1 2 0 35, Deepak Gopalakrishnan 0 1 1 5
+Robert Bork B: Prithvi Nathan 0 2 1 15, Sohom Paul 0 2 1 15, William Wang 2 2 0 50, Ryan Xu 0 1 0 10
+Bonuses: High Tech A 11 220 20.00, Robert Bork B 9 90 10.00
+
+UVA A 460, Pitt 35
+UVA A: Eric Xu 0 8 2 70, Jack Mehr 0 4 1 35, Nick Collins 1 1 0 25, John Connor 0 2 0 20
+Pitt: Walt Young 0 2 2 10, Calvin Yu 0 0 0 0, Mo Elfayoumi 0 1 3 -5
+Bonuses: UVA A 16 310 19.38, Pitt 3 30 10.00
+
+NYU B 260, NYU C 40
+NYU C: Andrew Ankersen 0 0 0 0, Rachel Cameron 0 0 0 0, Ben Davis 0 1 0 10, Joshua Jones 0 1 0 10
+NYU B: Lev Bernstein 0 2 1 15, Doug Simons 1 4 0 55, Rohan Vora 0 6 0 60, Oliver Xu 0 1 0 10
+Bonuses: NYU C 2 20 10.00, NYU B 14 120 8.57
+
+Columbia A 335, Gettysburg 195
+Gettysburg: Ryan Bilger 2 3 1 55, Danny Greenblatt 0 3 0 30, Ryzeson Maravich 0 1 0 10
+Columbia A: Rafael Krichevsky 0 6 1 55, Gerhardt Hinkle 1 1 0 25, Julia Tong 1 2 0 35, Jeremy lema 0 0 0 0
+Bonuses: Gettysburg 9 100 11.11, Columbia A 11 220 20.00
+
+UMD A 650, Penn State B 15
+UMD A: Caleb Kendrick 2 7 0 100, Graham Reid 2 2 0 50, Weijia Cheng 2 3 0 60, Justin Hawkins 0 1 0 10
+Penn State B: Andy Huang 0 0 0 0, Bryce Katch 0 1 0 10, Dan Nguyen 0 0 0 0, Ashish Kumbhardare 0 0 1 -5
+Bonuses: UMD A 19 430 22.63, Penn State B 1 10 10.00
+
+Penn State C 125, Columbia B 100
+Penn State C: Alex Ellis 0 3 0 30, Aiden Cunningham 0 2 0 20, Tatyana Zvorsky 0 0 0 0, Adithya Sadagopan 0 1 1 5
+Columbia B: Antonio Camara 0 3 1 25, Jackson Painter 0 2 1 15, Elise Schlecht 0 0 0 0, Jeff Xie 0 1 0 10
+Bonuses: Penn State C 6 70 11.67, Columbia B 6 50 8.33
+
+Cornell A 225, Princeton A 205
+Princeton A: Nathaniel Hull 1 5 0 65, Monty James 0 2 1 15, Eve Fleisig 1 0 0 15
+Cornell A: Amith Punyala 1 0 0 15, Jonathan Tran 2 4 0 70, Daniel Xu 0 2 0 20, Brandon Zhang 0 0 0 0
+Bonuses: Princeton A 9 110 12.22, Cornell A 9 120 13.33
+
+JHU A 435, High Tech B 80
+JHU A: Eric Bobrow 0 5 1 45, Robert Chu 0 2 1 15, Walter Zhao 2 5 1 75
+High Tech B: Ivy Wang 0 2 1 15, Anna Cai 1 0 1 10, Cole Snedeker 0 0 1 -5, Frank Grabowksi 0 2 0 20, Samuel Hampel 0 0 0 0
+Bonuses: JHU A 14 300 21.43, High Tech B 5 40 8.00
+
+UMD B 240, Carnegie Mellon B 225
+UMD B: Jack Lewis 1 3 2 35, Vishwa Shanmugam 0 3 4 10, Adam Howlett 0 2 1 15, Jason Shi 0 1 0 10
+Carnegie Mellon B: Jackie Wu 0 2 0 20, Sebastian La Duca 1 5 1 60, Gabriel Chuang 0 1 0 10, Andy Kong 0 1 1 5
+Bonuses: UMD B 10 170 17.00, Carnegie Mellon B 10 130 13.00
+
+Miami Valley 335, Cornell C 35
+Cornell C: Eric Dai 0 0 1 -5, Cole Horvath 0 3 3 15, Ernest Li 0 0 1 -5
+Miami Valley: John John Groger 0 12 0 120, William Groger 1 1 0 25
+Bonuses: Cornell C 3 30 10.00, Miami Valley 14 190 13.57
+
+NYU A 340, Penn Manor 70
+NYU A: Mitch Baron 0 3 1 25, Rahul Rao-Pothuraju 0 6 1 55, Danny Richardson 0 0 1 -5, Harrison Whitaker 1 4 0 55
+Penn Manor: Connor Mayers 0 3 2 20, Audrey Ritchie 0 0 0 0, Kyle Stigelman 0 0 0 0
+Bonuses: NYU A 14 210 15.00, Penn Manor 3 50 16.67
+
+Virginia Tech 235, SHU 190
+SHU: Chris Manners 0 8 0 80
+Virginia Tech: Nick Luca 0 2 1 15, Jack Huguenin 0 7 0 70, Alia Wilson 0 0 0 0, Mahdi Alkafawi 0 2 0 20
+Bonuses: SHU 8 110 13.75, Virginia Tech 11 130 11.82
+
+Beavercreek 265, UVA B 140
+Beavercreek: Hari Parameswaran 0 8 5 55, Abby Cohen 0 2 0 20, Tegan Kapadia 0 0 0 0, Tiffany Zhou 0 2 0 20
+UVA B: Quinn LeGallo-Malone 0 1 1 5, Goutham Thiagarajan 1 1 0 25, Reese Fulgenzi 0 3 0 30, Udayan Kumra 0 0 0 0
+Bonuses: Beavercreek 12 170 14.17, UVA B 6 80 13.33
+
+Wilmington Charter 425, Cornell B 55
+Cornell B: Carson Gresens 0 0 1 -5, Allan Lee 0 3 2 20, Atharv Garje 0 0 0 0
+Wilmington Charter: Sohum Shenoy 1 5 1 60, Waley He 1 9 0 105, Prasanna Krishnamoorthy 0 1 0 10, Rishith Ramamurthy 0 0 0 0
+Bonuses: Cornell B 3 40 13.33, Wilmington Charter 17 250 14.71
+
+Round 3
+NYU A 240, SHU 175
+NYU A: Mitch Baron 2 2 1 45, Rahul Rao-Pothuraju 0 2 0 20, Danny Richardson 0 1 0 10, Harrison Whitaker 0 2 1 15
+SHU: Chris Manners 0 8 1 75
+Bonuses: NYU A 9 150 16.67, SHU 8 100 12.50
+
+Penn State A 345, Princeton B 110
+Penn State A: Victor Prieto 0 4 1 35, Bruce McAninch 0 3 0 30, Colton Sanden 0 4 2 30, Saimun Shahee 0 2 0 20
+Princeton B: Ana Pranger 0 3 0 30, Ned Furlong 0 1 0 10, Jack Edmondson 0 1 0 10
+Bonuses: Penn State A 13 230 17.69, Princeton B 5 60 12.00
+
+Delaware 420, Carnegie Mellon A 80
+Delaware: Eric Wolfsberg 1 10 2 105, Sophia Marianiello 0 3 0 30, Rohan Narayan 1 0 0 15
+Carnegie Mellon A: Sameer Apte 1 2 2 25, David Neiman 0 0 1 -5, Harrison Lee 0 1 1 5, Ruel Beresford 0 0 1 -5
+Bonuses: Delaware 15 270 18.00, Carnegie Mellon A 4 60 15.00
+
+Ilium 235, JHU B 125
+JHU B: Vinu Harihar 1 2 0 35, Leland Held 0 1 3 -5, Aditi Jithendra 0 0 1 -5, Sebastian Llaca 0 2 0 20
+Ilium: Isaiah Gutman 0 4 0 40, Aidan Uckun 0 1 1 5, Julian Perry 0 5 1 45, Kaelan Imani 0 1 1 5
+Bonuses: JHU B 6 80 13.33, Ilium 11 140 12.73
+
+Yale 575, Robert Bork B 65
+Yale: Jacob Reed 3 5 3 80, Stephen Eltinge 3 5 0 95, Moses Kitakule 0 1 0 10
+Robert Bork B: Prithvi Nathan 0 1 0 10, Sohom Paul 0 0 1 -5, William Wang 0 1 0 10, Ryan Xu 0 1 0 10
+Bonuses: Yale 17 390 22.94, Robert Bork B 3 40 13.33
+
+UMD C 280, Virginia Tech 85
+Virginia Tech: Nick Luca 0 2 0 20, Jack Huguenin 0 1 1 5, Alia Wilson 0 1 2 0, Mahdi Alkafawi 0 1 2 0
+UMD C: Tanay Wakhare 0 3 1 25, Ani Perumalla 2 6 1 85, Jonathan Moore 0 0 0 0, Dillon D'Rozario 0 1 0 10
+Bonuses: Virginia Tech 5 60 12.00, UMD C 12 160 13.33
+
+Columbia A 380, Columbia B 90
+Columbia A: Rafael Krichevsky 2 7 4 80, Gerhardt Hinkle 0 0 0 0, Julia Tong 1 3 0 45, Jeremy lema 0 0 1 -5
+Columbia B: Antonio Camara 0 2 1 15, Jackson Painter 1 1 2 15, Elise Schlecht 0 0 0 0, Jeff Xie 0 1 0 10
+Bonuses: Columbia A 13 260 20.00, Columbia B 5 50 10.00
+
+Gettysburg 215, NYU B 195
+Gettysburg: Ryan Bilger 1 4 1 50, Danny Greenblatt 0 1 1 5, Ryzeson Maravich 0 2 0 20
+NYU B: Lev Bernstein 0 1 1 5, Doug Simons 2 6 1 85, Rohan Vora 0 0 1 -5, Oliver Xu 0 0 0 0
+Bonuses: Gettysburg 8 140 17.50, NYU B 9 110 12.22
+
+NYU C 160, Pitt 25
+Pitt: Walt Young 0 1 3 -5, Calvin Yu 0 0 0 0, Mo Elfayoumi 0 3 2 20
+NYU C: Rachel Cameron 0 0 0 0, Ben Davis 0 4 0 40, Joshua Jones 1 2 0 35, Alan Sun 1 1 0 25
+Bonuses: Pitt 4 10 2.50, NYU C 9 60 6.67
+
+UMD A 465, Penn Manor 75
+UMD A: Caleb Kendrick 1 5 2 55, Graham Reid 0 5 1 45, Weijia Cheng 0 2 1 15, Justin Hawkins 0 2 0 20
+Penn Manor: Connor Mayers 0 5 1 45, Audrey Ritchie 0 0 0 0, Kyle Stigelman 0 0 0 0
+Bonuses: UMD A 15 330 22.00, Penn Manor 5 30 6.00
+
+UVA A 495, Cornell A 130
+UVA A: Eric Xu 1 4 0 55, Jack Mehr 1 2 0 35, Nick Collins 3 2 0 65, John Connor 0 1 0 10
+Cornell A: Amith Punyala 0 2 1 15, Jonathan Tran 1 0 0 15, Daniel Xu 1 2 1 30, Brandon Zhang 0 0 0 0
+Bonuses: UVA A 14 330 23.57, Cornell A 6 70 11.67
+
+Princeton A 340, Penn State C 90
+Princeton A: Nathaniel Hull 1 6 1 70, Monty James 1 1 2 15, Eve Fleisig 1 3 0 45
+Penn State C: Alex Ellis 0 1 0 10, Aiden Cunningham 0 0 0 0, Tatyana Zvorsky 0 0 0 0, Adithya Sadagopan 0 3 0 30
+Bonuses: Princeton A 13 210 16.15, Penn State C 4 50 12.50
+
+UVA B 220, Wilmington Charter 135
+UVA B: Quinn LeGallo-Malone 0 6 1 55, Goutham Thiagarajan 0 2 0 20, Reese Fulgenzi 1 1 0 25, Udayan Kumra 0 0 0 0
+Wilmington Charter: Sohum Shenoy 0 2 1 15, Waley He 0 4 4 20, Prasanna Krishnamoorthy 0 1 1 5, Rishith Ramamurthy 0 0 1 -5
+Bonuses: UVA B 10 120 12.00, Wilmington Charter 7 100 14.29
+
+Beavercreek 365, Cornell C 90
+Beavercreek: Hari Parameswaran 2 8 3 95, Abby Cohen 0 2 0 20, Tegan Kapadia 0 1 0 10, Tiffany Zhou 0 0 0 0
+Cornell C: Eric Dai 0 1 0 10, Cole Horvath 0 2 0 20, Ernest Li 0 2 0 20
+Bonuses: Beavercreek 13 240 18.46, Cornell C 5 40 8.00
+
+Miami Valley 275, Carnegie Mellon B 165
+Carnegie Mellon B: Jackie Wu 0 0 0 0, Sebastian La Duca 1 2 2 25, Gabriel Chuang 1 1 0 25, Andy Kong 1 2 2 25
+Miami Valley: John John Groger 0 7 0 70, William Groger 0 4 1 35
+Bonuses: Carnegie Mellon B 8 90 11.25, Miami Valley 11 170 15.45
+
+Robert Bork A 455, Penn State B 90
+Robert Bork A: James Kuang 2 3 0 60, Kevin Wang 0 2 0 20, Fred Zhang 1 6 0 75, Julia Zhou 0 1 0 10
+Penn State B: Andy Huang 0 2 1 15, Bryce Katch 1 0 0 15, Dan Nguyen 0 1 0 10, Ashish Kumbhardare 0 0 0 0
+Bonuses: Robert Bork A 15 290 19.33, Penn State B 4 50 12.50
+
+UMD B 400, High Tech B 60
+UMD B: Jack Lewis 0 3 2 20, Vishwa Shanmugam 0 6 2 50, Adam Howlett 2 1 2 30, Jason Shi 2 0 0 30
+High Tech B: Ivy Wang 0 0 0 0, Cole Snedeker 0 1 0 10, Frank Grabowksi 0 1 0 10, Samuel Hampel 0 1 0 10
+Bonuses: UMD B 14 270 19.29, High Tech B 3 30 10.00
+
+JHU A 485, Cornell B 60
+Cornell B: Carson Gresens 0 1 0 10, Allan Lee 1 1 1 20, Atharv Garje 0 0 0 0
+JHU A: Eric Bobrow 1 1 1 20, Robert Chu 2 4 1 65, Walter Zhao 1 6 1 70
+Bonuses: Cornell B 3 30 10.00, JHU A 15 330 22.00
+
+High Tech A 205, West Egg 160
+West Egg: Noah Sheidlower 0 4 0 40, Sammy Katzman 0 0 2 -10, Ethan Vainrib 0 3 0 30, Jay Kim 0 0 0 0
+High Tech A: Michael Li 0 2 0 20, Steven Liu 0 1 2 0, Darren Petrosino 0 5 1 45, Deepak Gopalakrishnan 0 2 2 10
+Bonuses: West Egg 7 100 14.29, High Tech A 10 130 13.00
+
+Round 4
+UMD A 440, SHU 130
+UMD A: Caleb Kendrick 0 6 1 55, Graham Reid 0 2 0 20, Weijia Cheng 3 0 0 45, Justin Hawkins 2 0 0 30
+SHU: Chris Manners 2 4 0 70
+Bonuses: UMD A 13 290 22.31, SHU 6 60 10.00
+
+Delaware 390, Penn State A 210
+Penn State A: Victor Prieto 0 5 0 50, Bruce McAninch 0 0 0 0, Colton Sanden 0 2 0 20, Saimun Shahee 0 0 0 0
+Delaware: Eric Wolfsberg 3 8 3 110, Sophia Marianiello 1 0 0 15, Rohan Narayan 0 1 1 5
+Bonuses: Penn State A 7 140 20.00, Delaware 13 260 20.00
+
+Yale 525, UMD C 80
+Yale: Jacob Reed 1 5 2 55, Stephen Eltinge 5 2 1 90, Moses Kitakule 0 3 0 30
+UMD C: Tanay Wakhare 0 2 1 15, Ani Perumalla 1 1 1 20, Jonathan Moore 0 0 1 -5, Dillon D'Rozario 0 0 0 0
+Bonuses: Yale 16 350 21.88, UMD C 4 50 12.50
+
+Robert Bork B 290, JHU B 145
+JHU B: Vinu Harihar 1 3 0 45, Leland Held 0 2 0 20, Aditi Jithendra 0 0 0 0, Sebastian Llaca 0 1 0 10
+Robert Bork B: Prithvi Nathan 0 0 0 0, Sohom Paul 0 2 0 20, William Wang 2 2 1 45, Ryan Xu 1 4 0 55
+Bonuses: JHU B 7 70 10.00, Robert Bork B 11 170 15.45
+
+Ilium 320, Carnegie Mellon A 210
+Carnegie Mellon A: Sameer Apte 2 3 2 50, David Neiman 1 0 1 10, Harrison Lee 0 0 0 0, Ruel Beresford 0 1 0 10
+Ilium: Isaiah Gutman 1 4 0 55, Aidan Uckun 0 0 0 0, Julian Perry 1 3 0 45, Kaelan Imani 0 3 0 30
+Bonuses: Carnegie Mellon A 7 140 20.00, Ilium 12 190 15.83
+
+NYU A 455, Princeton B 55
+Princeton B: Ana Pranger 0 2 0 20, Ned Furlong 0 0 0 0, Jack Edmondson 1 0 2 5
+NYU A: Mitch Baron 0 1 0 10, Rahul Rao-Pothuraju 0 7 0 70, Danny Richardson 0 1 0 10, Harrison Whitaker 1 5 0 65
+Bonuses: Princeton B 3 30 10.00, NYU A 15 300 20.00
+
+Columbia A 435, Princeton A 140
+Columbia A: Rafael Krichevsky 4 6 3 105, Gerhardt Hinkle 2 1 0 40, Julia Tong 0 1 0 10, Jeremy lema 0 0 0 0
+Princeton A: Nathaniel Hull 0 1 1 5, Monty James 1 1 0 25, Eve Fleisig 0 3 0 30
+Bonuses: Columbia A 14 280 20.00, Princeton A 6 80 13.33
+
+UVA A 555, Penn State C 35
+Penn State C: Alex Ellis 0 0 0 0, Aiden Cunningham 0 0 0 0, Tatyana Zvorsky 0 1 0 10, Adithya Sadagopan 0 1 1 5
+UVA A: Eric Xu 0 9 1 85, Jack Mehr 1 4 0 55, Nick Collins 1 2 0 35, John Connor 0 1 0 10
+Bonuses: Penn State C 2 20 10.00, UVA A 18 370 20.56
+
+Cornell A 365, Pitt 90
+Cornell A: Amith Punyala 0 4 1 35, Jonathan Tran 3 1 1 50, Daniel Xu 0 5 0 50, Brandon Zhang 0 1 0 10
+Pitt: Walt Young 0 2 0 20, Calvin Yu 0 0 0 0, Mo Elfayoumi 0 3 0 30
+Bonuses: Cornell A 14 220 15.71, Pitt 5 40 8.00
+
+West Egg 260, Virginia Tech 175
+Virginia Tech: Nick Luca 0 4 1 35, Jack Huguenin 0 2 0 20, Alia Wilson 0 1 0 10, Mahdi Alkafawi 0 1 0 10
+West Egg: Noah Sheidlower 2 7 1 95, Sammy Katzman 0 0 0 0, Ethan Vainrib 0 2 1 15, Jay Kim 0 0 0 0
+Bonuses: Virginia Tech 8 100 12.50, West Egg 11 150 13.64
+
+Gettysburg 300, NYU C 55
+NYU C: Andrew Ankersen 0 3 0 30, Ben Davis 0 0 2 -10, Joshua Jones 0 0 1 -5, Alan Sun 0 1 0 10
+Gettysburg: Ryan Bilger 0 8 1 75, Danny Greenblatt 0 6 1 55, Ryzeson Maravich 0 0 0 0
+Bonuses: NYU C 4 30 7.50, Gettysburg 14 170 12.14
+
+NYU B 365, Columbia B 50
+NYU B: Lev Bernstein 0 1 0 10, Doug Simons 1 3 0 45, Rohan Vora 2 6 0 90, Oliver Xu 0 1 0 10
+Columbia B: Antonio Camara 0 0 1 -5, Jackson Painter 0 2 1 15, Elise Schlecht 0 0 0 0, Jeff Xie 0 1 0 10
+Bonuses: NYU B 14 210 15.00, Columbia B 3 30 10.00
+
+UVA B 240, Cornell C 180
+UVA B: Quinn LeGallo-Malone 1 5 2 55, Goutham Thiagarajan 0 1 0 10, Reese Fulgenzi 0 4 1 35, Udayan Kumra 0 0 0 0
+Cornell C: Eric Dai 0 2 0 20, Cole Horvath 0 3 0 30, Ernest Li 0 3 2 20
+Bonuses: UVA B 11 140 12.73, Cornell C 8 110 13.75
+
+JHU A 405, Wilmington Charter 80
+Wilmington Charter: Sohum Shenoy 0 2 1 15, Waley He 0 1 0 10, Prasanna Krishnamoorthy 0 0 1 -5, Rishith Ramamurthy 0 1 0 10
+JHU A: Eric Bobrow 1 2 1 30, Robert Chu 1 5 2 55, Walter Zhao 1 4 1 50
+Bonuses: Wilmington Charter 4 50 12.50, JHU A 14 270 19.29
+
+UMD B 445, Cornell B 120
+UMD B: Jack Lewis 1 5 1 60, Vishwa Shanmugam 4 3 2 80, Adam Howlett 0 0 0 0, Jason Shi 1 0 0 15
+Cornell B: Carson Gresens 0 1 1 5, Allan Lee 1 2 0 35, Atharv Garje 0 2 0 20
+Bonuses: UMD B 14 290 20.71, Cornell B 6 60 10.00
+
+Robert Bork A 365, High Tech A 105
+Robert Bork A: James Kuang 3 1 0 55, Kevin Wang 0 2 1 15, Fred Zhang 0 5 1 45, Julia Zhou 0 1 0 10
+High Tech A: Michael Li 0 1 2 0, Steven Liu 0 3 0 30, Darren Petrosino 0 1 2 0, Deepak Gopalakrishnan 0 0 1 -5
+Bonuses: Robert Bork A 12 240 20.00, High Tech A 5 80 16.00
+
+Penn State B 300, Penn Manor 95
+Penn Manor: Connor Mayers 1 4 2 45, Audrey Ritchie 0 0 0 0, Kyle Stigelman 0 0 0 0
+Penn State B: Andy Huang 0 3 1 25, Bryce Katch 0 4 1 35, Dan Nguyen 0 3 0 30, Ashish Kumbhardare 0 2 0 20
+Bonuses: Penn Manor 5 50 10.00, Penn State B 12 190 15.83
+
+Beavercreek 275, Carnegie Mellon B 135
+Beavercreek: Hari Parameswaran 1 7 4 65, Abby Cohen 0 2 0 20, Tegan Kapadia 0 0 2 -10, Tiffany Zhou 0 1 0 10
+Carnegie Mellon B: Jackie Wu 0 2 0 20, Sebastian La Duca 0 4 0 40, Gabriel Chuang 1 0 0 15, Andy Kong 0 0 4 -20
+Bonuses: Beavercreek 11 190 17.27, Carnegie Mellon B 7 80 11.43
+
+Round 5
+Robert Bork A 520, Virginia Tech 0
+Virginia Tech: Nick Luca 0 0 0 0, Jack Huguenin 0 0 0 0, Alia Wilson 0 0 0 0, Mahdi Alkafawi 0 0 0 0
+Robert Bork A: James Kuang 2 4 0 70, Kevin Wang 0 5 0 50, Fred Zhang 1 5 0 65, Julia Zhou 1 1 0 25
+Bonuses: Virginia Tech 0 0 0.00, Robert Bork A 19 310 16.32
+
+JHU B 185, UMD C 50
+UMD C: Tanay Wakhare 1 2 2 25, Ani Perumalla 1 0 4 -5, Jonathan Moore 0 0 0 0, Dillon D'Rozario 0 0 0 0
+JHU B: Vinu Harihar 0 4 0 40, Leland Held 0 0 0 0, Aditi Jithendra 0 1 0 10, Sebastian Llaca 1 4 0 55
+Bonuses: UMD C 4 30 7.50, JHU B 10 80 8.00
+
+Yale 480, Princeton B 60
+Yale: Jacob Reed 2 5 0 80, Stephen Eltinge 1 5 3 50, Moses Kitakule 0 2 0 20
+Princeton B: Ana Pranger 0 0 0 0, Ned Furlong 0 1 0 10, Jack Edmondson 0 2 0 20
+Bonuses: Yale 15 330 22.00, Princeton B 3 30 10.00
+
+Ilium 275, Robert Bork B 135
+Ilium: Isaiah Gutman 0 6 0 60, Aidan Uckun 1 0 1 10, Julian Perry 0 2 0 20, Kaelan Imani 1 2 0 35
+Robert Bork B: Prithvi Nathan 0 0 2 -10, Sohom Paul 1 1 0 25, William Wang 1 1 0 25, Ryan Xu 1 1 0 25
+Bonuses: Ilium 12 150 12.50, Robert Bork B 6 70 11.67
+
+Penn State A 340, Carnegie Mellon A 150
+Carnegie Mellon A: Sameer Apte 2 4 3 55, David Neiman 0 0 1 -5, Harrison Lee 0 1 2 0, Ruel Beresford 0 0 0 0
+Penn State A: Victor Prieto 1 3 1 40, Bruce McAninch 0 6 0 60, Colton Sanden 0 0 0 0, Saimun Shahee 0 1 0 10
+Bonuses: Carnegie Mellon A 7 100 14.29, Penn State A 11 230 20.91
+
+UMD A 425, Delaware 135
+UMD A: Caleb Kendrick 1 6 2 65, Graham Reid 1 1 0 25, Weijia Cheng 1 1 1 20, Justin Hawkins 1 1 0 25
+Delaware: Eric Wolfsberg 0 5 1 45, Sophia Marianiello 0 0 0 0, Rohan Narayan 0 0 0 0
+Bonuses: UMD A 13 290 22.31, Delaware 5 90 18.00
+
+Pitt 135, Penn State C 65
+Pitt: Walt Young 0 7 0 70, Calvin Yu 0 1 0 10, Mo Elfayoumi 0 1 1 5
+Penn State C: Alex Ellis 0 2 1 15, Aiden Cunningham 0 2 1 15, Tatyana Zvorsky 0 0 1 -5, Adithya Sadagopan 0 0 0 0
+Bonuses: Pitt 9 50 5.56, Penn State C 4 40 10.00
+
+Columbia A 325, UVA A 275
+Columbia A: Rafael Krichevsky 4 5 0 110, Gerhardt Hinkle 0 0 0 0, Julia Tong 0 1 0 10, Jeremy lema 0 0 1 -5
+UVA A: Eric Xu 0 3 0 30, Jack Mehr 0 3 1 25, Nick Collins 1 1 0 25, John Connor 1 0 0 15
+Bonuses: Columbia A 10 210 21.00, UVA A 9 180 20.00
+
+Princeton A 255, NYU B 110
+Princeton A: Nathaniel Hull 0 7 0 70, Monty James 0 1 1 5, Eve Fleisig 1 3 1 40
+NYU B: Lev Bernstein 0 0 0 0, Doug Simons 1 3 0 45, Rohan Vora 0 1 2 0, Oliver Xu 0 1 1 5
+Bonuses: Princeton A 12 140 11.67, NYU B 6 60 10.00
+
+NYU A 255, West Egg 95
+NYU A: Mitch Baron 0 3 1 25, Rahul Rao-Pothuraju 0 4 1 35, Danny Richardson 0 0 0 0, Harrison Whitaker 2 2 1 45
+West Egg: Noah Sheidlower 0 5 3 35, Sammy Katzman 0 0 1 -5, Ethan Vainrib 0 1 1 5, Jay Kim 0 0 0 0
+Bonuses: NYU A 11 150 13.64, West Egg 6 60 10.00
+
+Gettysburg 345, Columbia B 55
+Columbia B: Antonio Camara 1 0 1 10, Jackson Painter 0 1 0 10, Elise Schlecht 0 1 0 10, Jeff Xie 0 0 1 -5
+Gettysburg: Ryan Bilger 0 13 1 125, Danny Greenblatt 1 0 1 10, Ryzeson Maravich 0 0 0 0
+Bonuses: Columbia B 3 30 10.00, Gettysburg 14 210 15.00
+
+Cornell A 285, NYU C 115
+NYU C: Andrew Ankersen 0 3 0 30, Rachel Cameron 0 0 0 0, Ben Davis 0 2 0 20, Joshua Jones 0 1 1 5
+Cornell A: Amith Punyala 0 4 2 30, Jonathan Tran 2 0 0 30, Daniel Xu 0 5 1 45, Brandon Zhang 0 0 0 0
+Bonuses: NYU C 6 60 10.00, Cornell A 11 180 16.36
+
+Miami Valley 250, Cornell B 160
+Cornell B: Carson Gresens 0 1 1 5, Allan Lee 0 3 0 30, Atharv Garje 0 3 1 25
+Miami Valley: John John Groger 0 8 0 80, William Groger 0 2 0 20
+Bonuses: Cornell B 7 100 14.29, Miami Valley 10 150 15.00
+
+UMD B 455, JHU A 145
+UMD B: Jack Lewis 2 3 0 60, Vishwa Shanmugam 3 4 0 85, Adam Howlett 0 2 0 20, Jason Shi 0 1 0 10
+JHU A: Eric Bobrow 1 2 0 35, Robert Chu 1 0 1 10, Walter Zhao 0 0 0 0
+Bonuses: UMD B 15 280 18.67, JHU A 4 100 25.00
+
+Wilmington Charter 200, Cornell C 175
+Cornell C: Eric Dai 1 4 0 55, Cole Horvath 0 2 0 20, Ernest Li 0 2 0 20
+Wilmington Charter: Sohum Shenoy 0 4 1 35, Waley He 1 4 0 55, Prasanna Krishnamoorthy 0 0 0 0, Rishith Ramamurthy 0 0 0 0
+Bonuses: Cornell C 9 80 8.89, Wilmington Charter 9 110 12.22
+
+High Tech A 240, Penn State B 140
+Penn State B: Andy Huang 0 3 0 30, Bryce Katch 0 1 1 5, Dan Nguyen 0 1 1 5, Ashish Kumbhardare 0 1 0 10
+High Tech A: Michael Li 0 3 1 25, Steven Liu 0 3 1 25, Darren Petrosino 1 3 0 45, Deepak Gopalakrishnan 0 1 1 5
+Bonuses: Penn State B 6 90 15.00, High Tech A 11 140 12.73
+
+SHU 435, Penn Manor 20
+Penn Manor: Connor Mayers 0 2 0 20, Audrey Ritchie 0 0 0 0, Kyle Stigelman 0 0 0 0
+SHU: Chris Manners 2 13 1 155
+Bonuses: Penn Manor 2 0 0.00, SHU 15 280 18.67
+
+UVA B 250, Carnegie Mellon B 125
+UVA B: Quinn LeGallo-Malone 0 5 1 45, Goutham Thiagarajan 0 1 0 10, Reese Fulgenzi 0 5 0 50, Udayan Kumra 0 0 1 -5
+Carnegie Mellon B: Jackie Wu 0 0 0 0, Sebastian La Duca 0 1 0 10, Gabriel Chuang 0 1 0 10, Andy Kong 0 4 3 25
+Bonuses: UVA B 11 150 13.64, Carnegie Mellon B 6 80 13.33
+
+Beavercreek 290, High Tech B 95
+Beavercreek: Hari Parameswaran 2 10 2 120, Abby Cohen 0 0 0 0, Tegan Kapadia 0 0 0 0, Tiffany Zhou 0 0 0 0
+High Tech B: Ivy Wang 0 1 0 10, Anna Cai 1 0 1 10, Cole Snedeker 0 0 0 0, Frank Grabowksi 0 1 0 10, Samuel Hampel 1 2 0 35
+Bonuses: Beavercreek 12 170 14.17, High Tech B 6 30 5.00
+
+Round 6
+High Tech A 305, Virginia Tech 95
+Virginia Tech: Nick Luca 0 1 0 10, Jack Huguenin 1 2 2 25, Alia Wilson 0 1 0 10, Mahdi Alkafawi 0 0 0 0
+High Tech A: Michael Li 0 3 0 30, Steven Liu 0 3 0 30, Darren Petrosino 0 2 1 15, Deepak Gopalakrishnan 0 4 2 30
+Bonuses: Virginia Tech 5 50 10.00, High Tech A 12 200 16.67
+
+Robert Bork B 325, UMD C 140
+UMD C: Tanay Wakhare 0 1 1 5, Ani Perumalla 0 3 0 30, Jonathan Moore 0 0 1 -5, Dillon D'Rozario 0 2 0 20
+Robert Bork B: Prithvi Nathan 0 2 0 20, Sohom Paul 1 2 0 35, William Wang 1 5 1 60, Ryan Xu 0 2 0 20
+Bonuses: UMD C 6 90 15.00, Robert Bork B 13 190 14.62
+
+Penn State A 225, Ilium 200
+Ilium: Isaiah Gutman 0 2 0 20, Aidan Uckun 0 1 0 10, Julian Perry 0 4 0 40, Kaelan Imani 0 2 0 20
+Penn State A: Victor Prieto 0 5 2 40, Bruce McAninch 1 2 1 30, Colton Sanden 0 1 3 -5, Saimun Shahee 0 0 0 0
+Bonuses: Ilium 9 110 12.22, Penn State A 9 160 17.78
+
+Yale 555, Delaware 175
+Yale: Jacob Reed 4 4 0 100, Stephen Eltinge 2 3 0 60, Moses Kitakule 1 0 0 15
+Delaware: Eric Wolfsberg 1 2 1 30, Sophia Marianiello 0 0 0 0, Rohan Narayan 1 2 0 35
+Bonuses: Yale 14 380 27.14, Delaware 6 110 18.33
+
+JHU B 160, Princeton B 75
+JHU B: Vinu Harihar 0 2 1 15, Leland Held 0 2 2 10, Aditi Jithendra 0 0 0 0, Sebastian Llaca 0 4 1 35
+Princeton B: Ana Pranger 0 3 0 30, Ned Furlong 0 2 0 20, Jack Edmondson 0 0 1 -5
+Bonuses: JHU B 8 100 12.50, Princeton B 5 30 6.00
+
+Carnegie Mellon A 415, Penn Manor 40
+Carnegie Mellon A: Sameer Apte 2 6 0 90, David Neiman 0 6 0 60, Harrison Lee 0 1 0 10, Ruel Beresford 0 1 1 5
+Penn Manor: Connor Mayers 0 3 0 30, Audrey Ritchie 0 0 0 0, Kyle Stigelman 0 0 0 0
+Bonuses: Carnegie Mellon A 16 250 15.62, Penn Manor 3 10 3.33
+
+Columbia B 220, NYU C 75
+Columbia B: Antonio Camara 0 2 0 20, Jackson Painter 1 5 1 60, Elise Schlecht 0 1 0 10, Jeff Xie 0 1 2 0
+NYU C: Andrew Ankersen 0 4 1 35, Rachel Cameron 0 0 0 0, Joshua Jones 0 0 0 0, Alan Sun 0 0 0 0
+Bonuses: Columbia B 10 130 13.00, NYU C 4 40 10.00
+
+Gettysburg 345, Princeton A 55
+Princeton A: Nathaniel Hull 0 2 0 20, Monty James 0 0 2 -10, Eve Fleisig 0 1 1 5
+Gettysburg: Ryan Bilger 2 8 0 110, Danny Greenblatt 1 1 0 25, Ryzeson Maravich 0 1 0 10
+Bonuses: Princeton A 3 40 13.33, Gettysburg 13 200 15.38
+
+UVA A 510, NYU B 50
+UVA A: Eric Xu 0 6 1 55, Jack Mehr 1 1 0 25, Nick Collins 3 2 1 60, John Connor 2 0 0 30
+NYU B: Lev Bernstein 0 0 0 0, Doug Simons 0 2 0 20, Rohan Vora 0 1 2 0, Oliver Xu 0 0 0 0
+Bonuses: UVA A 15 340 22.67, NYU B 3 30 10.00
+
+SHU 235, Penn State B 155
+Penn State B: Andy Huang 0 3 1 25, Bryce Katch 0 2 0 20, Dan Nguyen 0 3 2 20, Ashish Kumbhardare 0 0 0 0
+SHU: Chris Manners 3 6 2 95
+Bonuses: Penn State B 8 90 11.25, SHU 9 140 15.56
+
+Columbia A 470, Pitt 25
+Pitt: Walt Young 1 1 1 20, Calvin Yu 0 0 0 0, Mo Elfayoumi 0 0 1 -5
+Columbia A: Rafael Krichevsky 2 11 3 125, Gerhardt Hinkle 1 2 0 35, Julia Tong 0 0 0 0, Jeremy lema 0 0 0 0
+Bonuses: Pitt 2 10 5.00, Columbia A 16 310 19.38
+
+Cornell A 430, Penn State C 50
+Penn State C: Alex Ellis 0 2 0 20, Aiden Cunningham 0 1 0 10, Tatyana Zvorsky 0 0 0 0, Adithya Sadagopan 0 0 0 0
+Cornell A: Amith Punyala 0 2 0 20, Jonathan Tran 2 1 0 40, Daniel Xu 1 8 3 80, Brandon Zhang 0 1 0 10
+Bonuses: Penn State C 3 20 6.67, Cornell A 15 280 18.67
+
+Beavercreek 310, Cornell B 100
+Cornell B: Carson Gresens 0 1 1 5, Allan Lee 1 3 2 35, Atharv Garje 0 0 0 0
+Beavercreek: Hari Parameswaran 0 12 1 115, Abby Cohen 0 0 0 0, Tegan Kapadia 0 0 0 0, Tiffany Zhou 0 1 1 5
+Bonuses: Cornell B 5 60 12.00, Beavercreek 13 190 14.62
+
+UVA B 220, High Tech B 145
+High Tech B: Ivy Wang 0 4 2 30, Anna Cai 0 0 0 0, Cole Snedeker 0 2 2 10, Frank Grabowksi 0 0 0 0, Samuel Hampel 0 1 1 5
+UVA B: Quinn LeGallo-Malone 0 5 0 50, Goutham Thiagarajan 0 3 0 30, Reese Fulgenzi 0 2 0 20, Udayan Kumra 0 0 0 0
+Bonuses: High Tech B 7 100 14.29, UVA B 10 120 12.00
+
+Carnegie Mellon B 230, Cornell C 110
+Cornell C: Eric Dai 0 0 0 0, Cole Horvath 0 5 0 50, Ernest Li 0 0 2 -10
+Carnegie Mellon B: Jackie Wu 0 3 0 30, Sebastian La Duca 0 0 1 -5, Gabriel Chuang 1 5 0 65, Andy Kong 0 2 0 20
+Bonuses: Cornell C 5 70 14.00, Carnegie Mellon B 11 120 10.91
+
+UMD A 435, West Egg 115
+UMD A: Caleb Kendrick 3 4 3 70, Graham Reid 0 1 1 5, Weijia Cheng 0 3 1 25, Justin Hawkins 1 1 0 25
+West Egg: Noah Sheidlower 0 3 0 30, Sammy Katzman 0 0 1 -5, Ethan Vainrib 0 0 0 0, Jay Kim 0 2 0 20
+Bonuses: UMD A 13 310 23.85, West Egg 5 70 14.00
+
+Robert Bork A 420, NYU A 155
+NYU A: Mitch Baron 0 2 2 10, Rahul Rao-Pothuraju 1 2 0 35, Danny Richardson 0 0 0 0, Harrison Whitaker 0 1 0 10
+Robert Bork A: James Kuang 1 0 0 15, Kevin Wang 0 2 0 20, Fred Zhang 2 6 0 90, Julia Zhou 2 1 1 35
+Bonuses: NYU A 6 100 16.67, Robert Bork A 14 260 18.57
+
+UMD B 445, Wilmington Charter 95
+Wilmington Charter: Sohum Shenoy 0 0 1 -5, Waley He 0 4 1 35, Prasanna Krishnamoorthy 0 0 1 -5, Rishith Ramamurthy 0 0 0 0
+UMD B: Jack Lewis 0 7 1 65, Vishwa Shanmugam 1 4 2 45, Adam Howlett 0 2 0 20, Jason Shi 1 0 0 15
+Bonuses: Wilmington Charter 4 70 17.50, UMD B 15 300 20.00
+
+JHU A 470, Miami Valley 120
+Miami Valley: John John Groger 0 3 0 30, William Groger 0 2 0 20
+JHU A: Eric Bobrow 3 2 2 55, Robert Chu 1 3 0 45, Walter Zhao 2 4 2 60
+Bonuses: Miami Valley 5 70 14.00, JHU A 15 310 20.67
+
+Round 7
+Penn State B 245, Virginia Tech 50
+Virginia Tech: Nick Luca 0 1 1 5, Jack Huguenin 0 1 2 0, Alia Wilson 1 0 0 15, Mahdi Alkafawi 0 0 0 0
+Penn State B: Andy Huang 0 2 2 10, Bryce Katch 0 3 0 30, Dan Nguyen 0 6 2 50, Ashish Kumbhardare 0 1 1 5
+Bonuses: Virginia Tech 3 30 10.00, Penn State B 12 150 12.50
+
+Ilium 265, UMD C 110
+UMD C: Ani Perumalla 0 5 0 50, Jonathan Moore 0 1 0 10, Dillon D'Rozario 0 0 0 0
+Ilium: Isaiah Gutman 0 4 0 40, Aidan Uckun 0 2 1 15, Julian Perry 0 2 2 10, Kaelan Imani 0 3 0 30
+Bonuses: UMD C 6 50 8.33, Ilium 11 170 15.45
+
+Robert Bork B 275, Princeton B 75
+Robert Bork B: Prithvi Nathan 1 0 0 15, Sohom Paul 0 2 1 15, William Wang 0 8 0 80, Ryan Xu 1 0 0 15
+Princeton B: Ana Pranger 0 3 2 20, Ned Furlong 0 0 0 0, Jack Edmondson 0 1 1 5
+Bonuses: Robert Bork B 12 150 12.50, Princeton B 4 50 12.50
+
+Delaware 340, JHU B 150
+JHU B: Vinu Harihar 0 3 0 30, Leland Held 0 0 0 0, Aditi Jithendra 0 1 0 10, Sebastian Llaca 0 3 0 30
+Delaware: Eric Wolfsberg 1 8 2 85, Sophia Marianiello 0 1 0 10, Rohan Narayan 0 2 1 15
+Bonuses: JHU B 7 80 11.43, Delaware 12 230 19.17
+
+Yale 445, Carnegie Mellon A 95
+Yale: Jacob Reed 2 6 1 85, Stephen Eltinge 1 4 0 55, Moses Kitakule 1 1 0 25
+Carnegie Mellon A: Sameer Apte 0 2 0 20, David Neiman 0 0 0 0, Harrison Lee 0 2 0 20, Ruel Beresford 0 0 1 -5
+Bonuses: Yale 15 280 18.67, Carnegie Mellon A 4 60 15.00
+
+Penn State A 420, SHU 85
+SHU: Chris Manners 0 4 1 35
+Penn State A: Victor Prieto 1 6 1 70, Bruce McAninch 0 4 0 40, Colton Sanden 1 3 0 45, Saimun Shahee 1 0 0 15
+Bonuses: SHU 4 50 12.50, Penn State A 16 250 15.62
+
+Penn State C 175, NYU C 90
+Penn State C: Alex Ellis 0 5 0 50, Aiden Cunningham 0 3 1 25, Tatyana Zvorsky 0 1 0 10, Adithya Sadagopan 0 0 0 0
+NYU C: Andrew Ankersen 0 3 0 30, Rachel Cameron 0 0 0 0, Joshua Jones 0 1 0 10, Alan Sun 0 1 0 10
+Bonuses: Penn State C 9 90 10.00, NYU C 5 40 8.00
+
+Columbia A 400, Cornell A 155
+Columbia A: Rafael Krichevsky 3 5 1 90, Gerhardt Hinkle 0 2 0 20, Julia Tong 0 3 0 30, Jeremy lema 0 0 0 0
+Cornell A: Amith Punyala 2 0 1 25, Jonathan Tran 2 1 0 40, Daniel Xu 0 2 2 10, Brandon Zhang 0 0 2 -10
+Bonuses: Columbia A 13 260 20.00, Cornell A 7 90 12.86
+
+Pitt 155, NYU B 150
+Pitt: Walt Young 0 3 1 25, Calvin Yu 0 1 1 5, Mo Elfayoumi 1 2 0 35
+NYU B: Lev Bernstein 0 1 1 5, Doug Simons 2 4 3 55, Rohan Vora 0 0 1 -5, Oliver Xu 0 0 1 -5
+Bonuses: Pitt 7 90 12.86, NYU B 7 100 14.29
+
+High Tech A 260, NYU A 210
+NYU A: Mitch Baron 0 2 0 20, Rahul Rao-Pothuraju 1 2 0 35, Danny Richardson 0 0 1 -5, Harrison Whitaker 0 3 0 30
+High Tech A: Michael Li 1 1 0 25, Steven Liu 0 2 0 20, Darren Petrosino 0 2 0 20, Deepak Gopalakrishnan 0 5 3 35
+Bonuses: NYU A 8 130 16.25, High Tech A 11 160 14.55
+
+UVA A 375, Gettysburg 185
+UVA A: Eric Xu 1 7 0 85, Jack Mehr 0 1 0 10, Nick Collins 1 1 0 25, John Connor 1 1 0 25
+Gettysburg: Ryan Bilger 3 3 0 75, Danny Greenblatt 0 0 0 0, Ryzeson Maravich 0 0 0 0
+Bonuses: UVA A 13 230 17.69, Gettysburg 6 110 18.33
+
+Princeton A 115, Columbia B 105
+Princeton A: Nathaniel Hull 0 2 1 15, Monty James 1 3 1 40, Eve Fleisig 0 2 4 0
+Columbia B: Antonio Camara 0 3 1 25, Jackson Painter 0 1 0 10, Elise Schlecht 0 1 0 10, Jeff Xie 0 1 0 10
+Bonuses: Princeton A 8 60 7.50, Columbia B 6 50 8.33
+
+UVA B 205, Cornell B 170
+Cornell B: Carson Gresens 0 1 0 10, Allan Lee 1 5 1 60, Atharv Garje 0 2 0 20
+UVA B: Quinn LeGallo-Malone 0 7 0 70, Goutham Thiagarajan 0 0 0 0, Reese Fulgenzi 0 2 0 20, Udayan Kumra 0 1 1 5
+Bonuses: Cornell B 9 80 8.89, UVA B 10 110 11.00
+
+JHU A 325, Beavercreek 235
+JHU A: Eric Bobrow 0 0 1 -5, Robert Chu 3 5 0 95, Walter Zhao 0 3 1 25
+Beavercreek: Hari Parameswaran 3 6 2 95, Abby Cohen 0 0 0 0, Tegan Kapadia 0 0 0 0, Tiffany Zhou 0 0 0 0
+Bonuses: JHU A 11 210 19.09, Beavercreek 9 140 15.56
+
+UMD B 435, Miami Valley 120
+UMD B: Jack Lewis 2 3 2 50, Vishwa Shanmugam 2 7 0 100, Adam Howlett 0 0 0 0, Jason Shi 1 0 0 15
+Miami Valley: John John Groger 1 2 0 35, William Groger 1 1 0 25
+Bonuses: UMD B 15 270 18.00, Miami Valley 5 60 12.00
+
+UMD A 395, Robert Bork A 210
+UMD A: Caleb Kendrick 1 2 2 25, Graham Reid 1 5 0 65, Weijia Cheng 1 2 0 35, Justin Hawkins 0 0 0 0
+Robert Bork A: James Kuang 2 0 0 30, Kevin Wang 1 1 0 25, Fred Zhang 0 3 1 25, Julia Zhou 0 1 0 10
+Bonuses: UMD A 12 270 22.50, Robert Bork A 8 120 15.00
+
+West Egg 260, Penn Manor 60
+West Egg: Noah Sheidlower 0 7 2 60, Sammy Katzman 0 1 0 10, Ethan Vainrib 0 0 0 0, Jay Kim 0 3 0 30
+Penn Manor: Connor Mayers 2 3 2 50, Audrey Ritchie 0 0 0 0, Kyle Stigelman 0 0 0 0
+Bonuses: West Egg 11 160 14.55, Penn Manor 5 10 2.00
+
+Wilmington Charter 305, Carnegie Mellon B 85
+Carnegie Mellon B: Jackie Wu 0 1 0 10, Sebastian La Duca 0 2 4 0, Gabriel Chuang 0 2 0 20, Andy Kong 0 0 1 -5
+Wilmington Charter: Sohum Shenoy 0 5 0 50, Waley He 1 6 2 65, Prasanna Krishnamoorthy 0 0 0 0, Rishith Ramamurthy 0 1 0 10
+Bonuses: Carnegie Mellon B 5 60 12.00, Wilmington Charter 13 180 13.85
+
+Cornell C 220, High Tech B 115
+Cornell C: Eric Dai 0 1 1 5, Cole Horvath 0 9 0 90, Ernest Li 0 0 1 -5
+High Tech B: Ivy Wang 0 2 1 15, Anna Cai 0 0 0 0, Cole Snedeker 0 2 1 15, Frank Grabowksi 0 2 1 15, Samuel Hampel 0 0 0 0
+Bonuses: Cornell C 10 130 13.00, High Tech B 6 70 11.67
+
+Round 8
+UMD A 380, High Tech A 210
+UMD A: Caleb Kendrick 4 1 0 70, Graham Reid 1 3 0 45, Weijia Cheng 1 1 2 15, Justin Hawkins 0 1 0 10
+High Tech A: Michael Li 1 3 1 40, Steven Liu 0 0 1 -5, Darren Petrosino 0 2 0 20, Deepak Gopalakrishnan 0 2 1 15
+Bonuses: UMD A 12 240 20.00, High Tech A 8 140 17.50
+
+Delaware 395, Robert Bork B 85
+Delaware: Eric Wolfsberg 2 8 1 105, Sophia Marianiello 1 1 0 25, Rohan Narayan 1 2 0 35
+Robert Bork B: Prithvi Nathan 0 1 0 10, Sohom Paul 0 1 1 5, William Wang 0 2 0 20, Ryan Xu 0 0 0 0
+Bonuses: Delaware 15 230 15.33, Robert Bork B 4 50 12.50
+
+Princeton B 180, UMD C 160
+UMD C: Tanay Wakhare 0 3 0 30, Ani Perumalla 0 4 4 20, Jonathan Moore 0 0 0 0, Dillon D'Rozario 0 0 0 0
+Princeton B: Ana Pranger 0 4 0 40, Ned Furlong 0 0 0 0, Jack Edmondson 0 5 0 50
+Bonuses: UMD C 7 110 15.71, Princeton B 9 90 10.00
+
+Yale 475, Penn State A 145
+Yale: Jacob Reed 2 3 1 55, Stephen Eltinge 3 4 1 80, Moses Kitakule 0 2 0 20
+Penn State A: Victor Prieto 0 4 0 40, Bruce McAninch 1 0 0 15, Colton Sanden 0 0 0 0, Saimun Shahee 0 0 0 0
+Bonuses: Yale 14 320 22.86, Penn State A 5 90 18.00
+
+Carnegie Mellon A 235, JHU B 180
+JHU B: Vinu Harihar 0 3 0 30, Leland Held 0 2 0 20, Aditi Jithendra 0 0 0 0, Sebastian Llaca 0 3 0 30
+Carnegie Mellon A: Sameer Apte 1 6 1 70, David Neiman 0 0 1 -5, Harrison Lee 0 1 0 10, Ruel Beresford 0 2 2 10
+Bonuses: JHU B 8 100 12.50, Carnegie Mellon A 10 150 15.00
+
+Ilium 235, Penn State B 150
+Penn State B: Andy Huang 0 2 0 20, Bryce Katch 0 1 1 5, Dan Nguyen 0 2 1 15, Ashish Kumbhardare 0 2 0 20
+Ilium: Isaiah Gutman 0 4 0 40, Aidan Uckun 0 1 2 0, Julian Perry 0 3 1 25, Kaelan Imani 0 2 0 20
+Bonuses: Penn State B 7 90 12.86, Ilium 10 150 15.00
+
+Columbia A 485, Penn State C 45
+Penn State C: Alex Ellis 0 1 0 10, Aiden Cunningham 0 0 0 0, Tatyana Zvorsky 0 1 0 10, Adithya Sadagopan 0 1 1 5
+Columbia A: Rafael Krichevsky 3 10 1 140, Gerhardt Hinkle 0 1 0 10, Julia Tong 1 0 0 15, Jeremy lema 0 1 0 10
+Bonuses: Penn State C 3 20 6.67, Columbia A 16 310 19.38
+
+Princeton A 350, NYU C 70
+NYU C: Andrew Ankersen 0 2 0 20, Rachel Cameron 0 2 0 20, Ben Davis 0 0 0 0, Alan Sun 0 0 0 0
+Princeton A: Nathaniel Hull 0 12 1 115, Monty James 1 1 1 20, Eve Fleisig 0 0 1 -5
+Bonuses: NYU C 4 30 7.50, Princeton A 14 220 15.71
+
+UVA A 560, Columbia B 25
+UVA A: Eric Xu 0 9 0 90, Jack Mehr 0 4 1 35, Nick Collins 2 2 0 50, John Connor 1 0 0 15
+Columbia B: Antonio Camara 0 1 0 10, Jackson Painter 0 0 2 -10, Elise Schlecht 0 0 1 -5, Jeff Xie 0 1 0 10
+Bonuses: UVA A 18 370 20.56, Columbia B 2 20 10.00
+
+NYU A 290, Virginia Tech 85
+NYU A: Mitch Baron 0 2 0 20, Rahul Rao-Pothuraju 0 6 0 60, Danny Richardson 0 0 0 0, Harrison Whitaker 1 3 1 40
+Virginia Tech: Nick Luca 0 1 0 10, Jack Huguenin 0 2 0 20, Alia Wilson 0 0 1 -5, Mahdi Alkafawi 0 1 0 10
+Bonuses: NYU A 12 170 14.17, Virginia Tech 4 50 12.50
+
+Gettysburg 405, Pitt -25
+Pitt: Walt Young 0 0 1 -5, Calvin Yu 0 0 1 -5, Mo Elfayoumi 0 0 3 -15
+Gettysburg: Ryan Bilger 1 12 1 130, Danny Greenblatt 1 3 0 45, Ryzeson Maravich 0 0 0 0
+Bonuses: Pitt 0 0 0.00, Gettysburg 17 230 13.53
+
+Cornell A 360, NYU B 95
+NYU B: Lev Bernstein 0 1 1 5, Doug Simons 0 3 0 30, Rohan Vora 0 1 2 0, Oliver Xu 0 0 0 0
+Cornell A: Amith Punyala 0 2 0 20, Jonathan Tran 1 2 1 30, Daniel Xu 0 7 0 70, Brandon Zhang 0 1 0 10
+Bonuses: NYU B 5 60 12.00, Cornell A 13 230 17.69
+
+UMD B 520, Beavercreek 105
+UMD B: Jack Lewis 1 6 1 70, Vishwa Shanmugam 4 4 0 100, Adam Howlett 0 0 0 0, Jason Shi 0 1 0 10
+Beavercreek: Hari Parameswaran 0 1 1 5, Abby Cohen 0 0 0 0, Tegan Kapadia 0 1 0 10, Tiffany Zhou 1 1 1 20
+Bonuses: UMD B 16 340 21.25, Beavercreek 4 70 17.50
+
+JHU A 515, UVA B 60
+JHU A: Eric Bobrow 3 4 0 85, Robert Chu 0 6 1 55, Walter Zhao 2 2 1 45
+UVA B: Quinn LeGallo-Malone 0 1 0 10, Goutham Thiagarajan 0 2 0 20, Reese Fulgenzi 0 0 0 0, Udayan Kumra 0 0 0 0
+Bonuses: JHU A 17 330 19.41, UVA B 3 30 10.00
+
+Cornell C 205, Cornell B 145
+Cornell C: Eric Dai 0 2 0 20, Cole Horvath 0 5 0 50, Ernest Li 1 2 0 35
+Cornell B: Carson Gresens 0 0 0 0, Allan Lee 0 4 2 30, Atharv Garje 0 2 1 15
+Bonuses: Cornell C 10 100 10.00, Cornell B 6 100 16.67
+
+SHU 315, West Egg 130
+SHU: Chris Manners 2 10 1 125
+West Egg: Noah Sheidlower 0 4 0 40, Sammy Katzman 0 0 0 0, Ethan Vainrib 0 1 1 5, Jay Kim 0 1 1 5
+Bonuses: SHU 12 190 15.83, West Egg 6 80 13.33
+
+Robert Bork A 430, Penn Manor 20
+Robert Bork A: James Kuang 2 2 0 50, Kevin Wang 0 3 0 30, Fred Zhang 2 5 2 70, Julia Zhou 0 2 0 20
+Penn Manor: Connor Mayers 0 1 0 10, Audrey Ritchie 0 0 0 0, Kyle Stigelman 0 0 0 0
+Bonuses: Robert Bork A 16 260 16.25, Penn Manor 1 10 10.00
+
+Carnegie Mellon B 315, High Tech B 120
+Carnegie Mellon B: Jackie Wu 0 2 1 15, Sebastian La Duca 0 5 2 40, Gabriel Chuang 0 3 0 30, Andy Kong 0 3 0 30
+High Tech B: Ivy Wang 0 0 1 -5, Cole Snedeker 0 1 0 10, Frank Grabowksi 0 2 0 20, Samuel Hampel 0 2 1 15
+Bonuses: Carnegie Mellon B 13 200 15.38, High Tech B 5 80 16.00
+
+Miami Valley 305, Wilmington Charter 185
+Miami Valley: John John Groger 0 10 0 100, William Groger 0 3 1 25
+Wilmington Charter: Sohum Shenoy 0 2 1 15, Waley He 0 4 0 40, Prasanna Krishnamoorthy 0 0 0 0, Rishith Ramamurthy 0 1 0 10
+Bonuses: Miami Valley 13 180 13.85, Wilmington Charter 7 120 17.14
+
+Round 9
+SHU 340, Robert Bork A 210
+Robert Bork A: James Kuang 0 0 2 -10, Kevin Wang 1 1 0 25, Fred Zhang 1 5 0 65, Julia Zhou 0 0 0 0
+SHU: Chris Manners 4 8 0 140
+Bonuses: Robert Bork A 8 130 16.25, SHU 12 200 16.67
+
+Penn State A 355, JHU B 90
+Penn State A: Victor Prieto 0 5 1 45, Bruce McAninch 1 4 1 50, Colton Sanden 0 2 0 20, Saimun Shahee 0 1 0 10
+JHU B: Vinu Harihar 0 2 0 20, Leland Held 0 1 0 10, Aditi Jithendra 0 1 1 5, Sebastian Llaca 0 0 1 -5
+Bonuses: Penn State A 13 230 17.69, JHU B 4 60 15.00
+
+Carnegie Mellon A 365, Robert Bork B 135
+Robert Bork B: Prithvi Nathan 0 2 1 15, Sohom Paul 1 2 0 35, William Wang 0 0 1 -5, Ryan Xu 0 1 0 10
+Carnegie Mellon A: Sameer Apte 0 11 1 105, David Neiman 0 1 1 5, Harrison Lee 0 0 0 0, Ruel Beresford 1 0 0 15
+Bonuses: Robert Bork B 6 80 13.33, Carnegie Mellon A 13 240 18.46
+
+Ilium 240, Princeton B 60
+Ilium: Isaiah Gutman 0 2 2 10, Aidan Uckun 0 1 0 10, Julian Perry 1 5 1 60, Kaelan Imani 0 2 0 20
+Princeton B: Ana Pranger 0 1 0 10, Ned Furlong 0 1 2 0, Jack Edmondson 0 2 0 20
+Bonuses: Ilium 11 140 12.73, Princeton B 4 30 7.50
+
+Delaware 385, UMD C 150
+Delaware: Eric Wolfsberg 1 7 4 65, Sophia Marianiello 1 0 0 15, Rohan Narayan 0 4 1 35
+UMD C: Tanay Wakhare 0 2 1 15, Ani Perumalla 1 3 0 45, Jonathan Moore 0 0 0 0, Dillon D'Rozario 0 0 0 0
+Bonuses: Delaware 13 270 20.77, UMD C 6 90 15.00
+
+Columbia B 185, Pitt 80
+Pitt: Emily Dickson 0 1 0 10, Walt Young 0 5 1 45, Calvin Yu 0 0 0 0, Mo Elfayoumi 0 0 1 -5
+Columbia B: Antonio Camara 0 3 1 25, Jackson Painter 0 2 0 20, Elise Schlecht 0 3 0 30, Jeff Xie 0 0 2 -10
+Bonuses: Pitt 6 30 5.00, Columbia B 8 120 15.00
+
+UVA A 485, Princeton A 35
+UVA A: Eric Xu 1 6 4 55, Jack Mehr 2 2 1 45, Nick Collins 0 3 0 30, John Connor 1 0 0 15
+Princeton A: Nathaniel Hull 0 1 0 10, Monty James 0 1 2 0, Eve Fleisig 0 0 1 -5
+Bonuses: UVA A 15 340 22.67, Princeton A 2 30 15.00
+
+Columbia A 505, NYU C 30
+NYU C: Andrew Ankersen 0 1 0 10, Ben Davis 0 0 2 -10, Joshua Jones 0 1 0 10, Alan Sun 0 0 0 0
+Columbia A: Rafael Krichevsky 3 7 2 105, Gerhardt Hinkle 1 1 1 20, Julia Tong 2 2 0 50, Jeremy lema 0 0 0 0
+Bonuses: NYU C 2 20 10.00, Columbia A 16 330 20.62
+
+High Tech A 335, Penn Manor 90
+Penn Manor: Connor Mayers 0 5 0 50, Audrey Ritchie 0 0 0 0, Kyle Stigelman 0 0 0 0
+High Tech A: Michael Li 0 3 0 30, Steven Liu 1 2 0 35, Darren Petrosino 0 3 2 20, Deepak Gopalakrishnan 0 4 2 30
+Bonuses: Penn Manor 5 40 8.00, High Tech A 13 220 16.92
+
+NYU B 260, Penn State C 105
+Penn State C: Alex Ellis 0 2 0 20, Aiden Cunningham 0 2 1 15, Tatyana Zvorsky 0 1 0 10, Adithya Sadagopan 0 0 0 0
+NYU B: Lev Bernstein 1 0 1 10, Doug Simons 1 3 2 35, Rohan Vora 1 5 0 65, Oliver Xu 0 0 0 0
+Bonuses: Penn State C 5 60 12.00, NYU B 11 150 13.64
+
+Cornell A 260, Gettysburg 200
+Gettysburg: Ryan Bilger 1 5 0 65, Danny Greenblatt 1 0 0 15, Ryzeson Maravich 0 1 0 10
+Cornell A: Amith Punyala 0 1 2 0, Jonathan Tran 2 1 1 35, Daniel Xu 1 2 0 35, Brandon Zhang 0 1 0 10
+Bonuses: Gettysburg 8 110 13.75, Cornell A 8 180 22.50
+
+Wilmington Charter 310, High Tech B 75
+Wilmington Charter: Sohum Shenoy 1 6 0 75, Waley He 0 6 2 50, Prasanna Krishnamoorthy 0 0 0 0, Rishith Ramamurthy 0 1 1 5
+High Tech B: Ivy Wang 0 1 0 10, Anna Cai 0 0 0 0, Cole Snedeker 0 1 0 10, Frank Grabowksi 0 1 0 10, Samuel Hampel 0 1 1 5
+Bonuses: Wilmington Charter 14 180 12.86, High Tech B 4 40 10.00
+
+Carnegie Mellon B 245, Cornell B 195
+Carnegie Mellon B: Jackie Wu 0 3 0 30, Sebastian La Duca 1 1 1 20, Gabriel Chuang 0 3 1 25, Andy Kong 1 0 1 10
+Cornell B: Carson Gresens 0 1 0 10, Allan Lee 1 4 2 45, Atharv Garje 1 2 1 30
+Bonuses: Carnegie Mellon B 9 160 17.78, Cornell B 9 110 12.22
+
+JHU A 520, Cornell C 50
+Cornell C: Cole Horvath 0 0 0 0, Ernest Li 1 2 1 30
+JHU A: Eric Bobrow 0 5 0 50, Robert Chu 2 7 1 95, Walter Zhao 0 2 1 15
+Bonuses: Cornell C 3 20 6.67, JHU A 16 360 22.50
+
+NYU A 265, Penn State B 155
+NYU A: Mitch Baron 1 1 0 25, Rahul Rao-Pothuraju 1 5 2 55, Danny Richardson 0 0 0 0, Harrison Whitaker 0 3 3 15
+Penn State B: Andy Huang 1 1 0 25, Bryce Katch 0 3 2 20, Dan Nguyen 0 1 0 10, Ashish Kumbhardare 0 0 0 0
+Bonuses: NYU A 11 170 15.45, Penn State B 6 100 16.67
+
+UMD A 620, Virginia Tech 25
+UMD A: Caleb Kendrick 4 6 2 110, Graham Reid 1 3 0 45, Weijia Cheng 1 3 0 45, Justin Hawkins 0 0 0 0
+Virginia Tech: Nick Luca 0 0 0 0, Jack Huguenin 0 1 0 10, Alia Wilson 0 0 0 0, Mahdi Alkafawi 0 0 1 -5
+Bonuses: UMD A 18 420 23.33, Virginia Tech 1 20 20.00
+
+UMD B 390, UVA B 145
+UMD B: Jack Lewis 1 2 0 35, Vishwa Shanmugam 2 6 1 85, Adam Howlett 0 2 1 15, Jason Shi 0 0 1 -5
+UVA B: Quinn LeGallo-Malone 0 1 0 10, Goutham Thiagarajan 0 3 0 30, Reese Fulgenzi 1 1 0 25, Udayan Kumra 0 0 0 0
+Bonuses: UMD B 13 260 20.00, UVA B 6 80 13.33
+
+Beavercreek 300, Miami Valley 160
+Miami Valley: John John Groger 0 2 0 20, William Groger 0 4 0 40
+Beavercreek: Hari Parameswaran 1 9 3 90, Abby Cohen 0 0 0 0, Tegan Kapadia 1 1 0 25, Tiffany Zhou 0 0 1 -5
+Bonuses: Miami Valley 6 100 16.67, Beavercreek 12 190 15.83
+
+Round 10
+UMD B 375, Delaware 240
+Delaware: Eric Wolfsberg 2 4 0 70, Sophia Marianiello 0 1 0 10, Rohan Narayan 0 0 0 0
+UMD B: Jack Lewis 3 3 1 70, Vishwa Shanmugam 2 3 0 60, Adam Howlett 1 0 1 10, Jason Shi 1 0 0 15
+Bonuses: Delaware 7 160 22.86, UMD B 13 220 16.92
+
+UMD A 325, Robert Bork A 265
+Robert Bork A: James Kuang 3 0 1 40, Kevin Wang 0 2 0 20, Fred Zhang 2 2 1 45, Julia Zhou 0 0 0 0
+UMD A: Caleb Kendrick 2 3 1 55, Graham Reid 2 1 0 40, Weijia Cheng 1 0 0 15, Justin Hawkins 1 1 0 25
+Bonuses: Robert Bork A 9 160 17.78, UMD A 11 190 17.27
+
+UVA A 335, Columbia A 285
+UVA A: Eric Xu 1 2 1 30, Jack Mehr 2 0 0 30, Nick Collins 3 1 0 55, John Connor 0 2 0 20
+Columbia A: Rafael Krichevsky 2 4 0 70, Gerhardt Hinkle 0 0 0 0, Julia Tong 0 1 0 10, Jeremy lema 1 1 0 25
+Bonuses: UVA A 11 200 18.18, Columbia A 9 180 20.00
+
+Cornell A 265, Beavercreek 220
+Cornell A: Amith Punyala 0 0 2 -10, Jonathan Tran 3 1 0 55, Daniel Xu 3 3 1 70, Brandon Zhang 0 0 0 0
+Beavercreek: Hari Parameswaran 1 5 1 60, Abby Cohen 0 2 0 20, Tegan Kapadia 0 0 0 0, Tiffany Zhou 0 0 0 0
+Bonuses: Cornell A 10 150 15.00, Beavercreek 8 140 17.50
+
+High Tech A 270, Penn State A 230
+High Tech A: Michael Li 0 1 0 10, Steven Liu 0 2 0 20, Darren Petrosino 1 4 0 55, Deepak Gopalakrishnan 0 2 1 15
+Penn State A: Victor Prieto 1 6 0 75, Bruce McAninch 0 1 0 10, Colton Sanden 1 0 0 15, Saimun Shahee 0 0 0 0
+Bonuses: High Tech A 10 170 17.00, Penn State A 9 130 14.44
+
+Yale 415, JHU A 230
+Yale: Jacob Reed 4 3 0 90, Stephen Eltinge 2 4 0 70, Moses Kitakule 0 0 1 -5
+JHU A: Eric Bobrow 0 1 0 10, Robert Chu 0 5 1 45, Walter Zhao 1 0 0 15
+Bonuses: Yale 13 260 20.00, JHU A 7 160 22.86
+
+NYU B 190, Wilmington Charter 180
+Wilmington Charter: Sohum Shenoy 1 4 2 45, Waley He 0 4 1 35, Prasanna Krishnamoorthy 0 0 0 0, Rishith Ramamurthy 0 0 0 0
+NYU B: Lev Bernstein 0 1 2 0, Doug Simons 0 4 2 30, Rohan Vora 1 2 1 30, Oliver Xu 0 1 0 10
+Bonuses: Wilmington Charter 9 100 11.11, NYU B 9 120 13.33
+
+Gettysburg 310, Miami Valley 185
+Gettysburg: Ryan Bilger 2 7 2 90, Danny Greenblatt 0 2 0 20, Ryzeson Maravich 0 1 0 10
+Miami Valley: John John Groger 1 5 0 65, William Groger 0 2 0 20
+Bonuses: Gettysburg 12 190 15.83, Miami Valley 8 100 12.50
+
+Princeton A 245, SHU 170
+SHU: Chris Manners 1 7 1 80
+Princeton A: Nathaniel Hull 2 3 0 60, Monty James 1 3 0 45, Eve Fleisig 0 1 2 0
+Bonuses: SHU 8 90 11.25, Princeton A 10 140 14.00
+
+Robert Bork B 215, West Egg 175
+Robert Bork B: Prithvi Nathan 0 0 0 0, Sohom Paul 0 3 0 30, William Wang 1 3 1 40, Ryan Xu 1 2 0 35
+West Egg: Noah Sheidlower 0 3 1 25, Sammy Katzman 0 0 0 0, Ethan Vainrib 1 3 1 40, Jay Kim 0 0 0 0
+Bonuses: Robert Bork B 10 110 11.00, West Egg 7 110 15.71
+
+Virginia Tech 205, Pitt 160
+Pitt: Emily Dickson 0 3 0 30, Walt Young 0 5 1 45, Calvin Yu 0 0 0 0, Mo Elfayoumi 0 0 1 -5
+Virginia Tech: Nick Luca 0 2 0 20, Jack Huguenin 0 6 1 55, Alia Wilson 0 0 0 0, Mahdi Alkafawi 0 2 0 20
+Bonuses: Pitt 8 90 11.25, Virginia Tech 10 110 11.00
+
+Carnegie Mellon A 275, UVA B 205
+UVA B: Quinn LeGallo-Malone 0 5 0 50, Goutham Thiagarajan 0 2 0 20, Reese Fulgenzi 0 3 0 30, Udayan Kumra 0 0 1 -5
+Carnegie Mellon A: Sameer Apte 0 4 1 35, David Neiman 0 1 0 10, Harrison Lee 1 2 1 30, Ruel Beresford 0 2 0 20
+Bonuses: UVA B 10 110 11.00, Carnegie Mellon A 10 180 18.00
+
+Princeton B 220, High Tech B 175
+High Tech B: Anna Cai 0 2 0 20, Cole Snedeker 0 2 0 20, Frank Grabowksi 0 3 0 30, Samuel Hampel 1 1 0 25
+Princeton B: Ana Pranger 1 4 1 50, Ned Furlong 0 1 0 10, Jack Edmondson 0 4 0 40
+Bonuses: High Tech B 9 80 8.89, Princeton B 10 120 12.00
+
+Cornell B 275, NYU C 70
+NYU C: Andrew Ankersen 1 4 0 55, Rachel Cameron 0 0 0 0, Ben Davis 0 0 0 0, Joshua Jones 0 0 1 -5, Alan Sun 0 0 0 0
+Cornell B: Carson Gresens 0 0 1 -5, Allan Lee 2 8 0 110, Atharv Garje 0 3 0 30
+Bonuses: NYU C 5 20 4.00, Cornell B 13 140 10.77
+
+Carnegie Mellon B 345, JHU B 130
+JHU B: Vinu Harihar 0 0 1 -5, Leland Held 0 2 0 20, Aditi Jithendra 0 0 0 0, Sebastian Llaca 1 3 0 45
+Carnegie Mellon B: Jackie Wu 0 3 2 20, Sebastian La Duca 1 3 0 45, Gabriel Chuang 1 2 0 35, Andy Kong 1 2 0 35
+Bonuses: JHU B 6 70 11.67, Carnegie Mellon B 13 210 16.15
+
+Penn State B 250, Columbia B 200
+Columbia B: Antonio Camara 0 3 0 30, Jackson Painter 1 2 0 35, Elise Schlecht 0 1 0 10, Jeff Xie 0 1 1 5
+Penn State B: Andy Huang 0 3 1 25, Bryce Katch 1 2 0 35, Dan Nguyen 1 2 0 35, Ashish Kumbhardare 0 1 1 5
+Bonuses: Columbia B 8 120 15.00, Penn State B 10 150 15.00
+
+Penn Manor 180, UMD C 165
+Penn Manor: Connor Mayers 2 7 0 100, Audrey Ritchie 0 0 0 0, Kyle Stigelman 0 1 0 10
+UMD C: Tanay Wakhare 0 3 0 30, Ani Perumalla 2 3 1 55, Jonathan Moore 0 0 0 0, Dillon D'Rozario 0 1 0 10
+Bonuses: Penn Manor 10 70 7.00, UMD C 9 70 7.78
+
+Ilium 300, NYU A 155
+NYU A: Mitch Baron 0 2 0 20, Rahul Rao-Pothuraju 1 1 0 25, Danny Richardson 0 0 0 0, Harrison Whitaker 0 3 0 30
+Ilium: Isaiah Gutman 0 5 0 50, Aidan Uckun 0 2 0 20, Julian Perry 2 2 0 50, Kaelan Imani 0 2 0 20
+Bonuses: NYU A 7 80 11.43, Ilium 13 160 12.31
+
+Cornell C 225, Penn State C 150
+Penn State C: Alex Ellis 1 3 0 45, Aiden Cunningham 0 1 1 5, Tatyana Zvorsky 0 1 0 10, Adithya Sadagopan 0 1 0 10
+Cornell C: Eric Dai 0 0 0 0, Cole Horvath 0 7 1 65, Ernest Li 0 3 0 30
+Bonuses: Penn State C 7 80 11.43, Cornell C 10 130 13.00
+
+Round 11
+UMD A 500, Delaware 160
+Delaware: Eric Wolfsberg 2 3 0 60, Sophia Marianiello 0 0 0 0, Rohan Narayan 0 0 0 0
+UMD A: Caleb Kendrick 3 3 1 70, Graham Reid 2 1 0 40, Weijia Cheng 1 1 0 25, Justin Hawkins 2 2 1 45
+Bonuses: Delaware 5 100 20.00, UMD A 15 320 21.33
+
+UMD B 320, Robert Bork A 195
+Robert Bork A: James Kuang 0 1 0 10, Kevin Wang 0 1 0 10, Fred Zhang 1 4 0 55, Julia Zhou 0 0 0 0
+UMD B: Jack Lewis 0 3 1 25, Vishwa Shanmugam 2 3 3 45, Adam Howlett 2 0 0 30, Jason Shi 0 0 0 0
+Bonuses: Robert Bork A 7 120 17.14, UMD B 10 220 22.00
+
+Yale 450, UVA A 190
+UVA A: Eric Xu 0 0 1 -5, Jack Mehr 2 1 0 40, Nick Collins 1 1 0 25, John Connor 1 0 1 10
+Yale: Jacob Reed 4 6 0 120, Stephen Eltinge 2 1 0 40, Moses Kitakule 0 0 0 0
+Bonuses: UVA A 6 120 20.00, Yale 13 290 22.31
+
+Penn State A 415, Beavercreek 110
+Penn State A: Victor Prieto 1 7 0 85, Bruce McAninch 0 2 1 15, Colton Sanden 0 1 0 10, Saimun Shahee 1 4 0 55
+Beavercreek: Hari Parameswaran 0 2 3 5, Abby Cohen 0 1 0 10, Tegan Kapadia 0 1 0 10, Tiffany Zhou 0 0 1 -5
+Bonuses: Penn State A 16 250 15.62, Beavercreek 4 90 22.50
+
+Cornell A 360, High Tech A 50
+High Tech A: Michael Li 0 1 2 0, Steven Liu 0 1 3 -5, Darren Petrosino 0 0 0 0, Deepak Gopalakrishnan 0 1 1 5
+Cornell A: Amith Punyala 0 3 1 25, Jonathan Tran 1 1 0 25, Daniel Xu 2 5 0 80, Brandon Zhang 0 2 0 20
+Bonuses: High Tech A 3 50 16.67, Cornell A 14 210 15.00
+
+JHU A 295, Columbia A 260
+Columbia A: Rafael Krichevsky 2 4 0 70, Gerhardt Hinkle 0 1 0 10, Julia Tong 1 0 0 15, Jeremy lema 0 1 1 5
+JHU A: Eric Bobrow 0 2 0 20, Robert Chu 4 3 0 90, Walter Zhao 1 0 0 15
+Bonuses: Columbia A 9 160 17.78, JHU A 10 170 17.00
+
+Gettysburg 240, NYU A 235
+Gettysburg: Ryan Bilger 3 5 1 90, Danny Greenblatt 0 0 1 -5, Ryzeson Maravich 1 0 0 15
+NYU A: Mitch Baron 0 3 0 30, Rahul Rao-Pothuraju 1 3 0 45, Danny Richardson 0 0 0 0, Harrison Whitaker 0 3 0 30
+Bonuses: Gettysburg 9 140 15.56, NYU A 10 130 13.00
+
+Princeton A 225, Carnegie Mellon A 135
+Carnegie Mellon A: Sameer Apte 0 4 1 35, David Neiman 0 1 2 0, Harrison Lee 0 1 2 0, Ruel Beresford 0 1 2 0
+Princeton A: Nathaniel Hull 1 5 2 55, Monty James 0 2 2 10, Eve Fleisig 0 2 0 20
+Bonuses: Carnegie Mellon A 7 100 14.29, Princeton A 10 140 14.00
+
+Wilmington Charter 165, Robert Bork B 100
+Robert Bork B: Prithvi Nathan 0 0 1 -5, Sohom Paul 0 3 1 25, William Wang 1 2 1 30, Ryan Xu 0 0 0 0
+Wilmington Charter: Sohum Shenoy 0 3 4 10, Waley He 0 4 3 25, Prasanna Krishnamoorthy 0 0 0 0, Rishith Ramamurthy 0 1 0 10
+Bonuses: Robert Bork B 6 50 8.33, Wilmington Charter 8 120 15.00
+
+Cornell C 190, Pitt 55
+Pitt: Emily Dickson 0 0 1 -5, Walt Young 1 1 0 25, Calvin Yu 0 0 0 0, Mo Elfayoumi 0 1 3 -5
+Cornell C: Eric Dai 0 0 0 0, Cole Horvath 0 6 0 60, Ernest Li 0 4 0 40
+Bonuses: Pitt 3 40 13.33, Cornell C 10 90 9.00
+
+SHU 230, UVA B 150
+UVA B: Quinn LeGallo-Malone 1 5 2 55, Goutham Thiagarajan 0 1 0 10, Reese Fulgenzi 0 0 0 0, Udayan Kumra 0 0 1 -5
+SHU: Chris Manners 1 8 1 90
+Bonuses: UVA B 7 90 12.86, SHU 9 140 15.56
+
+Princeton B 170, Cornell B 160
+Cornell B: Carson Gresens 0 1 0 10, Allan Lee 0 3 4 10, Atharv Garje 0 3 0 30
+Princeton B: Ana Pranger 0 2 0 20, Ned Furlong 0 3 0 30, Jack Edmondson 0 3 0 30
+Bonuses: Cornell B 7 110 15.71, Princeton B 8 90 11.25
+
+Penn Manor 120, NYU C 10
+NYU C: Andrew Ankersen 0 0 3 -15, Rachel Cameron 0 1 0 10, Joshua Jones 0 1 1 5, Alan Sun 0 0 0 0
+Penn Manor: Connor Mayers 0 7 0 70, Audrey Ritchie 0 0 0 0, Kyle Stigelman 0 1 0 10
+Bonuses: NYU C 2 10 5.00, Penn Manor 8 40 5.00
+
+JHU B 200, Penn State B 165
+JHU B: Vinu Harihar 0 4 0 40, Leland Held 0 2 0 20, Aditi Jithendra 0 1 0 10, Sebastian Llaca 0 1 0 10
+Penn State B: Andy Huang 0 0 0 0, Bryce Katch 0 4 1 35, Dan Nguyen 0 1 0 10, Ashish Kumbhardare 0 2 0 20
+Bonuses: JHU B 8 120 15.00, Penn State B 7 100 14.29
+
+Columbia B 170, Carnegie Mellon B 140
+Columbia B: Antonio Camara 0 3 2 20, Jackson Painter 0 1 0 10, Elise Schlecht 0 3 0 30, Jeff Xie 0 2 0 20
+Carnegie Mellon B: Jackie Wu 1 0 0 15, Sebastian La Duca 1 2 1 30, Gabriel Chuang 0 1 1 5, Andy Kong 0 1 0 10
+Bonuses: Columbia B 9 90 10.00, Carnegie Mellon B 6 80 13.33
+
+UMD C 225, High Tech B 60
+High Tech B: Anna Cai 0 0 0 0, Cole Snedeker 0 1 1 5, Frank Grabowksi 0 3 1 25, Samuel Hampel 0 1 0 10
+UMD C: Tanay Wakhare 1 3 0 45, Ani Perumalla 0 6 2 50, Jonathan Moore 0 0 0 0, Dillon D'Rozario 0 0 0 0
+Bonuses: High Tech B 5 20 4.00, UMD C 10 130 13.00
+
+Miami Valley 240, Ilium 210
+Miami Valley: John John Groger 0 8 0 80, William Groger 0 2 0 20
+Ilium: Isaiah Gutman 0 5 0 50, Aidan Uckun 0 0 0 0, Julian Perry 0 2 0 20, Kaelan Imani 1 0 1 10
+Bonuses: Miami Valley 10 140 14.00, Ilium 8 130 16.25
+
+Virginia Tech 150, Penn State C 120
+Penn State C: Alex Ellis 0 5 0 50, Aiden Cunningham 0 1 1 5, Tatyana Zvorsky 0 0 0 0, Adithya Sadagopan 0 1 1 5
+Virginia Tech: Nick Luca 0 1 1 5, Jack Huguenin 0 4 1 35, Alia Wilson 0 1 1 5, Mahdi Alkafawi 0 1 1 5
+Bonuses: Penn State C 7 60 8.57, Virginia Tech 7 100 14.29
+
+NYU B 215, West Egg 170
+West Egg: Noah Sheidlower 0 5 2 40, Sammy Katzman 0 3 0 30, Ethan Vainrib 0 0 0 0, Jay Kim 0 0 0 0
+NYU B: Lev Bernstein 0 2 1 15, Doug Simons 0 6 0 60, Rohan Vora 0 4 0 40, Oliver Xu 0 0 0 0
+Bonuses: West Egg 8 100 12.50, NYU B 12 100 8.33
+
+Round 12
+Robert Bork A 310, Delaware 270
+Delaware: Eric Wolfsberg 5 2 1 90, Sophia Marianiello 0 1 0 10, Rohan Narayan 0 1 0 10
+Robert Bork A: James Kuang 4 1 0 70, Kevin Wang 0 2 0 20, Fred Zhang 0 2 0 20, Julia Zhou 0 2 0 20
+Bonuses: Delaware 9 160 17.78, Robert Bork A 11 180 16.36
+
+UMD A 460, UMD B 200
+UMD A: Caleb Kendrick 1 2 1 30, Graham Reid 3 3 0 75, Weijia Cheng 1 0 0 15, Justin Hawkins 2 1 0 40
+UMD B: Jack Lewis 0 3 0 30, Vishwa Shanmugam 0 3 1 25, Adam Howlett 0 0 0 0, Jason Shi 1 0 0 15
+Bonuses: UMD A 13 300 23.08, UMD B 7 130 18.57
+
+JHU A 425, UVA A 245
+UVA A: Eric Xu 0 1 0 10, Jack Mehr 3 2 1 60, Nick Collins 1 1 0 25, John Connor 0 0 0 0
+JHU A: Eric Bobrow 1 3 1 40, Robert Chu 1 4 0 55, Walter Zhao 0 3 0 30
+Bonuses: UVA A 8 150 18.75, JHU A 12 300 25.00
+
+Beavercreek 325, High Tech A 190
+High Tech A: Michael Li 0 1 1 5, Steven Liu 1 0 0 15, Darren Petrosino 1 3 0 45, Deepak Gopalakrishnan 1 1 0 25
+Beavercreek: Hari Parameswaran 5 5 0 125, Abby Cohen 0 1 0 10, Tegan Kapadia 0 0 0 0, Tiffany Zhou 0 0 0 0
+Bonuses: High Tech A 8 100 12.50, Beavercreek 11 190 17.27
+
+Cornell A 295, Penn State A 290
+Penn State A: Victor Prieto 1 4 0 55, Bruce McAninch 1 2 0 35, Colton Sanden 0 1 0 10, Saimun Shahee 0 1 0 10
+Cornell A: Amith Punyala 3 1 0 55, Jonathan Tran 4 0 0 60, Daniel Xu 1 0 1 10, Brandon Zhang 0 0 0 0
+Bonuses: Penn State A 10 180 18.00, Cornell A 9 170 18.89
+
+Yale 470, Columbia A 190
+Columbia A: Rafael Krichevsky 1 3 1 40, Gerhardt Hinkle 0 0 0 0, Julia Tong 0 1 0 10, Jeremy lema 0 2 0 20
+Yale: Jacob Reed 3 1 0 55, Stephen Eltinge 3 3 0 75, Moses Kitakule 1 2 1 30
+Bonuses: Columbia A 7 120 17.14, Yale 13 310 23.85
+
+West Egg 245, Wilmington Charter 210
+West Egg: Noah Sheidlower 1 4 0 55, Sammy Katzman 0 0 0 0, Ethan Vainrib 0 5 0 50
+Wilmington Charter: Sohum Shenoy 1 3 1 40, Waley He 0 3 1 25, Prasanna Krishnamoorthy 0 0 0 0, Rishith Ramamurthy 1 0 0 15
+Bonuses: West Egg 10 140 14.00, Wilmington Charter 8 130 16.25
+
+Ilium 310, Gettysburg 215
+Gettysburg: Ryan Bilger 2 5 1 75, Danny Greenblatt 1 1 1 20, Ryzeson Maravich 0 0 0 0
+Ilium: Isaiah Gutman 0 2 0 20, Aidan Uckun 0 2 0 20, Julian Perry 0 4 0 40, Kaelan Imani 0 3 0 30
+Bonuses: Gettysburg 9 120 13.33, Ilium 11 200 18.18
+
+Princeton A 180, UVA B 160
+UVA B: Quinn LeGallo-Malone 0 4 0 40, Goutham Thiagarajan 1 1 0 25, Reese Fulgenzi 0 1 0 10, Udayan Kumra 1 0 0 15
+Princeton A: Nathaniel Hull 1 5 0 65, Monty James 4 0 1 55, Eve Fleisig 0 1 1 5
+Bonuses: UVA B 8 70 8.75, Princeton A 11 55 5.00
+
+NYU B 230, Robert Bork B 205
+Robert Bork B: Prithvi Nathan 0 1 0 10, Sohom Paul 1 2 0 35, William Wang 1 2 1 30, Ryan Xu 0 2 0 20
+NYU B: Lev Bernstein 0 0 0 0, Doug Simons 3 2 0 65, Rohan Vora 1 3 0 45, Oliver Xu 0 0 0 0
+Bonuses: Robert Bork B 9 110 12.22, NYU B 9 120 13.33
+
+Virginia Tech 190, Cornell C 125
+Virginia Tech: Nick Luca 0 2 0 20, Jack Huguenin 0 4 1 35, Alia Wilson 0 2 1 15, Mahdi Alkafawi 0 0 0 0
+Cornell C: Eric Dai 0 1 0 10, Cole Horvath 0 4 0 40, Ernest Li 0 3 1 25
+Bonuses: Virginia Tech 8 120 15.00, Cornell C 8 50 6.25
+
+Carnegie Mellon A 285, SHU 160
+Carnegie Mellon A: Sameer Apte 2 1 2 30, David Neiman 0 2 0 20, Harrison Lee 1 2 0 35, Ruel Beresford 0 3 0 30
+SHU: Chris Manners 1 7 1 80
+Bonuses: Carnegie Mellon A 11 170 15.45, SHU 8 80 10.00
+
+UMD C 280, Princeton B 105
+UMD C: Tanay Wakhare 0 4 2 30, Ani Perumalla 4 4 0 100, Jonathan Moore 0 0 0 0, Dillon D'Rozario 0 0 0 0
+Princeton B: Ana Pranger 0 2 0 20, Ned Furlong 0 1 1 5, Jack Edmondson 0 1 0 10
+Bonuses: UMD C 12 150 12.50, Princeton B 4 70 17.50
+
+Cornell B 310, Penn Manor 140
+Cornell B: Carson Gresens 1 2 0 35, Allan Lee 1 5 0 65, Atharv Garje 0 3 0 30
+Penn Manor: Connor Mayers 2 5 2 70, Audrey Ritchie 0 0 0 0, Kyle Stigelman 0 0 0 0
+Bonuses: Cornell B 12 180 15.00, Penn Manor 7 70 10.00
+
+Carnegie Mellon B 200, Penn State B 190
+Carnegie Mellon B: Jackie Wu 0 2 0 20, Sebastian La Duca 0 2 1 15, Gabriel Chuang 1 0 1 10, Andy Kong 2 2 1 45
+Penn State B: Andy Huang 0 3 0 30, Bryce Katch 0 2 0 20, Dan Nguyen 0 2 0 20, Ashish Kumbhardare 0 1 1 5
+Bonuses: Carnegie Mellon B 9 110 12.22, Penn State B 8 115 14.38
+
+Columbia B 240, JHU B 150
+Columbia B: Antonio Camara 0 6 0 60, Jackson Painter 0 1 0 10, Elise Schlecht 0 2 0 20, Jeff Xie 0 1 0 10
+JHU B: Vinu Harihar 0 0 0 0, Leland Held 0 3 1 25, Aditi Jithendra 0 2 1 15, Sebastian Llaca 1 1 1 20
+Bonuses: Columbia B 10 140 14.00, JHU B 7 90 12.86
+
+High Tech B 140, NYU C 105
+High Tech B: Ivy Wang 0 1 1 5, Anna Cai 0 0 0 0, Cole Snedeker 0 2 0 20, Frank Grabowksi 1 3 1 40, Samuel Hampel 0 1 1 5
+NYU C: Andrew Ankersen 0 4 0 40, Rachel Cameron 0 0 0 0, Ben Davis 0 0 1 -5, Joshua Jones 0 0 0 0, Alan Sun 0 1 0 10
+Bonuses: High Tech B 8 70 8.75, NYU C 5 60 12.00
+
+Miami Valley 265, NYU A 220
+Miami Valley: John John Groger 1 8 0 95, William Groger 0 2 0 20
+NYU A: Mitch Baron 1 1 1 20, Rahul Rao-Pothuraju 1 2 0 35, Danny Richardson 0 0 0 0, Harrison Whitaker 1 2 0 35
+Bonuses: Miami Valley 11 150 13.64, NYU A 8 130 16.25
+
+Penn State C 205, Pitt 100
+Penn State C: Alex Ellis 0 3 1 25, Aiden Cunningham 0 4 0 40, Tatyana Zvorsky 0 2 0 20, Adithya Sadagopan 0 3 0 30
+Pitt: Emily Dickson 0 1 0 10, Walt Young 1 3 1 40, Calvin Yu 0 0 0 0, Mo Elfayoumi 1 0 5 -10
+Bonuses: Penn State C 12 90 7.50, Pitt 6 60 10.00
+
+Round 14
+Yale 465, UMD A 215
+UMD A: Caleb Kendrick 2 1 1 35, Graham Reid 0 1 0 10, Weijia Cheng 0 1 1 5, Justin Hawkins 1 0 0 15
+Yale: Jacob Reed 3 3 0 75, Stephen Eltinge 2 3 0 60, Moses Kitakule 2 0 0 30
+Bonuses: UMD A 6 150 25.00, Yale 13 300 23.08

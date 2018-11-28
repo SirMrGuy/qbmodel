@@ -1,0 +1,616 @@
+Round 1
+
+Barrington 385, IMSA B 90
+Barrington: Timothy 0 0 0 0, Liam 1 2 1 30, Michelle 3 1 2 45, Roxanne 2 4 2 60
+IMSA B: Ashley 0 1 0 10, Karisha 0 0 0 0, Peter 0 0 0 0, Rachna 0 3 0 30
+Bonuses: Barrington 13 250 19.23, IMSA B 4 50 12.50
+
+Glenbard North A 540, Mahomet-Seymour B -5
+Glenbard North A: Caitlyn 0 1 0 10, Jeromel 4 6 0 120, Thomas 2 3 0 60, Danielle 0 2 0 20
+Mahomet-Seymour B: Peter 0 0 0 0, Nate 0 0 0 0, Payton 0 0 0 0, Ella 0 0 0 0, Kolby 0 0 1 -5, Tim 0 0 0 0
+Bonuses: Glenbard North A 18 330 18.33, Mahomet-Seymour B 0 0 0.00
+
+Latin A 450, Sandburg C 125
+Sandburg C: Eric 0 2 0 20, Zuzanna 0 1 0 10, Veronica 0 0 0 0, Terence 1 1 0 25
+Latin A: Theo 0 0 0 0, Chetan 3 6 2 95, Kenny 1 2 0 35, Rose 0 3 0 30
+Bonuses: Sandburg C 5 70 14.00, Latin A 15 290 19.33
+
+IMSA A 470, Stevenson B 165
+IMSA A: Matthew 1 1 1 20, Daniel 1 2 0 35, Hanson 4 5 2 100, Tejo 0 0 1 -5
+Stevenson B: Daniel 0 2 0 20, Vaishakh 0 1 0 10, Aubrey 0 2 0 20, Daichi 1 0 0 15
+Bonuses: IMSA A 14 320 22.86, Stevenson B 6 100 16.67
+
+Auburn A 530, Centennial 120
+Centennial: Devika Tiwari 0 0 0 0, Brett Hancock 0 1 1 5, Amy Paul 3 1 0 55, Isaac Soloveychik 0 1 0 10
+Auburn A: Lilly 1 0 1 10, Justin 1 0 0 15, Leif 1 0 1 10, Ethan 5 6 0 135
+Bonuses: Centennial 6 50 8.33, Auburn A 14 360 25.71
+
+Uni A 585, Mahomet-Seymour A 125
+Uni A: Jonathan 2 1 0 40, Tim 0 2 0 20, Ethan 3 2 1 60, Dylan 4 1 1 65
+Mahomet-Seymour A: Nick M 2 1 1 35, Charles B 1 1 1 20, Owen E 0 0 0 0, Seth H 0 0 0 0, Ryan K 0 0 0 0, Conrad E 0 0 0 0
+Bonuses: Uni A 15 400 26.67, Mahomet-Seymour A 5 70 14.00
+
+Sandburg B 265, Glenbard North B 140
+Sandburg B: Jarod 1 0 0 15, Arsh 0 0 0 0, Chris 1 7 1 80, Jason 0 1 0 10
+Glenbard North B: Harsh 0 2 0 20, Vincent 0 3 0 30, Meghan 0 1 2 0, Aarit 0 1 0 10, Anthony 0 0 0 0
+Bonuses: Sandburg B 10 160 16.00, Glenbard North B 7 80 11.43
+
+Latin B 355, Uni B 230
+Uni B: Daniel 0 3 0 30, Lawrence 1 2 0 35, Robert 0 0 0 0, Matthew 1 1 0 25
+Latin B: Tejas 1 6 3 60, Zach 1 1 1 20, Will C 1 2 0 35
+Bonuses: Uni B 8 140 17.50, Latin B 12 240 20.00
+
+Stevenson A 555, Auburn B 40
+Auburn B: Josh 0 0 0 0, David 0 0 1 -5, Hisham 0 1 1 5, Andy 0 1 0 10
+Stevenson A: David 1 1 1 20, Arjun 0 3 0 30, Govind 5 4 1 110, Olivia 2 1 1 35
+Bonuses: Auburn B 2 30 15.00, Stevenson A 17 360 21.18
+
+Sandburg A 415, Monticello 80
+Monticello: Payne 0 1 0 10, Riley 0 2 0 20, Ben 0 1 0 10, Pierce 0 0 0 0, Preston 0 0 0 0, Jackson 0 0 0 0
+Sandburg A: Kevin 1 0 1 10, Sofia 0 1 0 10, Aristotle 4 7 3 115
+Bonuses: Monticello 4 40 10.00, Sandburg A 13 280 21.54
+
+Homewood-Flossmoor A 440, Hinsdale Central B 80
+Homewood-Flossmoor A: Jimmy 2 5 0 80, Myles 2 4 1 65, Eric 0 0 1 -5, Hannah 0 2 0 20
+Hinsdale Central B: Alek 0 1 0 10, Aryan 0 1 0 10, Pinaki 0 0 1 -5, Sid 0 0 0 0, Amogh 1 1 0 25, Ammaar 0 0 0 0, Alex 0 0 0 0
+Bonuses: Homewood-Flossmoor A 15 280 18.67, Hinsdale Central B 4 40 10.00
+
+Hinsdale Central A 420, Uni C 110
+Hinsdale Central A: Manvit A 1 1 0 25, Allie Y 1 2 1 30, Daren C 0 1 0 10, Thomas M 4 2 0 80, Leon K 0 2 1 15
+Uni C: Daniel M 0 0 0 0, Akhil V 0 0 0 0, Zona H 0 5 0 50, Joel A 0 0 0 0
+Bonuses: Hinsdale Central A 14 260 18.57, Uni C 5 60 12.00
+
+Round 2
+Uni A 540, Sandburg C 150
+Uni A: Jonathan 1 2 1 30, Dylan 3 0 2 35, Ethan 3 1 1 50, Tim 4 0 1 55
+Sandburg C: Veronica 1 0 0 15, Terence 0 1 0 10, Zuzanna 0 0 1 -5, Eric 0 3 0 30
+Bonuses: Uni A 14 370 26.43, Sandburg C 5 100 20.00
+
+Auburn A 615, IMSA B 55
+Auburn A: Lilly 2 0 1 25, Pranav 0 0 1 -5, Leif 2 0 1 25, Ethan 8 4 0 160
+IMSA B: Peter 0 0 0 0, Rachna 0 1 0 10, Ashley 1 1 0 25, Karisha 0 0 0 0
+Bonuses: Auburn A 16 410 25.62, IMSA B 3 20 6.67
+
+Glenbard North A 365, Uni B 275
+Uni B: Matthew 0 3 2 20, Robert 0 1 0 10, Lawrence 1 1 1 20, Daniel 2 1 1 35
+Glenbard North A: Danielle 0 0 0 0, Jeromel 3 2 0 65, Caitlyn 0 2 1 15, Thomas 0 4 1 35
+Bonuses: Uni B 9 190 21.11, Glenbard North A 11 250 22.73
+
+Stevenson B 400, Uni C 55
+Stevenson B: Vaishakh 0 1 0 10, Aubrey 0 1 1 5, Daniel 3 6 1 100, Daichi 1 1 0 25
+Uni C: Joel A 0 0 0 0, Zona H 0 1 1 5, Daniel M 1 1 1 20, Akhil V 0 0 0 0
+Bonuses: Stevenson B 13 260 20.00, Uni C 3 30 10.00
+
+Sandburg A 410, Hinsdale Central A 310
+Hinsdale Central A: Manvit A 3 2 0 65, Leon K 0 2 0 20, Thomas M 1 0 1 10, Allie Y 0 0 1 -5, Daren C 0 1 0 10
+Sandburg A: Aristotle 5 5 1 120, Sofia 0 0 1 -5, Kevin 1 0 0 15
+Bonuses: Hinsdale Central A 9 210 23.33, Sandburg A 11 280 25.45
+
+Barrington 375, Sandburg B 185
+Barrington: Michelle 2 4 3 55, Roxanne 1 2 1 30, Liam 1 1 0 25, Timothy 0 0 1 -5
+Sandburg B: Jason 0 1 0 10, Jarod 1 2 0 35, Arsh 0 0 0 0, Chris 0 2 0 20
+Bonuses: Barrington 11 270 24.55, Sandburg B 6 120 20.00
+
+IMSA A 545, Monticello 95
+Monticello: Pierce 0 0 0 0, Preston 0 0 0 0, Riley 1 1 0 25, Payne 0 1 0 10, Ben 0 1 0 10
+IMSA A: Tejo 1 1 0 25, Hanson 5 0 2 65, Daniel 1 3 1 40, Matthew 3 1 0 55
+Bonuses: Monticello 4 50 12.50, IMSA A 15 360 24.00
+
+Stevenson A 590, Latin B 155
+Stevenson A: Govind 5 2 0 95, David 2 1 0 40, Olivia 2 0 1 25, Arjun 1 2 1 30
+Latin B: Tejas 3 1 1 50, Zach 0 0 0 0, Will C 0 1 1 5
+Bonuses: Stevenson A 15 400 26.67, Latin B 5 100 20.00
+
+Auburn B 265, Mahomet-Seymour B 85
+Mahomet-Seymour B: Nate 0 0 2 -10, Peter 0 0 0 0, Tim 0 0 0 0, Kolby 2 2 1 45, Ella 0 0 0 0, Payton 0 0 0 0
+Auburn B: David 1 3 1 40, Ayush 1 0 0 15, Hisham 0 2 0 20, Henry 1 2 1 30
+Bonuses: Mahomet-Seymour B 4 50 12.50, Auburn B 10 160 16.00
+
+Mahomet-Seymour A 390, Hinsdale Central B 55
+Mahomet-Seymour A: Conrad E 0 0 0 0, Ryan K 0 1 0 10, Owen E 0 1 0 10, Charles B 0 1 0 10, Seth H 0 1 0 10, Nick M 4 6 0 120
+Hinsdale Central B: Alek 0 1 1 5, Aryan 0 1 2 0, Sid 0 0 0 0, Pinaki 0 0 0 0, Ammaar 0 0 0 0, Amogh 0 0 0 0, Alex 0 1 0 10
+Bonuses: Mahomet-Seymour A 14 230 16.43, Hinsdale Central B 3 40 13.33
+
+Homewood-Flossmoor A 420, Latin A 135
+Latin A: Rose 1 1 1 20, Chetan 1 2 3 20, Kenny 0 0 2 -10, Theo 0 0 1 -5
+Homewood-Flossmoor A: Eric 1 4 1 50, Myles 1 2 0 35, Jimmy 2 3 1 55, Hannah 0 0 0 0
+Bonuses: Latin A 5 110 22.00, Homewood-Flossmoor A 13 280 21.54
+
+Centennial 325, Glenbard North B 210
+Centennial: Brett Hancock 0 3 0 30, Amy Paul 1 4 0 55, Isaac Soloveychik 0 1 0 10, Devika Tiwari 0 1 0 10
+Glenbard North B: Vincent 0 3 0 30, Meghan 2 0 1 25, Aarit 1 1 0 25, Anthony 0 0 1 -5, Harsh 0 1 1 5
+Bonuses: Centennial 10 220 22.00, Glenbard North B 8 130 16.25
+
+Round 3
+Sandburg C 365, Mahomet-Seymour A 120
+Sandburg C: Veronica 1 1 0 25, Terence 0 5 2 40, Zuzanna 0 1 0 10, Eric 2 4 0 70
+Mahomet-Seymour A: Conrad E 0 1 0 10, Ryan K 0 0 1 -5, Charles B 0 1 0 10, Seth H 0 0 0 0, Owen E 0 0 0 0, Nick M 0 4 1 35
+Bonuses: Sandburg C 14 220 15.71, Mahomet-Seymour A 6 70 11.67
+
+Sandburg A 410, Uni C 80
+Sandburg A: Kevin 0 0 2 -10, Sofia 0 2 2 10, Aristotle 5 6 1 130
+Uni C: Zona H 0 2 0 20, Akhil V 0 0 0 0, Daniel M 1 1 1 20, Joel A 0 0 0 0
+Bonuses: Sandburg A 13 280 21.54, Uni C 4 40 10.00
+
+Stevenson A 520, Glenbard North A 195
+Glenbard North A: Thomas 2 0 0 30, Jeromel 2 0 1 25, Caitlyn 0 2 0 20, Danielle 0 0 0 0
+Stevenson A: Arjun 1 1 0 25, David 0 2 0 20, Olivia 2 2 0 50, Govind 6 0 1 85
+Bonuses: Glenbard North A 6 120 20.00, Stevenson A 14 340 24.29
+
+Centennial 345, IMSA B 95
+IMSA B: Ashley 0 0 0 0, Karisha 0 1 0 10, Peter 0 0 0 0, Rachna 0 2 1 15
+Centennial: Brett Hancock 0 0 1 -5, Devika Tiwari 1 5 0 65, Isaac Soloveychik 1 2 2 25, Amy Paul 1 4 1 50
+Bonuses: IMSA B 3 70 23.33, Centennial 14 210 15.00
+
+Uni B 555, Mahomet-Seymour B 45
+Mahomet-Seymour B: Peter 0 0 0 0, Nate 0 0 0 0, Payton 0 0 0 0, Ella 0 1 0 10, Kolby 0 0 1 -5, Tim 0 1 0 10
+Uni B: Matthew 0 2 2 10, Daniel 1 5 0 65, Lawrence 0 4 0 40, Robert 2 3 0 60
+Bonuses: Mahomet-Seymour B 2 30 15.00, Uni B 17 380 22.35
+
+Latin B 355, Auburn B 145
+Latin B: Zach 0 0 1 -5, Tejas 3 5 3 80, Will C 1 3 1 40
+Auburn B: Andy 0 0 0 0, Hisham 0 3 3 15, Henry 0 2 1 15, Josh 1 0 0 15
+Bonuses: Latin B 12 240 20.00, Auburn B 6 100 16.67
+
+Uni A 615, Homewood-Flossmoor A 160
+Homewood-Flossmoor A: Hannah 0 0 2 -10, Jimmy 3 0 1 40, Myles 1 1 1 20, Eric 0 0 0 0
+Uni A: Tim 0 2 1 15, Jonathan 2 1 0 40, Ethan 7 0 0 105, Dylan 1 2 0 35
+Bonuses: Homewood-Flossmoor A 5 110 22.00, Uni A 15 420 28.00
+
+Stevenson B 355, Monticello 105
+Stevenson B: Daniel 1 7 1 80, Daichi 0 0 0 0, Aubrey 2 2 1 45, Vaishakh 1 0 1 10
+Monticello: Payne 0 0 0 0, Riley 0 0 0 0, Ben 1 3 0 45, Preston 0 0 0 0, Jackson 0 0 0 0
+Bonuses: Stevenson B 13 220 16.92, Monticello 4 60 15.00
+
+IMSA A 505, Hinsdale Central A 195
+Hinsdale Central A: Manvit A 0 1 1 5, Allie Y 3 0 0 45, Daren C 0 0 0 0, Thomas M 0 2 2 10, Leon K 0 0 1 -5
+IMSA A: Tejo 0 0 0 0, Hanson 4 3 3 75, Daniel 0 1 0 10, Matthew 2 4 0 70
+Bonuses: Hinsdale Central A 6 140 23.33, IMSA A 14 350 25.00
+
+Latin A 475, Hinsdale Central B 50
+Hinsdale Central B: Aryan 0 0 1 -5, Sid 0 0 0 0, Pinaki 0 1 0 10, Alek 0 0 0 0, Alex 0 0 0 0, Ammaar 0 0 0 0, Amogh 0 2 3 5
+Latin A: Theo 1 1 0 25, Kenny 0 1 2 0, Chetan 2 6 2 80, Rose 0 4 0 40
+Bonuses: Hinsdale Central B 3 40 13.33, Latin A 15 330 22.00
+
+Auburn A 665, Sandburg B 70
+Sandburg B: Chris 1 0 4 -5, Arsh 0 0 0 0, Jarod 1 1 0 25, Jason 0 0 0 0
+Auburn A: Justin 0 1 0 10, Lilly 0 2 0 20, Leif 2 1 0 40, Ethan 7 4 0 145
+Bonuses: Sandburg B 3 50 16.67, Auburn A 17 450 26.47
+
+Barrington 370, Glenbard North B 125
+Glenbard North B: Harsh 0 1 0 10, Vincent 0 2 0 20, Aarit 1 0 0 15, Meghan 0 1 0 10, Anthony 0 1 0 10
+Barrington: Michelle 2 3 3 45, Liam 1 1 2 15, Timothy 0 0 0 0, Roxanne 1 3 1 40
+Bonuses: Glenbard North B 6 60 10.00, Barrington 11 270 24.55
+
+Round 4
+Uni B 490, Auburn B 65
+Uni B: Matthew 2 4 1 65, Robert 1 0 1 10, Lawrence 1 6 0 75, Daniel 0 2 0 20
+Auburn B: David 0 0 2 -10, Josh 0 1 1 5, Ayush 0 1 0 10, Hisham 0 2 0 20
+Bonuses: Uni B 16 320 20.00, Auburn B 4 40 10.00
+
+Stevenson A 530, Mahomet-Seymour B 30
+Mahomet-Seymour B: Payton 0 0 0 0, Tim 0 0 1 -5, Ella 0 1 0 10, Kolby 1 0 0 15, Peter 0 0 0 0, Nate 0 0 0 0
+Stevenson A: David 1 2 0 35, Govind 5 0 0 75, Arjun 1 2 1 30, Olivia 1 3 1 40
+Bonuses: Mahomet-Seymour B 2 10 5.00, Stevenson A 15 350 23.33
+
+Auburn A 665, Glenbard North B 15
+Auburn A: Ethan 7 5 1 150, Pranav 0 0 0 0, Leif 3 1 0 55, Lilly 0 2 0 20
+Glenbard North B: Anthony 0 0 0 0, Harsh 0 1 1 5, Vincent 0 0 0 0, Aarit 0 0 0 0, Meghan 0 0 0 0
+Bonuses: Auburn A 18 440 24.44, Glenbard North B 1 10 10.00
+
+Latin A 430, Mahomet-Seymour A 120
+Mahomet-Seymour A: Seth H 0 1 0 10, Ryan K 0 0 0 0, Nick M 1 2 1 30, Conrad E 0 0 0 0, Charles B 0 1 0 10, Owen E 0 1 0 10
+Latin A: Kenny 1 0 1 10, Rose 1 3 0 45, Theo 0 1 0 10, Chetan 3 5 2 85
+Bonuses: Mahomet-Seymour A 6 60 10.00, Latin A 14 280 20.00
+
+Homewood-Flossmoor A 355, Sandburg C 160
+Sandburg C: Eric 0 2 1 15, Veronica 1 0 0 15, Terence 0 3 0 30, Zuzanna 0 0 0 0
+Homewood-Flossmoor A: Hannah 0 1 1 5, Jimmy 1 4 2 45, Myles 1 5 0 65, Eric 2 0 2 20
+Bonuses: Sandburg C 6 100 16.67, Homewood-Flossmoor A 14 220 15.71
+
+Sandburg B 240, IMSA B 140
+IMSA B: Karisha 0 0 0 0, Ashley 0 0 0 0, Peter 0 0 0 0, Rachna 0 5 0 50
+Sandburg B: Jason 0 2 0 20, Chris 1 4 2 45, Arsh 0 0 1 -5, Jarod 2 2 0 50
+Bonuses: IMSA B 5 90 18.00, Sandburg B 11 130 11.82
+
+Barrington 310, Centennial 205
+Centennial: Amy Paul 1 5 0 65, Brett Hancock 0 0 1 -5, Isaac Soloveychik 1 0 0 15, Devika Tiwari 0 2 0 20
+Barrington: Timothy 1 0 0 15, Roxanne 0 4 1 35, Michelle 1 1 1 20, Liam 0 4 0 40
+Bonuses: Centennial 9 110 12.22, Barrington 11 200 18.18
+
+Latin B 365, Glenbard North A 175
+Glenbard North A: Jeromel 2 2 1 45, Caitlyn 0 1 1 5, Thomas 0 2 1 15, Danielle 0 1 0 10
+Latin B: Zach 1 0 0 15, Tejas 2 7 1 95, Will C 0 1 1 5
+Bonuses: Glenbard North A 8 100 12.50, Latin B 11 250 22.73
+
+IMSA A 605, Uni C 35
+IMSA A: Daniel 0 0 0 0, Hanson 4 3 2 80, Tejo 1 0 0 15, Matthew 5 3 1 100
+Uni C: Joel A 0 0 0 0, Zona H 1 1 2 15, Daniel M 0 1 0 10, Akhil V 0 0 0 0
+Bonuses: IMSA A 16 410 25.62, Uni C 3 10 3.33
+
+Hinsdale Central A 505, Monticello 25
+Monticello: Riley 0 0 0 0, Pierce 0 0 0 0, Ben 0 0 0 0, Preston 0 0 0 0, Payne 1 0 0 15
+Hinsdale Central A: Daren C 3 1 1 50, Allie Y 1 4 1 50, Leon K 1 0 0 15, Manvit A 1 4 0 55, Thomas M 1 1 0 25
+Bonuses: Monticello 1 10 10.00, Hinsdale Central A 17 310 18.24
+
+Uni A 530, Hinsdale Central B 60
+Hinsdale Central B: Alex 0 0 0 0, Ammaar 0 0 0 0, Amogh 0 2 0 20, Pinaki 0 1 0 10, Sid 0 0 0 0, Aryan 0 0 0 0, Alek 0 0 0 0
+Uni A: Tim 2 2 3 35, Dylan 4 1 0 70, Ethan 2 2 1 45, Jonathan 2 0 0 30
+Bonuses: Hinsdale Central B 3 30 10.00, Uni A 15 350 23.33
+
+Sandburg A 300, Stevenson B 170
+Stevenson B: Aubrey 2 2 0 50, Vaishakh 0 0 0 0, Daichi 0 0 0 0, Daniel 0 3 0 30
+Sandburg A: Aristotle 4 4 3 85, Kevin 0 2 0 20, Sofia 0 1 1 5
+Bonuses: Stevenson B 7 90 12.86, Sandburg A 11 190 17.27
+
+Round 5
+Monticello 170, Uni C 155
+Monticello: Jackson 0 0 0 0, Pierce 0 1 0 10, Ben 1 1 0 25, Riley 1 5 0 65, Payne 0 0 0 0, Preston 0 0 0 0
+Uni C: Joel A 0 1 0 10, Zona H 1 2 0 35, Akhil V 0 0 1 -5, Daniel M 1 2 2 25
+Bonuses: Monticello 9 70 7.78, Uni C 7 90 12.86
+
+Hinsdale Central A 310, Stevenson B 170
+Stevenson B: Daniel 1 4 1 50, Vaishakh 0 0 0 0, Aubrey 0 2 0 20, Daichi 0 0 0 0
+Hinsdale Central A: Allie Y 1 0 0 15, Thomas M 0 2 2 10, Manvit A 2 4 1 65, Leon K 0 1 0 10, Daren C 1 0 1 10
+Bonuses: Stevenson B 7 100 14.29, Hinsdale Central A 11 200 18.18
+
+Auburn A 505, Barrington 195
+Auburn A: Lilly 1 1 0 25, Justin 0 1 0 10, Ethan 5 3 1 100, Leif 1 2 1 30
+Barrington: Michelle 1 0 1 10, Liam 2 2 1 45, Timothy 0 0 0 0, Roxanne 1 0 3 0
+Bonuses: Auburn A 14 340 24.29, Barrington 6 140 23.33
+
+Stevenson A 620, Uni B 85
+Stevenson A: Olivia 2 2 0 50, Arjun 2 2 0 50, Govind 4 1 0 70, David 0 3 0 30
+Uni B: Robert 0 0 0 0, Matthew 0 1 0 10, Daniel 2 0 2 20, Lawrence 0 1 1 5
+Bonuses: Stevenson A 16 420 26.25, Uni B 4 50 12.50
+
+Glenbard North A 355, Auburn B 90
+Glenbard North A: Danielle 0 3 0 30, Jeromel 4 3 0 90, Caitlyn 0 0 0 0, Thomas 2 1 1 35
+Auburn B: Henry 0 1 0 10, Hisham 1 1 0 25, Andy 0 1 0 10, Ayush 1 0 0 15
+Bonuses: Glenbard North A 13 200 15.38, Auburn B 5 30 6.00
+
+Sandburg C 355, Hinsdale Central B 50
+Hinsdale Central B: Alex 0 1 0 10, Ammaar 0 0 0 0, Amogh 0 1 1 5, Sid 0 0 1 -5, Pinaki 0 2 2 10, Aryan 0 1 0 10
+Sandburg C: Eric 2 5 0 80, Zuzanna 1 0 0 15, Veronica 0 1 2 0, Terence 0 5 0 50
+Bonuses: Hinsdale Central B 5 20 4.00, Sandburg C 14 210 15.00
+
+Centennial 255, Sandburg B 130
+Sandburg B: Jason 0 2 0 20, Chris 0 3 3 15, Arsh 0 2 0 20, Jarod 0 0 1 -5
+Centennial: Amy Paul 0 7 1 65, Devika Tiwari 0 1 0 10, Isaac Soloveychik 0 0 0 0, Brett Hancock 2 1 2 30
+Bonuses: Sandburg B 7 80 11.43, Centennial 11 150 13.64
+
+Homewood-Flossmoor A 280, Mahomet-Seymour A 165
+Homewood-Flossmoor A: Eric 0 2 3 5, Myles 2 0 1 25, Jimmy 2 3 2 50, Hannah 0 1 0 10
+Mahomet-Seymour A: Ryan K 0 0 0 0, Seth H 0 0 0 0, Conrad E 0 0 0 0, Nick M 1 5 1 60, Owen E 0 0 0 0, Charles B 0 2 1 15
+Bonuses: Homewood-Flossmoor A 10 190 19.00, Mahomet-Seymour A 8 90 11.25
+
+Glenbard North B 235, IMSA B 140
+IMSA B: Peter 0 1 0 10, Rachna 0 3 0 30, Ashley 0 2 0 20, Karisha 0 0 0 0
+Glenbard North B: Anthony 0 0 0 0, Aarit 0 0 0 0, Meghan 1 3 2 35, Vincent 0 4 0 40, Harsh 1 2 1 30
+Bonuses: IMSA B 6 80 13.33, Glenbard North B 11 130 11.82
+
+Latin B 440, Mahomet-Seymour B 95
+Latin B: Zach 1 1 0 25, Tejas 1 6 5 50, Will C 1 4 0 55
+Mahomet-Seymour B: Ella 0 0 0 0, Kolby 0 4 1 35, Tim 0 0 0 0, Peter 0 1 0 10, Nate 0 0 1 -5, Payton 0 0 1 -5
+Bonuses: Latin B 14 310 22.14, Mahomet-Seymour B 5 60 12.00
+
+IMSA A 375, Sandburg A 355
+IMSA A: Matthew 0 1 0 10, Daniel 1 0 0 15, Hanson 5 2 2 85, Tejo 1 0 0 15
+Sandburg A: Sofia 0 0 0 0, Kevin 1 0 0 15, Aristotle 5 4 1 110
+Bonuses: IMSA A 10 250 25.00, Sandburg A 10 230 23.00
+
+Uni A 525, Latin A 175
+Latin A: Chetan 0 1 2 0, Kenny 0 2 0 20, Theo 1 0 0 15, Rose 0 2 0 20
+Uni A: Dylan 2 1 3 25, Ethan 5 1 1 80, Jonathan 0 2 1 15, Tim 3 0 0 45
+Bonuses: Latin A 6 120 20.00, Uni A 14 360 25.71
+
+Round 6
+Latin B 360, Centennial 200
+Centennial: Isaac Soloveychik 0 2 0 20, Devika Tiwari 1 1 0 25, Amy Paul 0 2 0 20, Brett Hancock 1 0 0 15
+Latin B: Tejas 3 4 2 75, Zach 1 1 0 25, Will C 0 3 2 20
+Bonuses: Centennial 7 120 17.14, Latin B 12 240 20.00
+
+Auburn A 450, Barrington 195
+Barrington: Timothy 0 0 0 0, Liam 0 0 0 0, Roxanne 0 2 0 20, Michelle 3 1 2 45
+Auburn A: Leif 1 2 0 35, Pranav 1 0 0 15, Ethan 6 1 2 90, Lilly 0 2 0 20
+Bonuses: Barrington 6 130 21.67, Auburn A 13 290 22.31
+
+Glenbard North B 250, Hinsdale Central B 155
+Glenbard North B: Anthony 0 1 0 10, Harsh 0 0 1 -5, Vincent 2 6 0 90, Aarit 0 1 1 5, Meghan 0 1 0 10
+Hinsdale Central B: Sid 1 0 0 15, Amogh 1 1 0 25, Ammaar 0 0 0 0, Alex 0 0 0 0, Pinaki 0 3 1 25, Aryan 0 0 0 0
+Bonuses: Glenbard North B 11 140 12.73, Hinsdale Central B 6 90 15.00
+
+Uni B 465, Auburn B 120
+Auburn B: David 0 0 2 -10, Ayush 0 0 0 0, Henry 1 3 0 45, Hisham 0 0 1 -5
+Uni B: Matthew 1 2 0 35, Robert 1 1 0 25, Lawrence 2 4 0 70, Daniel 1 3 0 45
+Bonuses: Auburn B 4 90 22.50, Uni B 15 290 19.33
+
+Latin A 485, Hinsdale Central A 165
+Latin A: Kenny 2 0 1 25, Chetan 3 3 0 75, Theo 1 2 0 35, Rose 0 3 0 30
+Hinsdale Central A: Daren C 0 1 0 10, Manvit A 0 1 1 5, Leon K 0 0 0 0, Allie Y 1 1 1 20, Thomas M 0 2 0 20
+Bonuses: Latin A 14 320 22.86, Hinsdale Central A 6 110 18.33
+
+Glenbard North A 330, Homewood-Flossmoor A 235
+Homewood-Flossmoor A: Jimmy 1 3 1 40, Hannah 1 0 0 15, Eric 0 1 2 0, Myles 0 2 0 20
+Glenbard North A: Jeromel 2 3 0 60, Caitlyn 0 2 0 20, Thomas 0 3 0 30, Danielle 0 2 0 20
+Bonuses: Homewood-Flossmoor A 8 160 20.00, Glenbard North A 12 200 16.67
+
+Uni C 185, Monticello 100
+Monticello: Riley 0 2 0 20, Preston 0 0 0 0, Pierce 0 1 0 10, Ben 0 1 2 0, Payne 0 2 0 20
+Uni C: Zona H 2 1 1 35, Akhil V 0 0 0 0, Daniel M 1 2 1 30, Arav J 0 2 0 20
+Bonuses: Monticello 6 50 8.33, Uni C 8 100 12.50
+
+Stevenson B 285, Mahomet-Seymour A 175
+Stevenson B: Aubrey 0 1 0 10, Daichi 0 0 0 0, Daniel 1 6 1 70, Vaishakh 1 1 0 25
+Mahomet-Seymour A: Nick M 0 4 0 40, Conrad E 0 1 0 10, Charles B 1 2 0 35, Owen E 0 0 0 0, Seth H 0 0 0 0, Ryan K 0 0 0 0
+Bonuses: Stevenson B 10 180 18.00, Mahomet-Seymour A 8 90 11.25
+
+IMSA A 455, Stevenson A 305
+Stevenson A: Govind 4 0 1 55, Arjun 1 1 0 25, David 0 1 0 10, Olivia 1 1 0 25
+IMSA A: Daniel 2 0 0 30, Tejo 0 0 0 0, Hanson 5 3 0 105, Matthew 0 1 0 10
+Bonuses: Stevenson A 9 190 21.11, IMSA A 11 310 28.18
+
+Mahomet-Seymour B 160, IMSA B 110
+IMSA B: Peter 0 0 0 0, Karisha 0 2 0 20, Ashley 0 1 1 5, Rachna 0 4 1 35
+Mahomet-Seymour B: Peter 0 2 0 20, Nate 0 0 0 0, Ella 0 2 0 20, Kolby 0 1 1 5, Payton 0 0 0 0, Tim 1 1 0 25
+Bonuses: IMSA B 7 50 7.14, Mahomet-Seymour B 7 90 12.86
+
+Sandburg B 195, Sandburg C 190 OT
+Sandburg C: Zuzanna 0 1 0 10, Terence 0 5 0 50, Veronica 0 0 0 0, Eric 1 2 1 30
+Sandburg B: Jarod 0 2 0 20, Arsh 0 1 0 10, Chris 2 3 1 55, Jason 0 1 0 10
+Bonuses: Sandburg C 9 100 11.11, Sandburg B 8 100 12.50
+
+Uni A 680, Sandburg A 45
+Sandburg A: Aristotle 1 1 2 15, Kevin 0 0 0 0, Sofia 0 0 0 0
+Uni A: Tim 2 1 1 35, Jonathan 4 0 0 60, Dylan 3 1 0 55, Ethan 4 2 0 80
+Bonuses: Sandburg A 2 30 15.00, Uni A 17 450 26.47
+
+Round 7
+Latin A 430, Centennial 115
+Latin A: Rose 0 4 1 35, Kenny 0 0 1 -5, Chetan 4 6 1 115, Theo 1 0 0 15
+Centennial: Brett Hancock 1 0 0 15, Amy Paul 1 3 1 40, Isaac Soloveychik 0 0 0 0, Devika Tiwari 0 0 0 0
+Bonuses: Latin A 15 270 18.00, Centennial 5 60 12.00
+
+Stevenson A 465, Auburn A 225
+Auburn A: Leif 1 1 0 25, Ethan 2 2 1 45, Lilly 1 0 0 15, Justin 0 0 0 0
+Stevenson A: Govind 3 2 1 60, David 1 2 0 35, Olivia 2 1 0 40, Arjun 2 0 0 30
+Bonuses: Auburn A 7 140 20.00, Stevenson A 13 300 23.08
+
+Uni B 500, Mahomet-Seymour A 85
+Mahomet-Seymour A: Conrad E 0 1 0 10, Seth H 0 0 0 0, Owen E 0 0 0 0, Charles B 0 1 0 10, Ryan K 0 0 0 0, Nick M 0 1 1 5
+Uni B: Matthew 0 5 1 45, Daniel 2 3 0 60, Lawrence 2 1 0 40, Robert 1 3 0 45
+Bonuses: Mahomet-Seymour A 3 60 20.00, Uni B 17 310 18.24
+
+Glenbard North B 225, Uni C 155
+Uni C: Daniel M 0 1 0 10, Akhil V 0 2 0 20, Arav J 0 1 0 10, Zona H 1 3 2 35
+Glenbard North B: Vincent 0 6 0 60, Meghan 0 1 0 10, Aarit 1 1 1 20, Harsh 0 0 1 -5
+Bonuses: Uni C 8 80 10.00, Glenbard North B 9 140 15.56
+
+Glenbard North A 270, Latin B 260 OT
+Latin B: Zach 1 0 0 15, Tejas 3 4 0 85, Will C 0 1 0 10, Theo 0 0 0 0
+Glenbard North A: Caitlyn 1 1 0 25, Jeromel 0 1 3 -5, Thomas 3 2 0 65, Danielle 1 2 0 35
+Bonuses: Latin B 9 150 16.67, Glenbard North A 10 150 15.00
+
+Hinsdale Central A 340, Homewood-Flossmoor A 235
+Homewood-Flossmoor A: Jimmy 1 2 1 30, Hannah 0 0 0 0, Eric 1 2 2 25, Myles 0 2 0 20
+Hinsdale Central A: Leon K 0 2 0 20, Thomas M 4 0 1 55, Allie Y 2 0 0 30, Daren C 1 0 0 15, Manvit A 0 3 0 30
+Bonuses: Homewood-Flossmoor A 8 160 20.00, Hinsdale Central A 12 190 15.83
+
+IMSA A 530, Sandburg A 145
+Sandburg A: Aristotle 1 2 1 30, Sofia 0 0 0 0, Kevin 1 2 1 30
+IMSA A: Daniel 0 0 0 0, Tejo 1 3 0 45, Hanson 4 5 0 110, Matthew 1 0 0 15
+Bonuses: Sandburg A 6 85 14.17, IMSA A 14 360 25.71
+
+Monticello 210, Mahomet-Seymour B 185
+Monticello: Ben 2 2 0 50, Preston 0 0 0 0, Riley 0 4 0 40, Payne 0 0 0 0, Jackson 0 0 0 0
+Mahomet-Seymour B: Peter 1 2 0 35, Nate 0 0 0 0, Ella 0 1 0 10, Kolby 0 0 0 0, Tim 0 4 0 40, Payton 0 0 0 0
+Bonuses: Monticello 8 120 15.00, Mahomet-Seymour B 8 100 12.50
+
+Stevenson B 285, Sandburg B 185
+Sandburg B: Jason 0 0 0 0, Jarod 1 0 1 10, Arsh 0 0 0 0, Chris 2 4 1 65
+Stevenson B: Vaishakh 0 0 0 0, Aubrey 0 2 0 20, Daichi 1 2 0 35, Daniel 2 4 0 70
+Bonuses: Sandburg B 7 110 15.71, Stevenson B 11 160 14.55
+
+IMSA B 320, Hinsdale Central B 40
+IMSA B: Ashley 1 2 0 35, Rachna 1 8 0 95, Peter 0 1 0 10, Karisha 0 1 0 10
+Hinsdale Central B: Sid 0 0 0 0, Aryan 0 1 1 5, Amogh 0 1 2 0, Ammaar 0 0 0 0, Alex 0 0 0 0, Pinaki 0 0 1 -5
+Bonuses: IMSA B 14 170 12.14, Hinsdale Central B 2 40 20.00
+
+Uni A 345, Barrington 250
+Uni A: Ethan 1 0 1 10, Dylan 1 3 0 45, Jonathan 0 1 1 5, Tim 2 3 1 55
+Barrington: Timothy 0 1 0 10, Roxanne 0 1 1 5, Michelle 3 3 1 70, Liam 1 0 0 15
+Bonuses: Uni A 11 230 20.91, Barrington 9 150 16.67
+
+Sandburg C 270, Auburn B 245
+Sandburg C: Veronica 0 0 0 0, Zuzanna 0 3 0 30, Eric 1 2 0 35, Terence 0 4 1 35
+Auburn B: Andy 2 0 0 30, Hisham 1 2 2 25, Henry 1 3 1 40, Josh 0 1 0 10
+Bonuses: Sandburg C 10 170 17.00, Auburn B 10 140 14.00
+
+Round 8
+Uni A 435, Stevenson A 330
+Stevenson A: Olivia 2 0 0 30, David 1 2 0 35, Arjun 1 0 1 10, Govind 3 0 2 35
+Uni A: Tim 0 2 0 20, Jonathan 2 1 0 40, Dylan 2 1 0 40, Ethan 3 0 0 45
+Bonuses: Stevenson A 9 220 24.44, Uni A 11 290 26.36
+
+Glenbard North A 300, Centennial 180
+Glenbard North A: Danielle 0 3 0 30, Thomas 0 2 0 20, Jeromel 0 3 2 20, Caitlyn 0 3 0 30
+Centennial: Isaac Soloveychik 0 0 0 0, Devika Tiwari 0 1 0 10, Amy Paul 2 2 0 50, Brett Hancock 1 2 3 20
+Bonuses: Glenbard North A 11 200 18.18, Centennial 8 100 12.50
+
+Mahomet-Seymour A 275, Auburn B 150
+Mahomet-Seymour A: Owen E 0 0 0 0, Charles B 2 4 0 70, Seth H 0 0 0 0, Conrad E 0 0 0 0, Nick M 0 5 3 35
+Auburn B: Ayush 0 0 0 0, Henry 0 1 2 0, Hisham 0 4 0 40, David 0 1 0 10
+Bonuses: Mahomet-Seymour A 11 170 15.45, Auburn B 6 100 16.67
+
+Glenbard North B 305, Mahomet-Seymour B 55
+Glenbard North B: Vincent 0 6 0 60, Harsh 0 3 0 30, Anthony 0 2 0 20, Meghan 0 2 1 15
+Mahomet-Seymour B: Ella 0 0 0 0, Kolby 0 1 1 5, Tim 0 2 3 5, Peter 0 0 0 0, Nate 0 0 1 -5
+Bonuses: Glenbard North B 13 180 13.85, Mahomet-Seymour B 3 50 16.67
+
+Sandburg C 300, Stevenson B 275
+Sandburg C: Eric 1 1 1 20, Veronica 0 1 0 10, Terence 2 5 0 80, Zuzanna 0 0 0 0
+Stevenson B: Aubrey 1 1 0 25, Daichi 0 0 0 0, Daniel 0 8 2 70, Vaishakh 0 0 0 0
+Bonuses: Sandburg C 10 190 19.00, Stevenson B 10 180 18.00
+
+Hinsdale Central A 365, Latin B 185
+Hinsdale Central A: Leon K 0 0 0 0, Manvit A 0 1 0 10, Thomas M 1 8 0 95, Daren C 0 1 0 10, Allie Y 1 0 1 10
+Latin B: Tejas 4 2 3 65, Will C 0 1 2 0, Zach 0 0 0 0
+Bonuses: Hinsdale Central A 12 240 20.00, Latin B 7 120 17.14
+
+Hinsdale Central B 210, Uni C 130
+Hinsdale Central B: Pinaki 1 3 0 45, Aryan 0 2 0 20, Ammaar 0 0 0 0, Amogh 0 2 1 15, Alex 0 2 0 20, Sid 0 1 0 10
+Uni C: Daniel M 0 0 0 0, Arav J 0 1 0 10, Zona H 0 2 3 5, Akhil V 0 3 1 25
+Bonuses: Hinsdale Central B 11 100 9.09, Uni C 6 90 15.00
+
+Monticello 150, IMSA B 110
+Monticello: Pierce 0 2 0 20, Preston 0 0 0 0, Riley 0 4 0 40, Payne 0 1 0 10, Ben 0 2 0 20
+IMSA B: Rachna 0 4 1 35, Peter 0 2 0 20, Ashley 0 1 3 -5, Karisha 0 0 0 0
+Bonuses: Monticello 9 60 6.67, IMSA B 7 60 8.57
+
+Homewood-Flossmoor A 275, Latin A 255
+Homewood-Flossmoor A: Hannah 0 3 1 25, Jimmy 1 4 0 55, Myles 0 1 0 10, Eric 1 0 0 15
+Latin A: Theo 1 0 0 15, Kenny 1 1 1 20, Chetan 1 2 3 20, Rose 2 1 0 40
+Bonuses: Homewood-Flossmoor A 10 170 17.00, Latin A 9 160 17.78
+
+Auburn A 485, IMSA A 300
+IMSA A: Tejo 0 0 0 0, Hanson 5 1 1 80, Daniel 0 0 0 0, Matthew 2 0 0 30
+Auburn A: Justin 0 0 0 0, Lilly 0 1 0 10, Leif 0 1 0 10, Ethan 9 1 0 145
+Bonuses: IMSA A 8 190 23.75, Auburn A 12 320 26.67
+
+Uni B 385, Sandburg B 120
+Sandburg B: Jason 0 2 0 20, Jarod 0 0 0 0, Arsh 0 1 0 10, Chris 1 2 3 20
+Uni B: Matthew 1 4 1 50, Daniel 2 2 3 35, Lawrence 0 3 0 30, Robert 0 1 0 10
+Bonuses: Sandburg B 6 70 11.67, Uni B 13 260 20.00
+
+Sandburg A 405, Barrington 155
+Sandburg A: Aristotle 4 4 3 85, Kevin 1 2 0 35, Sofia 1 1 0 25
+Barrington: Roxanne 1 1 2 15, Michelle 0 1 1 5, Liam 1 2 2 25, Timothy 0 0 0 0
+Bonuses: Sandburg A 13 260 20.00, Barrington 6 110 18.33
+
+Round 9
+Glenbard North B 240, IMSA B 140
+IMSA B: Rachna 0 3 0 30, Peter 1 1 0 25, Ashley 0 0 1 -5, Karisha 0 1 0 10
+Glenbard North B: Harsh 1 2 1 30, Anthony 0 2 0 20, Aarit 0 2 0 20, Meghan 1 0 1 10, Vincent 0 3 0 30
+Bonuses: IMSA B 6 80 13.33, Glenbard North B 11 130 11.82
+
+Hinsdale Central A 340, Glenbard North A 220
+Hinsdale Central A: Manvit A 0 2 0 20, Leon K 1 1 0 25, Daren C 1 1 0 25, Allie Y 1 0 0 15, Thomas M 2 3 1 55
+Glenbard North A: Danielle 0 1 0 10, Thomas 1 3 0 45, Jeromel 2 0 1 25, Caitlyn 0 1 0 10
+Bonuses: Hinsdale Central A 12 200 16.67, Glenbard North A 8 130 16.25
+
+Uni B 430, Sandburg C 135
+Sandburg C: Veronica 0 0 1 -5, Terence 1 3 1 40, Eric 2 0 0 30, Zuzanna 0 0 0 0
+Uni B: Daniel 0 2 1 15, Lawrence 0 6 1 55, Robert 1 2 0 35, Matthew 0 3 1 25
+Bonuses: Sandburg C 6 70 11.67, Uni B 14 300 21.43
+
+Homewood-Flossmoor A 310, Centennial 200
+Centennial: Isaac Soloveychik 0 1 0 10, Devika Tiwari 1 1 0 25, Brett Hancock 0 3 1 25, Amy Paul 0 2 0 20
+Homewood-Flossmoor A: Hannah 0 0 1 -5, Jimmy 1 4 1 50, Myles 1 1 0 25, Eric 2 2 0 50
+Bonuses: Centennial 8 120 15.00, Homewood-Flossmoor A 11 190 17.27
+
+Stevenson B 215, Auburn B 190
+Stevenson B: Vaishakh 0 1 0 10, Aubrey 0 1 0 10, Daniel 1 5 2 55, Daichi 0 0 0 0
+Auburn B: Josh 0 0 2 -10, Ayush 0 1 0 10, Andy 0 2 0 20, Hisham 2 2 0 50, Henry 0 3 0 30
+Bonuses: Stevenson B 8 140 17.50, Auburn B 10 90 9.00
+
+Mahomet-Seymour B 195, Uni C 80
+Uni C: Zona H 1 1 0 25, Arav J 0 2 0 20, Akhil V 0 0 0 0, Daniel M 0 0 3 -15
+Mahomet-Seymour B: Ella 0 0 0 0, Kolby 0 5 2 40, Tim 0 3 0 30, Peter 0 0 0 0, Nate 1 1 0 25
+Bonuses: Uni C 4 50 12.50, Mahomet-Seymour B 10 100 10.00
+
+Sandburg B 190, Mahomet-Seymour A 155
+Sandburg B: Jarod 0 2 1 15, Arsh 1 0 0 15, Chris 3 0 4 25, Jason 1 2 0 35
+Mahomet-Seymour A: Nick M 0 4 0 40, Owen E 0 0 0 0, Charles B 0 3 1 25, Seth H 0 0 0 0, Conrad E 0 0 0 0
+Bonuses: Sandburg B 9 100 11.11, Mahomet-Seymour A 7 90 12.86
+
+Stevenson A 540, Barrington 140
+Stevenson A: Arjun 3 3 1 70, David 1 2 0 35, Olivia 2 3 0 60, Govind 1 0 0 15
+Barrington: Timothy 1 0 0 15, Roxanne 0 1 1 5, Michelle 0 2 2 10, Liam 0 1 0 10
+Bonuses: Stevenson A 15 360 24.00, Barrington 5 100 20.00
+
+IMSA A 405, Uni A 320
+Uni A: Tim 1 2 1 30, Jonathan 1 0 0 15, Ethan 3 0 1 40, Dylan 1 0 0 15
+IMSA A: Daniel 2 0 0 30, Tejo 1 0 0 15, Hanson 1 7 1 80, Matthew 0 0 0 0
+Bonuses: Uni A 8 220 27.50, IMSA A 11 280 25.45
+
+Latin B 370, Latin A 200
+Latin B: Will C 0 2 1 15, Zach 1 3 0 45, Tejas 4 2 0 80
+Latin A: Theo 0 1 0 10, Rose 3 1 0 55, Chetan 0 1 1 5, Kenny 0 1 2 0
+Bonuses: Latin B 12 230 19.17, Latin A 7 130 18.57
+
+Auburn A 345, Sandburg A 315
+Auburn A: Lilly 0 0 0 0, Ethan 2 4 1 65, Pranav 0 2 1 15, Leif 0 2 1 15
+Sandburg A: Aristotle 4 4 0 100, Kevin 0 0 1 -5, Sofia 0 1 0 10
+Bonuses: Auburn A 10 250 25.00, Sandburg A 9 210 23.33
+
+Round 10
+Mahomet-Seymour A 320, Sandburg C 150
+Sandburg C: Eric 1 2 2 25, Zuzanna 0 1 0 10, Terence 1 0 1 10, Veronica 0 1 1 5
+Mahomet-Seymour A: Conrad E 1 2 0 35, Charles B 1 3 1 40, Owen E 0 0 0 0, Seth H 1 0 0 15, Nick M 0 4 0 40
+Bonuses: Sandburg C 6 100 16.67, Mahomet-Seymour A 12 190 15.83
+
+Hinsdale Central A 300, Centennial 225
+Centennial: Brett Hancock 1 0 1 10, Amy Paul 1 5 0 65, Isaac Soloveychik 0 1 0 10, Devika Tiwari 0 0 0 0
+Hinsdale Central A: Daren C 0 2 0 20, Manvit A 0 4 1 35, Leon K 0 0 0 0, Allie Y 1 1 0 25, Thomas M 0 2 2 10
+Bonuses: Centennial 8 140 17.50, Hinsdale Central A 10 210 21.00
+
+Latin A 375, Glenbard North A 200
+Glenbard North A: Danielle 0 0 0 0, Thomas 2 1 0 40, Jeromel 1 3 0 45, Caitlyn 0 1 1 5
+Latin A: Rose 0 4 0 40, Kenny 0 0 1 -5, Chetan 3 3 2 65, Theo 1 1 0 25
+Bonuses: Glenbard North A 8 110 13.75, Latin A 12 250 20.83
+
+IMSA A 445, Barrington 235
+Barrington: Timothy 0 1 0 10, Liam 1 1 0 25, Michelle 3 0 1 40, Roxanne 2 0 0 30
+IMSA A: Matthew 4 0 1 55, Tejo 1 0 0 15, Hanson 4 2 0 80, Daniel 1 0 0 15
+Bonuses: Barrington 8 130 16.25, IMSA A 12 280 23.33
+
+Hinsdale Central B 230, Mahomet-Seymour B 175
+Hinsdale Central B: Aryan 0 3 0 30, Pinaki 1 3 1 40, Sid 0 0 0 0, Alek 0 0 0 0, Alex 0 1 0 10, Ammaar 0 0 0 0, Amogh 0 0 0 0
+Mahomet-Seymour B: Nate 0 0 0 0, Peter 0 0 0 0, Kolby 0 4 1 35, Ella 0 2 0 20, Tim 0 4 0 40
+Bonuses: Hinsdale Central B 8 150 18.75, Mahomet-Seymour B 10 80 8.00
+
+Latin B 500, Homewood-Flossmoor A 30
+Latin B: Tejas 4 8 0 140, Zach 0 1 0 10, Will C 0 4 0 40
+Homewood-Flossmoor A: Myles 0 1 0 10, Eric 0 0 2 -10, Hannah 0 0 0 0, Jimmy 1 1 3 10
+Bonuses: Latin B 17 310 18.24, Homewood-Flossmoor A 3 20 6.67
+
+Uni B 370, Stevenson B 245
+Stevenson B: Daichi 0 1 0 10, Daniel 1 3 0 45, Aubrey 0 2 0 20, Vaishakh 0 1 0 10
+Uni B: Daniel 2 3 1 55, Lawrence 1 2 1 30, Robert 2 0 0 30, Matthew 0 2 1 15
+Bonuses: Stevenson B 8 160 20.00, Uni B 12 240 20.00
+
+Glenbard North B 0, Monticello 0 Tie
+Monticello: Riley 0 0 0 0, Ben 0 0 0 0, Pierce 0 0 0 0, Jackson 0 0 0 0
+Glenbard North B: Aarit 0 0 0 0, Vincent 0 0 0 0, Harsh 0 0 0 0, Anthony 0 0 0 0
+Bonuses: Monticello 0 0 0.00, Glenbard North B 0 0 0.00
+
+IMSA B 195, Uni C 130
+IMSA B: Peter 0 0 0 0, Rachna 0 7 1 65, Ashley 0 2 0 20, Karisha 0 1 0 10
+Uni C: Arav J 0 1 1 5, Akhil V 0 0 3 -15, Daniel M 0 3 1 25, Zona H 0 4 1 35
+Bonuses: IMSA B 10 100 10.00, Uni C 8 80 10.00
+
+Stevenson A 580, Sandburg A 180
+Stevenson A: Olivia 3 0 0 45, David 2 1 1 35, Arjun 3 1 0 55, Govind 5 0 0 75
+Sandburg A: Aristotle 2 3 0 60, Sofia 0 0 0 0, Kevin 0 0 0 0
+Bonuses: Stevenson A 15 370 24.67, Sandburg A 5 120 24.00
+
+Uni A 395, Auburn A 320
+Auburn A: Justin 0 0 0 0, Lilly 1 0 0 15, Ethan 4 3 2 80, Leif 0 1 1 5
+Uni A: Tim 1 1 0 25, Dylan 3 1 0 55, Ethan 4 0 1 55, Jonathan 1 0 1 10
+Bonuses: Auburn A 9 220 24.44, Uni A 11 250 22.73
+
+Auburn B 210, Sandburg B 180
+Auburn B: Ayush 0 1 0 10, Henry 0 1 1 5, Hisham 0 4 2 30, Andy 0 4 0 40, David 0 0 1 -5
+Sandburg B: Jason 0 2 1 15, Chris 0 2 3 5, Arsh 0 2 0 20, Jarod 0 2 0 20
+Bonuses: Auburn B 10 130 13.00, Sandburg B 8 120 15.00
+
+Round 11
+IMSA A 440, Uni A 325
+Uni A: Jonathan 0 0 1 -5, Tim 2 1 0 40, Ethan 2 2 1 45, Dylan 1 0 0 15
+IMSA A: Daniel 0 0 0 0, Tejo 0 1 0 10, Hanson 6 3 1 115, Matthew 1 1 0 25
+Bonuses: Uni A 8 230 28.75, IMSA A 12 290 24.17
+
+Auburn A 390, Stevenson A 310
+Auburn A: Ethan 5 2 1 90, Pranav 0 1 0 10, Leif 1 1 1 20, Lilly 0 1 0 10
+Stevenson A: Arjun 1 0 1 10, David 1 1 0 25, Olivia 0 1 2 0, Govind 3 2 0 65
+Bonuses: Auburn A 11 260 23.64, Stevenson A 9 210 23.33

@@ -1,0 +1,970 @@
+Round 1
+
+Paul Laurence Dunbar A 695, Battle Ground Academy 20
+Paul Laurence Dunbar A: Max Bograd 12 2 2 50, Angus Maske 12 2 5 80, Annesh Kadambi 11 2 3 60, David Vulakh 11 1 1 25
+Battle Ground Academy: Matt Lewis 11 0 1 10, Duncan Steeples 11 0 0 0, Dominick Nesbitt 11 0 0 0, Emma Cloud 10 0 0 0
+Bonuses: Paul Laurence Dunbar A 17 460 27.06, Battle Ground Academy 1 0 0.00
+Bonus Bouncebacks: Paul Laurence Dunbar A 0 20 0.00, Battle Ground Academy 0 10 0.00
+
+Paul Laurence Dunbar B 510, Russell 225
+Paul Laurence Dunbar B: Henry Blyth 11 1 6 75, Grace Goff 11 0 3 30, Noah Katz 10 0 3 30, Sanaa Kahloon 10 1 1 25, Gabriella Staykova 10 0 0 0
+Russell: Maya Abul-Khoudoud 12 0 2 20, Will Scott 11 0 0 0, Jackson Raich 10 1 0 15, Meredyth Wilson 11 0 2 20
+Bonuses: Paul Laurence Dunbar B 15 340 22.67, Russell 5 100 20.00
+Bonus Bouncebacks: Paul Laurence Dunbar B 0 10 0.00, Russell 0 70 0.00
+
+Detroit Catholic Central B 490, Grayson County 65
+Detroit Catholic Central B: Gavin DeWitt 12 1 6 75, Zachary Ernst 11 1 2 35, Billy Davidson 11 0 2 20, Bryce Murray 11 0 2 20
+Grayson County: Sarah Kiper 10 0 0 0, Rhiannon Wilson 11 0 1 10, Tyler Dennis 9 1 1 25, Garrett Drake 9 0 0 0, Tiffany Clark 10 0 0 0
+Bonuses: Detroit Catholic Central B 13 320 24.62, Grayson County 3 20 6.67
+Bonus Bouncebacks: Detroit Catholic Central B 0 20 0.00, Grayson County 0 10 0.00
+
+Boyd County Middle (JV) 145, Sheldon Clark B 80
+Sheldon Clark B: Ethan Alexander 11 0 1 10, Cory Preece 11 0 0 0, Lexy Hensley 10 0 0 0, Colin Horn 9 0 1 10, Linzie Goble 10 0 2 20
+Boyd County Middle (JV): Sydney Kimmel 8 0 1 10, Hope Smallwood 7 1 5 65, Aden Hereford 7 0 1 10, Noah Carter 7 0 1 10
+Bonuses: Sheldon Clark B 4 20 5.00, Boyd County Middle (JV) 9 50 5.56
+Bonus Bouncebacks: Sheldon Clark B 0 20 0.00, Boyd County Middle (JV) 0 0 0.00
+
+DuPont Manual 370, Johnson Central B 285
+Johnson Central B: Bryce Fletcher 9 0 2 20, Zoe Castle 9 3 1 55, Blayne Boone 10 0 0 0, Chrystalen Stambaugh 11 0 1 10, Hannah Skaggs 10 0 0 0
+DuPont Manual: Shaun Liu 10 2 1 40, Murari Srinivasan 10 0 5 50, Shyam Ravishankar 11 1 0 15, Justin Xu 10 1 1 25
+Bonuses: Johnson Central B 7 160 22.86, DuPont Manual 11 210 19.09
+Bonus Bouncebacks: Johnson Central B 0 40 0.00, DuPont Manual 0 30 0.00
+
+Boyd County (JV) 285, Trinity 255
+Trinity: Sammy Mattingly 12 0 2 20, Nick Huls 11 1 4 55, Aden Yeager 11 0 0 0, Riley Moremen 10 0 1 10
+Boyd County (JV): Maggie Kinnel 10 1 2 35, Jackson Davis 10 1 2 35, Adrian McDaniels 10 0 0 0, Grace Conley 10 1 3 45, Grace Stubblefield 10 0 0 0
+Bonuses: Trinity 8 110 13.75, Boyd County (JV) 10 160 16.00
+Bonus Bouncebacks: Trinity 0 60 0.00, Boyd County (JV) 0 10 0.00
+
+Woodford County A 545, Rockcastle County A 130
+Woodford County A: Connor Akers 12 0 6 60, Logan Craig 11 1 3 45, Claire Pinkston 10 1 1 25, Keaton Martin 10 1 3 45
+Rockcastle County A: Tessa Pickle 12 0 0 0, Katie Vance 12 0 2 20, Aden Amburgey 11 0 1 10, Jonathan Cain 11 0 1 10
+Bonuses: Woodford County A 16 340 21.25, Rockcastle County A 4 70 17.50
+Bonus Bouncebacks: Woodford County A 0 30 0.00, Rockcastle County A 0 20 0.00
+
+Detroit Catholic Central A 640, Woodford County B 120
+Woodford County B: Derek Forte 11 0 0 0, Trevor Wells 10 0 0 0, Caleb May 10 0 1 10, Cayce Jones 10 2 1 40
+Detroit Catholic Central A: Robert Dedvukaj 11 2 2 50, Parker Stogdill 12 3 2 65, David DeBacker 12 0 4 40, Colin Stewart 12 1 1 25
+Bonuses: Woodford County B 4 40 10.00, Detroit Catholic Central A 15 430 28.67
+Bonus Bouncebacks: Woodford County B 0 30 0.00, Detroit Catholic Central A 0 30 0.00
+
+Campbell County A 420, Raceland-Worthington 285
+Campbell County A: Nate Asbury 12 1 3 45, Lauren Taylor 10 1 2 35, Raychel Kool 10 2 3 60, Nicholas Yungbluth 12 0 1 10
+Raceland-Worthington: Hunter West 12 1 1 25, Brady Justice 12 2 2 50, Libby Roy 11 0 0 0, Maddy Wilburn 11 0 0 0, Katelyn Fyffe 11 0 0 0
+Bonuses: Campbell County A 13 230 17.69, Raceland-Worthington 6 180 30.00
+Bonus Bouncebacks: Campbell County A 0 40 0.00, Raceland-Worthington 0 30 0.00
+
+Johnson Central A 385, Campbell County B (JV) 255
+Campbell County B (JV): Grace Songer 10 0 4 40, Abby Clark 10 1 2 35, Anna Morris 9 0 0 0, Noah Coronado 9 0 1 10, Clair Yungluth 9 0 0 0
+Johnson Central A: Brandon Fairchild 12 0 2 20, Austin Cantrell 11 2 1 40, JT Dials 11 1 1 25, Megan Owens 12 0 3 30
+Bonuses: Campbell County B (JV) 8 160 20.00, Johnson Central A 10 230 23.00
+Bonus Bouncebacks: Campbell County B (JV) 0 10 0.00, Johnson Central A 0 40 0.00
+
+Ed W. Clark 505, Adair County 195
+Ed W. Clark: Eshaan Vakil 11 3 10 145
+Adair County: Trevor Smith 12 1 2 35, Maddie Harmon 11 0 0 0, Chris Stuchell 12 0 0 0, Samuel Willis 12 0 2 20, Ty Cheatham 11 0 0 0, Hayden Hancock 10 0 0 0
+Bonuses: Ed W. Clark 13 320 24.62, Adair County 5 110 22.00
+Bonus Bouncebacks: Ed W. Clark 0 40 0.00, Adair County 0 30 0.00
+
+Portland 335, Rockcastle County B 160
+Rockcastle County B: Drew Bullock 11 0 2 20, Audrey Childress 10 0 1 10, Kristen Taylor 11 0 4 40, Bailey Cromer 9 0 0 0, Brianna Owens 11 0 0 0, John Asher 9 0 0 0, Elizabeth Mikeworth 9 0 0 0, Hayden Robinson 11 0 0 0
+Portland: Logan Livingston 11 0 0 0, Matt Rosa 11 1 1 25, Stanley Zhao 11 0 8 80, John Hutchinson 10 0 1 10, Avery Crawford 10 0 0 0
+Bonuses: Rockcastle County B 7 50 7.14, Portland 11 130 11.82
+Bonus Bouncebacks: Rockcastle County B 0 40 0.00, Portland 0 90 0.00
+
+Chattahoochee 690, Henderson County B 10
+Chattahoochee: Harrison Zhu 12 4 4 100, Andy Luo 12 1 1 25, Sanjeev Uppaluri 11 3 3 75, Foster Michaelis 11 2 0 30
+Henderson County B: Will Kyle 0 0 0, Maggie Privette 0 0 0, Ryan Nantz 0 0 0, Andrew Russell 0 1 10
+Bonuses: Chattahoochee 18 430 23.89, Henderson County B 1 0 0.00
+Bonus Bouncebacks: Chattahoochee 0 30 0.00, Henderson County B 0 0 0.00
+
+Miami Valley 585, Paul G. Blazer 235
+Paul G. Blazer: John Thomas 12 1 1 25, Julie Clere 12 1 1 25, Courtney Lewis 12 1 0 15, Logan Coovert 11 0 1 10, Jessica Miller 11 0 0 0
+Miami Valley: John John Groger 11 5 4 115, William Groger 10 4 1 70
+Bonuses: Paul G. Blazer 5 150 30.00, Miami Valley 14 370 26.43
+Bonus Bouncebacks: Paul G. Blazer 0 10 0.00, Miami Valley 0 30 0.00
+
+Daviess County 505, Sheldon Clark A 100
+Sheldon Clark A: Jaccob McKenzie 12 0 1 10, Sheridan Fletcher 12 0 0 0, Tristan Wiley 12 0 2 20, Chloe Hale 10 0 0 0
+Daviess County: Alec Phelps 12 3 4 85, Noah Owen 11 0 2 20, Christian Vincent 11 0 3 30, Andrew Ellis 11 0 3 30
+Bonuses: Sheldon Clark A 3 30 10.00, Daviess County 15 300 20.00
+Bonus Bouncebacks: Sheldon Clark A 0 40 0.00, Daviess County 0 40 0.00
+
+Henderson County A 570, Northmont 230
+Henderson County A: DJ Banks 12 4 5 110, Harrison Jenkins 12 2 3 60, Alex Chandler 12 0 1 10, Julianne Latimer 10 0 0 0
+Northmont: Samantha Street 10 1 2 35, Sean Scranton 10 0 1 10, Amara Nwanoro 10 1 0 15, Athena Dobles 11 0 0 0
+Bonuses: Henderson County A 15 370 24.67, Northmont 5 110 22.00
+Bonus Bouncebacks: Henderson County A 0 20 0.00, Northmont 0 60 0.00
+
+Round 2
+Paul Laurence Dunbar A 545, Boyd County Middle (JV) 30
+Paul Laurence Dunbar A: Max Bograd 12 2 1 40, Angus Maske 12 2 4 70, Annesh Kadambi 11 1 4 55, David Vulakh 11 0 2 20
+Boyd County Middle (JV): Sydney Kimmel 8 0 0 0, Hope Smallwood 7 0 0 0, Aden Hereford 7 0 0 0, Noah Carter 7 0 1 10
+Bonuses: Paul Laurence Dunbar A 16 350 21.88, Boyd County Middle (JV) 1 20 20.00
+Bonus Bouncebacks: Paul Laurence Dunbar A 0 10 0.00, Boyd County Middle (JV) 0 0 0.00
+
+Detroit Catholic Central A 575, Woodford County A 150
+Woodford County A: Connor Akers 12 0 0 0, Logan Craig 11 0 1 10, Claire Pinkston 10 0 2 20, Keaton Martin 10 2 0 30
+Detroit Catholic Central A: Robert Dedvukaj 11 1 2 35, Parker Stogdill 12 1 6 75, David DeBacker 12 0 2 20, Colin Stewart 12 3 0 45
+Bonuses: Woodford County A 5 80 16.00, Detroit Catholic Central A 15 380 25.33
+Bonus Bouncebacks: Woodford County A 0 10 0.00, Detroit Catholic Central A 0 20 0.00
+
+Ed W. Clark 485, Boyd County (JV) 180
+Boyd County (JV): Maggie Kinnel 10 1 1 25, Jackson Davis 10 0 0 0, Grace Conley 10 1 1 25, Grace Stubblefield 10 0 1 10
+Ed W. Clark: Eshaan Vakil 11 3 10 145
+Bonuses: Boyd County (JV) 5 90 18.00, Ed W. Clark 13 300 23.08
+Bonus Bouncebacks: Boyd County (JV) 0 30 0.00, Ed W. Clark 0 40 0.00
+
+Adair County 325, Trinity 255
+Adair County: Trevor Smith 12 0 5 50, Maddie Harmon 11 1 1 25, Chris Stuchell 12 2 1 40, Samuel Willis 12 0 0 0
+Trinity: Sammy Mattingly 12 0 2 20, Nick Huls 11 1 4 55, Aden Yeager 11 0 0 0, Riley Moremen 10 0 0 0
+Bonuses: Adair County 10 150 15.00, Trinity 7 110 15.71
+Bonus Bouncebacks: Adair County 0 60 0.00, Trinity 0 70 0.00
+
+DuPont Manual 350, Daviess County 280
+DuPont Manual: Shaun Liu 10 1 1 25, Murari Srinivasan 10 0 0 0, Shyam Ravishankar 11 0 4 40, Justin Xu 10 1 4 55
+Daviess County: Alec Phelps 12 0 1 10, Noah Owen 11 1 0 15, Christian Vincent 11 1 4 55, Andrew Ellis 11 0 1 10
+Bonuses: DuPont Manual 11 190 17.27, Daviess County 8 140 17.50
+Bonus Bouncebacks: DuPont Manual 0 40 0.00, Daviess County 0 50 0.00
+
+Northmont 485, Grayson County 20
+Grayson County: Sarah Kiper 10 0 1 10, Rhiannon Wilson 11 0 0 0, Tyler Dennis 9 0 0 0, Garrett Drake 9 0 0 0
+Northmont: Samantha Street 10 1 7 85, Sean Scranton 10 2 3 60, Amara Nwanoro 10 0 2 20, Athena Dobles 11 0 0 0
+Bonuses: Grayson County 1 0 0.00, Northmont 15 320 21.33
+Bonus Bouncebacks: Grayson County 0 10 0.00, Northmont 0 0 0.00
+
+Russell 305, Raceland-Worthington 295
+Raceland-Worthington: Hunter West 12 0 6 60, Brady Justice 12 1 3 45, Libby Roy 11 0 0 0, Maddy Wilburn 11 0 0 0, Katelyn Fyffe 11 0 0 0
+Russell: Maya Abul-Khoudoud 12 1 2 35, Will Scott 11 0 0 0, Jackson Raich 10 1 4 55, Meredyth Wilson 11 1 1 25
+Bonuses: Raceland-Worthington 10 180 18.00, Russell 10 170 17.00
+Bonus Bouncebacks: Raceland-Worthington 0 10 0.00, Russell 0 20 0.00
+
+Woodford County B 305, Rockcastle County A 170
+Woodford County B: Derek Forte 11 0 4 40, Alfie Painter 10 0 0 0, Trevor Wells 10 1 2 35, Caleb May 10 0 0 0, Cayce Jones 10 0 4 40
+Rockcastle County A: Tessa Pickle 12 0 1 10, Katie Vance 12 0 4 40, Aden Amburgey 11 0 1 10, Jonathan Cain 11 0 0 0
+Bonuses: Woodford County B 11 160 14.55, Rockcastle County A 6 80 13.33
+Bonus Bouncebacks: Woodford County B 0 30 0.00, Rockcastle County A 0 30 0.00
+
+Paul G. Blazer 290, Rockcastle County B 90
+Rockcastle County B: Audrey Childress 10 0 1 10, Bailey Cromer 9 0 0 0, Kristen Taylor 11 0 0 0, Jayden Nicely 9 0 0 0, Rebekah Daniel 9 0 0 0, John Asher 9 0 1 10, Drew Bullock 11 0 2 20, Hayden Robinson 11 0 0 0
+Paul G. Blazer: John Thomas 12 0 2 20, Shalayna Rice 12 0 1 10, Julie Clere 12 0 0 0, Courtney Lewis 12 1 0 15, Logan Coovert 11 1 3 45, Jessica Miller 11 0 1 10, MacKenzie Clere 11 0 0 0
+Bonuses: Rockcastle County B 4 40 10.00, Paul G. Blazer 9 150 16.67
+Bonus Bouncebacks: Rockcastle County B 0 10 0.00, Paul G. Blazer 0 40 0.00
+
+Chattahoochee 590, Johnson Central A 155
+Chattahoochee: Harrison Zhu 12 2 2 50, Andy Luo 12 4 0 60, Sanjeev Uppaluri 11 2 4 70, Foster Michaelis 11 2 0 30
+Johnson Central A: Brandon Fairchild 12 0 1 10, Austin Cantrell 11 0 1 10, JT Dials 11 0 1 10, Megan Owens 12 0 0 0, Amelia Kretzer 11 1 0 15, Jolene Fairchild 12 0 0 0
+Bonuses: Chattahoochee 16 360 22.50, Johnson Central A 4 70 17.50
+Bonus Bouncebacks: Chattahoochee 0 20 0.00, Johnson Central A 0 40 0.00
+
+Henderson County A 505, Detroit Catholic Central B 250
+Detroit Catholic Central B: Gavin DeWitt 12 0 1 10, Zachary Ernst 11 2 0 30, Billy Davidson 11 1 1 25, Bryce Murray 11 1 1 25
+Henderson County A: DJ Banks 12 4 4 100, Harrison Jenkins 12 5 0 75, Alex Chandler 12 0 0 0, Julianne Latimer 10 0 0 0
+Bonuses: Detroit Catholic Central B 7 140 20.00, Henderson County A 13 300 23.08
+Bonus Bouncebacks: Detroit Catholic Central B 0 20 0.00, Henderson County A 0 30 0.00
+
+Paul Laurence Dunbar B 400, Campbell County A 225
+Campbell County A: Nate Asbury 12 1 3 45, Lauren Taylor 10 0 0 0, Raychel Kool 10 0 1 10, Nicholas Yungbluth 12 0 0 0
+Paul Laurence Dunbar B: Henry Blyth 11 1 4 55, Grace Goff 11 1 4 55, Noah Katz 10 0 3 30, Sanaa Kahloon 10 0 0 0, Gabriella Staykova 10 0 0 0
+Bonuses: Campbell County A 5 100 20.00, Paul Laurence Dunbar B 13 230 17.69
+Bonus Bouncebacks: Campbell County A 0 70 0.00, Paul Laurence Dunbar B 0 30 0.00
+
+Campbell County B (JV) 210, Henderson County B 125
+Campbell County B (JV): Grace Songer 10 0 3 30, Abby Clark 10 0 5 50, Anna Morris 9 0 0 0, Noah Coronado 9 0 1 10, Clair Yungluth 9 0 0 0
+Henderson County B: Will Kyle 0 0 0, Maggie Privette 1 4 55, Ryan Nantz 0 0 0, Andrew Russell 0 0 0
+Bonuses: Campbell County B (JV) 9 100 11.11, Henderson County B 5 50 10.00
+Bonus Bouncebacks: Campbell County B (JV) 0 20 0.00, Henderson County B 0 20 0.00
+
+Battle Ground Academy 270, Sheldon Clark B 30
+Battle Ground Academy: Matt Lewis 11 0 3 30, Duncan Steeples 11 0 1 10, Dominick Nesbitt 11 0 5 50, Emma Cloud 10 0 3 30
+Sheldon Clark B: Ethan Alexander 11 0 0 0, Cory Preece 11 0 0 0, Lexy Hensley 10 0 0 0, Colin Horn 9 0 0 0, Linzie Goble 10 0 1 10
+Bonuses: Battle Ground Academy 12 140 11.67, Sheldon Clark B 1 0 0.00
+Bonus Bouncebacks: Battle Ground Academy 0 10 0.00, Sheldon Clark B 0 20 0.00
+
+Johnson Central B 350, Sheldon Clark A 165
+Johnson Central B: Bryce Fletcher 9 0 4 40, Zoe Castle 9 0 2 20, Blayne Boone 10 0 0 0, Chrystalen Stambaugh 11 2 4 70, Hannah Skaggs 10 0 0 0
+Sheldon Clark A: Jaccob McKenzie 12 1 2 35, Sheridan Fletcher 12 0 1 10, Tristan Wiley 12 0 1 10, Chloe Hale 10 0 1 10
+Bonuses: Johnson Central B 12 200 16.67, Sheldon Clark A 6 70 11.67
+Bonus Bouncebacks: Johnson Central B 0 20 0.00, Sheldon Clark A 0 30 0.00
+
+Miami Valley 685, Portland 40
+Miami Valley: John John Groger 11 5 9 165, William Groger 10 4 0 60
+Portland: Matt Rosa 11 0 1 10, Stanley Zhao 11 0 0 0, John Hutchinson 10 0 0 0, Avery Crawford 10 0 1 10
+Bonuses: Miami Valley 18 430 23.89, Portland 2 10 5.00
+Bonus Bouncebacks: Miami Valley 0 30 0.00, Portland 0 10 0.00
+
+Round 3
+Rockcastle County B 185, Sheldon Clark A 150
+Sheldon Clark A: Jaccob McKenzie 12 0 2 20, Sheridan Fletcher 12 0 2 20, Tristan Wiley 12 0 1 10, Chloe Hale 10 0 0 0
+Rockcastle County B: Drew Bullock 11 0 2 20, Bailey Cromer 9 0 0 0, John Asher 9 0 0 0, Audrey Childress 10 1 0 15, Elizabeth Mikeworth 9 2 3 60
+Bonuses: Sheldon Clark A 5 60 12.00, Rockcastle County B 8 90 11.25
+Bonus Bouncebacks: Sheldon Clark A 0 40 0.00, Rockcastle County B 0 0 0.00
+
+Detroit Catholic Central A 570, Paul Laurence Dunbar B 195
+Detroit Catholic Central A: Robert Dedvukaj 11 4 2 80, Parker Stogdill 12 2 0 30, David DeBacker 12 2 0 30, Colin Stewart 12 2 3 60
+Paul Laurence Dunbar B: Henry Blyth 11 2 1 40, Grace Goff 11 1 0 15, Noah Katz 10 0 1 10, Sanaa Kahloon 10 0 0 0, Gabriella Staykova 10 0 0 0
+Bonuses: Detroit Catholic Central A 15 360 24.00, Paul Laurence Dunbar B 5 120 24.00
+Bonus Bouncebacks: Detroit Catholic Central A 0 10 0.00, Paul Laurence Dunbar B 0 10 0.00
+
+Detroit Catholic Central B 495, Battle Ground Academy 110
+Battle Ground Academy: Matt Lewis 11 0 0 0, Duncan Steeples 11 0 1 10, Dominick Nesbitt 11 0 1 10, Emma Cloud 10 0 1 10
+Detroit Catholic Central B: Gavin DeWitt 12 2 3 60, Zachary Ernst 11 1 0 15, Billy Davidson 11 2 3 60, Bryce Murray 11 0 3 30
+Bonuses: Battle Ground Academy 3 40 13.33, Detroit Catholic Central B 14 300 21.43
+Bonus Bouncebacks: Battle Ground Academy 0 40 0.00, Detroit Catholic Central B 0 30 0.00
+
+Woodford County A 400, Russell 240
+Woodford County A: Connor Akers 12 3 4 85, Logan Craig 11 0 0 0, Claire Pinkston 10 0 2 20, Keaton Martin 10 3 0 45
+Russell: Maya Abul-Khoudoud 12 0 1 10, Will Scott 11 0 1 10, Jackson Raich 10 0 3 30, Meredyth Wilson 11 0 0 0
+Bonuses: Woodford County A 12 250 20.83, Russell 5 130 26.00
+Bonus Bouncebacks: Woodford County A 0 0 0.00, Russell 0 60 0.00
+
+Paul G. Blazer 360, Daviess County 335
+Daviess County: Alec Phelps 12 3 2 65, Noah Owen 11 1 0 15, Christian Vincent 11 1 2 35, Andrew Ellis 11 0 0 0
+Paul G. Blazer: John Thomas 12 0 4 40, Julie Clere 12 0 0 0, Courtney Lewis 12 0 0 0, Logan Coovert 11 2 3 60, Jessica Miller 11 0 0 0, MacKenzie Clere 11 0 1 10
+Bonuses: Daviess County 9 190 21.11, Paul G. Blazer 10 230 23.00
+Bonus Bouncebacks: Daviess County 0 30 0.00, Paul G. Blazer 0 20 0.00
+
+Miami Valley 765, DuPont Manual 55
+DuPont Manual: Shaun Liu 10 0 0 0, Murari Srinivasan 10 0 0 0, Shyam Ravishankar 11 1 0 15, Justin Xu 10 0 0 0
+Miami Valley: John John Groger 11 7 3 135, William Groger 10 8 1 130
+Bonuses: DuPont Manual 1 30 30.00, Miami Valley 19 500 26.32
+Bonus Bouncebacks: DuPont Manual 0 10 0.00, Miami Valley 0 0 0.00
+
+Trinity 355, Henderson County B 60
+Trinity: Sammy Mattingly 12 0 1 10, Nick Huls 11 1 9 105, Aden Yeager 11 0 0 0, Riley Moremen 10 0 0 0
+Henderson County B: Will Kyle 0 2 20, Maggie Privette 0 1 10, Ryan Nantz 0 0 0, Andrew Russell 0 0 0
+Bonuses: Trinity 11 210 19.09, Henderson County B 3 30 10.00
+Bonus Bouncebacks: Trinity 0 30 0.00, Henderson County B 0 0 0.00
+
+Chattahoochee 470, Ed W. Clark 340
+Ed W. Clark: Eshaan Vakil 11 6 3 120
+Chattahoochee: Harrison Zhu 12 4 0 60, Andy Luo 12 2 0 30, Sanjeev Uppaluri 11 2 3 60, Foster Michaelis 11 0 0 0
+Bonuses: Ed W. Clark 12 190 15.83, Chattahoochee 11 280 25.45
+Bonus Bouncebacks: Ed W. Clark 0 30 0.00, Chattahoochee 0 40 0.00
+
+Campbell County A 390, Woodford County B 225
+Campbell County A: Nate Asbury 12 1 4 55, Lauren Taylor 10 1 4 55, Raychel Kool 10 0 2 20, Nicholas Yungbluth 12 0 0 0
+Woodford County B: Derek Forte 11 0 1 10, Alfie Painter 10 0 1 10, Trevor Wells 10 0 1 10, Caleb May 10 1 1 25, Cayce Jones 10 0 2 20
+Bonuses: Campbell County A 12 220 18.33, Woodford County B 7 110 15.71
+Bonus Bouncebacks: Campbell County A 0 40 0.00, Woodford County B 0 40 0.00
+
+Northmont 480, Boyd County Middle (JV) 70
+Northmont: Samantha Street 10 3 3 75, Sean Scranton 10 1 3 45, Amara Nwanoro 10 0 1 10, Athena Dobles 11 0 2 20
+Boyd County Middle (JV): Sydney Kimmel 8 2 0 30, Hope Smallwood 7 0 1 10, Aden Hereford 7 0 1 10, Noah Carter 7 0 0 0
+Bonuses: Northmont 13 270 20.77, Boyd County Middle (JV) 4 20 5.00
+Bonus Bouncebacks: Northmont 0 60 0.00, Boyd County Middle (JV) 0 0 0.00
+
+Grayson County 100, Sheldon Clark B 40
+Grayson County: Sarah Kiper 10 0 2 20, Rhiannon Wilson 11 1 1 25, Tyler Dennis 9 1 1 25, Garrett Drake 9 0 0 0, Tiffany Clark 10 0 0 0
+Sheldon Clark B: Ethan Alexander 11 0 1 10, Cory Preece 11 0 0 0, Lexy Hensley 10 0 0 0, Colin Horn 9 0 0 0, Linzie Goble 10 0 2 20
+Bonuses: Grayson County 6 30 5.00, Sheldon Clark B 3 0 0.00
+Bonus Bouncebacks: Grayson County 0 0 0.00, Sheldon Clark B 0 10 0.00
+
+Paul Laurence Dunbar A 435, Henderson County A 375
+Henderson County A: DJ Banks 12 6 3 120, Harrison Jenkins 12 1 0 15, Alex Chandler 12 0 0 0, Julianne Latimer 10 0 0 0
+Paul Laurence Dunbar A: Max Bograd 12 1 0 15, Angus Maske 12 4 3 90, Annesh Kadambi 11 0 0 0, David Vulakh 11 0 2 20
+Bonuses: Henderson County A 10 210 21.00, Paul Laurence Dunbar A 10 250 25.00
+Bonus Bouncebacks: Henderson County A 0 30 0.00, Paul Laurence Dunbar A 0 60 0.00
+
+Campbell County B (JV) 295, Boyd County (JV) 250
+Campbell County B (JV): Grace Songer 10 0 2 20, Abby Clark 10 1 1 25, Anna Morris 9 0 5 50, Noah Coronado 9 0 2 20
+Boyd County (JV): Maggie Kinnel 10 0 2 20, Jackson Davis 10 0 3 30, Grace Conley 10 0 2 20, Grace Stubblefield 10 0 0 0
+Bonuses: Campbell County B (JV) 11 160 14.55, Boyd County (JV) 7 140 20.00
+Bonus Bouncebacks: Campbell County B (JV) 0 20 0.00, Boyd County (JV) 0 40 0.00
+
+Portland 365, Johnson Central B 245
+Johnson Central B: Bryce Fletcher 9 1 2 35, Zoe Castle 9 0 0 0, Blayne Boone 10 0 1 10, Chrystalen Stambaugh 11 0 4 40, Hannah Skaggs 10 0 0 0
+Portland: Logan Livingston 11 0 1 10, Matt Rosa 11 2 1 40, Stanley Zhao 11 1 5 65, John Hutchinson 10 0 0 0
+Bonuses: Johnson Central B 8 130 16.25, Portland 10 200 20.00
+Bonus Bouncebacks: Johnson Central B 0 30 0.00, Portland 0 50 0.00
+
+Johnson Central A 435, Adair County 260
+Johnson Central A: Brandon Fairchild 12 2 0 30, Austin Cantrell 11 0 2 20, JT Dials 11 3 2 65, Megan Owens 12 0 2 20
+Adair County: Trevor Smith 12 2 2 50, Maddie Harmon 11 0 3 30, Chris Stuchell 12 0 1 10, Samuel Willis 12 0 0 0
+Bonuses: Johnson Central A 11 220 20.00, Adair County 8 140 17.50
+Bonus Bouncebacks: Johnson Central A 0 80 0.00, Adair County 0 30 0.00
+
+Raceland-Worthington 310, Rockcastle County A 170
+Rockcastle County A: Tessa Pickle 12 2 1 40, Katie Vance 12 0 1 10, Aden Amburgey 11 0 0 0, Jonathan Cain 11 0 0 0
+Raceland-Worthington: Hunter West 12 1 8 95, Brady Justice 12 1 2 35, Libby Roy 11 0 0 0, Maddy Wilburn 11 0 0 0, Katelyn Fyffe 11 0 0 0
+Bonuses: Rockcastle County A 4 60 15.00, Raceland-Worthington 12 160 13.33
+Bonus Bouncebacks: Rockcastle County A 0 60 0.00, Raceland-Worthington 0 20 0.00
+
+Round 4
+Adair County 350, Johnson Central B 250
+Adair County: Trevor Smith 12 2 3 60, Maddie Harmon 11 0 3 30, Chris Stuchell 12 0 1 10, Samuel Willis 12 0 1 10
+Johnson Central B: Bryce Fletcher 9 0 0 0, Zoe Castle 9 0 2 20, Blayne Boone 10 0 1 10, Chrystalen Stambaugh 11 0 4 40, Hannah Skaggs 10 0 2 20
+Bonuses: Adair County 10 200 20.00, Johnson Central B 9 130 14.44
+Bonus Bouncebacks: Adair County 0 40 0.00, Johnson Central B 0 30 0.00
+
+Johnson Central A 400, DuPont Manual 225
+DuPont Manual: Shaun Liu 10 0 2 20, Murari Srinivasan 10 0 2 20, Shyam Ravishankar 11 1 3 45, Justin Xu 10 0 0 0
+Johnson Central A: Brandon Fairchild 12 3 0 45, Austin Cantrell 11 0 1 10, JT Dials 11 1 3 45, Megan Owens 12 0 3 30
+Bonuses: DuPont Manual 8 120 15.00, Johnson Central A 11 250 22.73
+Bonus Bouncebacks: DuPont Manual 0 20 0.00, Johnson Central A 0 20 0.00
+
+Raceland-Worthington 340, Boyd County Middle (JV) 60
+Boyd County Middle (JV): Sydney Kimmel 8 0 1 10, Hope Smallwood 7 0 1 10, Aden Hereford 7 0 0 0, Noah Carter 7 0 1 10
+Raceland-Worthington: Hunter West 12 0 9 90, Brady Justice 12 0 4 40, Libby Roy 11 0 0 0, Maddy Wilburn 11 0 0 0, Katelyn Fyffe 11 0 0 0
+Bonuses: Boyd County Middle (JV) 3 0 0.00, Raceland-Worthington 13 170 13.08
+Bonus Bouncebacks: Boyd County Middle (JV) 0 30 0.00, Raceland-Worthington 0 40 0.00
+
+Woodford County B 385, Battle Ground Academy 135
+Battle Ground Academy: Matt Lewis 11 0 2 20, Duncan Steeples 11 0 1 10, Dominick Nesbitt 11 1 0 15, Emma Cloud 10 0 1 10
+Woodford County B: Derek Forte 11 0 3 30, Alfie Painter 10 1 0 15, Trevor Wells 10 1 2 35, Caleb May 10 0 3 30, Cayce Jones 10 1 1 25
+Bonuses: Battle Ground Academy 5 60 12.00, Woodford County B 12 210 17.50
+Bonus Bouncebacks: Battle Ground Academy 0 20 0.00, Woodford County B 0 40 0.00
+
+Sheldon Clark A 170, Henderson County B 120
+Henderson County B: Will Kyle 0 3 30, Maggie Privette 0 2 20, Ryan Nantz 0 2 20, Andrew Russell 0 1 10
+Sheldon Clark A: Jaccob McKenzie 12 0 0 0, Sheridan Fletcher 12 0 3 30, Tristan Wiley 12 0 0 0, Chloe Hale 10 0 1 10
+Bonuses: Henderson County B 8 30 3.75, Sheldon Clark A 4 70 17.50
+Bonus Bouncebacks: Henderson County B 0 10 0.00, Sheldon Clark A 0 60 0.00
+
+Detroit Catholic Central A 410, Paul Laurence Dunbar A 375
+Detroit Catholic Central A: Robert Dedvukaj 11 1 1 25, Parker Stogdill 12 1 2 35, David DeBacker 12 2 1 40, Colin Stewart 12 2 0 30
+Paul Laurence Dunbar A: Max Bograd 12 3 1 55, Angus Maske 12 3 1 55, Annesh Kadambi 11 1 0 15, David Vulakh 11 0 1 10
+Bonuses: Detroit Catholic Central A 10 240 24.00, Paul Laurence Dunbar A 10 220 22.00
+Bonus Bouncebacks: Detroit Catholic Central A 0 40 0.00, Paul Laurence Dunbar A 0 20 0.00
+
+Detroit Catholic Central B 475, Paul Laurence Dunbar B 175
+Paul Laurence Dunbar B: Henry Blyth 11 1 3 45, Grace Goff 11 0 2 20, Noah Katz 10 0 0 0, Sanaa Kahloon 10 0 0 0, Gabriella Staykova 10 0 0 0
+Detroit Catholic Central B: Gavin DeWitt 12 1 3 45, Zachary Ernst 11 3 2 65, Billy Davidson 11 1 2 35, Bryce Murray 11 0 1 10
+Bonuses: Paul Laurence Dunbar B 6 90 15.00, Detroit Catholic Central B 13 290 22.31
+Bonus Bouncebacks: Paul Laurence Dunbar B 0 20 0.00, Detroit Catholic Central B 0 30 0.00
+
+Northmont 365, Woodford County A 325
+Northmont: Samantha Street 10 0 6 60, Sean Scranton 10 1 2 35, Amara Nwanoro 10 0 0 0, Athena Dobles 11 0 1 10
+Woodford County A: Connor Akers 12 2 5 80, Logan Craig 11 1 0 15, Claire Pinkston 10 0 0 0, Keaton Martin 10 2 0 30
+Bonuses: Northmont 10 220 22.00, Woodford County A 10 180 18.00
+Bonus Bouncebacks: Northmont 0 40 0.00, Woodford County A 0 20 0.00
+
+Rockcastle County A 300, Sheldon Clark B 20
+Rockcastle County A: Tessa Pickle 12 0 2 20, Katie Vance 12 2 5 80, Aden Amburgey 11 0 0 0, Jonathan Cain 11 0 2 20
+Sheldon Clark B: Ethan Alexander 11 0 1 10, Cory Preece 11 0 0 0, Lexy Hensley 10 0 0 0, Colin Horn 9 0 0 0, Linzie Goble 10 0 0 0
+Bonuses: Rockcastle County A 11 160 14.55, Sheldon Clark B 1 0 0.00
+Bonus Bouncebacks: Rockcastle County A 0 20 0.00, Sheldon Clark B 0 10 0.00
+
+Paul G. Blazer 470, Campbell County B (JV) 100
+Paul G. Blazer: John Thomas 12 4 2 80, Shalayna Rice 12 0 4 40, Courtney Lewis 12 0 0 0, Logan Coovert 11 0 5 50, Jessica Miller 11 0 1 10, MacKenzie Clere 11 0 0 0
+Campbell County B (JV): Grace Songer 10 0 2 20, Abby Clark 10 0 1 10, Anna Morris 9 0 0 0, Noah Coronado 9 0 0 0, Clair Yungluth 9 0 0 0
+Bonuses: Paul G. Blazer 16 270 16.88, Campbell County B (JV) 3 30 10.00
+Bonus Bouncebacks: Paul G. Blazer 0 20 0.00, Campbell County B (JV) 0 40 0.00
+
+Boyd County (JV) 315, Rockcastle County B 95
+Rockcastle County B: Drew Bullock 11 0 0 0, Hayden Robinson 11 0 0 0, John Asher 9 1 0 15, Kristen Taylor 11 0 2 20, Jayden Nicely 9 0 0 0, Rebekah Daniel 9 0 1 10, Elizabeth Mikeworth 9 0 0 0, Audrey Childress 10 0 0 0
+Boyd County (JV): Maggie Kinnel 10 0 6 60, Jackson Davis 10 1 3 45, Adrian McDaniels 10 0 0 0, Grace Conley 10 0 1 10, Grace Stubblefield 10 0 0 0
+Bonuses: Rockcastle County B 4 20 5.00, Boyd County (JV) 11 170 15.45
+Bonus Bouncebacks: Rockcastle County B 0 30 0.00, Boyd County (JV) 0 30 0.00
+
+Henderson County A 455, Campbell County A 260
+Henderson County A: DJ Banks 12 5 4 115, Harrison Jenkins 12 2 1 40, Alex Chandler 12 0 0 0, Julianne Latimer 10 0 0 0
+Campbell County A: Nate Asbury 12 0 4 40, Lauren Taylor 10 0 1 10, Raychel Kool 10 0 0 0, Nicholas Yungbluth 12 2 1 40
+Bonuses: Henderson County A 12 260 21.67, Campbell County A 8 150 18.75
+Bonus Bouncebacks: Henderson County A 0 40 0.00, Campbell County A 0 20 0.00
+
+Ed W. Clark 535, Portland 145
+Portland: Logan Livingston 11 0 0 0, Matt Rosa 11 2 0 30, Stanley Zhao 11 1 2 35, John Hutchinson 10 0 1 10, Avery Crawford 10 0 0 0
+Ed W. Clark: Eshaan Vakil 11 3 11 155
+Bonuses: Portland 6 50 8.33, Ed W. Clark 14 330 23.57
+Bonus Bouncebacks: Portland 0 20 0.00, Ed W. Clark 0 50 0.00
+
+Miami Valley 410, Chattahoochee 380
+Chattahoochee: Harrison Zhu 12 1 2 35, Andy Luo 12 1 0 15, Sanjeev Uppaluri 11 4 0 60, Foster Michaelis 11 2 0 30
+Miami Valley: John John Groger 11 2 3 60, William Groger 10 4 1 70
+Bonuses: Chattahoochee 10 210 21.00, Miami Valley 10 220 22.00
+Bonus Bouncebacks: Chattahoochee 0 30 0.00, Miami Valley 0 60 0.00
+
+Daviess County 335, Trinity 120
+Trinity: Sammy Mattingly 12 0 0 0, Nick Huls 11 1 2 35, Aden Yeager 11 0 0 0, Riley Moremen 10 1 0 15
+Daviess County: Alec Phelps 12 2 1 40, Noah Owen 11 1 1 25, Christian Vincent 11 0 3 30, Andrew Ellis 11 0 4 40
+Bonuses: Trinity 4 60 15.00, Daviess County 12 200 16.67
+Bonus Bouncebacks: Trinity 0 10 0.00, Daviess County 0 0 0.00
+
+Russell 415, Grayson County 105
+Grayson County: Sarah Kiper 10 0 0 0, Rhiannon Wilson 11 1 3 45, Tyler Dennis 9 0 1 10, Garrett Drake 9 0 0 0, Tiffany Clark 10 0 0 0
+Russell: Maya Abul-Khoudoud 12 0 5 50, Will Scott 11 1 0 15, Jackson Raich 10 0 4 40, Meredyth Wilson 11 0 3 30
+Bonuses: Grayson County 5 40 8.00, Russell 13 220 16.92
+Bonus Bouncebacks: Grayson County 0 10 0.00, Russell 0 60 0.00
+
+Round 5
+Woodford County A 390, Adair County 230
+Woodford County A: Connor Akers 12 1 3 45, Logan Craig 11 1 2 35, Claire Pinkston 10 0 1 10, Keaton Martin 10 2 0 30
+Adair County: Trevor Smith 12 0 6 60, Maddie Harmon 11 0 1 10, Chris Stuchell 12 0 1 10, Samuel Willis 12 0 0 0
+Bonuses: Woodford County A 10 240 24.00, Adair County 8 150 18.75
+Bonus Bouncebacks: Woodford County A 0 30 0.00, Adair County 0 0 0.00
+
+Paul Laurence Dunbar B 370, Boyd County (JV) 160
+Boyd County (JV): Maggie Kinnel 10 0 3 30, Jackson Davis 10 2 1 40, Adrian McDaniels 10 0 0 0, Grace Conley 10 0 0 0, Grace Stubblefield 10 0 0 0
+Paul Laurence Dunbar B: Henry Blyth 11 0 5 50, Grace Goff 11 0 5 50, Noah Katz 10 0 2 20, Sanaa Kahloon 10 0 0 0, Gabriella Staykova 10 0 0 0
+Bonuses: Boyd County (JV) 6 80 13.33, Paul Laurence Dunbar B 12 210 17.50
+Bonus Bouncebacks: Boyd County (JV) 0 10 0.00, Paul Laurence Dunbar B 0 40 0.00
+
+Woodford County B 355, Campbell County B (JV) 120
+Woodford County B: Derek Forte 11 0 4 40, Trevor Wells 10 3 3 75, Caleb May 10 0 2 20, Cayce Jones 10 0 2 20
+Campbell County B (JV): Grace Songer 10 0 1 10, Abby Clark 10 0 1 10, Anna Morris 9 0 0 0, Noah Coronado 9 0 0 0, Clair Yungluth 9 0 0 0
+Bonuses: Woodford County B 14 200 14.29, Campbell County B (JV) 2 50 25.00
+Bonus Bouncebacks: Woodford County B 0 0 0.00, Campbell County B (JV) 0 50 0.00
+
+Rockcastle County B 190, Grayson County 75
+Grayson County: Sarah Kiper 10 0 0 0, Rhiannon Wilson 11 0 0 0, Tyler Dennis 9 1 3 45, Tiffany Clark 10 0 0 0
+Rockcastle County B: Elizabeth Mikeworth 9 2 2 50, Bailey Cromer 9 0 0 0, Kristen Taylor 11 0 0 0, Audrey Childress 10 0 0 0, Drew Bullock 11 0 3 30, John Asher 9 0 0 0, Hayden Robinson 11 0 1 10
+Bonuses: Grayson County 4 20 5.00, Rockcastle County B 8 70 8.75
+Bonus Bouncebacks: Grayson County 0 10 0.00, Rockcastle County B 0 30 0.00
+
+Detroit Catholic Central B 480, Ed W. Clark 175
+Ed W. Clark: Eshaan Vakil 11 1 4 55
+Detroit Catholic Central B: Gavin DeWitt 12 0 3 30, Zachary Ernst 11 1 2 35, Billy Davidson 11 2 3 60, Bryce Murray 11 1 2 35
+Bonuses: Ed W. Clark 5 80 16.00, Detroit Catholic Central B 14 300 21.43
+Bonus Bouncebacks: Ed W. Clark 0 40 0.00, Detroit Catholic Central B 0 20 0.00
+
+Detroit Catholic Central A 405, Miami Valley 380
+Miami Valley: John John Groger 11 5 1 85, William Groger 10 3 0 45
+Detroit Catholic Central A: Robert Dedvukaj 11 1 0 15, Parker Stogdill 12 3 0 45, David DeBacker 12 1 1 25, Colin Stewart 12 2 3 60
+Bonuses: Miami Valley 9 230 25.56, Detroit Catholic Central A 11 240 21.82
+Bonus Bouncebacks: Miami Valley 0 20 0.00, Detroit Catholic Central A 0 20 0.00
+
+Henderson County A 465, Johnson Central A 260
+Henderson County A: DJ Banks 12 3 4 85, Harrison Jenkins 12 2 2 50, Alex Chandler 12 0 2 20, Julianne Latimer 10 0 0 0
+Johnson Central A: Brandon Fairchild 12 3 1 55, Austin Cantrell 11 1 2 35, JT Dials 11 0 0 0, Megan Owens 12 0 0 0, Jolene Fairchild 12 0 0 0
+Bonuses: Henderson County A 13 270 20.77, Johnson Central A 7 140 20.00
+Bonus Bouncebacks: Henderson County A 0 40 0.00, Johnson Central A 0 30 0.00
+
+Chattahoochee 635, Northmont 105
+Chattahoochee: Harrison Zhu 12 5 1 85, Andy Luo 12 2 2 50, Sanjeev Uppaluri 11 4 1 70, Foster Michaelis 11 0 2 20
+Northmont: Samantha Street 10 1 0 15, Sean Scranton 10 0 1 10, Amara Nwanoro 10 0 0 0, Athena Dobles 11 0 0 0
+Bonuses: Chattahoochee 17 400 23.53, Northmont 2 50 25.00
+Bonus Bouncebacks: Chattahoochee 0 10 0.00, Northmont 0 30 0.00
+
+Johnson Central B 330, Rockcastle County A 170
+Johnson Central B: Bryce Fletcher 9 0 4 40, Zoe Castle 9 0 2 20, Blayne Boone 10 0 0 0, Chrystalen Stambaugh 11 0 4 40, Hannah Skaggs 10 0 0 0
+Rockcastle County A: Tessa Pickle 12 1 0 15, Katie Vance 12 1 2 35, Aden Amburgey 11 0 0 0, Jonathan Cain 11 0 2 20
+Bonuses: Johnson Central B 10 210 21.00, Rockcastle County A 6 80 13.33
+Bonus Bouncebacks: Johnson Central B 0 20 0.00, Rockcastle County A 0 20 0.00
+
+Paul Laurence Dunbar A 540, Paul G. Blazer 170
+Paul G. Blazer: John Thomas 12 0 1 10, Shalayna Rice 12 1 1 25, Julie Clere 12 0 0 0, Courtney Lewis 12 0 0 0, Logan Coovert 11 1 1 25, Jessica Miller 11 0 1 10, MacKenzie Clere 11 0 0 0
+Paul Laurence Dunbar A: Max Bograd 12 1 2 35, Angus Maske 12 2 4 70, Annesh Kadambi 11 1 1 25, David Vulakh 11 0 3 30
+Bonuses: Paul G. Blazer 7 80 11.43, Paul Laurence Dunbar A 14 320 22.86
+Bonus Bouncebacks: Paul G. Blazer 0 20 0.00, Paul Laurence Dunbar A 0 60 0.00
+
+Henderson County B 190, Sheldon Clark B 50
+Sheldon Clark B: Ethan Alexander 11 0 1 10, Cory Preece 11 0 0 0, Lexy Hensley 10 0 0 0, Colin Horn 9 0 1 10, Linzie Goble 10 0 1 10
+Henderson County B: Will Kyle 0 1 10, Maggie Privette 0 5 50, Ryan Nantz 0 1 10, Andrew Russell 0 1 10
+Bonuses: Sheldon Clark B 3 10 3.33, Henderson County B 8 110 13.75
+Bonus Bouncebacks: Sheldon Clark B 0 10 0.00, Henderson County B 0 0 0.00
+
+Russell 325, Portland 200
+Russell: Maya Abul-Khoudoud 12 1 3 45, Will Scott 11 0 1 10, Jackson Raich 10 0 5 50, Meredyth Wilson 11 0 0 0
+Portland: Logan Livingston 11 0 0 0, Matt Rosa 11 0 2 20, Stanley Zhao 11 2 4 70, John Hutchinson 10 0 0 0, Avery Crawford 10 0 0 0
+Bonuses: Russell 10 170 17.00, Portland 8 100 12.50
+Bonus Bouncebacks: Russell 0 50 0.00, Portland 0 10 0.00
+
+DuPont Manual 385, Raceland-Worthington 215
+Raceland-Worthington: Hunter West 12 1 5 65, Brady Justice 12 0 2 20, Libby Roy 11 0 0 0, Maddy Wilburn 11 0 0 0, Katelyn Fyffe 11 0 0 0
+DuPont Manual: Shaun Liu 10 1 1 25, Murari Srinivasan 10 0 1 10, Shyam Ravishankar 11 1 5 65, Justin Xu 10 1 0 15
+Bonuses: Raceland-Worthington 8 110 13.75, DuPont Manual 10 200 20.00
+Bonus Bouncebacks: Raceland-Worthington 0 20 0.00, DuPont Manual 0 70 0.00
+
+Trinity 260, Boyd County Middle (JV) 110
+Trinity: Sammy Mattingly 12 0 2 20, Nick Huls 11 2 5 80, Aden Yeager 11 0 0 0, Riley Moremen 10 0 0 0
+Boyd County Middle (JV): Sydney Kimmel 8 0 1 10, Hope Smallwood 7 2 1 40, Aden Hereford 7 0 1 10, Noah Carter 7 0 0 0
+Bonuses: Trinity 9 130 14.44, Boyd County Middle (JV) 5 40 8.00
+Bonus Bouncebacks: Trinity 0 30 0.00, Boyd County Middle (JV) 0 10 0.00
+
+Daviess County 485, Campbell County A 150
+Daviess County: Alec Phelps 12 5 2 95, Noah Owen 11 0 1 10, Christian Vincent 11 1 2 35, Andrew Ellis 11 1 2 35
+Campbell County A: Nate Asbury 12 0 1 10, Lauren Taylor 10 0 0 0, Raychel Kool 10 0 3 30, Nicholas Yungbluth 12 0 0 0
+Bonuses: Daviess County 14 280 20.00, Campbell County A 4 70 17.50
+Bonus Bouncebacks: Daviess County 0 30 0.00, Campbell County A 0 40 0.00
+
+Battle Ground Academy 290, Sheldon Clark A 130
+Battle Ground Academy: Matt Lewis 11 0 2 20, Duncan Steeples 11 1 2 35, Dominick Nesbitt 11 2 1 40, Emma Cloud 10 1 3 45
+Sheldon Clark A: Jaccob McKenzie 12 0 1 10, Sheridan Fletcher 12 0 2 20, Tristan Wiley 12 0 1 10, Chloe Hale 10 0 0 0
+Bonuses: Battle Ground Academy 12 130 10.83, Sheldon Clark A 4 20 5.00
+Bonus Bouncebacks: Battle Ground Academy 0 20 0.00, Sheldon Clark A 0 70 0.00
+
+Round 6
+Trinity 265, Rockcastle County B 40
+Trinity: Sammy Mattingly 12 1 7 85, Nick Huls 11 0 4 40, Aden Yeager 11 0 0 0, Riley Moremen 10 0 0 0
+Rockcastle County B: Drew Bullock 11 0 1 10, Hayden Robinson 11 0 0 0, Kristen Taylor 11 0 0 0, Audrey Childress 10 0 0 0
+Bonuses: Trinity 12 130 10.83, Rockcastle County B 1 0 0.00
+Bonus Bouncebacks: Trinity 0 10 0.00, Rockcastle County B 0 30 0.00
+
+Northmont 380, Johnson Central A 325
+Northmont: Samantha Street 10 0 4 40, Sean Scranton 10 1 4 55, Amara Nwanoro 10 1 0 15, Athena Dobles 11 0 1 10
+Johnson Central A: Brandon Fairchild 12 0 1 10, Austin Cantrell 11 0 2 20, JT Dials 11 0 4 40, Megan Owens 12 1 1 25
+Bonuses: Northmont 11 230 20.91, Johnson Central A 9 170 18.89
+Bonus Bouncebacks: Northmont 0 30 0.00, Johnson Central A 0 60 0.00
+
+Boyd County (JV) 320, Sheldon Clark A 65
+Boyd County (JV): Maggie Kinnel 10 1 5 65, Jackson Davis 10 0 5 50, Grace Conley 10 1 0 15, Grace Stubblefield 10 0 0 0
+Sheldon Clark A: Jaccob McKenzie 12 1 1 25, Sheridan Fletcher 12 0 1 10, Tristan Wiley 12 0 0 0, Chloe Hale 10 0 0 0
+Bonuses: Boyd County (JV) 12 170 14.17, Sheldon Clark A 3 10 3.33
+Bonus Bouncebacks: Boyd County (JV) 0 20 0.00, Sheldon Clark A 0 20 0.00
+
+Detroit Catholic Central A 640, Woodford County B 65
+Detroit Catholic Central A: Robert Dedvukaj 11 2 2 50, Parker Stogdill 12 3 2 65, David DeBacker 12 2 2 50, Colin Stewart 12 3 1 55
+Woodford County B: Derek Forte 11 0 1 10, Alfie Painter 10 0 0 0, Trevor Wells 10 0 0 0, Caleb May 10 0 0 0, Cayce Jones 10 1 0 15, Emily Bruckfield 12 0 0 0
+Bonuses: Detroit Catholic Central A 17 410 24.12, Woodford County B 2 30 15.00
+Bonus Bouncebacks: Detroit Catholic Central A 0 10 0.00, Woodford County B 0 10 0.00
+
+Paul Laurence Dunbar A 510, Paul G. Blazer 145
+Paul G. Blazer: John Thomas 12 1 1 25, Julie Clere 12 0 0 0, Courtney Lewis 12 0 0 0, Logan Coovert 11 2 0 30, Jessica Miller 11 0 0 0
+Paul Laurence Dunbar A: Max Bograd 12 0 1 10, Angus Maske 12 1 7 85, Annesh Kadambi 11 1 4 55, David Vulakh 11 0 0 0
+Bonuses: Paul G. Blazer 4 70 17.50, Paul Laurence Dunbar A 14 330 23.57
+Bonus Bouncebacks: Paul G. Blazer 0 20 0.00, Paul Laurence Dunbar A 0 30 0.00
+
+Henderson County A 520, Daviess County 175
+Henderson County A: DJ Banks 12 6 4 130, Harrison Jenkins 12 2 2 50, Alex Chandler 12 0 0 0, Julianne Latimer 10 0 0 0
+Daviess County: Alec Phelps 12 0 1 10, Noah Owen 11 1 0 15, Christian Vincent 11 0 3 30, Andrew Ellis 11 0 0 0
+Bonuses: Henderson County A 14 310 22.14, Daviess County 5 90 18.00
+Bonus Bouncebacks: Henderson County A 0 30 0.00, Daviess County 0 30 0.00
+
+Adair County 315, Grayson County 80
+Adair County: Trevor Smith 12 0 5 50, Maddie Harmon 11 0 1 10, Chris Stuchell 12 0 3 30, Samuel Willis 12 0 1 10, Ty Cheatham 11 1 0 15, Hayden Hancock 10 0 0 0
+Grayson County: Sarah Kiper 10 0 2 20, Rhiannon Wilson 11 0 0 0, Tyler Dennis 9 0 1 10, Garrett Drake 9 0 0 0, Tiffany Clark 10 0 0 0
+Bonuses: Adair County 11 180 16.36, Grayson County 3 30 10.00
+Bonus Bouncebacks: Adair County 0 20 0.00, Grayson County 0 20 0.00
+
+Campbell County B (JV) 195, Battle Ground Academy 185
+Campbell County B (JV): Grace Songer 10 1 2 35, Abby Clark 10 0 2 20, Anna Morris 9 0 1 10, Noah Coronado 9 0 2 20
+Battle Ground Academy: Matt Lewis 11 0 0 0, Duncan Steeples 11 0 1 10, Dominick Nesbitt 11 1 2 35, Emma Cloud 10 0 2 20
+Bonuses: Campbell County B (JV) 7 90 12.86, Battle Ground Academy 6 90 15.00
+Bonus Bouncebacks: Campbell County B (JV) 0 20 0.00, Battle Ground Academy 0 30 0.00
+
+Johnson Central B 295, Boyd County Middle (JV) 60
+Boyd County Middle (JV): Sydney Kimmel 8 0 1 10, Hope Smallwood 7 0 1 10, Aden Hereford 7 0 0 0, Noah Carter 7 0 1 10
+Johnson Central B: Bryce Fletcher 9 1 5 65, Zoe Castle 9 0 0 0, Blayne Boone 10 0 0 0, Chrystalen Stambaugh 11 0 4 40, Hannah Skaggs 10 0 0 0, Colin Clevenger 10 0 0 0
+Bonuses: Boyd County Middle (JV) 3 20 6.67, Johnson Central B 10 160 16.00
+Bonus Bouncebacks: Boyd County Middle (JV) 0 10 0.00, Johnson Central B 0 30 0.00
+
+Miami Valley 625, Russell 125
+Miami Valley: John John Groger 11 7 5 155, William Groger 10 2 1 40
+Russell: Maya Abul-Khoudoud 12 1 2 35, Will Scott 11 0 0 0, Jackson Raich 10 0 2 20, Meredyth Wilson 11 0 0 0
+Bonuses: Miami Valley 15 390 26.00, Russell 5 70 14.00
+Bonus Bouncebacks: Miami Valley 0 40 0.00, Russell 0 0 0.00
+
+Campbell County A 345, Sheldon Clark B 20
+Campbell County A: Nate Asbury 12 0 6 60, Lauren Taylor 10 0 2 20, Raychel Kool 10 0 4 40, Nicholas Yungbluth 12 1 0 15
+Sheldon Clark B: Ethan Alexander 11 0 1 10, Cory Preece 11 0 0 0, Lexy Hensley 10 0 0 0, Colin Horn 9 0 0 0, Linzie Goble 10 0 0 0
+Bonuses: Campbell County A 13 190 14.62, Sheldon Clark B 1 0 0.00
+Bonus Bouncebacks: Campbell County A 0 20 0.00, Sheldon Clark B 0 10 0.00
+
+Rockcastle County A 245, Portland 230
+Portland: Logan Livingston 11 0 0 0, Matt Rosa 11 0 0 0, Stanley Zhao 11 0 6 60, John Hutchinson 10 0 0 0, Avery Crawford 10 0 0 0
+Rockcastle County A: Tessa Pickle 12 0 1 10, Katie Vance 12 0 7 70, Aden Amburgey 11 0 0 0, Jonathan Cain 11 1 1 25
+Bonuses: Portland 6 90 15.00, Rockcastle County A 10 110 11.00
+Bonus Bouncebacks: Portland 0 80 0.00, Rockcastle County A 0 30 0.00
+
+Ed W. Clark 380, Woodford County A 345
+Woodford County A: Connor Akers 12 0 2 20, Logan Craig 11 1 2 35, Claire Pinkston 10 0 2 20, Keaton Martin 10 2 1 40
+Ed W. Clark: Eshaan Vakil 11 6 2 110
+Bonuses: Woodford County A 10 210 21.00, Ed W. Clark 8 230 28.75
+Bonus Bouncebacks: Woodford County A 0 20 0.00, Ed W. Clark 0 40 0.00
+
+Raceland-Worthington 275, Henderson County B 130
+Henderson County B: Will Kyle 0 0 0, Maggie Privette 0 7 70, Ryan Nantz 0 0 0, Andrew Russell 0 0 0
+Raceland-Worthington: Hunter West 12 0 5 50, Brady Justice 12 1 2 35, Libby Roy 11 0 0 0, Maddy Wilburn 11 0 0 0
+Bonuses: Henderson County B 7 40 5.71, Raceland-Worthington 8 120 15.00
+Bonus Bouncebacks: Henderson County B 0 20 0.00, Raceland-Worthington 0 70 0.00
+
+Detroit Catholic Central B 315, Paul Laurence Dunbar B 255
+Detroit Catholic Central B: Gavin DeWitt 12 0 2 20, Zachary Ernst 11 0 3 30, Billy Davidson 11 0 3 30, Bryce Murray 11 1 1 25
+Paul Laurence Dunbar B: Henry Blyth 11 1 1 25, Grace Goff 11 0 6 60, Noah Katz 10 0 1 10, Sanaa Kahloon 10 0 0 0, Gabriella Staykova 10 0 0 0
+Bonuses: Detroit Catholic Central B 10 190 19.00, Paul Laurence Dunbar B 9 140 15.56
+Bonus Bouncebacks: Detroit Catholic Central B 0 20 0.00, Paul Laurence Dunbar B 0 20 0.00
+
+Chattahoochee 515, DuPont Manual 210
+DuPont Manual: Shaun Liu 10 0 0 0, Murari Srinivasan 10 0 2 20, Shyam Ravishankar 11 2 0 30, Justin Xu 10 0 2 20
+Chattahoochee: Harrison Zhu 12 4 1 70, Andy Luo 12 0 0 0, Sanjeev Uppaluri 11 4 1 70, Foster Michaelis 11 1 2 35
+Bonuses: DuPont Manual 6 120 20.00, Chattahoochee 13 300 23.08
+Bonus Bouncebacks: DuPont Manual 0 20 0.00, Chattahoochee 0 40 0.00
+
+Round 7
+Woodford County A 445, Russell 240
+Woodford County A: Connor Akers 12 1 5 65, Logan Craig 11 0 3 30, Claire Pinkston 10 0 1 10, Keaton Martin 10 2 0 30
+Russell: Maya Abul-Khoudoud 12 0 4 40, Will Scott 11 0 0 0, Jackson Raich 10 0 3 30, Meredyth Wilson 11 0 1 10
+Bonuses: Woodford County A 12 270 22.50, Russell 8 150 18.75
+Bonus Bouncebacks: Woodford County A 0 40 0.00, Russell 0 10 0.00
+
+Johnson Central B 370, Trinity 155
+Trinity: Sammy Mattingly 12 0 3 30, Nick Huls 11 1 2 35, Aden Yeager 11 0 0 0, Riley Moremen 10 0 0 0
+Johnson Central B: Bryce Fletcher 9 0 4 40, Zoe Castle 9 0 3 30, Blayne Boone 10 0 1 10, Chrystalen Stambaugh 11 0 3 30, Hannah Skaggs 10 0 0 0
+Bonuses: Trinity 6 70 11.67, Johnson Central B 11 210 19.09
+Bonus Bouncebacks: Trinity 0 20 0.00, Johnson Central B 0 50 0.00
+
+Daviess County 365, Paul G. Blazer 220
+Daviess County: Alec Phelps 12 4 3 90, Noah Owen 11 1 0 15, Christian Vincent 11 0 0 0, Andrew Ellis 11 0 2 20
+Paul G. Blazer: John Thomas 12 0 4 40, Shalayna Rice 12 0 0 0, Julie Clere 12 0 0 0, Courtney Lewis 12 0 0 0, Logan Coovert 11 0 2 20, Jessica Miller 11 0 1 10
+Bonuses: Daviess County 10 190 19.00, Paul G. Blazer 7 120 17.14
+Bonus Bouncebacks: Daviess County 0 50 0.00, Paul G. Blazer 0 30 0.00
+
+Detroit Catholic Central A 450, Northmont 275
+Detroit Catholic Central A: Robert Dedvukaj 11 2 1 40, Parker Stogdill 12 1 2 35, David DeBacker 12 3 2 65, Colin Stewart 12 0 1 10
+Northmont: Samantha Street 10 2 1 40, Sean Scranton 10 1 3 45, Amara Nwanoro 10 0 0 0, Athena Dobles 11 0 0 0
+Bonuses: Detroit Catholic Central A 12 290 24.17, Northmont 7 170 24.29
+Bonus Bouncebacks: Detroit Catholic Central A 0 10 0.00, Northmont 0 20 0.00
+
+Johnson Central A 335, Woodford County B 270
+Woodford County B: Derek Forte 11 0 1 10, Trevor Wells 10 1 3 45, Caleb May 10 0 0 0, Cayce Jones 10 1 4 55
+Johnson Central A: Brandon Fairchild 12 0 5 50, Austin Cantrell 11 0 0 0, JT Dials 11 0 0 0, Megan Owens 12 1 0 15, Amelia Kretzer 11 0 1 10
+Bonuses: Woodford County B 10 160 16.00, Johnson Central A 7 160 22.86
+Bonus Bouncebacks: Woodford County B 0 0 0.00, Johnson Central A 0 100 0.00
+
+Adair County 255, Rockcastle County A 210
+Adair County: Trevor Smith 12 2 3 60, Maddie Harmon 11 1 1 25, Chris Stuchell 12 0 1 10, Samuel Willis 12 0 0 0
+Rockcastle County A: Tessa Pickle 12 0 1 10, Katie Vance 12 2 5 80, Aden Amburgey 11 0 0 0, Jonathan Cain 11 0 0 0
+Bonuses: Adair County 8 120 15.00, Rockcastle County A 8 100 12.50
+Bonus Bouncebacks: Adair County 0 40 0.00, Rockcastle County A 0 20 0.00
+
+Portland 330, Grayson County 85
+Portland: Logan Livingston 11 0 0 0, Matt Rosa 11 0 4 40, Stanley Zhao 11 0 6 60, John Hutchinson 10 0 1 10, Avery Crawford 10 0 0 0
+Grayson County: Sarah Kiper 10 0 3 30, Rhiannon Wilson 11 1 0 15, Tyler Dennis 9 0 0 0, Garrett Drake 9 0 0 0, Tiffany Clark 10 0 0 0
+Bonuses: Portland 11 170 15.45, Grayson County 4 20 5.00
+Bonus Bouncebacks: Portland 0 50 0.00, Grayson County 0 20 0.00
+
+Paul Laurence Dunbar B 405, DuPont Manual 280
+DuPont Manual: Shaun Liu 10 0 1 10, Murari Srinivasan 10 0 1 10, Shyam Ravishankar 11 0 2 20, Justin Xu 10 2 0 30
+Paul Laurence Dunbar B: Henry Blyth 11 1 4 55, Grace Goff 11 2 1 40, Noah Katz 10 0 3 30, Sanaa Kahloon 10 0 0 0, Gabriella Staykova 10 0 1 10
+Bonuses: DuPont Manual 6 140 23.33, Paul Laurence Dunbar B 12 250 20.83
+Bonus Bouncebacks: DuPont Manual 0 70 0.00, Paul Laurence Dunbar B 0 20 0.00
+
+Raceland-Worthington 310, Boyd County (JV) 180
+Boyd County (JV): Maggie Kinnel 10 0 2 20, Jackson Davis 10 1 2 35, Adrian McDaniels 10 1 0 15, Grace Conley 10 0 2 20
+Raceland-Worthington: Hunter West 12 0 7 70, Brady Justice 12 0 1 10, Libby Roy 11 0 0 0, Maddy Wilburn 11 0 0 0, Katelyn Fyffe 11 0 0 0
+Bonuses: Boyd County (JV) 8 90 11.25, Raceland-Worthington 8 170 21.25
+Bonus Bouncebacks: Boyd County (JV) 0 0 0.00, Raceland-Worthington 0 60 0.00
+
+Miami Valley 670, Ed W. Clark 120
+Miami Valley: John John Groger 11 4 4 100, William Groger 10 4 5 110
+Ed W. Clark: Eshaan Vakil 11 2 1 40
+Bonuses: Miami Valley 17 450 26.47, Ed W. Clark 3 70 23.33
+Bonus Bouncebacks: Miami Valley 0 10 0.00, Ed W. Clark 0 10 0.00
+
+Henderson County A 395, Paul Laurence Dunbar A 360
+Henderson County A: DJ Banks 12 4 3 90, Harrison Jenkins 12 2 0 30, Alex Chandler 12 1 0 15, Julianne Latimer 10 0 0 0
+Paul Laurence Dunbar A: Max Bograd 12 0 1 10, Angus Maske 12 0 6 60, Annesh Kadambi 11 0 3 30, David Vulakh 11 0 0 0
+Bonuses: Henderson County A 10 230 23.00, Paul Laurence Dunbar A 10 220 22.00
+Bonus Bouncebacks: Henderson County A 0 30 0.00, Paul Laurence Dunbar A 0 40 0.00
+
+Chattahoochee 495, Detroit Catholic Central B 300
+Detroit Catholic Central B: Gavin DeWitt 12 0 4 40, Zachary Ernst 11 0 1 10, Billy Davidson 11 2 0 30, Bryce Murray 11 2 0 30
+Chattahoochee: Harrison Zhu 12 2 0 30, Andy Luo 12 3 1 55, Sanjeev Uppaluri 11 2 2 50, Foster Michaelis 11 0 1 10
+Bonuses: Detroit Catholic Central B 9 180 20.00, Chattahoochee 11 300 27.27
+Bonus Bouncebacks: Detroit Catholic Central B 0 10 0.00, Chattahoochee 0 50 0.00
+
+Battle Ground Academy 400, Sheldon Clark B 20
+Battle Ground Academy: Matt Lewis 11 1 3 45, Duncan Steeples 11 0 5 50, Dominick Nesbitt 11 1 4 55, Emma Cloud 10 0 2 20
+Sheldon Clark B: Ethan Alexander 11 0 0 0, Cory Preece 11 0 0 0, Colin Horn 9 0 0 0, Linzie Goble 10 0 0 0
+Bonuses: Battle Ground Academy 16 230 14.38, Sheldon Clark B 0 0 0.00
+Bonus Bouncebacks: Battle Ground Academy 0 0 0.00, Sheldon Clark B 0 20 0.00
+
+Campbell County A 410, Campbell County B (JV) 30
+Campbell County A: Nate Asbury 12 2 8 110, Lauren Taylor 10 2 0 30, Raychel Kool 10 0 1 10, Nicholas Yungbluth 12 0 1 10
+Campbell County B (JV): Grace Songer 10 0 0 0, Abby Clark 10 0 0 0, Anna Morris 9 0 1 10, Noah Coronado 9 0 0 0, Clair Yungluth 9 0 0 0
+Bonuses: Campbell County A 14 250 17.86, Campbell County B (JV) 1 10 10.00
+Bonus Bouncebacks: Campbell County A 0 0 0.00, Campbell County B (JV) 0 10 0.00
+
+Henderson County B 170, Sheldon Clark A 160
+Henderson County B: Will Kyle 0 0 0, Maggie Privette 0 3 30, Ryan Nantz 0 1 10, Andrew Russell 0 1 10
+Sheldon Clark A: Jaccob McKenzie 12 0 6 60, Sheridan Fletcher 12 0 0 0, Tristan Wiley 12 0 3 30, Chloe Hale 10 0 1 10
+Bonuses: Henderson County B 5 40 8.00, Sheldon Clark A 10 50 5.00
+Bonus Bouncebacks: Henderson County B 0 80 0.00, Sheldon Clark A 0 10 0.00
+
+Boyd County Middle (JV) 165, Rockcastle County B 100
+Boyd County Middle (JV): Sydney Kimmel 8 0 1 10, Hope Smallwood 7 1 4 55, Aden Hereford 7 0 1 10, Noah Carter 7 0 2 20
+Rockcastle County B: Drew Bullock 11 0 0 0, Elizabeth Mikeworth 9 0 4 40, Bailey Cromer 9 0 0 0, John Asher 9 0 0 0
+Bonuses: Boyd County Middle (JV) 8 70 8.75, Rockcastle County B 4 30 7.50
+Bonus Bouncebacks: Boyd County Middle (JV) 0 0 0.00, Rockcastle County B 0 30 0.00
+
+Round 8
+Campbell County A 360, Raceland-Worthington 290
+Campbell County A: Nate Asbury 12 1 1 25, Lauren Taylor 10 1 2 35, Raychel Kool 10 0 2 20, Nicholas Yungbluth 12 2 0 30
+Raceland-Worthington: Hunter West 12 1 5 65, Brady Justice 12 1 3 45, Libby Roy 11 0 0 0, Maddy Wilburn 11 0 0 0, Katelyn Fyffe 11 0 0 0
+Bonuses: Campbell County A 9 160 17.78, Raceland-Worthington 10 150 15.00
+Bonus Bouncebacks: Campbell County A 0 90 0.00, Raceland-Worthington 0 30 0.00
+
+Portland 245, Boyd County Middle (JV) 55
+Portland: Logan Livingston 11 0 0 0, Matt Rosa 11 0 1 10, Stanley Zhao 11 1 8 95, John Hutchinson 10 0 1 10, Avery Crawford 10 0 0 0
+Boyd County Middle (JV): Sydney Kimmel 8 0 0 0, Hope Smallwood 7 1 0 15, Aden Hereford 7 0 1 10, Noah Carter 7 0 0 0
+Bonuses: Portland 11 120 10.91, Boyd County Middle (JV) 2 10 5.00
+Bonus Bouncebacks: Portland 0 10 0.00, Boyd County Middle (JV) 0 20 0.00
+
+Rockcastle County B 75, Grayson County 50
+Grayson County: Sarah Kiper 10 0 1 10, Rhiannon Wilson 11 0 0 0, Tyler Dennis 9 0 0 0, Garrett Drake 9 0 0 0
+Rockcastle County B: Hayden Robinson 11 0 2 20, Audrey Childress 10 1 2 35, Jayden Nicely 9 0 0 0, Rebekah Daniel 9 0 1 10
+Bonuses: Grayson County 1 10 10.00, Rockcastle County B 6 10 1.67
+Bonus Bouncebacks: Grayson County 0 30 0.00, Rockcastle County B 0 0 0.00
+
+Battle Ground Academy 210, Henderson County B 170
+Henderson County B: Will Kyle 0 1 10, Maggie Privette 0 4 40, Ryan Nantz 0 0 0, Andrew Russell 0 2 20
+Battle Ground Academy: Matt Lewis 11 0 1 10, Duncan Steeples 11 1 1 25, Dominick Nesbitt 11 1 2 35, Emma Cloud 10 0 1 10
+Bonuses: Henderson County B 7 60 8.57, Battle Ground Academy 7 90 12.86
+Bonus Bouncebacks: Henderson County B 0 40 0.00, Battle Ground Academy 0 40 0.00
+
+Rockcastle County A 295, Trinity 210
+Trinity: Sammy Mattingly 12 0 3 30, Nick Huls 11 0 4 40, Aden Yeager 11 0 0 0, Riley Moremen 10 0 1 10
+Rockcastle County A: Tessa Pickle 12 0 0 0, Katie Vance 12 3 4 85, Aden Amburgey 11 0 0 0, Jonathan Cain 11 0 1 10
+Bonuses: Trinity 8 120 15.00, Rockcastle County A 8 150 18.75
+Bonus Bouncebacks: Trinity 0 10 0.00, Rockcastle County A 0 50 0.00
+
+DuPont Manual 430, Russell 285
+DuPont Manual: Shaun Liu 10 0 1 10, Murari Srinivasan 10 1 3 45, Shyam Ravishankar 11 1 4 55, Justin Xu 10 0 1 10
+Russell: Maya Abul-Khoudoud 12 1 3 45, Will Scott 11 0 0 0, Jackson Raich 10 0 2 20, Meredyth Wilson 11 0 3 30
+Bonuses: DuPont Manual 11 230 20.91, Russell 9 140 15.56
+Bonus Bouncebacks: DuPont Manual 0 80 0.00, Russell 0 50 0.00
+
+Adair County 295, Johnson Central B 160
+Adair County: Trevor Smith 12 1 6 75, Maddie Harmon 11 0 3 30, Chris Stuchell 12 0 0 0, Samuel Willis 12 0 0 0
+Johnson Central B: Bryce Fletcher 9 0 2 20, Zoe Castle 9 0 0 0, Blayne Boone 10 0 0 0, Chrystalen Stambaugh 11 0 4 40, Hannah Skaggs 10 0 0 0
+Bonuses: Adair County 10 160 16.00, Johnson Central B 6 60 10.00
+Bonus Bouncebacks: Adair County 0 30 0.00, Johnson Central B 0 40 0.00
+
+Johnson Central A 425, Daviess County 300
+Johnson Central A: Brandon Fairchild 12 1 1 25, Austin Cantrell 11 1 0 15, JT Dials 11 1 4 55, Megan Owens 12 0 2 20
+Daviess County: Alec Phelps 12 0 2 20, Noah Owen 11 1 1 25, Christian Vincent 11 0 1 10, Andrew Ellis 11 1 4 55
+Bonuses: Johnson Central A 10 210 21.00, Daviess County 10 150 15.00
+Bonus Bouncebacks: Johnson Central A 0 100 0.00, Daviess County 0 40 0.00
+
+Woodford County A 455, Paul Laurence Dunbar B 305
+Woodford County A: Connor Akers 12 0 6 60, Logan Craig 11 0 1 10, Claire Pinkston 10 2 1 40, Keaton Martin 10 1 0 15
+Paul Laurence Dunbar B: Henry Blyth 11 0 6 60, Grace Goff 11 1 1 25, Noah Katz 10 0 0 0, Sanaa Kahloon 10 0 0 0, Gabriella Staykova 10 0 0 0
+Bonuses: Woodford County A 11 260 23.64, Paul Laurence Dunbar B 8 190 23.75
+Bonus Bouncebacks: Woodford County A 0 70 0.00, Paul Laurence Dunbar B 0 30 0.00
+
+Sheldon Clark A 150, Sheldon Clark B 55
+Sheldon Clark A: Jaccob McKenzie 12 0 0 0, Sheridan Fletcher 12 0 4 40, Tristan Wiley 12 0 1 10, Chloe Hale 10 0 2 20
+Sheldon Clark B: Ethan Alexander 11 0 1 10, Cory Preece 11 0 0 0, Lexy Hensley 10 1 0 15, Colin Horn 9 0 0 0, Linzie Goble 10 0 1 10
+Bonuses: Sheldon Clark A 7 50 7.14, Sheldon Clark B 3 10 3.33
+Bonus Bouncebacks: Sheldon Clark A 0 30 0.00, Sheldon Clark B 0 10 0.00
+
+Ed W. Clark 395, Detroit Catholic Central B 295
+Detroit Catholic Central B: Gavin DeWitt 12 1 2 35, Zachary Ernst 11 1 1 25, Billy Davidson 11 1 1 25, Bryce Murray 11 0 1 10
+Ed W. Clark: Eshaan Vakil 11 3 9 135
+Bonuses: Detroit Catholic Central B 8 140 17.50, Ed W. Clark 12 230 19.17
+Bonus Bouncebacks: Detroit Catholic Central B 0 60 0.00, Ed W. Clark 0 30 0.00
+
+Boyd County (JV) 260, Campbell County B (JV) 120
+Boyd County (JV): Maggie Kinnel 10 0 1 10, Jackson Davis 10 1 4 55, Grace Conley 10 0 3 30, Grace Stubblefield 10 1 0 15
+Campbell County B (JV): Grace Songer 10 0 0 0, Abby Clark 10 0 4 40, Anna Morris 9 0 0 0, Noah Coronado 9 0 0 0
+Bonuses: Boyd County (JV) 10 150 15.00, Campbell County B (JV) 4 80 20.00
+Bonus Bouncebacks: Boyd County (JV) 0 0 0.00, Campbell County B (JV) 0 0 0.00
+
+Paul G. Blazer 400, Woodford County B 110
+Woodford County B: Derek Forte 11 0 3 30, Alfie Painter 10 0 3 30, Caleb May 10 0 0 0, Cayce Jones 10 0 0 0, Emily Bruckfield 12 0 0 0
+Paul G. Blazer: John Thomas 12 0 5 50, Shalayna Rice 12 1 0 15, Courtney Lewis 12 1 0 15, Logan Coovert 11 0 3 30, Jessica Miller 11 0 0 0, MacKenzie Clere 11 0 0 0
+Bonuses: Woodford County B 6 50 8.33, Paul G. Blazer 10 220 22.00
+Bonus Bouncebacks: Woodford County B 0 0 0.00, Paul G. Blazer 0 70 0.00
+
+Paul Laurence Dunbar A 510, Northmont 165
+Northmont: Samantha Street 10 1 0 15, Sean Scranton 10 0 2 20, Amara Nwanoro 10 0 1 10, Athena Dobles 11 0 1 10
+Paul Laurence Dunbar A: Max Bograd 12 2 1 40, Angus Maske 12 2 0 30, Annesh Kadambi 11 1 4 55, David Vulakh 11 1 2 35
+Bonuses: Northmont 5 90 18.00, Paul Laurence Dunbar A 13 320 24.62
+Bonus Bouncebacks: Northmont 0 20 0.00, Paul Laurence Dunbar A 0 30 0.00
+
+Chattahoochee 555, Miami Valley 285
+Chattahoochee: Harrison Zhu 12 1 2 35, Andy Luo 12 2 0 30, Sanjeev Uppaluri 11 7 1 115, Foster Michaelis 11 1 0 15
+Miami Valley: John John Groger 11 2 3 60, William Groger 10 1 0 15
+Bonuses: Chattahoochee 14 360 25.71, Miami Valley 6 160 26.67
+Bonus Bouncebacks: Chattahoochee 0 0 0.00, Miami Valley 0 50 0.00
+
+Detroit Catholic Central A 395, Henderson County A 315
+Henderson County A: DJ Banks 12 4 4 100, Harrison Jenkins 12 1 0 15, Alex Chandler 12 0 0 0, Julianne Latimer 10 0 0 0
+Detroit Catholic Central A: Robert Dedvukaj 11 2 3 60, Parker Stogdill 12 1 0 15, David DeBacker 12 2 1 40, Colin Stewart 12 0 1 10
+Bonuses: Henderson County A 9 190 21.11, Detroit Catholic Central A 10 220 22.00
+Bonus Bouncebacks: Henderson County A 0 10 0.00, Detroit Catholic Central A 0 50 0.00
+
+Round 9
+Paul Laurence Dunbar B 420, Johnson Central A 275
+Johnson Central A: Brandon Fairchild 12 1 2 35, Austin Cantrell 11 0 1 10, JT Dials 11 0 2 20, Megan Owens 12 0 3 30
+Paul Laurence Dunbar B: Henry Blyth 11 0 4 40, Grace Goff 11 1 4 55, Noah Katz 10 0 1 10, Sanaa Kahloon 10 0 0 0, Gabriella Staykova 10 1 0 15
+Bonuses: Johnson Central A 9 160 17.78, Paul Laurence Dunbar B 11 250 22.73
+Bonus Bouncebacks: Johnson Central A 0 20 0.00, Paul Laurence Dunbar B 0 50 0.00
+
+DuPont Manual 285, Woodford County B 195
+DuPont Manual: Shaun Liu 10 0 1 10, Murari Srinivasan 10 1 2 35, Shyam Ravishankar 11 0 2 20, Justin Xu 10 0 2 20
+Woodford County B: Derek Forte 11 0 0 0, Trevor Wells 10 2 2 50, Caleb May 10 0 1 10, Cayce Jones 10 1 0 15, Emily Bruckfield 12 0 0 0
+Bonuses: DuPont Manual 8 180 22.50, Woodford County B 6 110 18.33
+Bonus Bouncebacks: DuPont Manual 0 20 0.00, Woodford County B 0 10 0.00
+
+Sheldon Clark A 165, Grayson County 90
+Sheldon Clark A: Jaccob McKenzie 12 0 6 60, Sheridan Fletcher 12 0 1 10, Tristan Wiley 12 1 0 15, Chloe Hale 10 0 0 0
+Grayson County: Sarah Kiper 10 0 1 10, Rhiannon Wilson 11 0 0 0, Tyler Dennis 9 0 1 10, Garrett Drake 9 0 0 0, Tiffany Clark 10 0 0 0
+Bonuses: Sheldon Clark A 8 80 10.00, Grayson County 2 30 15.00
+Bonus Bouncebacks: Sheldon Clark A 0 0 0.00, Grayson County 0 40 0.00
+
+Trinity 260, Campbell County B (JV) 100
+Trinity: Sammy Mattingly 12 0 4 40, Nick Huls 11 0 6 60, Aden Yeager 11 0 0 0, Riley Moremen 10 0 0 0
+Campbell County B (JV): Grace Songer 10 0 3 30, Abby Clark 10 0 0 0, Anna Morris 9 0 0 0, Noah Coronado 9 0 1 10, Clair Yungluth 9 0 0 0
+Bonuses: Trinity 10 140 14.00, Campbell County B (JV) 4 30 7.50
+Bonus Bouncebacks: Trinity 0 20 0.00, Campbell County B (JV) 0 30 0.00
+
+Boyd County (JV) 370, Rockcastle County A 85
+Boyd County (JV): Maggie Kinnel 10 2 3 60, Jackson Davis 10 0 4 40, Adrian McDaniels 10 0 0 0, Grace Conley 10 0 2 20
+Rockcastle County A: Tessa Pickle 12 0 0 0, Katie Vance 12 1 2 35, Aden Amburgey 11 0 0 0, Jonathan Cain 11 0 1 10
+Bonuses: Boyd County (JV) 11 220 20.00, Rockcastle County A 4 20 5.00
+Bonus Bouncebacks: Boyd County (JV) 0 30 0.00, Rockcastle County A 0 20 0.00
+
+Portland 340, Henderson County B 100
+Portland: Logan Livingston 11 0 0 0, Matt Rosa 11 0 2 20, Stanley Zhao 11 0 9 90, John Hutchinson 10 0 1 10, Avery Crawford 10 0 0 0
+Henderson County B: Will Kyle 0 1 10, Maggie Privette 0 3 30, Ryan Nantz 0 0 0, Andrew Russell 0 0 0
+Bonuses: Portland 12 170 14.17, Henderson County B 4 30 7.50
+Bonus Bouncebacks: Portland 0 50 0.00, Henderson County B 0 30 0.00
+
+Battle Ground Academy 230, Boyd County Middle (JV) 90
+Boyd County Middle (JV): Sydney Kimmel 8 0 0 0, Hope Smallwood 7 0 3 30, Aden Hereford 7 0 0 0, Noah Carter 7 0 0 0
+Battle Ground Academy: Matt Lewis 11 0 2 20, Duncan Steeples 11 0 3 30, Dominick Nesbitt 11 0 3 30, Emma Cloud 10 0 1 10
+Bonuses: Boyd County Middle (JV) 3 30 10.00, Battle Ground Academy 9 110 12.22
+Bonus Bouncebacks: Boyd County Middle (JV) 0 30 0.00, Battle Ground Academy 0 30 0.00
+
+Paul Laurence Dunbar A 410, Ed W. Clark 320
+Ed W. Clark: Eshaan Vakil 11 4 4 100
+Paul Laurence Dunbar A: Max Bograd 12 0 3 30, Angus Maske 12 3 2 65, Annesh Kadambi 11 1 0 15, David Vulakh 11 0 1 10
+Bonuses: Ed W. Clark 8 190 23.75, Paul Laurence Dunbar A 10 270 27.00
+Bonus Bouncebacks: Ed W. Clark 0 30 0.00, Paul Laurence Dunbar A 0 20 0.00
+
+Miami Valley 480, Henderson County A 325
+Henderson County A: DJ Banks 12 1 3 45, Harrison Jenkins 12 4 0 60, Alex Chandler 12 0 0 0, Julianne Latimer 10 0 0 0
+Miami Valley: John John Groger 11 3 5 95, William Groger 10 1 3 45
+Bonuses: Henderson County A 8 200 25.00, Miami Valley 12 320 26.67
+Bonus Bouncebacks: Henderson County A 0 20 0.00, Miami Valley 0 20 0.00
+
+Detroit Catholic Central B 405, Northmont 295
+Detroit Catholic Central B: Gavin DeWitt 12 1 2 35, Zachary Ernst 11 1 2 35, Billy Davidson 11 0 3 30, Bryce Murray 11 1 3 45
+Northmont: Samantha Street 10 0 3 30, Sean Scranton 10 0 3 30, Amara Nwanoro 10 1 0 15, Athena Dobles 11 0 0 0
+Bonuses: Detroit Catholic Central B 13 220 16.92, Northmont 7 150 21.43
+Bonus Bouncebacks: Detroit Catholic Central B 0 40 0.00, Northmont 0 70 0.00
+
+Chattahoochee 535, Detroit Catholic Central A 250
+Chattahoochee: Harrison Zhu 12 1 2 35, Andy Luo 12 2 0 30, Sanjeev Uppaluri 11 3 3 75, Foster Michaelis 11 1 1 25
+Detroit Catholic Central A: Robert Dedvukaj 11 2 0 30, Parker Stogdill 12 0 0 0, David DeBacker 12 1 0 15, Colin Stewart 12 1 2 35
+Bonuses: Chattahoochee 13 340 26.15, Detroit Catholic Central A 6 130 21.67
+Bonus Bouncebacks: Chattahoochee 0 30 0.00, Detroit Catholic Central A 0 40 0.00
+
+Adair County 345, Raceland-Worthington 150
+Adair County: Trevor Smith 12 0 8 80, Maddie Harmon 11 1 3 45, Chris Stuchell 12 0 0 0, Samuel Willis 12 0 0 0, Ty Cheatham 11 0 0 0, Hayden Hancock 10 0 0 0
+Raceland-Worthington: Hunter West 12 0 1 10, Brady Justice 12 0 3 30, Libby Roy 11 0 0 0, Katelyn Fyffe 11 0 1 10
+Bonuses: Adair County 12 210 17.50, Raceland-Worthington 5 80 16.00
+Bonus Bouncebacks: Adair County 0 10 0.00, Raceland-Worthington 0 20 0.00
+
+Russell 340, Paul G. Blazer 230
+Russell: Maya Abul-Khoudoud 12 1 3 45, Will Scott 11 0 1 10, Jackson Raich 10 1 2 35, Meredyth Wilson 11 0 0 0
+Paul G. Blazer: John Thomas 12 1 2 35, Shalayna Rice 12 1 1 25, Logan Coovert 11 0 4 40, Jessica Miller 11 0 1 10
+Bonuses: Russell 8 210 26.25, Paul G. Blazer 10 120 12.00
+Bonus Bouncebacks: Russell 0 40 0.00, Paul G. Blazer 0 0 0.00
+
+Rockcastle County B 120, Sheldon Clark B 50
+Sheldon Clark B: Ethan Alexander 11 0 2 20, Cory Preece 11 0 0 0, Colin Horn 9 0 1 10, Linzie Goble 10 0 0 0
+Rockcastle County B: Kristen Taylor 11 0 0 0, Bailey Cromer 9 0 0 0, Drew Bullock 11 0 5 50, John Asher 9 0 1 10
+Bonuses: Sheldon Clark B 3 20 6.67, Rockcastle County B 6 50 8.33
+Bonus Bouncebacks: Sheldon Clark B 0 0 0.00, Rockcastle County B 0 10 0.00
+
+Woodford County A 305, Daviess County 265
+Woodford County A: Connor Akers 12 0 4 40, Logan Craig 11 0 2 20, Claire Pinkston 10 0 0 0, Keaton Martin 10 3 1 55
+Daviess County: Alec Phelps 12 0 2 20, Noah Owen 11 0 1 10, Christian Vincent 11 0 2 20, Andrew Ellis 11 1 2 35
+Bonuses: Woodford County A 10 170 17.00, Daviess County 8 130 16.25
+Bonus Bouncebacks: Woodford County A 0 20 0.00, Daviess County 0 50 0.00
+
+Campbell County A 375, Johnson Central B 175
+Campbell County A: Nate Asbury 12 0 5 50, Lauren Taylor 10 0 6 60, Raychel Kool 10 1 1 25, Nicholas Yungbluth 12 0 0 0
+Johnson Central B: Bryce Fletcher 9 0 1 10, Zoe Castle 9 0 0 0, Blayne Boone 10 0 0 0, Chrystalen Stambaugh 11 1 2 35, Hannah Skaggs 10 0 1 10
+Bonuses: Campbell County A 13 220 16.92, Johnson Central B 5 90 18.00
+Bonus Bouncebacks: Campbell County A 0 20 0.00, Johnson Central B 0 30 0.00
+
+Round 10
+Raceland-Worthington 275, Johnson Central B 230
+Johnson Central B: Bryce Fletcher 9 0 2 20, Zoe Castle 9 0 0 0, Chrystalen Stambaugh 11 0 4 40, Hannah Skaggs 10 0 0 0
+Raceland-Worthington: Hunter West 12 2 4 70, Brady Justice 12 0 1 10, Libby Roy 11 0 0 0, Maddy Wilburn 11 1 0 15, Katelyn Fyffe 11 0 2 20
+Bonuses: Johnson Central B 6 100 16.67, Raceland-Worthington 10 150 15.00
+Bonus Bouncebacks: Johnson Central B 0 70 0.00, Raceland-Worthington 0 10 0.00
+
+Portland 245, Battle Ground Academy 115
+Portland: Logan Livingston 11 0 0 0, Matt Rosa 11 1 1 25, Stanley Zhao 11 0 7 70, John Hutchinson 10 0 0 0, Avery Crawford 10 0 0 0
+Battle Ground Academy: Matt Lewis 11 0 0 0, Duncan Steeples 11 0 1 10, Dominick Nesbitt 11 1 2 35, Emma Cloud 10 0 0 0
+Bonuses: Portland 9 120 13.33, Battle Ground Academy 4 40 10.00
+Bonus Bouncebacks: Portland 0 30 0.00, Battle Ground Academy 0 30 0.00
+
+Russell 330, Woodford County B 225
+Woodford County B: Derek Forte 11 1 1 25, Alfie Painter 10 1 2 35, Trevor Wells 10 0 1 10, Caleb May 10 0 0 0, Cayce Jones 10 1 1 25
+Russell: Maya Abul-Khoudoud 12 0 3 30, Will Scott 11 0 1 10, Jackson Raich 10 0 4 40, Meredyth Wilson 11 0 2 20
+Bonuses: Woodford County B 8 110 13.75, Russell 10 190 19.00
+Bonus Bouncebacks: Woodford County B 0 20 0.00, Russell 0 40 0.00
+
+Henderson County B 210, Boyd County Middle (JV) 200
+Boyd County Middle (JV): Sydney Kimmel 8 0 1 10, Hope Smallwood 7 0 5 50, Aden Hereford 7 0 1 10, Noah Carter 7 0 0 0
+Henderson County B: Will Kyle 0 2 20, Maggie Privette 0 4 40, Ryan Nantz 0 3 30, Andrew Russell 0 0 0
+Bonuses: Boyd County Middle (JV) 7 80 11.43, Henderson County B 9 100 11.11
+Bonus Bouncebacks: Boyd County Middle (JV) 0 50 0.00, Henderson County B 0 20 0.00
+
+Paul Laurence Dunbar A 435, Detroit Catholic Central B 345
+Detroit Catholic Central B: Gavin DeWitt 12 1 3 45, Zachary Ernst 11 1 0 15, Billy Davidson 11 2 1 40, Bryce Murray 11 1 0 15
+Paul Laurence Dunbar A: Max Bograd 12 1 2 35, Angus Maske 12 3 2 65, Annesh Kadambi 11 2 0 30, David Vulakh 11 1 0 15
+Bonuses: Detroit Catholic Central B 9 220 24.44, Paul Laurence Dunbar A 11 260 23.64
+Bonus Bouncebacks: Detroit Catholic Central B 0 10 0.00, Paul Laurence Dunbar A 0 30 0.00
+
+Rockcastle County A 250, Campbell County B (JV) 185
+Rockcastle County A: Tessa Pickle 12 0 1 10, Katie Vance 12 2 5 80, Aden Amburgey 11 0 0 0, Jonathan Cain 11 0 1 10
+Campbell County B (JV): Grace Songer 10 1 2 35, Abby Clark 10 0 0 0, Anna Morris 9 0 0 0, Noah Coronado 9 0 2 20, Clair Yungluth 9 0 0 0
+Bonuses: Rockcastle County A 9 120 13.33, Campbell County B (JV) 5 90 18.00
+Bonus Bouncebacks: Rockcastle County A 0 30 0.00, Campbell County B (JV) 0 40 0.00
+
+Daviess County 380, Paul Laurence Dunbar B 370
+Paul Laurence Dunbar B: Henry Blyth 11 3 2 65, Grace Goff 11 1 4 55, Noah Katz 10 0 0 0, Sanaa Kahloon 10 0 0 0, Gabriella Staykova 10 0 0 0
+Daviess County: Alec Phelps 12 0 2 20, Noah Owen 11 0 1 10, Christian Vincent 11 2 2 50, Andrew Ellis 11 0 3 30
+Bonuses: Paul Laurence Dunbar B 10 200 20.00, Daviess County 10 210 21.00
+Bonus Bouncebacks: Paul Laurence Dunbar B 0 50 0.00, Daviess County 0 60 0.00
+
+Paul G. Blazer 360, DuPont Manual 300
+DuPont Manual: Shaun Liu 10 0 2 20, Murari Srinivasan 10 0 2 20, Shyam Ravishankar 11 2 3 60, Justin Xu 10 0 1 10
+Paul G. Blazer: John Thomas 12 1 4 55, Shalayna Rice 12 0 1 10, Julie Clere 12 0 0 0, Logan Coovert 11 0 3 30, MacKenzie Clere 11 1 0 15
+Bonuses: DuPont Manual 10 140 14.00, Paul G. Blazer 10 180 18.00
+Bonus Bouncebacks: DuPont Manual 0 50 0.00, Paul G. Blazer 0 70 0.00
+
+Sheldon Clark A 200, Rockcastle County B 120
+Sheldon Clark A: Jaccob McKenzie 12 0 5 50, Sheridan Fletcher 12 0 3 30, Tristan Wiley 12 0 1 10, Chloe Hale 10 0 1 10
+Rockcastle County B: Elizabeth Mikeworth 9 0 3 30, Audrey Childress 10 0 1 10, Jayden Nicely 9 0 0 0, John Asher 9 0 0 0
+Bonuses: Sheldon Clark A 10 90 9.00, Rockcastle County B 4 40 10.00
+Bonus Bouncebacks: Sheldon Clark A 0 10 0.00, Rockcastle County B 0 40 0.00
+
+Adair County 300, Campbell County A 290
+Campbell County A: Nate Asbury 12 0 3 30, Lauren Taylor 10 1 1 25, Raychel Kool 10 0 1 10, Nicholas Yungbluth 12 1 1 25
+Adair County: Trevor Smith 12 1 5 65, Maddie Harmon 11 0 1 10, Chris Stuchell 12 1 2 35, Samuel Willis 12 0 0 0
+Bonuses: Campbell County A 8 150 18.75, Adair County 9 150 16.67
+Bonus Bouncebacks: Campbell County A 0 50 0.00, Adair County 0 40 0.00
+
+Boyd County (JV) 285, Trinity 190
+Boyd County (JV): Maggie Kinnel 10 0 1 10, Jackson Davis 10 1 4 55, Adrian McDaniels 10 0 0 0, Grace Conley 10 0 5 50, Grace Stubblefield 10 0 0 0
+Trinity: Sammy Mattingly 12 2 1 40, Nick Huls 11 0 1 10, Aden Yeager 11 0 1 10, Riley Moremen 10 0 1 10
+Bonuses: Boyd County (JV) 11 150 13.64, Trinity 6 90 15.00
+Bonus Bouncebacks: Boyd County (JV) 0 20 0.00, Trinity 0 30 0.00
+
+Sheldon Clark B 70, Grayson County 50
+Sheldon Clark B: Ethan Alexander 11 0 1 10, Cory Preece 11 0 2 20, Lexy Hensley 10 0 0 0, Colin Horn 9 0 0 0, Linzie Goble 10 0 1 10
+Grayson County: Sarah Kiper 10 0 1 10, Rhiannon Wilson 11 0 1 10, Tyler Dennis 9 0 1 10, Garrett Drake 9 0 0 0
+Bonuses: Sheldon Clark B 4 20 5.00, Grayson County 3 20 6.67
+Bonus Bouncebacks: Sheldon Clark B 0 10 0.00, Grayson County 0 0 0.00
+
+Chattahoochee 570, Henderson County A 210
+Henderson County A: DJ Banks 12 2 1 40, Harrison Jenkins 12 2 0 30, Alex Chandler 12 0 0 0, Julianne Latimer 10 0 0 0
+Chattahoochee: Harrison Zhu 12 5 3 105, Andy Luo 12 1 2 35, Sanjeev Uppaluri 11 1 1 25, Foster Michaelis 11 1 1 25
+Bonuses: Henderson County A 5 110 22.00, Chattahoochee 15 350 23.33
+Bonus Bouncebacks: Henderson County A 0 30 0.00, Chattahoochee 0 30 0.00
+
+Woodford County A 420, Johnson Central A 200
+Johnson Central A: Brandon Fairchild 12 1 1 25, Austin Cantrell 11 0 2 20, JT Dials 11 1 0 15, Megan Owens 12 0 0 0, Jolene Fairchild 12 0 1 10
+Woodford County A: Connor Akers 12 0 3 30, Logan Craig 11 1 1 25, Claire Pinkston 10 2 1 40, Keaton Martin 10 3 0 45
+Bonuses: Johnson Central A 6 110 18.33, Woodford County A 11 260 23.64
+Bonus Bouncebacks: Johnson Central A 0 20 0.00, Woodford County A 0 20 0.00
+
+Miami Valley 415, Detroit Catholic Central A 400
+Miami Valley: John John Groger 11 2 1 40, William Groger 10 5 2 95
+Detroit Catholic Central A: Robert Dedvukaj 11 3 1 55, Parker Stogdill 12 1 0 15, David DeBacker 12 1 1 25, Colin Stewart 12 1 2 35
+Bonuses: Miami Valley 10 250 25.00, Detroit Catholic Central A 10 260 26.00
+Bonus Bouncebacks: Miami Valley 0 30 0.00, Detroit Catholic Central A 0 10 0.00
+
+Ed W. Clark 520, Northmont 180
+Ed W. Clark: Eshaan Vakil 11 6 10 190
+Northmont: Samantha Street 10 0 0 0, Sean Scranton 10 2 0 30, Amara Nwanoro 10 0 2 20, Athena Dobles 11 0 0 0
+Bonuses: Ed W. Clark 16 310 19.38, Northmont 4 70 17.50
+Bonus Bouncebacks: Ed W. Clark 0 20 0.00, Northmont 0 60 0.00

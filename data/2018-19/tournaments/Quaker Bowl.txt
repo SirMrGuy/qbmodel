@@ -1,0 +1,449 @@
+Blacksburg B 235, Carrboro B 75
+Carrboro B: Akshay Mankad 1 0 1 10, Kyle Layzer 0 0 0 0, Noah Gerhardt 0 1 1 5, Louis Davidson 0 3 2 20
+Blacksburg B: Vansh Parikh 0 4 1 35, Alex Rodriguez 0 3 0 30, Dasol Lee 0 0 0 0, Kevin Zhang 0 3 0 30
+Bonuses: Carrboro B 5 40 8.00, Blacksburg B 10 140 14.00
+
+Carrboro A 390, Atkins C 100
+Carrboro A: Arun Chakrabarty 0 6 3 45, Nick Carney 0 2 0 20, Aadit Nerkar 1 3 0 45, James O'Brien 0 2 0 20
+Atkins C: Bri Thompson 0 0 0 0, TJ Boland 0 2 0 20, Kiran Kapileshwari 0 1 0 10, Rachelle Hubruok 0 1 0 10, Rigued Dodd 0 0 0 0, Christian Keith 0 1 0 10
+Bonuses: Carrboro A 14 260 18.57, Atkins C 5 50 10.00
+
+Heathwood B 160, STEM Early College 135
+STEM Early College: Sam Wakene 0 1 1 5, Connor Malley 1 2 0 35, Justin Edwins 0 2 1 15, Jean-Lou Pare 0 1 0 10
+Heathwood B: Aaron Sawyer 0 0 0 0, Christina Smith 0 0 0 0, Caroline Quan 0 0 0 0, Andrew Sobel 2 4 0 70, DuBose Tuller 0 2 0 20
+Bonuses: STEM Early College 7 70 10.00, Heathwood B 8 70 8.75
+
+Blacksburg A 420, House Team 45
+Blacksburg A: Vishvesha Sridhar 5 3 1 100, Robert Lee 1 0 0 15, Cedric Christensen 0 4 0 40, Firas Dalloul 0 1 0 10
+House Team: Rowah Ibnaouf 1 2 0 35, Nick Abele 0 0 0 0
+Bonuses: Blacksburg A 14 255 18.21, House Team 3 10 3.33
+
+Atkins A 425, Heathwood A 65
+Heathwood A: Mitesh Das 1 0 0 15, Ben Mathews 0 2 0 20, Nico Adam 1 0 1 10, Riley Haywood 0 0 0 0
+Atkins A: Thomas Ross 2 3 1 55, Rohan Kapileshwari 1 1 1 20, Sean Garber 1 4 0 55, Ben Armentrout 0 0 0 0
+Bonuses: Heathwood A 4 20 5.00, Atkins A 12 295 24.58
+
+Dorman B 230, Raleigh Charter C 210
+Raleigh Charter C: Varun Indugula 1 5 1 60, David Kim 0 1 0 10, Aabir Sanyal 0 1 0 10, Matthew Wallace 0 1 0 10, John Gamble 0 0 0 0
+Dorman B: Conley Burns 1 2 1 30, Andrew Bettencourt 0 6 0 60, Kairi Johnson 0 0 0 0, Anastasia Vorobyora 0 1 0 10
+Bonuses: Raleigh Charter C 9 120 13.33, Dorman B 10 130 13.00
+
+Dorman A 480, Atkins B 105
+Dorman A: Kyle Quinn 2 1 0 40, Emily Giep 0 5 1 45, Delario Nance, Jr. 3 2 0 65, Charlie Weaver 0 3 2 20
+Atkins B: Adam Ernest 0 0 0 0, Aaron Petty 0 1 0 10, Suraj Upadhya 1 1 0 25, Graham Burgess 0 0 0 0, Christina Starnes 0 0 0 0, Tyler Lucia 0 0 0 0
+Bonuses: Dorman A 16 310 19.38, Atkins B 3 70 23.33
+
+NCSSM A 530, Raleigh Charter D 65
+NCSSM A: Vittal Bhat 2 3 0 60, Aryan Rai 1 4 0 55, Kevin Liu 0 4 1 35, Sophia Israel 0 1 0 10
+Raleigh Charter D: Garrett Kristianson 1 1 0 25, Emma Gan 0 2 0 20, Vish Ravichandran 0 0 0 0, Ryan Qu 0 0 0 0, Matthew Jiang 0 0 0 0
+Bonuses: NCSSM A 15 370 24.67, Raleigh Charter D 4 20 5.00
+
+Raleigh Charter B 275, NCSSM B 200
+Raleigh Charter B: Michael Peeler 2 0 0 30, Somya Pandey 0 1 0 10, Soumya Bodaula 0 4 0 40, Neil Saini 0 2 1 15, Arkin Worlikar 0 2 0 20
+NCSSM B: Faith Baxley 0 1 0 10, Patrick Negus 1 0 1 10, Kelly Wang 0 3 0 30, James Thompson 0 3 0 30
+Bonuses: Raleigh Charter B 11 160 14.55, NCSSM B 8 120 15.00
+
+Raleigh Charter A 515, Dorman C 10
+Dorman C: David Hinson 0 0 0 0, Kathy Nguyen 0 0 0 0, Seeya Patel 0 0 0 0, Lutz Wright 0 1 0 10
+Raleigh Charter A: Arya Sharma 1 2 2 25, Ekartha Sharma 1 5 1 60, Sam Eshun Danquah 0 1 1 5, TJ Nanugonda 3 3 0 75
+Bonuses: Dorman C 1 0 0.00, Raleigh Charter A 16 350 21.88
+
+NCSSM A 480, Raleigh Charter C 40
+NCSSM A: Vittal Bhat 1 6 0 75, Aryan Rai 1 1 0 25, Kevin Liu 2 4 0 70, Sophia Israel 0 1 0 10
+Raleigh Charter C: Varun Indugula 0 1 1 5, David Kim 0 1 0 10, Aabir Sanyal 0 0 0 0, Matthew Wallace 0 0 0 0, John Gamble 0 0 1 -5
+Bonuses: NCSSM A 16 300 18.75, Raleigh Charter C 2 30 15.00
+
+Raleigh Charter A 380, Heathwood B 125
+Heathwood B: Aaron Sawyer 0 1 0 10, Christina Smith 0 1 0 10, Caroline Quan 0 0 0 0, Andrew Sobel 0 3 0 30, DuBose Tuller 1 1 0 25
+Raleigh Charter A: Arya Sharma 2 2 4 30, Ekartha Sharma 2 2 1 45, Sam Eshun Danquah 0 1 1 5, TJ Nanugonda 3 0 1 40
+Bonuses: Heathwood B 7 50 7.14, Raleigh Charter A 12 260 21.67
+
+Carrboro A 455, NCSSM B 75
+Carrboro A: Arun Chakrabarty 5 6 0 135, Nick Carney 0 1 0 10, Aadit Nerkar 1 2 1 30, James O'Brien 0 1 0 10
+NCSSM B: Faith Baxley 0 3 0 30, Patrick Negus 0 1 1 5, Kelly Wang 0 0 0 0, James Thompson 0 0 0 0
+Bonuses: Carrboro A 16 270 16.88, NCSSM B 4 40 10.00
+
+Dorman A 455, Raleigh Charter B 115
+Dorman A: Kyle Quinn 1 0 1 10, Emily Giep 1 3 0 45, Delario Nance, Jr. 3 1 1 50, Charlie Weaver 1 4 1 50
+Raleigh Charter B: Michael Peeler 2 1 0 40, Somya Pandey 0 0 0 0, Soumya Bodaula 0 1 0 10, Neil Saini 0 1 0 10, Arkin Worlikar 0 1 1 5
+Bonuses: Dorman A 14 300 21.43, Raleigh Charter B 6 50 8.33
+
+Carrboro B 235, Dorman B 95
+Carrboro B: Akshay Mankad 0 2 1 15, Kyle Layzer 0 2 0 20, Noah Gerhardt 1 3 2 35, Louis Davidson 0 4 1 35
+Dorman B: Conley Burns 1 0 0 15, Andrew Bettencourt 0 2 0 20, Kairi Johnson 0 0 0 0, Anastasia Vorobyora 0 2 0 20
+Bonuses: Carrboro B 12 130 10.83, Dorman B 5 40 8.00
+
+Atkins A 470, Blacksburg B 45
+Blacksburg B: Vansh Parikh 0 2 2 10, Alex Rodriguez 0 0 1 -5, Dasol Lee 0 1 0 10, Kevin Zhang 0 0 0 0
+Atkins A: Thomas Ross 2 2 0 50, Rohan Kapileshwari 2 8 2 100, Sean Garber 0 1 0 10, Ben Armentrout 1 0 1 10, Arya Vinod 0 0 0 0, Ghazal Mirzazadeh 0 0 0 0
+Bonuses: Blacksburg B 3 30 10.00, Atkins A 16 300 18.75
+
+Blacksburg A 530, Raleigh Charter D 0
+Raleigh Charter D: Garrett Kristianson 0 0 0 0, Emma Gan 0 0 0 0, Vish Ravichandran 0 0 0 0, Ryan Qu 0 0 0 0, Matthew Jiang 0 0 0 0
+Blacksburg A: Vishvesha Sridhar 5 7 0 145, Robert Lee 0 2 0 20, Cedric Christensen 0 2 0 20, Firas Dalloul 0 2 1 15
+Bonuses: Raleigh Charter D 0 0 0.00, Blacksburg A 18 330 18.33
+
+Atkins C 310, Dorman C 10
+Dorman C: David Hinson 0 0 0 0, Kathy Nguyen 0 1 0 10, Seeya Patel 0 0 0 0, Lutz Wright 0 0 0 0
+Atkins C: Bri Thompson 0 2 0 20, TJ Boland 0 13 0 130, Kiran Kapileshwari 0 0 0 0, Rachelle Hubruok 0 0 0 0, Rigued Dodd 0 0 0 0, Christian Keith 0 0 0 0
+Bonuses: Dorman C 1 0 0.00, Atkins C 15 160 10.67
+
+House Team 215, Heathwood A 115
+Heathwood A: Mitesh Das 0 2 1 15, Ben Mathews 0 2 0 20, Nico Adam 0 3 1 25, Riley Haywood 0 0 0 0
+House Team: Rowah Ibnaouf 0 6 1 55, Nick Abele 0 2 0 20
+Bonuses: Heathwood A 7 55 7.86, House Team 8 140 17.50
+
+STEM Early College 235, Atkins B 115
+STEM Early College: Sam Wakene 0 3 1 25, Connor Malley 0 2 0 20, Justin Edwins 2 3 0 60, Luke Eisenbarth 0 1 0 10
+Atkins B: Aaron Petty 1 4 0 55, Adam Ernest 0 0 0 0, Suraj Upadhya 0 0 0 0, Graham Burgess 0 1 0 10, Christina Starnes 0 0 0 0, Tyler Lucia 0 0 0 0
+Bonuses: STEM Early College 11 120 10.91, Atkins B 6 50 8.33
+
+Dorman A 405, NCSSM B 165
+Dorman A: Kyle Quinn 1 2 1 30, Emily Giep 2 3 1 55, Delario Nance, Jr. 0 2 1 15, Charlie Weaver 2 1 1 35
+NCSSM B: Faith Baxley 0 1 0 10, Patrick Negus 0 4 0 40, Kelly Wang 0 0 1 -5, James Thompson 2 0 0 30
+Bonuses: Dorman A 13 270 20.77, NCSSM B 7 90 12.86
+
+Raleigh Charter A 450, Atkins B 25
+Raleigh Charter A: Arya Sharma 1 3 2 35, Ekartha Sharma 1 3 1 40, Sam Eshun Danquah 3 1 0 55, TJ Nanugonda 1 3 1 40
+Atkins B: Adam Ernest 0 0 0 0, Aaron Petty 0 2 0 20, Suraj Upadhya 0 0 1 -5, Graham Burgess 0 0 0 0, Christina Starnes 0 0 0 0, Tyler Lucia 0 0 0 0
+Bonuses: Raleigh Charter A 16 280 17.50, Atkins B 2 10 5.00
+
+Dorman B 260, Blacksburg B 120
+Dorman B: Conley Burns 1 6 3 60, Andrew Bettencourt 0 5 0 50, Kairi Johnson 0 0 0 0, Anastasia Vorobyora 0 0 0 0
+Blacksburg B: Vansh Parikh 0 4 0 40, Alex Rodriguez 0 0 0 0, Dasol Lee 0 1 0 10, Kevin Zhang 0 2 2 10
+Bonuses: Dorman B 12 150 12.50, Blacksburg B 7 60 8.57
+
+NCSSM A 465, Carrboro B 50
+Carrboro B: Akshay Mankad 0 1 0 10, Kyle Layzer 0 0 0 0, Noah Gerhardt 0 3 1 25, Louis Davidson 0 0 1 -5
+NCSSM A: Vittal Bhat 0 0 1 -5, Aryan Rai 2 5 2 70, Kevin Liu 0 6 1 55, Sophia Israel 1 1 0 25
+Bonuses: Carrboro B 4 20 5.00, NCSSM A 15 320 21.33
+
+Raleigh Charter B 235, STEM Early College 170
+STEM Early College: Sam Wakene 1 1 0 25, Connor Malley 0 2 0 20, Justin Edwins 1 3 2 35, Alicia Bao 0 0 0 0
+Raleigh Charter B: Michael Peeler 1 6 2 65, Somya Pandey 0 0 1 -5, Soumya Bodaula 0 2 0 20, Neil Saini 0 0 0 0, Arkin Worlikar 0 2 1 15
+Bonuses: STEM Early College 8 90 11.25, Raleigh Charter B 11 140 12.73
+
+Atkins A 460, House Team 40
+House Team: Rowah Ibnaouf 0 3 2 20, Nick Abele 0 0 0 0
+Atkins A: Thomas Ross 4 6 1 115, Rohan Kapileshwari 1 0 0 15, Sean Garber 2 1 0 40, Ben Armentrout 0 2 0 20, Arya Vinod 0 0 0 0, Ghazal Mirzazadeh 0 0 0 0
+Bonuses: House Team 3 20 6.67, Atkins A 16 270 16.88
+
+Heathwood A 170, Raleigh Charter D 130
+Heathwood A: Mitesh Das 0 1 1 5, Ben Mathews 0 1 1 5, Nico Adam 2 4 1 65, Riley Haywood 0 1 1 5
+Raleigh Charter D: Garrett Kristianson 0 4 2 30, Emma Gan 0 3 0 30, Vish Ravichandran 0 0 0 0, Ryan Qu 0 1 0 10, Matthew Jiang 0 0 0 0
+Bonuses: Heathwood A 9 90 10.00, Raleigh Charter D 8 60 7.50
+
+Blacksburg A 270, Raleigh Charter C 225
+Raleigh Charter C: Varun Indugula 2 2 1 45, David Kim 1 0 0 15, Aabir Sanyal 0 0 0 0, Matthew Wallace 1 1 0 25, John Gamble 0 1 0 10
+Blacksburg A: Vishvesha Sridhar 3 4 1 80, Robert Lee 0 1 0 10, Cedric Christensen 0 3 2 20, Firas Dalloul 0 0 0 0
+Bonuses: Raleigh Charter C 8 130 16.25, Blacksburg A 11 160 14.55
+
+Atkins C 210, Heathwood B 130
+Heathwood B: Aaron Sawyer 0 0 0 0, Christina Smith 0 0 0 0, Caroline Quan 0 0 0 0, Andrew Sobel 1 1 1 20, DuBose Tuller 0 4 0 40
+Atkins C: Bri Thompson 0 2 0 20, TJ Boland 1 7 2 75, Kiran Kapileshwari 0 0 0 0, Rachelle Hubruok 0 0 1 -5, Rigued Dodd 0 0 0 0, Christian Keith 0 0 0 0
+Bonuses: Heathwood B 6 70 11.67, Atkins C 10 120 12.00
+
+Carrboro A 275, Dorman C 30
+Carrboro A: Arun Chakrabarty 1 5 4 45, Nick Carney 0 1 1 5, Aadit Nerkar 2 0 0 30, James O'Brien 0 2 1 15
+Dorman C: David Hinson 0 3 0 30, Kathy Nguyen 0 0 0 0, Seeya Patel 0 0 0 0, Lutz Wright 0 0 0 0
+Bonuses: Carrboro A 11 180 16.36, Dorman C 3 0 0.00
+
+Atkins A 410, Raleigh Charter D 40
+Atkins A: Thomas Ross 2 5 2 70, Rohan Kapileshwari 1 3 4 25, Sean Garber 1 2 0 35, Ben Armentrout 0 0 0 0
+Raleigh Charter D: Garrett Kristianson 0 0 0 0, Emma Gan 0 2 0 20, Vish Ravichandran 0 0 0 0, Ryan Qu 0 0 0 0, Matthew Jiang 0 0 0 0
+Bonuses: Atkins A 14 280 20.00, Raleigh Charter D 2 20 10.00
+
+Blacksburg A 435, Heathwood A 15
+Blacksburg A: Vishvesha Sridhar 2 6 2 80, Robert Lee 1 0 0 15, Cedric Christensen 3 1 0 55, Firas Dalloul 0 2 1 15
+Heathwood A: Mitesh Das 0 0 2 -10, Ben Mathews 0 0 0 0, Nico Adam 1 1 1 20, Riley Haywood 0 0 1 -5, Chi Chi N 0 0 0 0
+Bonuses: Blacksburg A 15 270 18.00, Heathwood A 2 10 5.00
+
+Dorman B 330, House Team 60
+Dorman B: Conley Burns 2 5 0 80, Andrew Bettencourt 1 4 0 55, Kairi Johnson 1 0 0 15, Anastasia Vorobyora 0 0 0 0
+House Team: Rowah Ibnaouf 0 4 4 20, Nick Abele 0 0 0 0
+Bonuses: Dorman B 13 180 13.85, House Team 4 40 10.00
+
+Raleigh Charter B 290, Atkins B 180
+Raleigh Charter B: Michael Peeler 0 1 1 5, Somya Pandey 0 2 1 15, Soumya Bodaula 0 3 0 30, Neil Saini 0 0 1 -5, Arkin Worlikar 1 4 0 55
+Atkins B: Aaron Petty 1 1 1 20, Suraj Upadhya 0 2 0 20, Graham Burgess 0 2 0 20, Christina Starnes 0 0 0 0, Tyler Lucia 0 1 0 10
+Bonuses: Raleigh Charter B 11 190 17.27, Atkins B 7 110 15.71
+
+NCSSM A 525, Blacksburg B 65
+Blacksburg B: Vansh Parikh 1 0 1 10, Alex Rodriguez 0 0 0 0, Dasol Lee 0 0 0 0, Kevin Zhang 1 0 0 15
+NCSSM A: Vittal Bhat 2 2 0 50, Aryan Rai 5 3 1 100, Kevin Liu 1 2 0 35, Sophia Israel 0 1 0 10
+Bonuses: Blacksburg B 2 40 20.00, NCSSM A 16 330 20.62
+
+Carrboro A 460, Heathwood B 60
+Carrboro A: Arun Chakrabarty 3 8 0 125, Nick Carney 1 1 0 25, Aadit Nerkar 2 2 0 50, James O'Brien 0 0 0 0
+Heathwood B: Aaron Sawyer 0 0 0 0, Christina Smith 0 0 0 0, Caroline Quan 0 1 0 10, Andrew Sobel 0 1 0 10, DuBose Tuller 0 1 2 0
+Bonuses: Carrboro A 17 260 15.29, Heathwood B 3 40 13.33
+
+NCSSM B 325, STEM Early College 115
+STEM Early College: Sam Wakene 0 2 0 20, Connor Malley 0 0 0 0, Justin Edwins 1 0 0 15, Jean-Lou Pare 0 2 0 20
+NCSSM B: Faith Baxley 0 2 0 20, Patrick Negus 3 2 0 65, Kelly Wang 1 2 0 35, James Thompson 1 2 0 35
+Bonuses: STEM Early College 5 60 12.00, NCSSM B 13 170 13.08
+
+Raleigh Charter C 310, Carrboro B 60
+Raleigh Charter C: Varun Indugula 1 4 1 50, David Kim 1 2 0 35, Aabir Sanyal 0 2 0 20, Matthew Wallace 1 4 0 55
+Carrboro B: Akshay Mankad 0 1 0 10, Kyle Layzer 0 0 0 0, Noah Gerhardt 0 2 1 15, Louis Davidson 1 0 0 15
+Bonuses: Raleigh Charter C 15 150 10.00, Carrboro B 4 20 5.00
+
+Raleigh Charter A 520, Atkins C 60
+Raleigh Charter A: Arya Sharma 1 5 2 55, Ekartha Sharma 4 0 1 55, Sam Eshun Danquah 0 2 0 20, TJ Nanugonda 2 2 0 50
+Atkins C: Bri Thompson 0 1 0 10, TJ Boland 0 1 1 5, Kiran Kapileshwari 1 0 0 15, Rachelle Hubruok 0 0 0 0, Rigued Dodd 0 0 0 0, Christian Keith 0 0 0 0
+Bonuses: Raleigh Charter A 16 340 21.25, Atkins C 3 30 10.00
+
+Dorman A 510, Dorman C 0
+Dorman A: Kyle Quinn 3 0 1 40, Emily Giep 2 2 2 40, Delario Nance, Jr. 2 2 0 50, Charlie Weaver 2 2 2 40
+Dorman C: David Hinson 0 0 0 0, Kathy Nguyen 0 0 0 0, Seeya Patel 0 0 0 0, Lutz Wright 0 0 0 0
+Bonuses: Dorman A 15 340 22.67, Dorman C 0 0 0.00
+
+Blacksburg A 330, Atkins A 245
+Atkins A: Thomas Ross 0 2 1 15, Rohan Kapileshwari 3 1 0 55, Sean Garber 0 2 1 15, Ben Armentrout 0 0 0 0
+Blacksburg A: Vishvesha Sridhar 3 2 0 65, Robert Lee 1 0 0 15, Cedric Christensen 1 3 0 45, Firas Dalloul 0 2 0 20
+Bonuses: Atkins A 8 160 20.00, Blacksburg A 12 185 15.42
+
+Raleigh Charter B 285, Atkins C 180
+Raleigh Charter B: Michael Peeler 1 2 0 35, Somya Pandey 0 0 0 0, Soumya Bodaula 0 2 1 15, Neil Saini 1 2 0 35, Arkin Worlikar 1 2 1 30
+Atkins C: Bri Thompson 0 1 0 10, TJ Boland 0 6 0 60, Kiran Kapileshwari 0 0 0 0, Rachelle Hubruok 0 1 0 10, Rigued Dodd 0 0 0 0, Christian Keith 0 0 0 0
+Bonuses: Raleigh Charter B 11 170 15.45, Atkins C 8 100 12.50
+
+Raleigh Charter C 245, Blacksburg B 205
+Blacksburg B: Vansh Parikh 1 3 1 40, Alex Rodriguez 1 1 0 25, Dasol Lee 0 0 0 0, Kevin Zhang 0 3 0 30
+Raleigh Charter C: Varun Indugula 3 2 0 65, David Kim 0 1 0 10, Aabir Sanyal 1 0 0 15, Matthew Wallace 0 3 0 30, John Gamble 0 0 1 -5
+Bonuses: Blacksburg B 9 110 12.22, Raleigh Charter C 10 130 13.00
+
+House Team 235, Raleigh Charter D 120
+House Team: Rowah Ibnaouf 1 9 1 100, Nick Abele 1 0 0 15
+Raleigh Charter D: Garrett Kristianson 1 1 1 20, Emma Gan 0 3 0 30, Vish Ravichandran 0 1 0 10, Ryan Qu 0 0 2 -10, Matthew Jiang 0 0 0 0
+Bonuses: House Team 11 120 10.91, Raleigh Charter D 6 70 11.67
+
+NCSSM B 340, Atkins B 210
+NCSSM B: Faith Baxley 1 1 0 25, Patrick Negus 1 3 3 30, Kelly Wang 1 2 0 35, James Thompson 0 3 0 30
+Atkins B: Aaron Petty 0 3 0 30, Suraj Upadhya 0 1 0 10, Graham Burgess 0 3 0 30, Tyler Lucia 0 1 0 10
+Bonuses: NCSSM B 12 220 18.33, Atkins B 8 130 16.25
+
+Carrboro B 235, Heathwood A 195
+Carrboro B: Akshay Mankad 1 0 1 10, Kyle Layzer 0 1 0 10, Noah Gerhardt 2 3 3 45, Louis Davidson 2 1 0 40
+Heathwood A: Mitesh Das 0 0 0 0, Ben Mathews 0 2 0 20, Nico Adam 1 0 0 15, Riley Haywood 2 1 2 30, Chi Chi N 0 2 0 20
+Bonuses: Carrboro B 10 130 13.00, Heathwood A 8 110 13.75
+
+Heathwood B 265, Dorman C 20
+Heathwood B: Aaron Sawyer 0 1 0 10, Christina Smith 0 1 0 10, Caroline Quan 0 0 0 0, Andrew Sobel 0 8 0 80, DuBose Tuller 1 1 0 25
+Dorman C: David Hinson 0 0 0 0, Kathy Nguyen 0 0 0 0, Seeya Patel 0 1 0 10, Lutz Wright 0 0 0 0
+Bonuses: Heathwood B 12 140 11.67, Dorman C 1 10 10.00
+
+Raleigh Charter A 485, Carrboro A 95
+Carrboro A: Arun Chakrabarty 0 2 1 15, Nick Carney 0 0 0 0, Aadit Nerkar 0 1 0 10, James O'Brien 0 0 0 0
+Raleigh Charter A: Arya Sharma 4 0 2 50, Ekartha Sharma 3 2 2 55, Sam Eshun Danquah 0 3 0 30, TJ Nanugonda 0 3 0 30
+Bonuses: Carrboro A 3 70 23.33, Raleigh Charter A 15 320 21.33
+
+Dorman A 450, STEM Early College 95
+Dorman A: Kyle Quinn 0 2 1 15, Emily Giep 1 4 0 55, Delario Nance, Jr. 2 1 0 40, Charlie Weaver 2 3 2 50
+STEM Early College: Sam Wakene 0 2 0 20, Connor Malley 0 1 0 10, Justin Edwins 1 1 0 25, Luke Eisenbarth 0 0 0 0
+Bonuses: Dorman A 15 290 19.33, STEM Early College 5 40 8.00
+
+NCSSM A 625, Dorman B 30
+Dorman B: Conley Burns 1 1 1 20, Andrew Bettencourt 0 0 0 0, Kairi Johnson 0 0 0 0, Anastasia Vorobyora 0 0 0 0
+NCSSM A: Vittal Bhat 3 3 0 75, Aryan Rai 4 2 0 80, Kevin Liu 0 4 0 40, Sophia Israel 0 2 0 20
+Bonuses: Dorman B 2 10 5.00, NCSSM A 18 410 22.78
+
+Blacksburg A 365, Dorman B 40
+Dorman B: Conley Burns 0 1 0 10, Andrew Bettencourt 0 1 0 10, Kairi Johnson 0 0 0 0, Anastasia Vorobyora 0 0 0 0
+Blacksburg A: Vishvesha Sridhar 2 7 2 90, Robert Lee 0 1 0 10, Cedric Christensen 0 3 0 30, Firas Dalloul 0 2 1 15
+Bonuses: Dorman B 2 20 10.00, Blacksburg A 15 220 14.67
+
+Raleigh Charter A 470, Raleigh Charter B 105
+Raleigh Charter B: Michael Peeler 0 1 0 10, Somya Pandey 0 0 0 0, Soumya Bodaula 0 0 0 0, Neil Saini 0 2 0 20, Arkin Worlikar 1 0 2 5
+Raleigh Charter A: Arya Sharma 1 3 2 35, Ekartha Sharma 2 2 1 45, Sam Eshun Danquah 2 2 1 45, TJ Nanugonda 0 2 1 15
+Bonuses: Raleigh Charter B 4 70 17.50, Raleigh Charter A 14 330 23.57
+
+Raleigh Charter C 315, Raleigh Charter D 35
+Raleigh Charter D: Garrett Kristianson 0 3 0 30, Emma Gan 0 0 1 -5, Vish Ravichandran 0 0 0 0, Ryan Qu 0 0 0 0, Matthew Jiang 0 0 0 0
+Raleigh Charter C: Varun Indugula 0 3 0 30, David Kim 0 2 0 20, Aabir Sanyal 0 2 0 20, Matthew Wallace 1 2 2 25, John Gamble 0 4 0 40
+Bonuses: Raleigh Charter D 3 10 3.33, Raleigh Charter C 14 180 12.86
+
+Heathwood A 155, Carrboro B 110
+Carrboro B: Akshay Mankad 0 1 0 10, Kyle Layzer 0 2 0 20, Noah Gerhardt 0 0 1 -5, Louis Davidson 1 2 2 25
+Heathwood A: Mitesh Das 0 2 0 20, Ben Mathews 0 1 0 10, Nico Adam 0 1 0 10, Riley Haywood 0 0 0 0, Chi Chi N 0 3 1 25
+Bonuses: Carrboro B 6 60 10.00, Heathwood A 7 90 12.86
+
+Dorman A 370, Carrboro A 155
+Dorman A: Kyle Quinn 0 3 1 25, Emily Giep 0 1 0 10, Delario Nance, Jr. 2 1 0 40, Charlie Weaver 1 5 2 55
+Carrboro A: Arun Chakrabarty 0 3 0 30, Nick Carney 0 1 1 5, Aadit Nerkar 0 0 1 -5, James O'Brien 1 1 0 25
+Bonuses: Dorman A 13 240 18.46, Carrboro A 6 100 16.67
+
+STEM Early College 320, Atkins C 65
+STEM Early College: Sam Wakene 0 2 0 20, Connor Malley 2 5 0 80, Justin Edwins 0 4 0 40, Jean-Lou Pare 0 2 0 20, Alicia Bao 0 0 0 0
+Atkins C: Bri Thompson 0 1 0 10, TJ Boland 0 1 0 10, Kiran Kapileshwari 0 0 0 0, Rachelle Hubruok 0 0 0 0, Christian Keith 0 1 1 5
+Bonuses: STEM Early College 15 160 10.67, Atkins C 3 40 13.33
+
+NCSSM B 290, Heathwood B 170
+NCSSM B: Faith Baxley 0 0 0 0, Patrick Negus 0 2 2 10, Kelly Wang 1 2 0 35, James Thompson 2 2 1 45
+Heathwood B: Aaron Sawyer 1 0 0 15, Christina Smith 0 0 1 -5, Caroline Quan 0 0 0 0, Andrew Sobel 1 3 1 40, DuBose Tuller 0 2 0 20
+Bonuses: NCSSM B 9 200 22.22, Heathwood B 7 100 14.29
+
+Atkins A 320, NCSSM A 285
+Atkins A: Thomas Ross 0 2 0 20, Rohan Kapileshwari 0 3 3 15, Sean Garber 1 5 0 65, Ben Armentrout 0 0 0 0
+NCSSM A: Vittal Bhat 2 1 2 30, Aryan Rai 0 1 0 10, Kevin Liu 1 2 0 35, Sophia Israel 0 2 0 20
+Bonuses: Atkins A 11 220 20.00, NCSSM A 9 190 21.11
+
+Atkins B 350, Dorman C 10
+Atkins B: Adam Ernest 0 1 0 10, Aaron Petty 1 4 0 55, Suraj Upadhya 0 0 0 0, Graham Burgess 0 2 1 15, Christina Starnes 0 0 0 0, Tyler Lucia 0 7 0 70
+Dorman C: David Hinson 0 0 0 0, Kathy Nguyen 0 0 0 0, Seeya Patel 0 1 0 10, Lutz Wright 0 0 0 0
+Bonuses: Atkins B 15 200 13.33, Dorman C 1 0 0.00
+
+Blacksburg B 260, House Team 95
+Blacksburg B: Vansh Parikh 0 9 0 90, Alex Rodriguez 0 3 0 30, Dasol Lee 0 0 0 0, Kevin Zhang 0 0 0 0
+House Team: Rowah Ibnaouf 0 3 1 25, Nick Abele 0 1 0 10
+Bonuses: Blacksburg B 12 140 11.67, House Team 4 60 15.00
+
+Heathwood A 220, STEM Early College 135
+STEM Early College: Sam Wakene 0 0 0 0, Connor Malley 0 1 0 10, Justin Edwins 0 4 1 35, Luke Eisenbarth 0 1 0 10, Alicia Bao 0 0 0 0
+Heathwood A: Mitesh Das 0 3 1 25, Ben Mathews 0 0 0 0, Nico Adam 2 4 0 70, Riley Haywood 1 0 0 15, Chi Chi N 0 1 0 10
+Bonuses: STEM Early College 6 80 13.33, Heathwood A 11 100 9.09
+
+Carrboro B 230, Atkins C 75
+Atkins C: Bri Thompson 0 0 0 0, TJ Boland 0 4 0 40, Kiran Kapileshwari 1 0 0 15, Rachelle Hubruok 0 0 0 0, Christian Keith 0 0 0 0
+Carrboro B: Akshay Mankad 0 2 0 20, Kyle Layzer 0 1 0 10, Noah Gerhardt 0 1 1 5, Louis Davidson 1 4 0 55
+Bonuses: Atkins C 5 20 4.00, Carrboro B 9 140 15.56
+
+NCSSM B 380, Raleigh Charter D 40
+Raleigh Charter D: Garrett Kristianson 0 1 0 10, Emma Gan 0 1 0 10, Vish Ravichandran 0 0 0 0, Ryan Qu 0 0 0 0, Matthew Jiang 0 0 0 0
+NCSSM B: Faith Baxley 0 1 0 10, Patrick Negus 2 6 1 85, Kelly Wang 0 0 0 0, James Thompson 3 4 0 85
+Bonuses: Raleigh Charter D 2 20 10.00, NCSSM B 16 200 12.50
+
+Raleigh Charter C 255, Heathwood B 140
+Raleigh Charter C: Varun Indugula 0 6 2 50, David Kim 2 1 0 40, Aabir Sanyal 0 1 0 10, Matthew Wallace 0 0 0 0, John Gamble 1 0 0 15
+Heathwood B: Aaron Sawyer 0 0 0 0, Christina Smith 0 0 0 0, Caroline Quan 0 0 0 0, Andrew Sobel 2 3 0 60, DuBose Tuller 0 1 0 10
+Bonuses: Raleigh Charter C 11 140 12.73, Heathwood B 6 70 11.67
+
+NCSSM A 350, Carrboro A 235
+NCSSM A: Vittal Bhat 3 3 2 65, Aryan Rai 0 4 0 40, Kevin Liu 1 1 0 25, Sophia Israel 0 0 0 0
+Carrboro A: Arun Chakrabarty 2 4 2 60, Nick Carney 0 0 0 0, Aadit Nerkar 1 1 0 25, James O'Brien 0 0 0 0
+Bonuses: NCSSM A 12 220 18.33, Carrboro A 8 150 18.75
+
+Raleigh Charter A 450, Dorman B 110
+Dorman B: Conley Burns 0 2 0 20, Andrew Bettencourt 0 2 0 20, Kairi Johnson 0 0 0 0, Anastasia Vorobyora 0 1 0 10
+Raleigh Charter A: Arya Sharma 2 2 1 45, Ekartha Sharma 3 3 1 70, Sam Eshun Danquah 1 1 1 20, TJ Nanugonda 1 1 1 20
+Bonuses: Dorman B 5 60 12.00, Raleigh Charter A 14 295 21.07
+
+Blacksburg A 280, Raleigh Charter B 195
+Raleigh Charter B: Michael Peeler 1 2 2 25, Somya Pandey 0 0 0 0, Soumya Bodaula 0 0 0 0, Neil Saini 1 2 0 35, Arkin Worlikar 1 1 0 25
+Blacksburg A: Vishvesha Sridhar 3 4 1 80, Robert Lee 0 1 0 10, Cedric Christensen 2 1 0 40, Firas Dalloul 0 0 0 0
+Bonuses: Raleigh Charter B 8 110 13.75, Blacksburg A 11 150 13.64
+
+Blacksburg B 300, Dorman C 40
+Blacksburg B: Vansh Parikh 1 10 0 115, Alex Rodriguez 0 0 1 -5, Dasol Lee 0 1 0 10, Kevin Zhang 0 2 0 20
+Dorman C: David Hinson 0 0 0 0, Kathy Nguyen 0 0 0 0, Seeya Patel 0 2 0 20, Lutz Wright 0 1 0 10
+Bonuses: Blacksburg B 14 160 11.43, Dorman C 3 10 3.33
+
+Atkins B 240, House Team 120
+Atkins B: Adam Ernest 0 1 0 10, Aaron Petty 0 4 0 40, Suraj Upadhya 0 2 0 20, Graham Burgess 0 0 0 0, Tyler Lucia 0 1 0 10
+House Team: Rowah Ibnaouf 1 5 1 60, Nick Abele 0 2 0 20
+Bonuses: Atkins B 8 160 20.00, House Team 8 40 5.00
+
+Dorman A 405, Atkins A 165
+Dorman A: Kyle Quinn 4 1 0 70, Emily Giep 0 2 0 20, Delario Nance, Jr. 2 2 0 50, Charlie Weaver 3 0 0 45
+Atkins A: Thomas Ross 1 1 0 25, Rohan Kapileshwari 1 2 1 30, Sean Garber 0 1 0 10, Ben Armentrout 0 0 0 0
+Bonuses: Dorman A 14 220 15.71, Atkins A 6 100 16.67
+
+Heathwood A 285, Atkins C 35
+Atkins C: Bri Thompson 0 0 0 0, TJ Boland 0 3 1 25, Kiran Kapileshwari 0 0 0 0, Rachelle Hubruok 0 0 0 0, Christian Keith 0 0 2 -10
+Heathwood A: Mitesh Das 0 2 0 20, Ben Mathews 0 1 0 10, Nico Adam 1 4 0 55, Chi Chi N 1 3 1 40
+Bonuses: Atkins C 3 20 6.67, Heathwood A 12 160 13.33
+
+Carrboro B 220, STEM Early College 170
+STEM Early College: Sam Wakene 0 1 0 10, Connor Malley 0 3 1 25, Justin Edwins 0 0 1 -5, Jean-Lou Pare 1 3 1 40
+Carrboro B: Akshay Mankad 0 1 0 10, Kyle Layzer 0 1 0 10, Noah Gerhardt 1 0 2 5, Louis Davidson 0 6 1 55
+Bonuses: STEM Early College 8 100 12.50, Carrboro B 9 140 15.56
+
+Heathwood B 210, Raleigh Charter D 75
+Raleigh Charter D: Garrett Kristianson 0 1 0 10, Emma Gan 0 4 0 40, Vish Ravichandran 0 1 1 5, Ryan Qu 0 0 0 0, Matthew Jiang 0 0 0 0
+Heathwood B: Aaron Sawyer 0 3 0 30, Christina Smith 0 0 0 0, Caroline Quan 0 0 0 0, Andrew Sobel 0 7 2 60, DuBose Tuller 0 0 0 0
+Bonuses: Raleigh Charter D 6 20 3.33, Heathwood B 10 120 12.00
+
+NCSSM B 410, Raleigh Charter C 80
+Raleigh Charter C: Varun Indugula 0 2 2 10, David Kim 0 0 0 0, Aabir Sanyal 0 0 1 -5, Matthew Wallace 0 1 0 10, John Gamble 0 1 1 5
+NCSSM B: Faith Baxley 0 0 0 0, Patrick Negus 1 8 1 90, Kelly Wang 0 0 1 -5, James Thompson 3 3 0 75
+Bonuses: Raleigh Charter C 4 60 15.00, NCSSM B 15 250 16.67
+
+Raleigh Charter A 350, Blacksburg A 235
+Raleigh Charter A: Arya Sharma 0 3 1 25, Ekartha Sharma 2 1 2 30, Sam Eshun Danquah 1 2 0 35, TJ Nanugonda 0 2 0 20
+Blacksburg A: Vishvesha Sridhar 0 5 1 45, Robert Lee 0 0 0 0, Cedric Christensen 1 3 0 45, Firas Dalloul 0 0 1 -5
+Bonuses: Raleigh Charter A 11 240 21.82, Blacksburg A 9 150 16.67
+
+NCSSM A 405, Dorman A 250
+NCSSM A: Vittal Bhat 1 3 0 45, Aryan Rai 1 2 0 35, Kevin Liu 1 3 0 45, Sophia Israel 0 0 0 0
+Dorman A: Kyle Quinn 0 3 0 30, Emily Giep 1 0 0 15, Delario Nance, Jr. 2 1 1 35, Charlie Weaver 2 0 0 30
+Bonuses: NCSSM A 11 280 25.45, Dorman A 9 140 15.56
+
+Raleigh Charter B 430, Dorman B 45
+Dorman B: Conley Burns 1 1 2 15, Andrew Bettencourt 0 0 0 0, Kairi Johnson 0 0 0 0, Anastasia Vorobyora 0 1 0 10
+Raleigh Charter B: Michael Peeler 0 6 1 55, Somya Pandey 0 3 0 30, Soumya Bodaula 0 0 0 0, Neil Saini 0 2 0 20, Arkin Worlikar 0 5 1 45
+Bonuses: Dorman B 3 20 6.67, Raleigh Charter B 16 280 17.50
+
+Carrboro A 310, Atkins A 295
+Atkins A: Thomas Ross 2 4 1 65, Rohan Kapileshwari 0 2 1 15, Sean Garber 1 1 0 25, Ben Armentrout 0 0 0 0
+Carrboro A: Arun Chakrabarty 4 3 0 90, Nick Carney 0 0 0 0, Aadit Nerkar 0 1 0 10, James O'Brien 0 2 0 20
+Bonuses: Atkins A 10 190 19.00, Carrboro A 10 190 19.00
+
+Atkins B 220, Blacksburg B 165
+Blacksburg B: Vansh Parikh 1 2 1 30, Alex Rodriguez 0 2 0 20, Dasol Lee 0 0 0 0, Kevin Zhang 0 2 1 15
+Atkins B: Aaron Petty 0 3 0 30, Suraj Upadhya 0 1 0 10, Graham Burgess 1 3 1 40, Christina Starnes 0 0 0 0, Tyler Lucia 0 0 0 0
+Bonuses: Blacksburg B 7 100 14.29, Atkins B 8 140 17.50
+
+House Team 235, Dorman C 60
+Dorman C: David Hinson 0 2 0 20, Kathy Nguyen 0 0 0 0, Seeya Patel 0 1 0 10, Lutz Wright 0 0 0 0
+House Team: Rowah Ibnaouf 0 1 0 10, Nick Abele 0 9 1 85
+Bonuses: Dorman C 3 30 10.00, House Team 10 140 14.00
+
+Carrboro A 360, Dorman B 90
+Carrboro A: Arun Chakrabarty 1 5 2 55, Nick Carney 0 2 1 15, Aadit Nerkar 2 2 0 50, James O'Brien 0 0 0 0
+Dorman B: Conley Burns 0 1 0 10, Andrew Bettencourt 0 2 0 20, Kairi Johnson 0 0 0 0, Anastasia Vorobyora 0 1 0 10
+Bonuses: Carrboro A 12 240 20.00, Dorman B 4 50 12.50
+
+Dorman A 410, Blacksburg A 165
+Dorman A: Kyle Quinn 1 0 0 15, Emily Giep 2 4 1 65, Delario Nance, Jr. 3 0 0 45, Charlie Weaver 3 0 0 45
+Blacksburg A: Vishvesha Sridhar 0 2 2 10, Robert Lee 0 0 0 0, Cedric Christensen 1 2 0 35, Firas Dalloul 0 2 0 20
+Bonuses: Dorman A 13 240 18.46, Blacksburg A 7 100 14.29
+
+Blacksburg B 285, Atkins B 125
+Blacksburg B: Vansh Parikh 1 10 0 115, Alex Rodriguez 0 1 0 10, Dasol Lee 0 0 0 0, Kevin Zhang 0 0 0 0
+Atkins B: Aaron Petty 0 2 1 15, Suraj Upadhya 0 0 0 0, Graham Burgess 0 2 0 20, Tyler Lucia 0 1 0 10
+Bonuses: Blacksburg B 12 160 13.33, Atkins B 5 80 16.00
+
+House Team 185, Dorman C 110
+Dorman C: David Hinson 0 1 0 10, Kathy Nguyen 0 0 0 0, Seeya Patel 0 1 0 10, Lutz Wright 0 3 0 30
+House Team: Rowah Ibnaouf 2 6 1 85, Nick Abele 0 1 0 10
+Bonuses: Dorman C 5 60 12.00, House Team 9 90 10.00
+
+Heathwood B 185, STEM Early College 90
+STEM Early College: Sam Wakene 0 1 1 5, Connor Malley 0 1 0 10, Justin Edwins 0 1 0 10, Luke Eisenbarth 0 0 0 0, Alicia Bao 1 0 0 15
+Heathwood B: Aaron Sawyer 0 0 0 0, Christina Smith 0 0 0 0, Caroline Quan 0 0 0 0, Andrew Sobel 2 6 0 90, DuBose Tuller 0 1 1 5
+Bonuses: STEM Early College 4 50 12.50, Heathwood B 9 90 10.00
+
+Raleigh Charter A 365, NCSSM A 320
+NCSSM A: Vittal Bhat 2 2 0 50, Aryan Rai 0 0 0 0, Kevin Liu 3 1 1 50, Sophia Israel 0 1 0 10
+Raleigh Charter A: Arya Sharma 2 0 0 30, Ekartha Sharma 2 2 0 50, Sam Eshun Danquah 1 1 0 25, TJ Nanugonda 2 1 0 40
+Bonuses: NCSSM A 9 210 23.33, Raleigh Charter A 11 220 20.00
+
+Atkins C 240, Raleigh Charter D 120
+Raleigh Charter D: Garrett Kristianson 1 2 0 35, Emma Gan 0 3 0 30, Vish Ravichandran 0 0 0 0, Ryan Qu 0 0 1 -5, Matthew Jiang 0 0 0 0
+Atkins C: Bri Thompson 0 1 0 10, TJ Boland 2 7 0 100, Kiran Kapileshwari 0 0 0 0, Rachelle Hubruok 0 1 0 10
+Bonuses: Raleigh Charter D 6 60 10.00, Atkins C 11 120 10.91
+
+NCSSM B 260, Heathwood A 175
+Heathwood A: Mitesh Das 0 1 2 0, Ben Mathews 1 0 1 10, Nico Adam 1 4 0 55, Riley Haywood 0 0 0 0, Chi Chi N 0 0 0 0
+NCSSM B: Faith Baxley 0 2 0 20, Patrick Negus 1 3 2 35, Kelly Wang 0 0 0 0, James Thompson 1 3 0 45
+Bonuses: Heathwood A 7 110 15.71, NCSSM B 10 160 16.00
+
+Raleigh Charter C 250, Carrboro B 220
+Raleigh Charter C: Varun Indugula 0 4 1 35, David Kim 0 1 0 10, Aabir Sanyal 0 1 0 10, Matthew Wallace 0 0 1 -5, John Gamble 0 3 0 30
+Carrboro B: Akshay Mankad 0 1 0 10, Kyle Layzer 1 2 0 35, Noah Gerhardt 0 3 0 30, Louis Davidson 1 3 0 45
+Bonuses: Raleigh Charter C 9 170 18.89, Carrboro B 11 100 9.09
+
+Atkins A 435, Raleigh Charter B 150
+Atkins A: Thomas Ross 3 1 0 55, Rohan Kapileshwari 1 6 0 75, Sean Garber 1 1 0 25, Ben Armentrout 0 1 0 10, Arya Vinod 0 0 0 0, Ghazal Mirzazadeh 0 0 0 0
+Raleigh Charter B: Michael Peeler 0 2 0 20, Somya Pandey 0 1 0 10, Soumya Bodaula 1 1 0 25, Neil Saini 0 0 0 0, Arkin Worlikar 0 0 1 -5
+Bonuses: Atkins A 14 270 19.29, Raleigh Charter B 5 100 20.00
