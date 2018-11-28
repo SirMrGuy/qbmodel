@@ -2,10 +2,9 @@
 Statistical models and analysis for quizbowl
 
 Current features:
-* Groger Ranks and Scores (Oct. 29)
-* Complete data from 16 regular difficulty or harder tournaments
-* Logit model for win probability
-* Linear model for margin of victory
-* PACE NSC simulation (alpha)
+* Groger Ranks and Scores (Nov. 22)
+* Complete data from 21 regular difficulty or harder tournaments
+* Models for win probability and margin of victory
+* PACE NSC forecast
 
 Programmed in Python 2.7 and R
